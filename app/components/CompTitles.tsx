@@ -23,29 +23,40 @@ export default function CompTitles() {
   ];
 
   return (
-    <section className="py-28 px-6 relative">
+    <section className="py-20 sm:py-28 px-5 sm:px-6 relative">
       <div className="max-w-3xl mx-auto text-center">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
           For Readers Of
         </p>
         <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide mb-4">
-          If you love these authors,<br />you&rsquo;ll love this book.
+          If you love these authors,
+          <br />
+          you&rsquo;ll love this book.
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 text-left max-w-2xl mx-auto">
           {comps.map((c) => (
             <div key={c.author} className="group">
-              <p className="font-[family-name:var(--font-serif)] text-lg text-[#ededed] mb-1 group-hover:text-[#c9a84c] transition-colors duration-300">{c.author}</p>
-              <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#c9a84c]/60 mb-3">{c.book}</p>
-              <p className="font-[family-name:var(--font-sans)] text-xs text-[#888] leading-relaxed">{c.why}</p>
+              <p className="font-[family-name:var(--font-serif)] text-lg text-[#ededed] mb-1 group-hover:text-[#c9a84c] transition-colors duration-300">
+                {c.author}
+              </p>
+              <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#c9a84c]/60 mb-3">
+                {c.book}
+              </p>
+              <p className="font-[family-name:var(--font-sans)] text-xs text-[#c4beb4] leading-relaxed">
+                {c.why}
+              </p>
             </div>
           ))}
         </div>
 
         <div className="mt-16 border-t border-[#1a1a1a] pt-8">
-          <p className="font-[family-name:var(--font-serif)] text-sm text-[#666] italic max-w-lg mx-auto leading-relaxed">
-            &ldquo;A 153,000-word literary fantasy debut featuring a magic system rooted in memory and sacrifice, a villain whose monstrousness is fully human, and a hero whose greatest power is the willingness to listen.&rdquo;
+          <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] italic max-w-lg mx-auto leading-relaxed">
+            &ldquo;A 153,000-word literary fantasy debut featuring a magic
+            system rooted in memory and sacrifice, a villain whose monstrousness
+            is fully human, and a hero whose greatest power is the willingness
+            to listen.&rdquo;
           </p>
         </div>
       </div>

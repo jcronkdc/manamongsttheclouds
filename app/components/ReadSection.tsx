@@ -1,6 +1,9 @@
 export default function ReadSection() {
   return (
-    <section id="read" className="py-28 px-6 bg-[#080808] relative">
+    <section
+      id="read"
+      className="py-20 sm:py-28 px-5 sm:px-6 bg-[#080808] relative"
+    >
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#c9a84c]/20 to-transparent" />
       <div className="max-w-3xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
@@ -9,7 +12,7 @@ export default function ReadSection() {
         <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-4">
           Part I is available now.
         </h2>
-        <p className="font-[family-name:var(--font-serif)] text-lg text-[#8a8a8a] italic text-center mb-16">
+        <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#b0a89e] italic text-center mb-12 sm:mb-16">
           The Still Water &mdash; Prologue + Chapters 1&ndash;10
         </p>
 
@@ -67,7 +70,7 @@ export default function ReadSection() {
           <p className="font-[family-name:var(--font-serif)] text-2xl text-[#ededed] mb-3">
             Coming Fall 2026
           </p>
-          <p className="font-[family-name:var(--font-serif)] text-base text-[#888] leading-relaxed max-w-md mx-auto">
+          <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-relaxed max-w-md mx-auto">
             Five parts. 48 chapters. 153,000 words. The full journey from
             silence to Song.
           </p>

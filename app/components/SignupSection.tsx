@@ -1,6 +1,6 @@
 export default function SignupSection() {
   return (
-    <section id="signup" className="py-28 px-6 relative">
+    <section id="signup" className="py-20 sm:py-28 px-5 sm:px-6 relative">
       <div className="max-w-xl mx-auto text-center">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
           Stay Close
@@ -9,7 +9,7 @@ export default function SignupSection() {
           The Song isn&rsquo;t finished.
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-8" />
-        <p className="font-[family-name:var(--font-serif)] text-lg text-[#999] mb-10 leading-relaxed">
+        <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#c4beb4] mb-10 leading-relaxed">
           Get notified when new parts release, behind-the-scenes content drops,
           and the complete novel launches. From Stillfire Press &mdash; an
           independent publishing house that believes stories should cost the
@@ -34,7 +34,7 @@ export default function SignupSection() {
             Notify Me
           </button>
         </form>
-        <p className="font-[family-name:var(--font-sans)] text-xs text-[#444] mt-4">
+        <p className="font-[family-name:var(--font-sans)] text-xs text-[#777] mt-4">
           No spam. Just books worth the wait. Unsubscribe anytime.
         </p>
       </div>

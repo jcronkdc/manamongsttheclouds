@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative flex flex-col items-center justify-center min-h-screen px-6 text-center overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center min-h-screen px-6 pt-24 sm:pt-20 pb-12 text-center overflow-hidden">
       {/* Layered atmospheric background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#0d0d0d] to-[#0a0a0a]" />
       <div className="absolute top-1/3 left-1/2 -translate-x-1/2 w-[800px] h-[800px] rounded-full bg-[#c9a84c]/[0.03] blur-[150px] animate-pulse-glow" />
@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="relative z-20 max-w-3xl mx-auto">
         {/* Epigraph — the first line readers see */}
         <p
-          className="font-[family-name:var(--font-serif)] text-base sm:text-lg italic text-[#8a8a8a]/70 max-w-lg mx-auto leading-relaxed mb-16 opacity-0 animate-fade-in"
+          className="font-[family-name:var(--font-serif)] text-base sm:text-lg italic text-[#b0a89e] max-w-lg mx-auto leading-relaxed mb-12 sm:mb-16 opacity-0 animate-fade-in"
           style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
         >
           &ldquo;In the time before the taking, the world sang to itself,
@@ -20,7 +20,7 @@ export default function Hero() {
 
         {/* Title */}
         <h1
-          className="font-[family-name:var(--font-serif)] text-5xl sm:text-7xl lg:text-8xl font-light tracking-wide leading-[1.1] mb-4 opacity-0 animate-fade-in-up"
+          className="font-[family-name:var(--font-serif)] text-4xl sm:text-6xl lg:text-8xl font-light tracking-wide leading-[1.1] mb-4 opacity-0 animate-fade-in-up"
           style={{ animationDelay: "0.8s", animationFillMode: "forwards" }}
         >
           Man Amongst
@@ -40,13 +40,13 @@ export default function Hero() {
           className="max-w-2xl mx-auto mb-14 opacity-0 animate-fade-in-up"
           style={{ animationDelay: "1.8s", animationFillMode: "forwards" }}
         >
-          <p className="font-[family-name:var(--font-serif)] text-xl sm:text-2xl leading-relaxed text-[#bbb]">
+          <p className="font-[family-name:var(--font-serif)] text-lg sm:text-2xl leading-relaxed text-[#d4d0c8]">
             <span className="text-[#c9a84c]">Magic is memory.</span> Every act
             of power costs a piece of who you are. A boy raised on silence
             discovers he can hear the world sing. A king born deaf to the Song
             will consume everything to fill it.
           </p>
-          <p className="font-[family-name:var(--font-serif)] text-lg sm:text-xl italic text-[#8a8a8a] mt-4">
+          <p className="font-[family-name:var(--font-serif)] text-base sm:text-xl italic text-[#b0a89e] mt-4">
             The cost is everything.
           </p>
         </div>

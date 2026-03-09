@@ -33,7 +33,7 @@ export default function WorldSection() {
   ];
 
   return (
-    <section id="world" className="py-28 px-6 relative">
+    <section id="world" className="py-20 sm:py-28 px-5 sm:px-6 relative">
       <div className="max-w-3xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
           The Magic System
@@ -44,12 +44,12 @@ export default function WorldSection() {
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-12" />
 
         <div className="max-w-2xl mx-auto space-y-6 mb-20">
-          <p className="font-[family-name:var(--font-serif)] text-lg leading-[1.9] text-[#bbb] text-center">
+          <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] text-center">
             Every stone remembers the mountain it was part of. Every river
             remembers the glacier that bore it. Every flame remembers the first
             spark that ever split the dark.
           </p>
-          <p className="font-[family-name:var(--font-serif)] text-lg leading-[1.9] text-[#bbb] text-center">
+          <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] text-center">
             Magic is the ability to commune with these memories &mdash; to
             listen to the world&rsquo;s remembering, and to speak back to it.
             Seven disciplines. Seven ways of hearing. And one Song that
@@ -70,11 +70,11 @@ export default function WorldSection() {
               <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-xl mb-3 group-hover:tracking-wider transition-all duration-500">
                 {d.name}
               </h3>
-              <p className="font-[family-name:var(--font-serif)] text-sm text-[#bbb] leading-relaxed mb-3">
+              <p className="font-[family-name:var(--font-serif)] text-sm text-[#d4d0c8] leading-relaxed mb-3">
                 {d.desc}
               </p>
-              <p className="font-[family-name:var(--font-sans)] text-xs text-[#666] leading-relaxed">
-                <span className="text-[#c9a84c]/50">Cost:</span> {d.cost}
+              <p className="font-[family-name:var(--font-sans)] text-xs text-[#a09888] leading-relaxed">
+                <span className="text-[#c9a84c]/60">Cost:</span> {d.cost}
               </p>
             </div>
           ))}
@@ -88,18 +88,18 @@ export default function WorldSection() {
               <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-2xl mb-3">
                 The Sing
               </h3>
-              <p className="font-[family-name:var(--font-serif)] text-base text-[#bbb] leading-relaxed max-w-md mx-auto mb-2">
+              <p className="font-[family-name:var(--font-serif)] text-base text-[#d4d0c8] leading-relaxed max-w-md mx-auto mb-2">
                 The harmonization of all seven voices. Love made audible.
               </p>
-              <p className="font-[family-name:var(--font-sans)] text-xs text-[#666]">
-                <span className="text-[#c9a84c]/50">Cost:</span>{" "}
+              <p className="font-[family-name:var(--font-sans)] text-xs text-[#a09888]">
+                <span className="text-[#c9a84c]/60">Cost:</span>{" "}
                 <em className="text-[#ededed]">Everything.</em>
               </p>
             </div>
           </div>
         </div>
 
-        <p className="font-[family-name:var(--font-serif)] text-sm text-[#555] text-center italic mt-8">
+        <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] text-center italic mt-8">
           A magic system rooted in memory, sacrifice, and the belief that the
           world is alive and listening.
         </p>

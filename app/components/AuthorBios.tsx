@@ -4,12 +4,36 @@ export default function AuthorBios() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16">
           <p className="font-[family-name:var(--font-sans)] text-xs tracking-[0.35em] uppercase text-[#c9a84c] mb-4">
-            The Authors
+            Stillfire Press
           </p>
-          <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide">
+          <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide mb-8">
             A Father &amp; Son Publishing House
           </h2>
+          <div className="max-w-2xl mx-auto font-[family-name:var(--font-serif)] text-base leading-relaxed text-[#bbb] space-y-4">
+            <p>
+              Carter has been a writer since before he could spell the words
+              properly — filling notebooks with stories in elementary school,
+              driven by an imagination that was entirely his own. Justin took a
+              longer road, spending nine years writing his debut fantasy novel
+              from 2017 to 2026.
+            </p>
+            <p>
+              When they looked up from their separate pages and realized they
+              were both chasing the same dream, starting a press together
+              wasn&rsquo;t a decision so much as a recognition of what was
+              already true.
+            </p>
+            <p className="text-[#ededed]">
+              The name <strong>Stillfire</strong> is drawn from their two
+              novels: &ldquo;Still&rdquo; from <em>The Still Water</em>, the
+              opening act of Justin&rsquo;s book, and &ldquo;Fire&rdquo; from
+              the ash and fury at the heart of Carter&rsquo;s debut. Two
+              stories. Two voices. One family.
+            </p>
+          </div>
         </div>
+
+        <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
           {/* Justin */}
@@ -23,9 +47,8 @@ export default function AuthorBios() {
               </p>
               <div className="font-[family-name:var(--font-serif)] text-sm leading-relaxed text-[#999] space-y-4">
                 <p>
-                  Justin Cronk started writing{" "}
-                  <em>Man Amongst the Clouds</em> in March 2017. He finished it
-                  in March 2026. Nine years.
+                  Justin Cronk started writing <em>Man Amongst the Clouds</em>{" "}
+                  in March 2017. He finished it in March 2026. Nine years.
                 </p>
                 <p>
                   The book didn&rsquo;t live in one place. It lived in notes
@@ -61,13 +84,22 @@ export default function AuthorBios() {
               </p>
               <div className="font-[family-name:var(--font-serif)] text-sm leading-relaxed text-[#999] space-y-4">
                 <p>
-                  Carter Cronk is the author of{" "}
-                  <em>Ash to Fury</em>, a dark fantasy about a man of
-                  extraordinary discipline who is unmade by the very obedience
-                  he believed was strength.
+                  Carter Cronk has been writing stories since elementary school
+                  &mdash; filling notebooks with worlds and characters long
+                  before anyone told him it could be a career. The compulsion to
+                  create was always his own.
+                </p>
+                <p>
+                  His debut novel, <em>Ash to Fury</em>, is a dark fantasy about
+                  Alaric, a man of extraordinary discipline who is unmade by the
+                  very obedience he believed was strength. When a
+                  warlock&rsquo;s manipulation leads him to unknowingly destroy
+                  his own family, Alaric&rsquo;s journey becomes one of grief,
+                  transformation, and the dangerous line between restraint and
+                  fury.
                 </p>
                 <p className="text-[#bbb]">
-                  More coming 2027.
+                  <em>Ash to Fury</em> releases in 2027.
                 </p>
               </div>
             </div>
@@ -122,9 +154,8 @@ export default function AuthorBios() {
           </h3>
           <div className="font-[family-name:var(--font-sans)] text-sm leading-relaxed text-[#999] space-y-4 mb-8">
             <p>
-              The complete manuscript of{" "}
-              <em>Man Amongst the Clouds</em> has been cryptographically hashed
-              and recorded on the{" "}
+              The complete manuscript of <em>Man Amongst the Clouds</em> has
+              been cryptographically hashed and recorded on the{" "}
               <strong className="text-[#ededed]">Polygon blockchain</strong> as
               an immutable, timestamped proof of ownership.
             </p>

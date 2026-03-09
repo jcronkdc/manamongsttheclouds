@@ -42,7 +42,10 @@ export default function Characters() {
   ];
 
   return (
-    <section id="characters" className="py-28 px-6 bg-[#080808] relative">
+    <section
+      id="characters"
+      className="py-20 sm:py-28 px-5 sm:px-6 bg-[#080808] relative"
+    >
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#c9a84c]/15 to-transparent" />
       <div className="max-w-5xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
@@ -64,7 +67,7 @@ export default function Characters() {
                 <h3 className="font-[family-name:var(--font-serif)] text-2xl text-[#ededed] mb-4">
                   {c.name}
                 </h3>
-                <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] leading-[1.8] mb-3">
+                <p className="font-[family-name:var(--font-serif)] text-sm text-[#c4beb4] leading-[1.8] mb-3">
                   {c.hook}
                 </p>
                 <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#c9a84c]/70">
