@@ -133,6 +133,11 @@ const jsonLd = {
     availability: "https://schema.org/InStock",
     url: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
   },
+  sameAs: [
+    "https://stillfirepress.com",
+    "https://ashtofury.com",
+    "https://www.facebook.com/profile.php?id=61583731204411",
+  ],
   aggregateRating: undefined,
   keywords:
     "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published",

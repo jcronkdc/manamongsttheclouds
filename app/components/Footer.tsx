@@ -84,6 +84,14 @@ export default function Footer() {
               >
                 Ash to Fury &mdash; Carter Cronk
               </a>
+              <a
+                href="https://www.facebook.com/profile.php?id=61583731204411"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-[family-name:var(--font-sans)] text-xs text-[#999] hover:text-[#ededed] transition-colors"
+              >
+                Facebook
+              </a>
               <p className="font-[family-name:var(--font-sans)] text-xs text-[#777] leading-relaxed mt-1">
                 An independent publishing house
                 <br />
