@@ -106,47 +106,6 @@ export default function AuthorBios() {
           </div>
         </div>
 
-        {/* AI Transparency */}
-        <div className="mt-20 max-w-2xl mx-auto">
-          <h3 className="font-[family-name:var(--font-serif)] text-xl text-[#ededed] mb-6 text-center">
-            AI Transparency
-          </h3>
-          <div className="font-[family-name:var(--font-sans)] text-sm leading-relaxed text-[#999] space-y-4">
-            <p>
-              Every word of prose in our novels is human-written. The stories,
-              characters, worlds, and every creative decision are entirely the
-              authors&rsquo; own.
-            </p>
-            <p>
-              AI tools were used in a{" "}
-              <strong className="text-[#ededed]">support capacity only</strong>{" "}
-              &mdash; the same role a copywriter, developmental editor, or
-              continuity reader would fill:
-            </p>
-            <ul className="list-none space-y-2 pl-4 border-l border-[#c9a84c]/20">
-              <li>
-                <span className="text-[#c9a84c]">&bull;</span> Continuity
-                auditing across large manuscripts
-              </li>
-              <li>
-                <span className="text-[#c9a84c]">&bull;</span> Marketing
-                copywriting (book descriptions, bios)
-              </li>
-              <li>
-                <span className="text-[#c9a84c]">&bull;</span> Identifying plot
-                holes and inconsistencies
-              </li>
-              <li>
-                <span className="text-[#c9a84c]">&bull;</span> Formatting and
-                manuscript compilation
-              </li>
-            </ul>
-            <p className="text-[#ededed]">
-              AI helped check the work. The work is ours.
-            </p>
-          </div>
-        </div>
-
         {/* Blockchain Proof */}
         <div className="mt-16 max-w-2xl mx-auto">
           <h3 className="font-[family-name:var(--font-serif)] text-xl text-[#ededed] mb-6 text-center">
