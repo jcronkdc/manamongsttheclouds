@@ -5,6 +5,7 @@ import WorldSection from "./components/WorldSection";
 import Characters from "./components/Characters";
 import Excerpt from "./components/Excerpt";
 import Journey from "./components/Journey";
+import Origins from "./components/Origins";
 import CompTitles from "./components/CompTitles";
 import ReadSection from "./components/ReadSection";
 import SignupSection from "./components/SignupSection";
@@ -22,6 +23,7 @@ export default function Home() {
       <Excerpt />
       <CompTitles />
       <Journey />
+      <Origins />
       <ReadSection />
       <SignupSection />
       <ProofSection />

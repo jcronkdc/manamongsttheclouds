@@ -8,6 +8,7 @@ const links = [
   { href: "#characters", label: "Characters" },
   { href: "#excerpt", label: "Read an Excerpt" },
   { href: "#journey", label: "The Author" },
+  { href: "#origins", label: "Origins" },
   { href: "#read", label: "Buy Part I" },
   { href: "#proof", label: "Proof" },
 ];
@@ -63,9 +64,15 @@ export default function Nav() {
           className="md:hidden flex flex-col gap-1.5 w-6"
           aria-label="Toggle navigation menu"
         >
-          <span className={`h-px bg-[#c9a84c] transition-all duration-300 ${open ? "rotate-45 translate-y-[3.5px]" : ""}`} />
-          <span className={`h-px bg-[#c9a84c] transition-all duration-300 ${open ? "opacity-0" : ""}`} />
-          <span className={`h-px bg-[#c9a84c] transition-all duration-300 ${open ? "-rotate-45 -translate-y-[3.5px]" : ""}`} />
+          <span
+            className={`h-px bg-[#c9a84c] transition-all duration-300 ${open ? "rotate-45 translate-y-[3.5px]" : ""}`}
+          />
+          <span
+            className={`h-px bg-[#c9a84c] transition-all duration-300 ${open ? "opacity-0" : ""}`}
+          />
+          <span
+            className={`h-px bg-[#c9a84c] transition-all duration-300 ${open ? "-rotate-45 -translate-y-[3.5px]" : ""}`}
+          />
         </button>
       </div>
 
@@ -78,9 +85,7 @@ export default function Nav() {
               href={l.href}
               onClick={() => setOpen(false)}
               className={`font-[family-name:var(--font-sans)] text-xs tracking-[0.2em] uppercase ${
-                l.href === "#read"
-                  ? "text-[#c9a84c]"
-                  : "text-[#888]"
+                l.href === "#read" ? "text-[#c9a84c]" : "text-[#888]"
               }`}
             >
               {l.label}
