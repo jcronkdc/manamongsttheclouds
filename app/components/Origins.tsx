@@ -23,8 +23,8 @@ export default function Origins() {
             dictated into my phone at red lights&nbsp;&mdash; the voice-to-text
             mangling every other word so badly that &ldquo;spread&rdquo; became
             &ldquo;Spanish&rdquo; and &ldquo;thin&rdquo; became
-            &ldquo;fin&rdquo; and I&rsquo;d come back to a note six months
-            later with no idea what I&rsquo;d been trying to say.
+            &ldquo;fin&rdquo; and I&rsquo;d come back to a note six months later
+            with no idea what I&rsquo;d been trying to say.
           </p>
           <p>
             A good portion of it was written in a canvas hot tent in the woods
@@ -65,6 +65,16 @@ export default function Origins() {
             life.
           </p>
           <p>
+            I grew up with parents who always had their nose in a book. By third
+            grade I&rsquo;d read hundreds. I would read thousands more. My
+            father was a writer himself&nbsp;&mdash; he&rsquo;d compose prose
+            and poetry while working in the middle of the Sahara Desert in
+            Africa, inspired by the landscape and by Hemingway, imagining he was
+            following in his footsteps. That was the house I grew up in. Stories
+            weren&rsquo;t entertainment. They were the way you made sense of
+            being alive.
+          </p>
+          <p>
             Fletcher&nbsp;&mdash; the name of the ancient king whose bloodline
             runs through the entire novel&nbsp;&mdash; was the name of a dog I
             had as a kid. The best dog I ever had. Other names in the book carry
@@ -82,21 +92,77 @@ export default function Origins() {
             everyone for too long.
           </p>
           <p>
+            I don&rsquo;t consider myself a religious man. I&rsquo;ve never felt
+            comfortable in any particular denomination, though I feel like
+            I&rsquo;ve sampled them all over the years. But it did not escape me
+            that the ground I walked on in Iraq held some of the oldest stories
+            ever told. Ancient Babylon. The Tigris and the Euphrates. I would
+            think about that a lot&nbsp;&mdash; that the Bible, whatever you
+            believe about it, probably holds truths I may never understand, and
+            that my boots might be standing where the prophets had stood, where
+            the disciples had walked, where history became scripture. I
+            don&rsquo;t know if any of that is true. But I liked imagining it.
+            And those questions&nbsp;&mdash; about what ground remembers, about
+            what stories outlive the people who lived them&nbsp;&mdash; are all
+            over this novel.
+          </p>
+          <p>
+            I did a stint working for a uranium exploration company in Colorado
+            and Utah and I&rsquo;d find chip piles out in the
+            desert&nbsp;&mdash; places where hundreds of years ago someone had
+            squatted down and knapped out an arrowhead, and all the flakes were
+            still there, untouched. Sometimes a few feet away I&rsquo;d find the
+            arrowhead itself. I&rsquo;d sit there and wonder about that person.
+            What his life was like. What he believed. What he saw when he looked
+            up at the sky. What he thought happened after death.
+          </p>
+          <p>
+            I used to write stories about that&nbsp;&mdash; the question of what
+            comes after&nbsp;&mdash; for a college publication years earlier.
+            I&rsquo;ve decided I&rsquo;ll probably never know the answer until
+            the time comes, and I&rsquo;m OK with that. It would have been a
+            poor choice to pick one answer and say{" "}
+            <em className="text-[#ededed]">this is true</em> and build a life
+            around it when I knew in my heart that it probably wasn&rsquo;t the
+            whole picture. Those are the fundamental questions I kept asking
+            myself, and a lot of that philosophy&nbsp;&mdash; that willingness
+            to sit with not knowing&nbsp;&mdash; went straight into this story.
+          </p>
+          <p>
+            I was inspired deeply by Joseph Campbell and the Hero&rsquo;s
+            Journey. Not just as a narrative structure, but as a way of
+            understanding what human beings go through when they&rsquo;re called
+            to become something they didn&rsquo;t know they could be. It shaped
+            the architecture of this novel. It also led me to create a
+            men&rsquo;s retreat built around those same ideas&nbsp;&mdash;{" "}
+            <a
+              href="https://heroesjourney.camp"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#c9a84c] hover:text-[#e8c85a] transition-colors underline underline-offset-4 decoration-[#c9a84c]/30 hover:decoration-[#c9a84c]"
+            >
+              heroesjourney.camp
+            </a>
+            &nbsp;&mdash; because the questions this book asks aren&rsquo;t just
+            fiction. They&rsquo;re the questions I&rsquo;ve been living with my
+            whole life.
+          </p>
+          <p>
             Years later, I worked at a remote camp in Nunavut, Canada. The Inuit
             there told me that some of their people could whistle and call in
             the northern lights. I thought they were pulling my leg. Then I
             watched one of them do it. I saw the sky move. I still can&rsquo;t
             explain it. There&rsquo;s probably some logical reason buried in
-            there somewhere, but I&rsquo;ve never looked for it. I want it to
-            be magic. I will say to this day that it was, and you will never
+            there somewhere, but I&rsquo;ve never looked for it. I want it to be
+            magic. I will say to this day that it was, and you will never
             convince me otherwise.
           </p>
           <p>
             There are so many stories like that woven into this novel. Moments I
             lived that I couldn&rsquo;t explain, places I stood that changed the
-            way I thought about what&rsquo;s possible. I didn&rsquo;t set out
-            to write a fantasy book. I set out to write down the things
-            I&rsquo;d seen that felt like they belonged in one.
+            way I thought about what&rsquo;s possible. I didn&rsquo;t set out to
+            write a fantasy book. I set out to write down the things I&rsquo;d
+            seen that felt like they belonged in one.
           </p>
         </div>
 
@@ -201,10 +267,9 @@ export default function Origins() {
             <em className="text-[#ededed]">cost</em>.
           </p>
           <p>
-            The earliest notes describe a world built on
-            elements&nbsp;&mdash; fire, water, earth, wind, each region defined
-            by its primary magic. That&rsquo;s a fine world. It&rsquo;s not
-            this one.
+            The earliest notes describe a world built on elements&nbsp;&mdash;
+            fire, water, earth, wind, each region defined by its primary magic.
+            That&rsquo;s a fine world. It&rsquo;s not this one.
           </p>
           <p>
             This one arrived when the question changed. What if magic
