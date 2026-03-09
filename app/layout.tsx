@@ -125,6 +125,10 @@ const jsonLd = {
   publisher: {
     "@type": "Organization",
     name: "Stillfire Press",
+    parentOrganization: {
+      "@type": "Organization",
+      name: "Cronk Companies, LLC",
+    },
   },
   offers: {
     "@type": "Offer",

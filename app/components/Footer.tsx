@@ -107,8 +107,8 @@ export default function Footer() {
             Man Amongst the Clouds
           </p>
           <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#666]">
-            &copy; 2026 Justin Cronk &bull; Stillfire Press &bull; All rights
-            reserved
+            &copy; 2026 Justin Cronk &bull; Stillfire Press &bull; A Cronk
+            Companies, LLC Project &bull; All rights reserved
           </p>
         </div>
       </div>
