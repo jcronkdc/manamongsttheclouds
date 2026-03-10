@@ -91,25 +91,36 @@ export async function GET(
     });
   }
 
-  // Otherwise, show a download landing page
+  // Show landing page with Read Online + Download options
   const dlUrl = `${url.pathname}?dl=1`;
+  const readUrl = `/read/${token}`;
   return new NextResponse(
     `<!DOCTYPE html>
 <html>
 <head>
-  <title>Download — Man Amongst the Clouds</title>
+  <title>Your Book — Man Amongst the Clouds</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="refresh" content="2;url=${dlUrl}">
 </head>
 <body style="margin:0;padding:0;background:#0a0a0a;color:#ededed;font-family:Georgia,'Times New Roman',serif;min-height:100vh;display:flex;align-items:center;justify-content:center;">
   <div style="text-align:center;padding:40px 24px;max-width:480px;">
     <p style="color:#c9a84c;font-size:11px;letter-spacing:0.35em;text-transform:uppercase;margin-bottom:32px;">Stillfire Press</p>
     <h1 style="font-size:24px;font-weight:300;letter-spacing:0.05em;line-height:1.4;margin-bottom:8px;">Man Amongst the Clouds</h1>
-    <p style="color:#8a8a8a;font-size:14px;margin-bottom:40px;">Part I: The Still Water</p>
-    <p style="color:#999;font-size:14px;margin-bottom:24px;">Your download should begin automatically.</p>
-    <a href="${dlUrl}" style="display:inline-block;padding:14px 32px;background:#c9a84c;color:#0a0a0a;font-size:13px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none;font-family:sans-serif;">Download EPUB</a>
-    <p style="color:#555;font-size:11px;margin-top:24px;">If nothing happens, click the button above.</p>
+    <p style="color:#8a8a8a;font-size:14px;margin-bottom:12px;">Part I: The Still Water</p>
+    <p style="color:#555;font-size:12px;margin-bottom:40px;">Prologue + Chapters 1&ndash;10</p>
+
+    <a href="${readUrl}" style="display:inline-block;padding:16px 40px;background:#c9a84c;color:#0a0a0a;font-size:13px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none;font-family:sans-serif;margin-bottom:16px;">Read Online</a>
+    <br>
+    <a href="${dlUrl}" style="display:inline-block;padding:12px 32px;border:1px solid rgba(201,168,76,0.3);color:#c9a84c;font-size:12px;letter-spacing:0.12em;text-transform:uppercase;text-decoration:none;font-family:sans-serif;margin-top:12px;">Download EPUB</a>
+
+    <p style="color:#555;font-size:11px;margin-top:32px;line-height:1.6;">
+      Read instantly in your browser, or download the EPUB<br>for Apple Books, Kindle, Kobo, or any e-reader.
+    </p>
+
+    <div style="border-top:1px solid #222;margin-top:40px;padding-top:24px;">
+      <p style="font-size:12px;color:#444;font-style:italic;">&ldquo;The world sang to itself. And in the space between the notes,<br>where silence lived, a man breathed &mdash; and the air remembered.&rdquo;</p>
+      <p style="font-size:11px;color:#333;margin-top:16px;">Stillfire Press &middot; &copy; 2026 Justin Cronk</p>
+    </div>
   </div>
 </body>
 </html>`,
