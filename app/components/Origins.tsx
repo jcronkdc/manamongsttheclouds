@@ -53,7 +53,7 @@ export default function Origins() {
             &ldquo;Be careful, spread too thin and you lose it, don&rsquo;t
             Spanish and enough and you can&rsquo;t separate it.&rdquo;
           </p>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#666] mt-3">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#8a8a8a] mt-3">
             Voice memo, March 2017
           </p>
         </div>
@@ -172,7 +172,7 @@ export default function Origins() {
             &ldquo;I will say to this day that it was magic, and you will never
             convince me otherwise.&rdquo;
           </p>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#666] mt-3">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#8a8a8a] mt-3">
             On the northern lights in Nunavut
           </p>
         </div>
@@ -254,7 +254,7 @@ export default function Origins() {
             Possible drunkard&nbsp;&mdash; to prevent Nim from knowing his
             pain.&rdquo;
           </p>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#666] mt-3">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#8a8a8a] mt-3">
             First character sketch for Jalo, March 29, 2017
           </p>
         </div>
@@ -301,7 +301,7 @@ export default function Origins() {
             &ldquo;Magic was seen as a right for everyone. It was considered to
             be a gift from the gods.&rdquo;
           </p>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#666] mt-3">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#8a8a8a] mt-3">
             Early world-building note, February 2017
           </p>
         </div>

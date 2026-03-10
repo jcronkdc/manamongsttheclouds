@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/download/"],
       },
     ],
-    sitemap: "https://manamongsttheclouds.com/sitemap.xml",
+    sitemap: "https://www.manamongsttheclouds.com/sitemap.xml",
   };
 }

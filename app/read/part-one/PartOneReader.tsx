@@ -26,7 +26,6 @@ interface Chapter {
   number: number;
   title: string;
   pov: string;
-  html: string;
 }
 
 interface Comment {
@@ -48,6 +47,10 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
   const [showSupport, setShowSupport] = useState(false);
   const [copied, setCopied] = useState(false);
   const [showFeedback, setShowFeedback] = useState<Record<string, boolean>>({});
+  const [chapterHtml, setChapterHtml] = useState<Record<number, string>>({});
+  const [chapterLoading, setChapterLoading] = useState<Record<number, boolean>>(
+    {},
+  );
 
   // comments
   const [comments, setComments] = useState<Record<string, Comment[]>>({});
@@ -92,8 +95,29 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
     }
   }, []);
 
+  /* --- Lazy-load chapter HTML --- */
+  const fetchChapterHtml = useCallback(
+    async (num: number) => {
+      if (chapterHtml[num] !== undefined) return;
+      setChapterLoading((prev) => ({ ...prev, [num]: true }));
+      try {
+        const res = await fetch(`/api/chapter/${num}`);
+        if (res.ok) {
+          const data = await res.json();
+          setChapterHtml((prev) => ({ ...prev, [num]: data.html }));
+        }
+      } catch {
+        /* silent */
+      } finally {
+        setChapterLoading((prev) => ({ ...prev, [num]: false }));
+      }
+    },
+    [chapterHtml],
+  );
+
   useEffect(() => {
     if (activeChapter !== null) {
+      fetchChapterHtml(activeChapter);
       const key = `chapter-${activeChapter}`;
       if (!comments[key]) fetchComments(key);
     }
@@ -181,10 +205,14 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
         <div className="flex items-center gap-2 mb-5">
           <MessageCircle className="w-4 h-4 text-[#c9a84c]" />
           <h4 className="font-[family-name:var(--font-sans)] text-xs tracking-[0.2em] uppercase text-[#c9a84c]">
-            {chapter ? `Chapter ${chapter} Feedback` : "General Discussion"}
+            {chapter !== null
+              ? chapter === 0
+                ? "Prologue Feedback"
+                : `Chapter ${chapter} Feedback`
+              : "General Discussion"}
           </h4>
           {list.length > 0 && (
-            <span className="text-[10px] text-[#666] ml-auto">
+            <span className="text-[10px] text-[#8a8a8a] ml-auto">
               {list.length} comment{list.length !== 1 && "s"}
             </span>
           )}
@@ -207,7 +235,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                       {c.sentiment === "general" && "\uD83D\uDCAC"}
                     </span>
                   )}
-                  <span className="text-[10px] text-[#555] ml-auto">
+                  <span className="text-[10px] text-[#888] ml-auto">
                     {new Date(c.created_at).toLocaleDateString()}
                   </span>
                 </div>
@@ -242,6 +270,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 <button
                   key={s.value}
                   onClick={() => setCommentSentiment(s.value)}
+                  aria-pressed={commentSentiment === s.value}
                   className={`px-3 py-1.5 text-xs border transition-colors ${
                     commentSentiment === s.value
                       ? "border-[#c9a84c] text-[#c9a84c] bg-[#c9a84c]/10"
@@ -258,7 +287,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 placeholder="Your name (optional)"
                 value={commentName}
                 onChange={(e) => setCommentName(e.target.value)}
-                className="w-40 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#555] focus:border-[#c9a84c] focus:outline-none transition-colors"
+                className="w-40 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors"
               />
               <input
                 type="text"
@@ -269,7 +298,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                   if (e.key === "Enter" && commentBody.trim())
                     submitComment(key, chapter);
                 }}
-                className="flex-1 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#555] focus:border-[#c9a84c] focus:outline-none transition-colors"
+                className="flex-1 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors"
               />
               <button
                 onClick={() => submitComment(key, chapter)}
@@ -306,7 +335,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
             <p className="font-[family-name:var(--font-serif)] text-sm sm:text-base text-[#ededed]">
               Part One: The Still Water
             </p>
-            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#666] tracking-wider">
+            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#8a8a8a] tracking-wider">
               10 Chapters &middot; Free to Read
             </p>
           </div>
@@ -376,6 +405,8 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 {/* Chapter toggle */}
                 <button
                   onClick={() => toggle(chapter.number)}
+                  aria-expanded={isOpen}
+                  aria-controls={`chapter-content-${chapter.number}`}
                   className="w-full px-6 sm:px-8 py-5 sm:py-6 flex items-center justify-between hover:bg-[#111] transition-colors text-left"
                 >
                   <div>
@@ -388,7 +419,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                       {chapter.title}
                     </h3>
                     {chapter.pov && (
-                      <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#666] mt-1 tracking-wider">
+                      <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#8a8a8a] mt-1 tracking-wider">
                         {chapter.pov}
                       </p>
                     )}
@@ -402,12 +433,32 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
 
                 {/* Chapter body + comments */}
                 {isOpen && (
-                  <>
+                  <div
+                    id={`chapter-content-${chapter.number}`}
+                    role="region"
+                    aria-label={
+                      chapter.number === 0
+                        ? "Prologue"
+                        : `Chapter ${chapter.number}`
+                    }
+                  >
                     <div className="border-t border-[#222] px-6 sm:px-8 py-8 sm:py-10">
-                      <div
-                        className="chapter-prose max-w-none"
-                        dangerouslySetInnerHTML={{ __html: chapter.html }}
-                      />
+                      {chapterLoading[chapter.number] ? (
+                        <div className="flex justify-center py-16">
+                          <div className="w-6 h-6 border-2 border-[#c9a84c]/30 border-t-[#c9a84c] rounded-full animate-spin" />
+                        </div>
+                      ) : chapterHtml[chapter.number] ? (
+                        <div
+                          className="chapter-prose max-w-none"
+                          dangerouslySetInnerHTML={{
+                            __html: chapterHtml[chapter.number],
+                          }}
+                        />
+                      ) : (
+                        <p className="text-center text-[#888] text-sm py-8">
+                          Failed to load chapter. Please try again.
+                        </p>
+                      )}
                     </div>
                     {/* Collapsible feedback toggle */}
                     <div className="border-t border-[#222]">
@@ -422,14 +473,14 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                         className="w-full px-6 sm:px-8 py-3 flex items-center gap-2 text-left hover:bg-[#0f0f0f] transition-colors"
                       >
                         <MessageCircle className="w-3.5 h-3.5 text-[#c9a84c]/50" />
-                        <span className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.15em] uppercase text-[#666]">
+                        <span className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.15em] uppercase text-[#8a8a8a]">
                           {showFeedback[`chapter-${chapter.number}`]
                             ? "Hide feedback"
                             : "Leave feedback"}
                         </span>
                         {(comments[`chapter-${chapter.number}`]?.length ?? 0) >
                           0 && (
-                          <span className="text-[10px] text-[#555]">
+                          <span className="text-[10px] text-[#888]">
                             ({comments[`chapter-${chapter.number}`].length})
                           </span>
                         )}
@@ -440,7 +491,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                           chapter.number,
                         )}
                     </div>
-                  </>
+                  </div>
                 )}
               </div>
             );
@@ -504,7 +555,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 onChange={(e) => setSignupEmail(e.target.value)}
                 placeholder="your@email.com"
                 disabled={signupStatus === "submitting"}
-                className="flex-1 px-4 py-3 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-sm placeholder:text-[#555] focus:border-[#c9a84c] focus:outline-none transition-colors disabled:opacity-50"
+                className="flex-1 px-4 py-3 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-sm placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors disabled:opacity-50"
               />
               <button
                 type="submit"
@@ -526,7 +577,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
             >
               Pre-Order Part II &mdash; $2.99
             </a>
-            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#555] mt-3">
+            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#888] mt-3">
               Secure checkout via Stripe &bull; No account required
             </p>
           </div>
@@ -548,7 +599,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
             >
               Become a Founder &mdash; $39.99
             </a>
-            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#555] mt-3">
+            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#888] mt-3">
               Shipping address collected at checkout
             </p>
           </div>
@@ -570,9 +621,9 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 </span>
               </div>
               {showSupport ? (
-                <ChevronUp className="w-4 h-4 text-[#666]" />
+                <ChevronUp className="w-4 h-4 text-[#8a8a8a]" />
               ) : (
-                <ChevronDown className="w-4 h-4 text-[#666]" />
+                <ChevronDown className="w-4 h-4 text-[#8a8a8a]" />
               )}
             </button>
 
@@ -596,11 +647,11 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 </div>
                 <a
                   href="/api/donate?custom=true"
-                  className="block w-full py-3 border border-[#333] text-[#777] text-center font-[family-name:var(--font-sans)] text-xs hover:bg-[#111] transition-colors"
+                  className="block w-full py-3 border border-[#333] text-[#999] text-center font-[family-name:var(--font-sans)] text-xs hover:bg-[#111] transition-colors"
                 >
                   Custom Amount
                 </a>
-                <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#555] text-center mt-3">
+                <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#888] text-center mt-3">
                   Secure payment via Stripe &middot; No account required
                 </p>
               </div>
@@ -619,7 +670,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
             <a
-              href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmanamongsttheclouds.com%2Fread%2Fpart-one"
+              href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.manamongsttheclouds.com%2Fread%2Fpart-one"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 border border-[#333] text-[#ccc] font-[family-name:var(--font-sans)] text-xs tracking-wide hover:bg-[#111] hover:border-[#555] transition-colors"
@@ -627,7 +678,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
               <Facebook className="w-3.5 h-3.5" /> Facebook
             </a>
             <a
-              href="https://twitter.com/intent/tweet?text=Read%20Part%20One%20of%20Man%20Amongst%20the%20Clouds%20%E2%80%94%20free%2C%20ten%20chapters%2C%20no%20signup%20needed.&url=https%3A%2F%2Fmanamongsttheclouds.com%2Fread%2Fpart-one"
+              href="https://twitter.com/intent/tweet?text=Read%20Part%20One%20of%20Man%20Amongst%20the%20Clouds%20%E2%80%94%20free%2C%20ten%20chapters%2C%20no%20signup%20needed.&url=https%3A%2F%2Fwww.manamongsttheclouds.com%2Fread%2Fpart-one"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 border border-[#333] text-[#ccc] font-[family-name:var(--font-sans)] text-xs tracking-wide hover:bg-[#111] hover:border-[#555] transition-colors"
@@ -635,13 +686,13 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
               <Twitter className="w-3.5 h-3.5" /> Twitter / X
             </a>
             <a
-              href="mailto:?subject=Read%20this%20%E2%80%94%20Man%20Amongst%20the%20Clouds&body=I%20just%20read%20Part%20One%20of%20Man%20Amongst%20the%20Clouds%20by%20Justin%20Cronk%20%E2%80%94%20ten%20chapters%2C%20free%20to%20read%20online.%0A%0Ahttps%3A%2F%2Fmanamongsttheclouds.com%2Fread%2Fpart-one"
+              href="mailto:?subject=Read%20this%20%E2%80%94%20Man%20Amongst%20the%20Clouds&body=I%20just%20read%20Part%20One%20of%20Man%20Amongst%20the%20Clouds%20by%20Justin%20Cronk%20%E2%80%94%20ten%20chapters%2C%20free%20to%20read%20online.%0A%0Ahttps%3A%2F%2Fwww.manamongsttheclouds.com%2Fread%2Fpart-one"
               className="flex items-center gap-2 px-5 py-2.5 border border-[#333] text-[#ccc] font-[family-name:var(--font-sans)] text-xs tracking-wide hover:bg-[#111] hover:border-[#555] transition-colors"
             >
               <Mail className="w-3.5 h-3.5" /> Email
             </a>
             <a
-              href="sms:?&body=Read%20Part%20One%20of%20Man%20Amongst%20the%20Clouds%20%E2%80%94%20free%2C%20ten%20chapters%3A%20https%3A%2F%2Fmanamongsttheclouds.com%2Fread%2Fpart-one"
+              href="sms:?&body=Read%20Part%20One%20of%20Man%20Amongst%20the%20Clouds%20%E2%80%94%20free%2C%20ten%20chapters%3A%20https%3A%2F%2Fwww.manamongsttheclouds.com%2Fread%2Fpart-one"
               className="flex items-center gap-2 px-5 py-2.5 border border-[#333] text-[#ccc] font-[family-name:var(--font-sans)] text-xs tracking-wide hover:bg-[#111] hover:border-[#555] transition-colors"
             >
               <Smartphone className="w-3.5 h-3.5" /> Text
@@ -649,7 +700,7 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
             <button
               onClick={() => {
                 navigator.clipboard.writeText(
-                  "https://manamongsttheclouds.com/read/part-one",
+                  "https://www.manamongsttheclouds.com/read/part-one",
                 );
                 setCopied(true);
                 setTimeout(() => setCopied(false), 2000);
@@ -664,10 +715,10 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
 
         {/* Footer */}
         <div className="border-t border-[#1a1a1a] py-12 text-center">
-          <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#555] mb-4">
+          <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#888] mb-4">
             &ldquo;The world sang to itself, as it always had.&rdquo;
           </p>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#444] tracking-wider">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#888] tracking-wider">
             &copy; 2026 Justin Cronk &middot; Stillfire Press &middot; All
             rights reserved
           </p>

@@ -34,7 +34,7 @@ export default function ProofSection() {
               50 files &bull; 153,000 words &bull; Recorded on Polygon
             </p>
             <a
-              href="https://polygonscan.com"
+              href="https://polygonscan.com/tx/0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4 px-6 py-2 border border-[#333] text-[#b0a89e] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-colors"
@@ -42,7 +42,7 @@ export default function ProofSection() {
               View on PolygonScan
             </a>
           </div>
-          <p className="font-[family-name:var(--font-sans)] text-xs text-[#777] text-center mt-6">
+          <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] text-center mt-6">
             Any change to any character in any chapter would produce a
             completely different hash.
             <br />

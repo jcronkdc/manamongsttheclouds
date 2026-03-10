@@ -251,7 +251,7 @@ export default function ShareClient() {
                 <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#bbb] leading-relaxed">
                   &ldquo;{p.text}&rdquo;
                 </p>
-                <p className="font-[family-name:var(--font-sans)] text-xs text-[#555] mt-2">
+                <p className="font-[family-name:var(--font-sans)] text-xs text-[#888] mt-2">
                   {p.speaker ? `${p.speaker} \u2022 ` : ""}
                   {p.chapter || ""}
                 </p>
@@ -263,7 +263,7 @@ export default function ShareClient() {
             value={custom}
             onChange={(e) => setCustom(e.target.value)}
             placeholder="Paste or type any passage from the book..."
-            className="w-full h-32 p-4 bg-[#1a1a1a] border border-[#333] text-[#ededed] font-[family-name:var(--font-serif)] text-sm italic placeholder:text-[#555] focus:border-[#c9a84c] focus:outline-none transition-colors resize-none mb-8"
+            className="w-full h-32 p-4 bg-[#1a1a1a] border border-[#333] text-[#ededed] font-[family-name:var(--font-serif)] text-sm italic placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors resize-none mb-8"
           />
         )}
 
@@ -285,12 +285,12 @@ export default function ShareClient() {
         {generated && (
           <div className="text-center">
             <div className="border border-[#222] inline-block mb-6">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={generated}
                 alt="Share card"
                 className="max-w-full w-[540px]"
-              />{" "}
-              {/* eslint-disable-line @next/next/no-img-element */}
+              />
             </div>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <button
@@ -316,6 +316,12 @@ export default function ShareClient() {
                           text: passage.text,
                         });
                       });
+                  } else {
+                    navigator.clipboard
+                      .writeText(
+                        `"${passage.text}" — Man Amongst the Clouds by Justin Cronk\nhttps://www.manamongsttheclouds.com`,
+                      )
+                      .then(() => alert("Quote copied to clipboard!"));
                   }
                 }}
                 className="px-8 py-3 border border-[#c9a84c]/40 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/10 transition-colors"
@@ -323,7 +329,7 @@ export default function ShareClient() {
                 Share
               </button>
             </div>
-            <p className="font-[family-name:var(--font-sans)] text-xs text-[#444] mt-4">
+            <p className="font-[family-name:var(--font-sans)] text-xs text-[#888] mt-4">
               1080&times;1080 &bull; Perfect for Instagram, Twitter, Facebook,
               TikTok
             </p>

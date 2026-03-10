@@ -1,10 +1,12 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 
 export default function ThankYouContent() {
   const params = useSearchParams();
+  const [foundersLoading, setFoundersLoading] = useState(false);
   const isFounders = params.get("founders") === "true";
   const isPreorder = params.get("preorder") === "part-two";
   const isDonation = params.get("donated") === "true";
@@ -73,7 +75,7 @@ export default function ThankYouContent() {
               (expected May 2026), we&rsquo;ll send the EPUB directly to your
               email.
             </p>
-            <p className="font-[family-name:var(--font-sans)] text-xs text-[#666] leading-relaxed">
+            <p className="font-[family-name:var(--font-sans)] text-xs text-[#8a8a8a] leading-relaxed">
               No action needed on your end. We&rsquo;ll reach out when
               it&rsquo;s ready.
             </p>
@@ -81,8 +83,8 @@ export default function ThankYouContent() {
         ) : isDonation ? (
           <div>
             <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-relaxed mb-2">
-              Your donation helps fund editing, cover art, and publishing.
-              Every dollar goes directly into bringing this story to life.
+              Your donation helps fund editing, cover art, and publishing. Every
+              dollar goes directly into bringing this story to life.
             </p>
           </div>
         ) : (
@@ -91,7 +93,7 @@ export default function ThankYouContent() {
               Your copy of <em>Part I: The Still Water</em> has been sent to the
               email address you used at checkout.
             </p>
-            <p className="font-[family-name:var(--font-sans)] text-xs text-[#666] leading-relaxed">
+            <p className="font-[family-name:var(--font-sans)] text-xs text-[#8a8a8a] leading-relaxed">
               The download link expires in 7 days. If you don&rsquo;t see the
               email, check your spam folder or contact{" "}
               <a
@@ -114,12 +116,16 @@ export default function ThankYouContent() {
             Want every part digitally + a signed physical copy? Full refund
             anytime.
           </p>
-          <a
-            href="/api/founders-edition"
-            className="inline-block px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+          <button
+            onClick={() => {
+              setFoundersLoading(true);
+              window.location.href = "/api/founders-edition";
+            }}
+            disabled={foundersLoading}
+            className="inline-block px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 disabled:opacity-50 disabled:cursor-wait"
           >
-            Become a Founder
-          </a>
+            {foundersLoading ? "Redirecting to Stripe..." : "Become a Founder"}
+          </button>
         </div>
       )}
 
@@ -146,7 +152,7 @@ export default function ThankYouContent() {
         </div>
       </div>
 
-      <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#333] mt-16">
+      <p className="font-[family-name:var(--font-serif)] text-sm italic text-[#777] mt-16">
         &ldquo;The world sang to itself. And in the space between the notes,
         where silence lived, a man breathed &mdash; and the air
         remembered.&rdquo;

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Share a Passage",
   description:
     "Generate beautiful quote cards from Man Amongst the Clouds and share them on Instagram, Twitter, Facebook, and TikTok. Choose from featured passages or create your own.",
-  alternates: { canonical: "https://manamongsttheclouds.com/share" },
+  alternates: { canonical: "https://www.manamongsttheclouds.com/share" },
   openGraph: {
     title: "Share a Passage — Man Amongst the Clouds",
     description:

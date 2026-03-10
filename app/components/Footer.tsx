@@ -92,7 +92,7 @@ export default function Footer() {
               >
                 Facebook
               </a>
-              <p className="font-[family-name:var(--font-sans)] text-xs text-[#777] leading-relaxed mt-1">
+              <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] leading-relaxed mt-1">
                 An independent publishing house
                 <br />
                 founded by Justin &amp; Carter Cronk
@@ -103,10 +103,10 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-[#1a1a1a] pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#666]">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#8a8a8a]">
             Man Amongst the Clouds
           </p>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#666]">
+          <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#8a8a8a]">
             &copy; 2026 Justin Cronk &bull; Stillfire Press &bull; A Cronk
             Companies, LLC Project &bull; All rights reserved
           </p>

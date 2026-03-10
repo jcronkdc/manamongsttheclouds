@@ -294,6 +294,11 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
                 }
               }
             }
+            const loc = rendition.location;
+            if (loc) {
+              setAtStart(loc.atStart ?? false);
+              setAtEnd(loc.atEnd ?? false);
+            }
           },
         );
 
@@ -376,17 +381,6 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
     setAtStart(false);
     setAtEnd(false);
   };
-
-  useEffect(() => {
-    if (!renditionRef.current) return;
-    renditionRef.current.on("relocated", () => {
-      const loc = renditionRef.current?.location;
-      if (loc) {
-        setAtStart(loc.atStart ?? false);
-        setAtEnd(loc.atEnd ?? false);
-      }
-    });
-  }, [loading]);
 
   /* ── Render ───────────────────────────────────────────────────── */
 

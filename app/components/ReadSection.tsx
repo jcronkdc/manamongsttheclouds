@@ -27,6 +27,7 @@ export default function ReadSection() {
             height={362}
             className="border border-[#222] shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
             priority
+            sizes="280px"
           />
         </div>
 
@@ -58,7 +59,7 @@ export default function ReadSection() {
         <div className="max-w-lg mx-auto">
           <div className="grid grid-cols-3 gap-px bg-[#c9a84c]/10">
             {[
-              { num: "11", label: "Chapters" },
+              { num: "10", label: "Chapters" },
               { num: "~40K", label: "Words" },
               { num: "1", label: "Prologue" },
             ].map((item) => (

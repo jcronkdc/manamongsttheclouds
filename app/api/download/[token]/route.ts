@@ -1,41 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
-import crypto from "crypto";
-import fs from "fs";
+import fs from "fs/promises";
 import path from "path";
-
-const downloadSecret = process.env.DOWNLOAD_SECRET!;
-
-function verifyToken(token: string): { valid: boolean; reason?: string } {
-  try {
-    const decoded = Buffer.from(token, "base64url").toString("utf-8");
-    const parts = decoded.split(":");
-
-    if (parts.length !== 3) {
-      return { valid: false, reason: "Malformed token" };
-    }
-
-    const [sessionId, expiryStr, signature] = parts;
-    const expiry = parseInt(expiryStr, 10);
-
-    if (Date.now() > expiry) {
-      return { valid: false, reason: "Token expired" };
-    }
-
-    const payload = `${sessionId}:${expiryStr}`;
-    const expectedSignature = crypto
-      .createHmac("sha256", downloadSecret)
-      .update(payload)
-      .digest("hex");
-
-    if (signature !== expectedSignature) {
-      return { valid: false, reason: "Invalid signature" };
-    }
-
-    return { valid: true };
-  } catch {
-    return { valid: false, reason: "Invalid token" };
-  }
-}
+import { verifyToken } from "@/app/lib/verify-token";
 
 export async function GET(
   req: NextRequest,
@@ -51,7 +17,7 @@ export async function GET(
       `
       <!DOCTYPE html>
       <html>
-      <head><title>Download Expired</title></head>
+      <head><title>Download Expired</title><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
       <body style="margin:0;padding:60px 24px;background:#0a0a0a;color:#ededed;font-family:Georgia,serif;text-align:center;">
         <h1 style="font-size:28px;font-weight:300;letter-spacing:0.05em;margin-bottom:16px;">Download Unavailable</h1>
         <p style="color:#8a8a8a;font-size:16px;margin-bottom:8px;">${result.reason === "Token expired" ? "This download link has expired." : "This download link is invalid."}</p>
@@ -71,24 +37,24 @@ export async function GET(
   if (direct) {
     const filePath = path.join(process.cwd(), "private", "matc-part1.epub");
 
-    if (!fs.existsSync(filePath)) {
+    try {
+      const fileBuffer = await fs.readFile(filePath);
+
+      return new NextResponse(fileBuffer, {
+        headers: {
+          "Content-Type": "application/epub+zip",
+          "Content-Disposition":
+            'attachment; filename="Man Amongst the Clouds - Part I The Still Water.epub"',
+          "Content-Length": fileBuffer.length.toString(),
+          "Cache-Control": "no-store",
+        },
+      });
+    } catch {
       return NextResponse.json(
         { error: "File not found. Please contact hello@stillfirepress.com" },
         { status: 404 },
       );
     }
-
-    const fileBuffer = fs.readFileSync(filePath);
-
-    return new NextResponse(fileBuffer, {
-      headers: {
-        "Content-Type": "application/epub+zip",
-        "Content-Disposition":
-          'attachment; filename="Man Amongst the Clouds - Part I The Still Water.epub"',
-        "Content-Length": fileBuffer.length.toString(),
-        "Cache-Control": "no-store",
-      },
-    });
   }
 
   // Show landing page with Read Online + Download options

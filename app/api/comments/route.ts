@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabase } from "@/app/lib/supabase";
+import { supabaseServer } from "@/app/lib/supabase-server";
+import { rateLimit } from "@/app/lib/rate-limit";
 
 export const dynamic = "force-dynamic";
 
@@ -17,7 +18,7 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ error: "Invalid key" }, { status: 400 });
   }
 
-  const { data, error } = await supabase
+  const { data, error } = await supabaseServer
     .from("reader_comments")
     .select("id, chapter, name, body, quote, sentiment, created_at")
     .eq("section_key", key)
@@ -32,6 +33,16 @@ export async function GET(req: NextRequest) {
 }
 
 export async function POST(req: NextRequest) {
+  const ip =
+    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  const { allowed, retryAfter } = rateLimit(`comments:${ip}`, 10, 60_000);
+  if (!allowed) {
+    return NextResponse.json(
+      { error: "Too many requests. Please try again later." },
+      { status: 429, headers: { "Retry-After": String(retryAfter) } },
+    );
+  }
+
   try {
     const { key, chapter, name, body, sentiment, quote } = await req.json();
 
@@ -58,7 +69,7 @@ export async function POST(req: NextRequest) {
       sentiment: cleanSentiment,
     };
 
-    const { error } = await supabase.from("reader_comments").insert(row);
+    const { error } = await supabaseServer.from("reader_comments").insert(row);
 
     if (error) {
       console.error("Supabase insert error:", error);

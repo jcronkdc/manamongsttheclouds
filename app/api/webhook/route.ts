@@ -1,12 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
 import Stripe from "stripe";
 import { Resend } from "resend";
-import { supabase } from "@/app/lib/supabase";
+import { supabaseServer } from "@/app/lib/supabase-server";
+import { getStripe } from "@/app/lib/stripe";
 import crypto from "crypto";
-
-function getStripe() {
-  return new Stripe(process.env.STRIPE_SECRET_KEY!);
-}
 
 function getResend() {
   return new Resend(process.env.RESEND_API_KEY!);
@@ -28,7 +25,7 @@ export async function POST(req: NextRequest) {
   const resend = getResend();
   const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET!;
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://manamongsttheclouds.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.manamongsttheclouds.com";
 
   const body = await req.text();
   const sig = req.headers.get("stripe-signature");
@@ -74,7 +71,21 @@ export async function POST(req: NextRequest) {
         : null;
 
       try {
-        await supabase.from("founders_orders").insert({
+        // Idempotency check: skip if this session was already processed
+        const { data: existing } = await supabaseServer
+          .from("founders_orders")
+          .select("id")
+          .eq("stripe_session_id", session.id)
+          .maybeSingle();
+
+        if (existing) {
+          console.log(
+            `Founder's Edition order already exists for session ${session.id}, skipping`,
+          );
+          return NextResponse.json({ received: true });
+        }
+
+        await supabaseServer.from("founders_orders").insert({
           email: customerEmail.toLowerCase().trim(),
           name: session.customer_details?.name || null,
           stripe_session_id: session.id,
@@ -172,7 +183,21 @@ export async function POST(req: NextRequest) {
       const preorderProduct = session.metadata?.preorder_product || "part-two";
 
       try {
-        await supabase.from("preorders").insert({
+        // Idempotency check: skip if this session was already processed
+        const { data: existing } = await supabaseServer
+          .from("preorders")
+          .select("id")
+          .eq("stripe_session_id", session.id)
+          .maybeSingle();
+
+        if (existing) {
+          console.log(
+            `Pre-order already exists for session ${session.id}, skipping`,
+          );
+          return NextResponse.json({ received: true });
+        }
+
+        await supabaseServer.from("preorders").insert({
           email: customerEmail.toLowerCase().trim(),
           stripe_session_id: session.id,
           stripe_payment_intent:

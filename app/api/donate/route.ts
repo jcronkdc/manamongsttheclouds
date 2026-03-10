@@ -1,13 +1,20 @@
 import { NextRequest, NextResponse } from "next/server";
-import Stripe from "stripe";
-
-function getStripe() {
-  return new Stripe(process.env.STRIPE_SECRET_KEY!);
-}
+import { getStripe } from "@/app/lib/stripe";
+import { rateLimit } from "@/app/lib/rate-limit";
 
 export async function GET(req: NextRequest) {
+  const ip =
+    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  const { allowed, retryAfter } = rateLimit(`donate:${ip}`, 10, 60_000);
+  if (!allowed) {
+    return NextResponse.json(
+      { error: "Too many requests. Please try again later." },
+      { status: 429, headers: { "Retry-After": String(retryAfter) } },
+    );
+  }
+
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://manamongsttheclouds.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.manamongsttheclouds.com";
 
   if (!process.env.STRIPE_SECRET_KEY) {
     return NextResponse.redirect(`${siteUrl}/read/part-one`, 303);
@@ -19,8 +26,9 @@ export async function GET(req: NextRequest) {
 
   try {
     // For custom amounts, use a preset of $15 as default (user-friendly fallback)
-    const amount = isCustom ? 15 : parseInt(amountParam || "10", 10);
-    if (amount < 1 || amount > 999) {
+    const parsed = parseInt(amountParam || "10", 10);
+    const amount = isCustom ? 15 : parsed;
+    if (isNaN(amount) || amount < 1 || amount > 999) {
       return NextResponse.redirect(`${siteUrl}/read/part-one`, 303);
     }
 

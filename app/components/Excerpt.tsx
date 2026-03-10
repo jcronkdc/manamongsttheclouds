@@ -66,15 +66,14 @@ export default function Excerpt() {
           <div className="h-32 bg-gradient-to-b from-transparent to-[#080808]" />
           <div className="text-center -mt-8">
             <a
-              href="https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/read/part-one"
               className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
             >
-              Keep Reading &mdash; $2.99
+              Keep Reading Free
             </a>
             <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] mt-4">
-              Part I continues for 10 more chapters. Instant EPUB download.
+              Part I continues for 10 more chapters &mdash; free, right here in
+              your browser.
             </p>
           </div>
         </div>

@@ -18,7 +18,7 @@ const title =
   "Man Amongst the Clouds — A Literary Fantasy Novel by Justin Cronk";
 const description =
   "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 153,000-word literary fantasy debut nine years in the making. Part I available now. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.";
-const url = "https://manamongsttheclouds.com";
+const url = "https://www.manamongsttheclouds.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/og-image.png",
+        url: "/opengraph-image",
         width: 1200,
         height: 630,
         alt: "Man Amongst the Clouds — A Literary Fantasy Novel by Justin Cronk",
@@ -88,7 +88,7 @@ export const metadata: Metadata = {
     title: "Man Amongst the Clouds — Literary Fantasy Novel",
     description:
       "Magic is memory. The Song is love made audible. The cost is everything. A 153,000-word literary fantasy debut. Part I available now — $2.99.",
-    images: ["/og-image.png"],
+    images: ["/opengraph-image"],
   },
   robots: {
     index: true,
@@ -101,8 +101,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  // TODO: Add google-site-verification once you register at https://search.google.com/search-console
-  // other: { "google-site-verification": "YOUR_CODE_HERE" },
+  other: {
+    "google-site-verification": "umVXIJMyiqGuIK_6Mh1z642XnsO04fW6rcbyq-v11T8",
+  },
 };
 
 const jsonLd = {
@@ -180,7 +181,13 @@ export default function RootLayout({
       <body
         className={`${serif.variable} ${sans.variable} antialiased bg-[#0a0a0a] text-[#ededed]`}
       >
-        {children}
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[9999] focus:px-4 focus:py-2 focus:bg-[#c9a84c] focus:text-[#0a0a0a] focus:text-sm focus:font-semibold"
+        >
+          Skip to content
+        </a>
+        <main id="main-content">{children}</main>
       </body>
     </html>
   );

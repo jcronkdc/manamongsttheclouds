@@ -73,7 +73,7 @@ export default function SignupSection() {
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="your@email.com"
                 disabled={status === "submitting"}
-                className="flex-1 px-4 py-4 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-sm placeholder:text-[#555] focus:border-[#c9a84c] focus:outline-none transition-colors disabled:opacity-50"
+                className="flex-1 px-4 py-4 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-sm placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors disabled:opacity-50"
               />
               <button
                 type="submit"
@@ -90,7 +90,7 @@ export default function SignupSection() {
               </p>
             )}
 
-            <p className="font-[family-name:var(--font-sans)] text-xs text-[#777] mt-4">
+            <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] mt-4">
               No spam. Just books worth the wait. Unsubscribe anytime.
             </p>
 

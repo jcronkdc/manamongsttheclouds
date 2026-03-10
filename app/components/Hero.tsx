@@ -84,7 +84,7 @@ export default function Hero() {
         style={{ animationDelay: "3.5s", animationFillMode: "forwards" }}
       >
         <div className="flex flex-col items-center gap-2">
-          <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.3em] uppercase text-[#555]">
+          <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.3em] uppercase text-[#888]">
             Scroll
           </p>
           <div className="w-px h-8 bg-gradient-to-b from-[#c9a84c]/40 to-transparent animate-pulse-glow" />

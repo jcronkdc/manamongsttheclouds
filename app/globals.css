@@ -9,7 +9,7 @@
   --color-stone: #1a1a1a;
   --color-stone-light: #2a2a2a;
   --color-mist: #8a8a8a;
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-inter);
   --font-mono: var(--font-geist-mono);
 }
 
