@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { supabase } from "@/app/lib/supabase";
 
+export const dynamic = "force-dynamic";
+
 const VALID_KEYS = new Set([
   "general",
   "chapter-0",

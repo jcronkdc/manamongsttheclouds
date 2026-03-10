@@ -80,7 +80,9 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
   /* --- Fetch comments for a chapter when expanded --- */
   const fetchComments = useCallback(async (key: string) => {
     try {
-      const res = await fetch(`/api/comments?key=${encodeURIComponent(key)}`);
+      const res = await fetch(`/api/comments?key=${encodeURIComponent(key)}`, {
+        cache: "no-store",
+      });
       if (res.ok) {
         const data = await res.json();
         setComments((prev) => ({ ...prev, [key]: data.comments }));

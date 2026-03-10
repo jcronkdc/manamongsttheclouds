@@ -268,7 +268,7 @@ test.describe("Part One: The Still Water — Interactive Reading Experience", ()
     await expect(page.locator("text=Share Part One")).toBeVisible();
     await expect(page.locator("text=Facebook")).toBeVisible();
     await expect(page.locator("text=Twitter / X")).toBeVisible();
-    await expect(page.locator("text=Email")).toBeVisible();
+    await expect(page.getByRole("link", { name: "Email" })).toBeVisible();
     await expect(page.locator("text=Text")).toBeVisible();
     await expect(page.locator("text=Copy Link")).toBeVisible();
   });
