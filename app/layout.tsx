@@ -101,9 +101,8 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  other: {
-    "google-site-verification": "REPLACE_WITH_GOOGLE_VERIFICATION_CODE",
-  },
+  // TODO: Add google-site-verification once you register at https://search.google.com/search-console
+  // other: { "google-site-verification": "YOUR_CODE_HERE" },
 };
 
 const jsonLd = {
@@ -116,7 +115,6 @@ const jsonLd = {
     url,
   },
   bookFormat: "EBook",
-  isbn: "",
   numberOfPages: 480,
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
@@ -142,7 +140,6 @@ const jsonLd = {
     "https://ashtofury.com",
     "https://www.facebook.com/profile.php?id=61583731204411",
   ],
-  aggregateRating: undefined,
   keywords:
     "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published",
 };
@@ -179,7 +176,6 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
         />
-        <link rel="canonical" href={url} />
       </head>
       <body
         className={`${serif.variable} ${sans.variable} antialiased bg-[#0a0a0a] text-[#ededed]`}

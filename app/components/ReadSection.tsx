@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function ReadSection() {
   return (
     <section
@@ -15,6 +17,18 @@ export default function ReadSection() {
         <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#b0a89e] italic text-center mb-12 sm:mb-16">
           The Still Water &mdash; Prologue + Chapters 1&ndash;10
         </p>
+
+        {/* Book cover */}
+        <div className="flex justify-center mb-12">
+          <Image
+            src="/cover-part-one.jpg"
+            alt="Man Amongst the Clouds Part One: The Still Water — book cover by Justin Cronk"
+            width={280}
+            height={362}
+            className="border border-[#222] shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
+            priority
+          />
+        </div>
 
         {/* Free reading card */}
         <div className="max-w-lg mx-auto mb-6">
@@ -40,36 +54,9 @@ export default function ReadSection() {
           </a>
         </div>
 
-        {/* Purchase card */}
+        {/* Part I stats */}
         <div className="max-w-lg mx-auto">
-          <div className="border border-[#222] relative overflow-hidden">
-            <div className="relative z-10 p-8 text-center">
-              <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#666] mb-3">
-                Want it on your device?
-              </p>
-              <p className="font-[family-name:var(--font-serif)] text-2xl text-[#ededed] mb-1">
-                Download the EPUB &mdash; $2.99
-              </p>
-              <p className="font-[family-name:var(--font-sans)] text-xs text-[#8a8a8a] mb-6">
-                Same story, portable format. Read offline on any e-reader.
-              </p>
-              <a
-                href="https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block px-10 py-3.5 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300 mb-3"
-              >
-                Buy EPUB
-              </a>
-              <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#555] tracking-wider">
-                Secure checkout via Stripe &bull; Instant download &bull; No
-                account required
-              </p>
-            </div>
-          </div>
-
-          {/* What you get */}
-          <div className="grid grid-cols-3 gap-px mt-px bg-[#c9a84c]/10">
+          <div className="grid grid-cols-3 gap-px bg-[#c9a84c]/10">
             {[
               { num: "11", label: "Chapters" },
               { num: "~40K", label: "Words" },

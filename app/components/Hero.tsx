@@ -75,12 +75,6 @@ export default function Hero() {
           >
             Read Part One Free
           </a>
-          <a
-            href="#read"
-            className="px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
-          >
-            Buy the EPUB &mdash; $2.99
-          </a>
         </div>
       </div>
 

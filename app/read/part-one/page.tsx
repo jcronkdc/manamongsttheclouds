@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Read Part One: The Still Water — Free",
   description:
     "Read Part One of Man Amongst the Clouds for free. Ten chapters. Leave feedback, highlight what works, flag what doesn\u2019t. Help shape this book.",
+  alternates: { canonical: "https://manamongsttheclouds.com/read/part-one" },
   openGraph: {
     title: "Read Part One: The Still Water — Free",
     description:

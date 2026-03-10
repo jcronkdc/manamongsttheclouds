@@ -1,6 +1,6 @@
 export default function ProofSection() {
   return (
-    <section className="py-20 sm:py-24 px-5 sm:px-6 bg-[#0f0f0f]">
+    <section id="proof" className="py-20 sm:py-24 px-5 sm:px-6 bg-[#0f0f0f]">
       <div className="max-w-2xl mx-auto">
         <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide mb-4 text-center text-[#c9a84c]">
           Proof of Authorship

@@ -10,7 +10,6 @@ const links = [
   { href: "#journey", label: "The Author" },
   { href: "#origins", label: "Origins" },
   { href: "/read/part-one", label: "Read Free" },
-  { href: "#read", label: "Buy EPUB" },
   { href: "#proof", label: "Proof" },
 ];
 
@@ -49,7 +48,7 @@ export default function Nav() {
               key={l.href}
               href={l.href}
               className={`font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 ${
-                l.href === "/read/part-one" || l.href === "#read"
+                l.href === "/read/part-one"
                   ? "text-[#c9a84c] hover:text-[#e8c85a]"
                   : "text-[#666] hover:text-[#ededed]"
               }`}
@@ -86,9 +85,7 @@ export default function Nav() {
               href={l.href}
               onClick={() => setOpen(false)}
               className={`font-[family-name:var(--font-sans)] text-xs tracking-[0.2em] uppercase ${
-                l.href === "/read/part-one" || l.href === "#read"
-                  ? "text-[#c9a84c]"
-                  : "text-[#888]"
+                l.href === "/read/part-one" ? "text-[#c9a84c]" : "text-[#888]"
               }`}
             >
               {l.label}

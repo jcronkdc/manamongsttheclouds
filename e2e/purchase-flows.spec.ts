@@ -16,23 +16,13 @@ test.describe("Homepage — Purchase CTAs & Navigation", () => {
     await expect(cta).toBeVisible();
   });
 
-  test("hero has 'Buy the EPUB' as secondary CTA", async ({ page }) => {
-    const cta = page.locator('a[href="#read"]', {
-      hasText: /Buy the EPUB/,
-    });
-    await expect(cta).toBeVisible();
-  });
-
   /* ------------------------------------------------------------------ */
   /*  Navigation                                                         */
   /* ------------------------------------------------------------------ */
 
-  test("nav includes 'Read Free' and 'Buy EPUB' links", async ({ page }) => {
+  test("nav includes 'Read Free' link", async ({ page }) => {
     await expect(
       page.locator('nav a[href="/read/part-one"]', { hasText: "Read Free" }),
-    ).toBeVisible();
-    await expect(
-      page.locator('nav a[href="#read"]', { hasText: "Buy EPUB" }),
     ).toBeVisible();
   });
 
@@ -49,18 +39,6 @@ test.describe("Homepage — Purchase CTAs & Navigation", () => {
     ).toBeVisible();
     const startReading = section.locator('a[href="/read/part-one"]');
     await expect(startReading).toBeVisible();
-  });
-
-  /* ------------------------------------------------------------------ */
-  /*  ReadSection — Part I EPUB purchase                                 */
-  /* ------------------------------------------------------------------ */
-
-  test("ReadSection has Part I EPUB purchase card", async ({ page }) => {
-    const section = page.locator("#read");
-    await expect(section.locator("text=Want it on your device?")).toBeVisible();
-    await expect(section.locator("text=Download the EPUB")).toBeVisible();
-    const buyBtn = section.locator('a[href*="buy.stripe.com"]');
-    await expect(buyBtn).toBeVisible();
   });
 
   /* ------------------------------------------------------------------ */
