@@ -70,16 +70,16 @@ export default function Hero() {
           style={{ animationDelay: "2.5s", animationFillMode: "forwards" }}
         >
           <a
-            href="#read"
+            href="/read/part-one"
             className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
           >
-            Buy Part I &mdash; $2.99
+            Read Part One Free
           </a>
           <a
-            href="#story"
+            href="#read"
             className="px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
           >
-            Read the Synopsis
+            Buy the EPUB &mdash; $2.99
           </a>
         </div>
       </div>

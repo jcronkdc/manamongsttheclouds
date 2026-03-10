@@ -513,6 +513,43 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
               </button>
             </form>
           )}
+          <div className="mt-6 pt-6 border-t border-[#222]">
+            <p className="font-[family-name:var(--font-serif)] text-sm text-[#888] mb-4">
+              Or lock it in now &mdash; get the EPUB sent to your email on
+              release day:
+            </p>
+            <a
+              href="/api/preorder"
+              className="inline-block px-8 py-3 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
+            >
+              Pre-Order Part II &mdash; $2.99
+            </a>
+            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#555] mt-3">
+              Secure checkout via Stripe &bull; No account required
+            </p>
+          </div>
+
+          <div className="mt-6 pt-6 border-t border-[#c9a84c]/20">
+            <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.3em] uppercase text-[#c9a84c]/60 mb-3">
+              Founder&rsquo;s Edition
+            </p>
+            <p className="font-[family-name:var(--font-serif)] text-sm text-[#c4beb4] mb-1">
+              Want the whole thing? All 5 parts digitally + a signed physical
+              copy.
+            </p>
+            <p className="font-[family-name:var(--font-serif)] text-sm text-[#888] mb-4">
+              Full refund anytime, no questions asked. Targeting August 2026.
+            </p>
+            <a
+              href="/api/founders-edition"
+              className="inline-block px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
+            >
+              Become a Founder &mdash; $39.99
+            </a>
+            <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#555] mt-3">
+              Shipping address collected at checkout
+            </p>
+          </div>
         </div>
 
         {/* Subtle support section */}

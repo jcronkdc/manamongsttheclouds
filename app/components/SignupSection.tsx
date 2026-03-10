@@ -93,6 +93,35 @@ export default function SignupSection() {
             <p className="font-[family-name:var(--font-sans)] text-xs text-[#777] mt-4">
               No spam. Just books worth the wait. Unsubscribe anytime.
             </p>
+
+            <div className="mt-10 pt-8 border-t border-[#222] space-y-6">
+              <div>
+                <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.3em] uppercase text-[#c9a84c]/60 mb-2">
+                  Founder&rsquo;s Edition &mdash; $39.99
+                </p>
+                <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] mb-3">
+                  All 5 parts digitally + a signed physical copy. Full refund
+                  anytime.
+                </p>
+                <a
+                  href="/api/founders-edition"
+                  className="inline-block px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.2)]"
+                >
+                  Become a Founder
+                </a>
+              </div>
+              <div>
+                <p className="font-[family-name:var(--font-serif)] text-sm text-[#888] mb-3">
+                  Or just lock in Part II:
+                </p>
+                <a
+                  href="/api/preorder"
+                  className="inline-block px-8 py-3 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
+                >
+                  Pre-Order Part II &mdash; $2.99
+                </a>
+              </div>
+            </div>
           </>
         )}
       </div>
