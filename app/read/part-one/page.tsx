@@ -40,17 +40,25 @@ const CHAPTER_META: { title: string; pov: string }[] = [
 function markdownToHtml(md: string): string {
   let html = md
     // strip Part One header + epigraph that only appears in ch1
-    .replace(/^# PART ONE:.*?\n\n/s, "")
-    .replace(/^_"In the time before.*?"_\s*\n\n---\s*\n\n/s, "")
+    .replace(new RegExp("^# PART ONE:[\\s\\S]*?\\n\\n"), "")
+    .replace(
+      new RegExp('^_"In the time before[\\s\\S]*?"_\\s*\\n\\n---\\s*\\n\\n'),
+      "",
+    )
     // strip chapter heading + title + divider
-    .replace(/^# Chapter \d+\s*\n\n## .+?\s*\n\n---\s*\n\n/s, "")
+    .replace(
+      new RegExp(
+        "^# Chapter \\d+\\s*\\n\\n## [\\s\\S]+?\\s*\\n\\n---\\s*\\n\\n",
+      ),
+      "",
+    )
     .trim();
 
   // Convert --- to <hr>
   html = html.replace(/\n---\n/g, "\n<hr />\n");
 
   // Convert _text_ to <em>
-  html = html.replace(/(?<!\w)_([^_]+)_(?!\w)/g, "<em>$1</em>");
+  html = html.replace(/(^|[^\w])_([^_]+)_(?!\w)/g, "$1<em>$2</em>");
 
   // Split into paragraphs
   const paragraphs = html.split(/\n\n+/);
