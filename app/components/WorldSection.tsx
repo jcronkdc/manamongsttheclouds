@@ -2,32 +2,32 @@ export default function WorldSection() {
   const disciplines = [
     {
       name: "The Know",
-      desc: "Listen to the truth of living things.",
+      desc: "To practice The Know is to open yourself to the inner voice of every living thing — the ache of a tree's roots seeking water, the quiet grief of a dying animal, the unspoken longing in a stranger's chest. Practitioners hear what the world feels, and in doing so, lose the ability to separate its pain from their own. The more you listen, the thinner the walls between you and everything else become.",
       cost: "Your emotional boundaries.",
     },
     {
       name: "The Mold",
-      desc: "Ask stone to remember a different shape.",
+      desc: "The Mold speaks to the memory of material — the mountain a stone was carved from, the riverbed a pebble once rested in. By communing with that memory, a practitioner can ask matter to recall a different form, coaxing it into new shapes. But the conversation is two-way, and the stone's ancient stillness seeps into the hands that reshape it, numbing them one act at a time.",
       cost: "The feeling in your hands.",
     },
     {
       name: "The Heal",
-      desc: "Remind flesh of wholeness.",
+      desc: "Flesh remembers wholeness. Every wound is a departure from the body's original song, and a practitioner of The Heal can remind tissue, bone, and blood of what they once were. The body listens and mends. But the world demands balance — every injury healed is transferred to the healer, written into their own body as phantom pain, scars without stories, and fractures that never fully set.",
       cost: "You carry every wound you mend.",
     },
     {
       name: "The Move",
-      desc: "Rearrange the space between things.",
+      desc: "Space itself has memory — of what once occupied it, of the distances between things before they drifted apart. A practitioner of The Move converses with that emptiness, rearranging the gaps between objects, folding distance like cloth. But each displacement erodes the practitioner's own spatial awareness. The more you move through the world this way, the less certain you become of where you stand in it.",
       cost: "Your sense of where you are.",
     },
     {
       name: "The Guide",
-      desc: "Feel the trajectory of paths.",
+      desc: "Every path remembers the feet that walked it. Every crossroads remembers the choices made there. A practitioner of The Guide can feel the trajectory of journeys — where a road wants to lead, where a river intends to go, where a lost traveler needs to be. But to feel every path so clearly means your own sense of origin fades. Guides always know the way forward. They just can't remember the way back.",
       cost: "Your memory of home.",
     },
     {
       name: "The Burn",
-      desc: "Awaken the memory of fire.",
+      desc: "Fire was the world's first memory — the original light that split the darkness. A practitioner of The Burn reaches into that ancient remembering and awakens it, calling flame from the world's deepest recollection. But fire's memory is hungry, and it feeds on the warmth of the one who summons it. Each blaze lit steals a little more heat from the practitioner's body, leaving them colder, slower, and eventually numb to warmth entirely.",
       cost: "The warmth inside you.",
     },
   ];
@@ -89,7 +89,14 @@ export default function WorldSection() {
                 The Sing
               </h3>
               <p className="font-[family-name:var(--font-serif)] text-base text-[#d4d0c8] leading-relaxed max-w-md mx-auto mb-2">
-                The harmonization of all seven voices. Love made audible.
+                The rarest and most devastating of all disciplines. The Sing is
+                not learned — it is surrendered to. It is the harmonization of
+                all seven voices at once, a moment when a practitioner becomes a
+                vessel for the world&rsquo;s entire memory. In that instant,
+                they do not listen to the world — they become its song. Love
+                made audible. But the cost is absolute: to sing the
+                world&rsquo;s truth is to lose yourself inside it, dissolved
+                into the memory of everything.
               </p>
               <p className="font-[family-name:var(--font-sans)] text-xs text-[#a09888]">
                 <span className="text-[#c9a84c]/60">Cost:</span>{" "}
