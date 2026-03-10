@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/download/"],
+        disallow: ["/api/", "/download/"],
       },
     ],
     sitemap: "https://www.manamongsttheclouds.com/sitemap.xml",

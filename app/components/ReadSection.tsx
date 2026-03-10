@@ -171,9 +171,9 @@ export default function ReadSection() {
             {[
               { part: "I", name: "The Still Water", status: "available" },
               { part: "II", name: "The Waking", status: "preorder" },
-              { part: "III", name: "The Cost", status: "coming" },
-              { part: "IV", name: "The Silence", status: "coming" },
-              { part: "V", name: "The Song", status: "coming" },
+              { part: "III", name: "The Breaking", status: "coming" },
+              { part: "IV", name: "The Chamber", status: "coming" },
+              { part: "V", name: "The Remembering", status: "coming" },
             ].map((p) => (
               <div
                 key={p.part}
