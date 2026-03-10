@@ -20,6 +20,7 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
   const [fontSize, setFontSize] = useState(110);
   const [chapter, setChapter] = useState("");
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
 
   const storageKey = `matc-pos-${token.slice(0, 16)}`;
 
@@ -45,59 +46,87 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
   // Initialize the book
   useEffect(() => {
     if (!viewerRef.current) return;
+    let cancelled = false;
 
-    const book = ePub(url);
-    bookRef.current = book;
+    async function init() {
+      try {
+        // Fetch the EPUB as ArrayBuffer first
+        const res = await fetch(url);
+        if (!res.ok) {
+          const body = await res.text();
+          setError(`Failed to load book (${res.status}): ${body}`);
+          setLoading(false);
+          return;
+        }
+        const arrayBuffer = await res.arrayBuffer();
+        if (cancelled) return;
 
-    const rendition = book.renderTo(viewerRef.current, {
-      width: "100%",
-      height: "100%",
-      spread: "none",
-      flow: "paginated",
-    });
-    renditionRef.current = rendition;
+        const book = ePub(arrayBuffer);
+        bookRef.current = book;
 
-    applyTheme(rendition);
+        const rendition = book.renderTo(viewerRef.current!, {
+          width: "100%",
+          height: "100%",
+          spread: "none",
+          flow: "paginated",
+        });
+        renditionRef.current = rendition;
 
-    // Load saved position or start from beginning
-    let startCfi: string | undefined;
-    try {
-      startCfi = localStorage.getItem(storageKey) || undefined;
-    } catch {
-      // ignore
-    }
-    rendition.display(startCfi).then(() => setLoading(false));
+        applyTheme(rendition);
 
-    // Save position on page changes
-    rendition.on(
-      "relocated",
-      (location: { start: { cfi: string }; end: { cfi: string } }) => {
+        // Load saved position or start from beginning
+        let startCfi: string | undefined;
         try {
-          localStorage.setItem(storageKey, location.start.cfi);
+          startCfi = localStorage.getItem(storageKey) || undefined;
         } catch {
           // ignore
         }
+        await rendition.display(startCfi);
+        if (!cancelled) setLoading(false);
 
-        // Update chapter label
-        if (book.navigation) {
-          const navItems = book.navigation.toc;
-          for (let i = navItems.length - 1; i >= 0; i--) {
-            if (rendition.location && book.spine) {
-              setChapter(navItems[i]?.label?.trim() || "");
-              break;
+        // Save position on page changes
+        rendition.on(
+          "relocated",
+          (location: { start: { cfi: string }; end: { cfi: string } }) => {
+            try {
+              localStorage.setItem(storageKey, location.start.cfi);
+            } catch {
+              // ignore
             }
-          }
-        }
-      },
-    );
 
-    // Load TOC
-    book.loaded.navigation.then((nav) => {
-      setToc(nav.toc);
-    });
+            // Update chapter label
+            if (book.navigation) {
+              const navItems = book.navigation.toc;
+              for (let i = navItems.length - 1; i >= 0; i--) {
+                if (rendition.location && book.spine) {
+                  setChapter(navItems[i]?.label?.trim() || "");
+                  break;
+                }
+              }
+            }
+          },
+        );
+
+        // Load TOC
+        book.loaded.navigation.then((nav) => {
+          if (!cancelled) setToc(nav.toc);
+        });
+      } catch (err) {
+        console.error("EPUB load error:", err);
+        if (!cancelled) {
+          setError(err instanceof Error ? err.message : "Failed to load book");
+          setLoading(false);
+        }
+      }
+    }
+
+    init();
 
     return () => {
-      book.destroy();
+      cancelled = true;
+      if (bookRef.current) {
+        bookRef.current.destroy();
+      }
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [url]);
@@ -215,16 +244,32 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
           ›
         </button>
 
-        {/* Loading overlay */}
-        {loading && (
+        {/* Loading / Error overlay */}
+        {(loading || error) && (
           <div className="absolute inset-0 flex items-center justify-center bg-[#0a0a0a] z-30">
-            <div className="text-center">
+            <div className="text-center max-w-md px-6">
               <p className="text-[#c9a84c] text-xs tracking-[0.35em] uppercase mb-4">
                 Stillfire Press
               </p>
-              <p className="text-[#888] text-sm animate-pulse">
-                Loading your book...
-              </p>
+              {error ? (
+                <>
+                  <p className="text-[#ff6b6b] text-sm mb-4">{error}</p>
+                  <p className="text-[#666] text-xs">
+                    Please try refreshing, or{" "}
+                    <a
+                      href={`/api/download/${token}`}
+                      className="text-[#c9a84c] underline"
+                    >
+                      download the EPUB
+                    </a>{" "}
+                    to read on your device.
+                  </p>
+                </>
+              ) : (
+                <p className="text-[#888] text-sm animate-pulse">
+                  Loading your book...
+                </p>
+              )}
             </div>
           </div>
         )}
