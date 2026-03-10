@@ -105,3 +105,21 @@ body {
 .delay-1200 {
   animation-delay: 1.2s;
 }
+
+/* Chapter prose styles for /read/part-one */
+.chapter-prose p {
+  font-family: var(--font-serif);
+  color: #ccc;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  margin-bottom: 1.5rem;
+}
+.chapter-prose em {
+  color: #c9a84c;
+  font-style: italic;
+}
+.chapter-prose hr {
+  border: none;
+  border-top: 1px solid #333;
+  margin: 2.5rem 0;
+}
