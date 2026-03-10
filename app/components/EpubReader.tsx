@@ -6,6 +6,156 @@ import type { Book, Rendition } from "epubjs";
 import type { NavItem } from "epubjs/types/navigation";
 import Link from "next/link";
 
+/* ── Theme definitions ──────────────────────────────────────────── */
+
+type ThemeId = "dark" | "sepia" | "light";
+
+interface ThemeColors {
+  bg: string;
+  text: string;
+  headingAccent: string;
+  linkColor: string;
+  uiBg: string;
+  uiBorder: string;
+  uiText: string;
+  uiMuted: string;
+  uiAccent: string;
+  hrColor: string;
+  tocBg: string;
+  tocHover: string;
+  overlayBg: string;
+  progressBg: string;
+  progressFill: string;
+}
+
+const THEMES: Record<ThemeId, ThemeColors> = {
+  dark: {
+    bg: "#0a0a0a",
+    text: "#d4d4d4",
+    headingAccent: "#c9a84c",
+    linkColor: "#c9a84c",
+    uiBg: "rgba(10,10,10,0.95)",
+    uiBorder: "#1a1a1a",
+    uiText: "#999",
+    uiMuted: "#555",
+    uiAccent: "#c9a84c",
+    hrColor: "#333",
+    tocBg: "#0f0f0f",
+    tocHover: "#161616",
+    overlayBg: "#0a0a0a",
+    progressBg: "#1a1a1a",
+    progressFill: "#c9a84c",
+  },
+  sepia: {
+    bg: "#f4ecd8",
+    text: "#433422",
+    headingAccent: "#8b6914",
+    linkColor: "#8b6914",
+    uiBg: "rgba(234,225,206,0.97)",
+    uiBorder: "#d4c9a8",
+    uiText: "#6b5d4d",
+    uiMuted: "#9a8b76",
+    uiAccent: "#8b6914",
+    hrColor: "#c9b88a",
+    tocBg: "#ede4cf",
+    tocHover: "#e6dbc3",
+    overlayBg: "#f4ecd8",
+    progressBg: "#d4c9a8",
+    progressFill: "#8b6914",
+  },
+  light: {
+    bg: "#ffffff",
+    text: "#1a1a1a",
+    headingAccent: "#7a6520",
+    linkColor: "#7a6520",
+    uiBg: "rgba(255,255,255,0.97)",
+    uiBorder: "#e5e5e5",
+    uiText: "#666",
+    uiMuted: "#aaa",
+    uiAccent: "#7a6520",
+    hrColor: "#ddd",
+    tocBg: "#fafafa",
+    tocHover: "#f0f0f0",
+    overlayBg: "#ffffff",
+    progressBg: "#e5e5e5",
+    progressFill: "#7a6520",
+  },
+};
+
+const THEME_LABELS: Record<ThemeId, string> = {
+  dark: "Dark",
+  sepia: "Sepia",
+  light: "Light",
+};
+
+/* ── Width presets ──────────────────────────────────────────────── */
+
+type WidthId = "narrow" | "medium" | "wide";
+const WIDTHS: Record<WidthId, string> = {
+  narrow: "max-w-lg",
+  medium: "max-w-2xl",
+  wide: "max-w-4xl",
+};
+const WIDTH_LABELS: Record<WidthId, string> = {
+  narrow: "Narrow",
+  medium: "Medium",
+  wide: "Wide",
+};
+
+/* ── Line spacing presets ───────────────────────────────────────── */
+
+type SpacingId = "tight" | "normal" | "relaxed" | "loose";
+const SPACINGS: Record<SpacingId, string> = {
+  tight: "1.5",
+  normal: "1.8",
+  relaxed: "2.1",
+  loose: "2.4",
+};
+const SPACING_LABELS: Record<SpacingId, string> = {
+  tight: "Tight",
+  normal: "Normal",
+  relaxed: "Relaxed",
+  loose: "Loose",
+};
+
+/* ── Preference helpers ─────────────────────────────────────────── */
+
+const PREFS_KEY = "matc-reader-prefs";
+
+interface ReaderPrefs {
+  theme: ThemeId;
+  fontSize: number;
+  width: WidthId;
+  spacing: SpacingId;
+}
+
+const DEFAULT_PREFS: ReaderPrefs = {
+  theme: "dark",
+  fontSize: 110,
+  width: "medium",
+  spacing: "normal",
+};
+
+function loadPrefs(): ReaderPrefs {
+  try {
+    const raw = localStorage.getItem(PREFS_KEY);
+    if (raw) return { ...DEFAULT_PREFS, ...JSON.parse(raw) };
+  } catch {
+    // ignore
+  }
+  return DEFAULT_PREFS;
+}
+
+function savePrefs(prefs: ReaderPrefs) {
+  try {
+    localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+  } catch {
+    // ignore
+  }
+}
+
+/* ── Component ──────────────────────────────────────────────────── */
+
 interface EpubReaderProps {
   url: string;
   token: string;
@@ -17,53 +167,77 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
   const renditionRef = useRef<Rendition | null>(null);
   const [toc, setToc] = useState<NavItem[]>([]);
   const [tocOpen, setTocOpen] = useState(false);
-  const [fontSize, setFontSize] = useState(110);
+  const [settingsOpen, setSettingsOpen] = useState(false);
   const [chapter, setChapter] = useState("");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [atStart, setAtStart] = useState(true);
   const [atEnd, setAtEnd] = useState(false);
   const [headerVisible, setHeaderVisible] = useState(true);
+  const [progress, setProgress] = useState(0);
   const lastScrollY = useRef(0);
   const scrollContainerRef = useRef<HTMLDivElement>(null);
 
+  // Preferences (persisted)
+  const [prefs, setPrefs] = useState<ReaderPrefs>(DEFAULT_PREFS);
+  useEffect(() => {
+    setPrefs(loadPrefs());
+  }, []);
+
+  const updatePref = useCallback(
+    <K extends keyof ReaderPrefs>(key: K, value: ReaderPrefs[K]) => {
+      setPrefs((prev) => {
+        const next = { ...prev, [key]: value };
+        savePrefs(next);
+        return next;
+      });
+    },
+    [],
+  );
+
+  const theme = THEMES[prefs.theme];
   const storageKey = `matc-pos-${token.slice(0, 16)}`;
   const downloadUrl = `/api/download/${token}?dl=1`;
 
+  /* ── Apply epub.js theme ──────────────────────────────────────── */
+
   const applyTheme = useCallback(
     (rendition: Rendition) => {
+      const t = THEMES[prefs.theme];
+      const sp = SPACINGS[prefs.spacing];
       rendition.themes.default({
         "body, p, div, span, li, td, th, dd, dt, blockquote": {
-          color: "#ededed !important",
+          color: `${t.text} !important`,
           "font-family": "Georgia, 'Times New Roman', serif !important",
-          "line-height": "1.9 !important",
+          "line-height": `${sp} !important`,
         },
         body: {
           background: "transparent !important",
           margin: "0 !important",
           padding: "20px 0 !important",
-          "font-size": `${fontSize}% !important`,
+          "font-size": `${prefs.fontSize}% !important`,
         },
         "h1, h2, h3, h4, h5, h6": {
-          color: "#ededed !important",
+          color: `${t.text} !important`,
           "font-family": "Georgia, 'Times New Roman', serif !important",
         },
-        h2: { color: "#c9a84c !important" },
-        a: { color: "#c9a84c !important" },
+        h2: { color: `${t.headingAccent} !important` },
+        a: { color: `${t.linkColor} !important` },
         "p + p": { "text-indent": "1.5em !important" },
         hr: {
           border: "none !important",
-          "border-top": "1px solid #333 !important",
+          "border-top": `1px solid ${t.hrColor} !important`,
           margin: "2em auto !important",
           width: "40% !important",
         },
         "em, i": { color: "inherit !important" },
       });
     },
-    [fontSize],
+    [prefs.theme, prefs.fontSize, prefs.spacing],
   );
 
-  // Initialize the book
+  /* ── Initialize the book ──────────────────────────────────────── */
+
   useEffect(() => {
     if (!viewerRef.current) return;
     let cancelled = false;
@@ -94,7 +268,6 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
 
         applyTheme(rendition);
 
-        // Load saved position or start from beginning
         let startCfi: string | undefined;
         try {
           startCfi = localStorage.getItem(storageKey) || undefined;
@@ -104,7 +277,6 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
         await rendition.display(startCfi);
         if (!cancelled) setLoading(false);
 
-        // Save position on page changes
         rendition.on(
           "relocated",
           (location: { start: { cfi: string }; end: { cfi: string } }) => {
@@ -125,12 +297,10 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
           },
         );
 
-        // Load TOC
         book.loaded.navigation.then((nav) => {
           if (!cancelled) setToc(nav.toc);
         });
 
-        // Keyboard navigation
         rendition.on("keydown", (e: KeyboardEvent) => {
           if (e.key === "ArrowLeft") rendition.prev();
           if (e.key === "ArrowRight") rendition.next();
@@ -145,7 +315,6 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
     }
 
     init();
-
     return () => {
       cancelled = true;
       if (bookRef.current) bookRef.current.destroy();
@@ -153,12 +322,14 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [url]);
 
-  // Update font size
+  /* ── Re-apply theme on pref changes ───────────────────────────── */
+
   useEffect(() => {
     if (renditionRef.current) applyTheme(renditionRef.current);
-  }, [fontSize, applyTheme]);
+  }, [prefs.fontSize, prefs.theme, prefs.spacing, applyTheme]);
 
-  // Keyboard navigation at document level
+  /* ── Keyboard nav ─────────────────────────────────────────────── */
+
   useEffect(() => {
     function handleKey(e: KeyboardEvent) {
       if (!renditionRef.current) return;
@@ -169,22 +340,27 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
     return () => window.removeEventListener("keydown", handleKey);
   }, []);
 
-  // Auto-hide header on scroll down
+  /* ── Auto-hide header + reading progress ──────────────────────── */
+
   useEffect(() => {
     const container = scrollContainerRef.current;
     if (!container) return;
     function onScroll() {
-      const y = container!.scrollTop;
-      if (y > lastScrollY.current + 10 && y > 60) {
-        setHeaderVisible(false);
-      } else if (y < lastScrollY.current - 10 || y < 60) {
-        setHeaderVisible(true);
-      }
+      const el = container!;
+      const y = el.scrollTop;
+      if (y > lastScrollY.current + 10 && y > 60) setHeaderVisible(false);
+      else if (y < lastScrollY.current - 10 || y < 60) setHeaderVisible(true);
       lastScrollY.current = y;
+
+      // Update reading progress
+      const total = el.scrollHeight - el.clientHeight;
+      if (total > 0) setProgress(Math.min(100, (y / total) * 100));
     }
     container.addEventListener("scroll", onScroll, { passive: true });
     return () => container.removeEventListener("scroll", onScroll);
   }, [loading]);
+
+  /* ── Navigation helpers ───────────────────────────────────────── */
 
   const goNext = () => {
     renditionRef.current?.next();
@@ -201,7 +377,6 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
     setAtEnd(false);
   };
 
-  // Check if at boundaries
   useEffect(() => {
     if (!renditionRef.current) return;
     renditionRef.current.on("relocated", () => {
@@ -213,75 +388,249 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
     });
   }, [loading]);
 
+  /* ── Render ───────────────────────────────────────────────────── */
+
   return (
-    <div className="fixed inset-0 bg-[#0a0a0a] flex flex-col">
+    <div
+      className="fixed inset-0 flex flex-col"
+      style={{ background: theme.bg }}
+    >
+      {/* Reading progress bar */}
+      <div
+        className="fixed top-0 left-0 h-[2px] z-50 transition-all duration-200"
+        style={{
+          width: `${progress}%`,
+          background: theme.progressFill,
+          opacity: progress > 0 ? 1 : 0,
+        }}
+      />
+
       {/* Top bar — auto-hides on scroll */}
       <div
-        className={`flex items-center justify-between px-4 sm:px-6 py-3 bg-[#0a0a0a]/95 backdrop-blur-sm border-b border-[#1a1a1a] z-30 shrink-0 transition-transform duration-300 ${
-          headerVisible ? "translate-y-0" : "-translate-y-full"
-        }`}
+        className="flex items-center justify-between px-4 sm:px-6 py-3 backdrop-blur-sm z-30 shrink-0 transition-transform duration-300"
+        style={{
+          background: theme.uiBg,
+          borderBottom: `1px solid ${theme.uiBorder}`,
+          transform: headerVisible ? "translateY(0)" : "translateY(-100%)",
+        }}
       >
         <Link
           href="/"
-          className="text-[#c9a84c] text-[10px] sm:text-xs tracking-[0.25em] uppercase hover:text-[#e8c85a] transition-colors"
+          className="text-[10px] sm:text-xs tracking-[0.25em] uppercase transition-colors"
+          style={{ color: theme.uiAccent }}
         >
           Man Amongst the Clouds
         </Link>
 
-        <div className="flex items-center gap-2 sm:gap-3">
+        <div className="flex items-center gap-1 sm:gap-2">
+          {/* Settings toggle */}
           <button
-            onClick={() => setFontSize((s) => Math.max(80, s - 10))}
-            className="w-8 h-8 flex items-center justify-center text-[#666] hover:text-[#ededed] transition-colors text-sm rounded-full hover:bg-[#1a1a1a]"
-            title="Decrease font size"
+            onClick={() => setSettingsOpen((v) => !v)}
+            className="w-8 h-8 flex items-center justify-center transition-colors text-sm rounded-full"
+            style={{ color: settingsOpen ? theme.uiAccent : theme.uiText }}
+            title="Reading settings"
           >
-            A−
-          </button>
-          <span className="text-[10px] text-[#444] tabular-nums w-8 text-center">
-            {fontSize}%
-          </span>
-          <button
-            onClick={() => setFontSize((s) => Math.min(160, s + 10))}
-            className="w-8 h-8 flex items-center justify-center text-[#666] hover:text-[#ededed] transition-colors text-base rounded-full hover:bg-[#1a1a1a]"
-            title="Increase font size"
-          >
-            A+
+            ⚙
           </button>
 
-          <div className="w-px h-4 bg-[#222] mx-1" />
+          <div
+            className="w-px h-4 mx-1"
+            style={{ background: theme.uiBorder }}
+          />
 
+          {/* Contents */}
           <button
             onClick={() => setTocOpen((v) => !v)}
-            className="px-3 py-1.5 text-[10px] sm:text-xs tracking-wider uppercase text-[#666] hover:text-[#ededed] transition-colors rounded-full hover:bg-[#1a1a1a]"
+            className="px-3 py-1.5 text-[10px] sm:text-xs tracking-wider uppercase transition-colors rounded-full"
+            style={{ color: theme.uiText }}
           >
             Contents
           </button>
 
-          <div className="w-px h-4 bg-[#222] mx-1 hidden sm:block" />
+          <div
+            className="w-px h-4 mx-1 hidden sm:block"
+            style={{ background: theme.uiBorder }}
+          />
 
           <a
             href={downloadUrl}
-            className="px-3 py-1.5 text-[10px] sm:text-xs tracking-wider uppercase text-[#c9a84c]/70 hover:text-[#c9a84c] transition-colors hidden sm:inline-block"
+            className="px-3 py-1.5 text-[10px] sm:text-xs tracking-wider uppercase transition-colors hidden sm:inline-block"
+            style={{ color: theme.uiAccent, opacity: 0.7 }}
           >
             Download
           </a>
         </div>
       </div>
 
+      {/* Settings panel */}
+      {settingsOpen && (
+        <div
+          className="absolute top-[49px] right-4 z-40 w-72 rounded-lg shadow-2xl border p-5"
+          style={{ background: theme.tocBg, borderColor: theme.uiBorder }}
+        >
+          {/* Theme */}
+          <div className="mb-5">
+            <p
+              className="text-[10px] tracking-[0.2em] uppercase mb-3"
+              style={{ color: theme.uiMuted }}
+            >
+              Theme
+            </p>
+            <div className="flex gap-2">
+              {(Object.keys(THEMES) as ThemeId[]).map((id) => (
+                <button
+                  key={id}
+                  onClick={() => updatePref("theme", id)}
+                  className="flex-1 py-2.5 rounded text-xs tracking-wider transition-all border"
+                  style={{
+                    background: THEMES[id].bg,
+                    color: THEMES[id].text,
+                    borderColor:
+                      prefs.theme === id ? theme.uiAccent : theme.uiBorder,
+                    boxShadow:
+                      prefs.theme === id
+                        ? `0 0 0 1px ${theme.uiAccent}`
+                        : "none",
+                  }}
+                >
+                  {THEME_LABELS[id]}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Font size */}
+          <div className="mb-5">
+            <p
+              className="text-[10px] tracking-[0.2em] uppercase mb-3"
+              style={{ color: theme.uiMuted }}
+            >
+              Font Size
+            </p>
+            <div className="flex items-center gap-3">
+              <button
+                onClick={() =>
+                  updatePref("fontSize", Math.max(80, prefs.fontSize - 10))
+                }
+                className="w-9 h-9 flex items-center justify-center rounded-full border transition-colors text-sm"
+                style={{ borderColor: theme.uiBorder, color: theme.uiText }}
+              >
+                A−
+              </button>
+              <div className="flex-1 text-center">
+                <span
+                  className="text-sm tabular-nums font-medium"
+                  style={{ color: theme.text }}
+                >
+                  {prefs.fontSize}%
+                </span>
+              </div>
+              <button
+                onClick={() =>
+                  updatePref("fontSize", Math.min(180, prefs.fontSize + 10))
+                }
+                className="w-9 h-9 flex items-center justify-center rounded-full border transition-colors text-base"
+                style={{ borderColor: theme.uiBorder, color: theme.uiText }}
+              >
+                A+
+              </button>
+            </div>
+          </div>
+
+          {/* Line spacing */}
+          <div className="mb-5">
+            <p
+              className="text-[10px] tracking-[0.2em] uppercase mb-3"
+              style={{ color: theme.uiMuted }}
+            >
+              Line Spacing
+            </p>
+            <div className="flex gap-2">
+              {(Object.keys(SPACINGS) as SpacingId[]).map((id) => (
+                <button
+                  key={id}
+                  onClick={() => updatePref("spacing", id)}
+                  className="flex-1 py-2 rounded text-[10px] tracking-wider uppercase transition-all border"
+                  style={{
+                    background:
+                      prefs.spacing === id ? theme.uiAccent : "transparent",
+                    color:
+                      prefs.spacing === id
+                        ? prefs.theme === "dark"
+                          ? "#0a0a0a"
+                          : "#fff"
+                        : theme.uiText,
+                    borderColor:
+                      prefs.spacing === id ? theme.uiAccent : theme.uiBorder,
+                  }}
+                >
+                  {SPACING_LABELS[id]}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Column width */}
+          <div>
+            <p
+              className="text-[10px] tracking-[0.2em] uppercase mb-3"
+              style={{ color: theme.uiMuted }}
+            >
+              Column Width
+            </p>
+            <div className="flex gap-2">
+              {(Object.keys(WIDTHS) as WidthId[]).map((id) => (
+                <button
+                  key={id}
+                  onClick={() => updatePref("width", id)}
+                  className="flex-1 py-2 rounded text-[10px] tracking-wider uppercase transition-all border"
+                  style={{
+                    background:
+                      prefs.width === id ? theme.uiAccent : "transparent",
+                    color:
+                      prefs.width === id
+                        ? prefs.theme === "dark"
+                          ? "#0a0a0a"
+                          : "#fff"
+                        : theme.uiText,
+                    borderColor:
+                      prefs.width === id ? theme.uiAccent : theme.uiBorder,
+                  }}
+                >
+                  {WIDTH_LABELS[id]}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* TOC overlay */}
       {tocOpen && (
         <div className="fixed inset-0 z-40 flex">
           <div
-            className="absolute inset-0 bg-black/60 backdrop-blur-sm"
+            className="absolute inset-0 backdrop-blur-sm"
+            style={{ background: "rgba(0,0,0,0.5)" }}
             onClick={() => setTocOpen(false)}
           />
-          <div className="relative ml-auto w-80 max-w-[85vw] bg-[#0f0f0f] border-l border-[#1a1a1a] overflow-y-auto">
-            <div className="sticky top-0 bg-[#0f0f0f] p-5 border-b border-[#1a1a1a] flex items-center justify-between">
-              <h3 className="text-[#c9a84c] text-[10px] tracking-[0.3em] uppercase">
+          <div
+            className="relative ml-auto w-80 max-w-[85vw] overflow-y-auto border-l"
+            style={{ background: theme.tocBg, borderColor: theme.uiBorder }}
+          >
+            <div
+              className="sticky top-0 p-5 flex items-center justify-between border-b"
+              style={{ background: theme.tocBg, borderColor: theme.uiBorder }}
+            >
+              <h3
+                className="text-[10px] tracking-[0.3em] uppercase"
+                style={{ color: theme.uiAccent }}
+              >
                 Table of Contents
               </h3>
               <button
                 onClick={() => setTocOpen(false)}
-                className="w-8 h-8 flex items-center justify-center text-[#666] hover:text-[#ededed] transition-colors rounded-full hover:bg-[#1a1a1a]"
+                className="w-8 h-8 flex items-center justify-center transition-colors rounded-full"
+                style={{ color: theme.uiText }}
               >
                 ✕
               </button>
@@ -291,7 +640,16 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
                 <button
                   key={i}
                   onClick={() => goToChapter(item.href)}
-                  className="block w-full text-left px-5 py-3.5 text-sm text-[#999] hover:text-[#ededed] hover:bg-[#161616] transition-colors font-[Georgia,serif]"
+                  className="block w-full text-left px-5 py-3.5 text-sm transition-colors font-[Georgia,serif]"
+                  style={{ color: theme.uiText }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.background = theme.tocHover;
+                    e.currentTarget.style.color = theme.text;
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.background = "transparent";
+                    e.currentTarget.style.color = theme.uiText;
+                  }}
                 >
                   {item.label?.trim()}
                 </button>
@@ -301,43 +659,62 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
         </div>
       )}
 
+      {/* Click-away to close settings */}
+      {settingsOpen && (
+        <div
+          className="fixed inset-0 z-30"
+          onClick={() => setSettingsOpen(false)}
+        />
+      )}
+
       {/* Reading area */}
       <div
         ref={scrollContainerRef}
         className="flex-1 overflow-y-auto overflow-x-hidden"
         style={{ WebkitOverflowScrolling: "touch" }}
       >
-        <div className="max-w-2xl mx-auto px-6 sm:px-10 md:px-16">
+        <div
+          className={`${WIDTHS[prefs.width]} mx-auto px-6 sm:px-10 md:px-16`}
+        >
           <div ref={viewerRef} className="min-h-screen py-8" />
         </div>
       </div>
 
       {/* Bottom navigation bar */}
-      <div className="flex items-center justify-between px-4 sm:px-6 py-2.5 bg-[#0a0a0a]/95 backdrop-blur-sm border-t border-[#1a1a1a] z-20 shrink-0">
+      <div
+        className="flex items-center justify-between px-4 sm:px-6 py-2.5 backdrop-blur-sm z-20 shrink-0"
+        style={{
+          background: theme.uiBg,
+          borderTop: `1px solid ${theme.uiBorder}`,
+        }}
+      >
         <button
           onClick={goPrev}
           disabled={atStart}
-          className={`flex items-center gap-2 px-4 py-2 text-xs tracking-wider uppercase transition-colors rounded-full ${
-            atStart
-              ? "text-[#333] cursor-default"
-              : "text-[#888] hover:text-[#ededed] hover:bg-[#1a1a1a]"
-          }`}
+          className="flex items-center gap-2 px-4 py-2 text-xs tracking-wider uppercase transition-colors rounded-full"
+          style={{
+            color: atStart ? theme.uiBorder : theme.uiText,
+            cursor: atStart ? "default" : "pointer",
+          }}
         >
           ← Prev
         </button>
 
-        <p className="text-[10px] text-[#555] tracking-wider truncate max-w-[50%] text-center font-[Georgia,serif] italic">
+        <p
+          className="text-[10px] tracking-wider truncate max-w-[50%] text-center font-[Georgia,serif] italic"
+          style={{ color: theme.uiMuted }}
+        >
           {chapter}
         </p>
 
         <button
           onClick={goNext}
           disabled={atEnd}
-          className={`flex items-center gap-2 px-4 py-2 text-xs tracking-wider uppercase transition-colors rounded-full ${
-            atEnd
-              ? "text-[#333] cursor-default"
-              : "text-[#888] hover:text-[#ededed] hover:bg-[#1a1a1a]"
-          }`}
+          className="flex items-center gap-2 px-4 py-2 text-xs tracking-wider uppercase transition-colors rounded-full"
+          style={{
+            color: atEnd ? theme.uiBorder : theme.uiText,
+            cursor: atEnd ? "default" : "pointer",
+          }}
         >
           Next →
         </button>
@@ -345,9 +722,15 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
 
       {/* Loading / Error overlay */}
       {(loading || error) && (
-        <div className="fixed inset-0 flex items-center justify-center bg-[#0a0a0a] z-50">
+        <div
+          className="fixed inset-0 flex items-center justify-center z-50"
+          style={{ background: theme.overlayBg }}
+        >
           <div className="text-center max-w-md px-6">
-            <p className="text-[#c9a84c] text-[10px] tracking-[0.4em] uppercase mb-6">
+            <p
+              className="text-[10px] tracking-[0.4em] uppercase mb-6"
+              style={{ color: theme.uiAccent }}
+            >
               Stillfire Press
             </p>
             {error ? (
@@ -355,11 +738,12 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
                 <p className="text-[#ff6b6b] text-sm mb-4 font-[Georgia,serif]">
                   {error}
                 </p>
-                <p className="text-[#555] text-xs">
+                <p className="text-xs" style={{ color: theme.uiMuted }}>
                   Try refreshing, or{" "}
                   <a
                     href={`/api/download/${token}`}
-                    className="text-[#c9a84c] underline"
+                    className="underline"
+                    style={{ color: theme.uiAccent }}
                   >
                     download the EPUB
                   </a>{" "}
@@ -368,8 +752,17 @@ export default function EpubReader({ url, token }: EpubReaderProps) {
               </>
             ) : (
               <div>
-                <div className="w-8 h-8 border-2 border-[#c9a84c]/20 border-t-[#c9a84c] rounded-full animate-spin mx-auto mb-6" />
-                <p className="text-[#888] text-sm font-[Georgia,serif]">
+                <div
+                  className="w-8 h-8 border-2 rounded-full animate-spin mx-auto mb-6"
+                  style={{
+                    borderColor: `${theme.uiAccent}33`,
+                    borderTopColor: theme.uiAccent,
+                  }}
+                />
+                <p
+                  className="text-sm font-[Georgia,serif]"
+                  style={{ color: theme.uiText }}
+                >
                   Preparing your book...
                 </p>
               </div>
