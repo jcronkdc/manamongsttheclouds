@@ -24,7 +24,8 @@ export const metadata: Metadata = {
   },
 };
 
-const CHAPTER_META: { title: string; pov: string }[] = [
+const CHAPTER_META: { title: string; pov: string; file?: string }[] = [
+  { title: "The First Song", pov: "", file: "prologue.md" },
   { title: "The Herbs", pov: "Aelo" },
   { title: "The Collection", pov: "The Knife" },
   { title: "The Blue Sun", pov: "Aelo" },
@@ -43,6 +44,11 @@ function markdownToHtml(md: string): string {
     .replace(new RegExp("^# PART ONE:[\\s\\S]*?\\n\\n"), "")
     .replace(
       new RegExp('^_"In the time before[\\s\\S]*?"_\\s*\\n\\n---\\s*\\n\\n'),
+      "",
+    )
+    // strip prologue heading + title + divider
+    .replace(
+      new RegExp("^# PROLOGUE\\s*\\n\\n## [\\s\\S]+?\\s*\\n\\n---\\s*\\n\\n"),
       "",
     )
     // strip chapter heading + title + divider
@@ -80,11 +86,9 @@ export default function PartOnePage() {
   const manuscriptDir = path.join(process.cwd(), "content", "chapters");
 
   const chapters = CHAPTER_META.map((meta, i) => {
-    const num = i + 1;
-    const filePath = path.join(
-      manuscriptDir,
-      `chapter_${String(num).padStart(2, "0")}.md`,
-    );
+    const num = i; // 0 = prologue, 1-10 = chapters
+    const fileName = meta.file || `chapter_${String(num).padStart(2, "0")}.md`;
+    const filePath = path.join(manuscriptDir, fileName);
     const raw = fs.readFileSync(filePath, "utf-8");
     return {
       number: num,

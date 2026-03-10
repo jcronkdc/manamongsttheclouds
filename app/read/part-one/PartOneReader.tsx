@@ -44,7 +44,7 @@ interface Comment {
 /* ------------------------------------------------------------------ */
 
 export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
-  const [activeChapter, setActiveChapter] = useState<number | null>(1);
+  const [activeChapter, setActiveChapter] = useState<number | null>(0);
   const [showSupport, setShowSupport] = useState(false);
   const [copied, setCopied] = useState(false);
   const [showFeedback, setShowFeedback] = useState<Record<string, boolean>>({});
@@ -378,14 +378,18 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 >
                   <div>
                     <span className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.3em] uppercase text-[#c9a84c]">
-                      Chapter {chapter.number}
+                      {chapter.number === 0
+                        ? "Prologue"
+                        : `Chapter ${chapter.number}`}
                     </span>
                     <h3 className="font-[family-name:var(--font-serif)] text-lg sm:text-xl text-[#ededed] mt-1">
                       {chapter.title}
                     </h3>
-                    <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#666] mt-1 tracking-wider">
-                      {chapter.pov}
-                    </p>
+                    {chapter.pov && (
+                      <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#666] mt-1 tracking-wider">
+                        {chapter.pov}
+                      </p>
+                    )}
                   </div>
                   {isOpen ? (
                     <ChevronUp className="w-5 h-5 text-[#888] flex-shrink-0" />

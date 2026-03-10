@@ -29,42 +29,43 @@ test.describe("Part One: The Still Water — Interactive Reading Experience", ()
   /*  Chapter accordion                                                  */
   /* ------------------------------------------------------------------ */
 
-  test("all 10 chapters are listed", async ({ page }) => {
+  test("prologue and all 10 chapters are listed", async ({ page }) => {
+    await expect(page.locator("#chapter-0")).toBeVisible();
     for (let i = 1; i <= 10; i++) {
       await expect(page.locator(`#chapter-${i}`)).toBeVisible();
     }
   });
 
-  test("chapter 1 is expanded by default with prose content", async ({
+  test("prologue is expanded by default with prose content", async ({
     page,
   }) => {
+    const prologue = page.locator("#chapter-0");
+    await expect(prologue.locator(".chapter-prose")).toBeVisible();
+    await expect(
+      prologue.locator("text=Before there were kings"),
+    ).toBeVisible();
+  });
+
+  test("chapter 1 is collapsed by default", async ({ page }) => {
     const ch1 = page.locator("#chapter-1");
+    await expect(ch1.locator(".chapter-prose")).not.toBeVisible();
+  });
+
+  test("clicking a collapsed chapter expands it", async ({ page }) => {
+    const ch1 = page.locator("#chapter-1");
+    await ch1.locator("button").click();
     await expect(ch1.locator(".chapter-prose")).toBeVisible();
-    // First line of chapter 1
     await expect(
       ch1.locator("text=Aelo tasted smoke in his sleep"),
     ).toBeVisible();
   });
 
-  test("chapter 2 is collapsed by default", async ({ page }) => {
-    const ch2 = page.locator("#chapter-2");
-    await expect(ch2.locator(".chapter-prose")).not.toBeVisible();
-  });
-
-  test("clicking a collapsed chapter expands it", async ({ page }) => {
-    const ch2 = page.locator("#chapter-2");
-    await ch2.locator("button").click();
-    await expect(ch2.locator(".chapter-prose")).toBeVisible();
-    // First line of chapter 2
-    await expect(ch2.locator("text=Blue. That much he knew")).toBeVisible();
-  });
-
   test("clicking an expanded chapter collapses it", async ({ page }) => {
-    const ch1 = page.locator("#chapter-1");
-    // Ch1 is open by default
-    await expect(ch1.locator(".chapter-prose")).toBeVisible();
-    await ch1.locator("button").first().click();
-    await expect(ch1.locator(".chapter-prose")).not.toBeVisible();
+    const prologue = page.locator("#chapter-0");
+    // Prologue is open by default
+    await expect(prologue.locator(".chapter-prose")).toBeVisible();
+    await prologue.locator("button").first().click();
+    await expect(prologue.locator(".chapter-prose")).not.toBeVisible();
   });
 
   test("chapter titles and POV characters are correct", async ({ page }) => {
@@ -95,6 +96,8 @@ test.describe("Part One: The Still Water — Interactive Reading Experience", ()
     page,
   }) => {
     const ch1 = page.locator("#chapter-1");
+    // Expand chapter 1 first (prologue is open by default)
+    await ch1.locator("button").first().click();
     // Comment form is hidden by default
     await expect(ch1.locator("text=Chapter 1 Feedback")).not.toBeVisible();
     // Toggle exists
@@ -116,7 +119,9 @@ test.describe("Part One: The Still Water — Interactive Reading Experience", ()
     const ch1 = page.locator("#chapter-1");
     const uniqueName = `E2E-${Date.now()}`;
 
-    // Open feedback panel first
+    // Expand chapter 1 first
+    await ch1.locator("button").first().click();
+    // Open feedback panel
     await ch1.getByText("Leave feedback").click();
 
     // Select "I liked this" sentiment
@@ -150,7 +155,9 @@ test.describe("Part One: The Still Water — Interactive Reading Experience", ()
     page,
   }) => {
     const ch1 = page.locator("#chapter-1");
-    // Open feedback panel first
+    // Expand chapter 1 first
+    await ch1.locator("button").first().click();
+    // Open feedback panel
     await ch1.getByText("Leave feedback").click();
     const sendBtn = ch1.locator("button:has(svg.lucide-send)");
     await expect(sendBtn).toBeDisabled();

@@ -34,6 +34,8 @@ function mdToXhtml(md) {
     // strip Part One header + epigraph that only appears in ch1
     .replace(/^# PART ONE:.*?\n\n/s, "")
     .replace(/^_"In the time before.*?"_\s*\n\n---\s*\n\n/s, "")
+    // strip prologue heading + title + divider
+    .replace(/^# PROLOGUE\s*\n\n## .+?\s*\n\n---\s*\n\n/s, "")
     // strip chapter heading + title + divider
     .replace(/^# Chapter \d+\s*\n\n## .+?\s*\n\n---\s*\n\n/s, "")
     .trim();
@@ -58,6 +60,24 @@ function mdToXhtml(md) {
     .join("\n");
 
   return html;
+}
+
+function buildPrologueXhtml(title, bodyHtml) {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Prologue: ${title}</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+  <h2>Prologue</h2>
+  <h3>${title}</h3>
+  <hr/>
+  ${bodyHtml}
+</body>
+</html>`;
 }
 
 function buildChapterXhtml(num, title, bodyHtml) {
@@ -132,9 +152,13 @@ const tocNcx = (chapters) => `<?xml version="1.0" encoding="UTF-8"?>
       <navLabel><text>Title Page</text></navLabel>
       <content src="title.xhtml"/>
     </navPoint>
+    <navPoint id="prologue" playOrder="2">
+      <navLabel><text>Prologue: The First Song</text></navLabel>
+      <content src="prologue.xhtml"/>
+    </navPoint>
 ${chapters
   .map(
-    (c, i) => `    <navPoint id="ch${i + 1}" playOrder="${i + 2}">
+    (c, i) => `    <navPoint id="ch${i + 1}" playOrder="${i + 3}">
       <navLabel><text>Chapter ${i + 1}: ${c.title}</text></navLabel>
       <content src="chapter_${String(i + 1).padStart(2, "0")}.xhtml"/>
     </navPoint>`,
@@ -159,6 +183,7 @@ const contentOpf = (chapters) => `<?xml version="1.0" encoding="UTF-8"?>
     <item id="style" href="style.css" media-type="text/css"/>
     <item id="cover-image" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
     <item id="title-page" href="title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue" href="prologue.xhtml" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 ${chapters
   .map(
@@ -169,6 +194,7 @@ ${chapters
   </manifest>
   <spine toc="ncx">
     <itemref idref="title-page"/>
+    <itemref idref="prologue"/>
 ${chapters.map((_, i) => `    <itemref idref="ch${i + 1}"/>`).join("\n")}
   </spine>
 </package>`;
@@ -205,6 +231,12 @@ archive.append(titlePageXhtml, { name: "OEBPS/title.xhtml" });
 // Cover image
 const coverData = readFileSync(COVER_SRC);
 archive.append(coverData, { name: "OEBPS/cover.jpg" });
+
+// Prologue
+const prologueMd = readFileSync(join(CHAPTERS_DIR, "prologue.md"), "utf-8");
+const prologueHtml = mdToXhtml(prologueMd);
+const prologueXhtml = buildPrologueXhtml("The First Song", prologueHtml);
+archive.append(prologueXhtml, { name: "OEBPS/prologue.xhtml" });
 
 // Chapter files
 for (let i = 0; i < 10; i++) {

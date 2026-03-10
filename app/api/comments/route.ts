@@ -3,6 +3,7 @@ import { supabase } from "@/app/lib/supabase";
 
 const VALID_KEYS = new Set([
   "general",
+  "chapter-0",
   ...Array.from({ length: 10 }, (_, i) => `chapter-${i + 1}`),
 ]);
 
