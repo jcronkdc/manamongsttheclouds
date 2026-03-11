@@ -72,7 +72,7 @@ Jalo walked two more steps before the absence of the boy's footfall registered. 
 
 Laine stopped too. She did not turn. She had felt it before it happened — the shift in Aelo's trajectory, the moment the momentum changed, the line bending from south to north with the specific, irreversible quality of a decision that has been made in the blood before it has been made in the mind.
 
-"We can't keep running," Aelo said. The iron taste was there — in his mouth, behind his teeth, the old coal from the hollow tree finally finding its voice. Not anger now. Not the wanting, not the lunge. Something the anger had become after being carried long enough: conviction.
+"We can't keep running," Aelo said. The iron taste was there — in his mouth, behind his teeth, the old coal from the hollow tree finally finding its voice. The anger had changed. He had carried it long enough that it had become something else, something with edges and direction. Conviction.
 
 The words came out steady. Not the voice of a boy who was scared — though he was scared, the terror was there, the Guide's three futures were there, the knowledge that two of the three ended in failure or emptiness was there. The voice of a boy who had weighed the futures and had found that the weight of the third — the one Laine would not describe, the one that ended in change and cost and the silence where a person used to be — was less than the weight of running. Less than the weight of a life lived empty because the thing he was made to do was never done. Less than the weight of Jalo's trajectory ending soon, and the ending meaning nothing if the thing the ending bought was a boy who ran.
 

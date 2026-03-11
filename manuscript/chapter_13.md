@@ -98,7 +98,7 @@ And there were shadows. Not visual — emotional. The ghost of a comb pulling th
 
 "You saw what I chose to show you," Oren said. "A Knower who enters without permission sees what the mind chooses to defend. The corridors. The locks. The walls." He released Aelo's hands. "Remember this: a mind that shows you its garden is a mind that trusts you. Do not enter where you are not invited. The gardens are sacred."
 
-Aelo filed this. Not in the room with Jalo's lies — this was not deception. Not in the room with Sereth's violations — this was not control. A third room, then. A room for lessons that changed the shape of the ones that came before. Because the monk's words reframed everything: Jalo's herbs had not just silenced Aelo's voice. They had locked every door in his mind without asking. And Sereth's clinical observation in the clearing — _I needed to see what you felt without the warning_ — had been a Knower entering without permission, reading what his mind chose to defend.
+Aelo filed this. He was running out of rooms. The monk's words had reframed everything — Jalo's herbs hadn't just silenced his voice, they had locked every door in his mind without asking. And Sereth, in the clearing, watching him lunge and saying _I needed to see what you felt without the warning_ — that had been a Knower entering without permission. Reading what his mind chose to defend. The monk would have called it a violation. Aelo didn't have a word for it yet. He just knew it belonged in a room by itself.
 
 ---
 

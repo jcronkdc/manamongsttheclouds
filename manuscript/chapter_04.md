@@ -112,13 +112,13 @@ It had not been relief that the herbs were working. It had been grief that they 
 
 The understanding lasted half a second. Then the anger came.
 
-It was not the clean anger of betrayal — the sharp, theatrical fury that stories gave to wronged princes. It was low and hot and physical, a pressure behind his sternum that tasted like the iron flash from the dead bird, and it wanted to _hurt_. He looked at Jalo's ruined face and the trembling hands and the knee that had carried them both through fifteen years of careful, loving deception, and he thought — clearly, viciously, in a voice he did not recognize as his own: _You had no right._
+The anger was low and hot and physical, a pressure behind his sternum that tasted like the iron flash from the dead bird. It wanted to _hurt_. He looked at Jalo's ruined face and the trembling hands and the knee that had carried them both through fifteen years of careful, loving deception, and he thought — clearly, viciously, in a voice he did not recognize as his own: _You had no right._
 
 "You drugged me," Aelo said. The word was wrong — too small, too clinical — but it was the only one he had. "Every morning. My entire life. You put something in my food that—"
 
 "Kept you alive." Jalo's voice was raw. "Yes. Every morning. Your entire life. I put something in your food that kept Varas from finding you and killing you the way he killed your mother and imprisoned your father and erased your brother from the memory of the world."
 
-The anger did not leave. It heard Jalo's reasons and acknowledged them and stayed. It settled behind Aelo's ribs like a coal pushed to the back of a fire — not extinguished, not visible, but radiating. He would carry it for a long time. He did not know this yet.
+The anger did not leave. It heard Jalo's reasons and acknowledged them and stayed, settling behind his ribs like a coal pushed to the back of a fire.
 
 "My brother?"
 

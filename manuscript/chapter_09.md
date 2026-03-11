@@ -94,8 +94,6 @@ The wall remembered him.
 
 Aelo felt it — a recognition, a response, the wood identifying the hand that touched it the way a dog identifies its owner: not by sight or sound but by something deeper, a resonance between the living wood and the living flesh that had been established years ago and maintained by absence, the way a path through a forest maintains itself even when no one walks it because the trees remember the shape of the walking.
 
-A gate appeared. Not opened — _appeared_. The fused trunks separated, the bark pulling apart like a wound reopening, revealing a passage wide enough for three people to walk abreast. Beyond: light. Not forest light — open light. The grey, unobstructed light of the sky.
-
 Jalo stepped through. He turned. He looked at Aelo.
 
 Then he did something he had never done. He knelt.

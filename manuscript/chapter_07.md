@@ -56,7 +56,7 @@ Aelo was on his hands and knees. Tears on his face. Snot on his lip. Throat raw.
 
 "Good," said a voice that was not Jalo's.
 
-Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him. Through the shattered remnants of his pocket, her emotional signature came through — and it was not what he expected. Not the salt-grief. Not the patient sadness of the old woman she was pretending to be. What he felt from Sereth was _attention_. Focused, layered, precise. The attention of someone observing a process she had seen before and was comparing, point by point, against an internal record. Not empathy. Measurement.
+Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him. Through the shattered remnants of his pocket, her emotional signature came through — and it was wrong. He had expected the salt-grief, the patient sadness of the old woman she was pretending to be. What he felt instead was _attention_. Focused, layered, precise. She was comparing him against an internal record, checking his responses point by point. The feeling had no warmth in it. It was measurement.
 
 "That was not good," Aelo said. His voice was different. Lower. Rougher. A voice that had aged a year overnight.
 
@@ -90,7 +90,7 @@ He gasped. The anger was there again — the iron taste from the bird, from the 
 
 The wanting frightened him. It tasted like something that did not belong to the boy who buried birds and cried and forgave. It tasted like something older. Something inherited.
 
-"There it is," Sereth said. Her voice was quiet. Not alarmed. Not comforting. _Cataloguing_. The tone of someone checking an item off a list. "The hunger. Fletcher had it too. Your mother had it. Every Singer who has ever carried more than one discipline has felt that exact impulse — the need to take rather than receive. It is the first thing the Song teaches you about yourself."
+"There it is," Sereth said. Her voice was quiet — the tone of someone checking an item off a list. "The hunger. Fletcher had it too. Your mother had it. Every Singer who has ever carried more than one discipline has felt that exact impulse — the need to take rather than receive. It is the first thing the Song teaches you about yourself."
 
 Aelo looked at her. Through the Know — through the overwhelmed, battered, barely-functioning pocket that was all he had — he felt something in Sereth's emotional register that he had not felt before. Not grief. Not the salt-and-age that had become her default flavor. Something sharper. _Interest._ The focused, specific attention of a person observing a result they had predicted. She was not worried about the hunger. She was watching to see what he did with it.
 
@@ -102,7 +102,7 @@ Aelo looked at her. Through the Know — through the overwhelmed, battered, bare
 
 "The warning would have changed what you felt. I needed to see what you felt without the warning." She held his gaze. The depth in her eyes was not warm. It was not cold. It was the depth of a physician examining a symptom — clinical, necessary, and entirely unconcerned with the patient's comfort. "Now I have."
 
-The words sat between them. Aelo filed this too — not in the room with Jalo's lies, but in a new room. A room for things that were true and still felt like violations.
+The words sat between them. Aelo filed this in a new room — separate from Jalo's lies, which were deceptions, and separate from grief, which was honest. This room was for things that were true and still felt like violations.
 
 Third attempt.
 

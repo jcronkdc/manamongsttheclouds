@@ -112,7 +112,7 @@ He sat in the roots of the elm with a dead bird in his hands and he cried. Not l
 
 It was grief for himself. For the thing he almost was. The door he almost opened.
 
-And then — brief, hot, startling — anger. Not at the bird. Not at Jalo or the herbs or the world that had shown him a door and then locked it. At himself. At his own hands, which had held a living thing and done _nothing_. The anger flared — ugly, alien, belonging to someone other than the boy he thought he was — and it frightened him more than the death had.
+And then — brief, hot, startling — anger. He couldn't aim it. It wasn't about the bird or Jalo or the herbs or the locked door. It was about his hands, which had held a living thing and done _nothing_, and the anger was ugly and it didn't belong to the boy he thought he was and it frightened him more than the death had.
 
 It passed. It left a taste like iron.
 
