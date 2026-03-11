@@ -1,0 +1,16 @@
+{
+  "name": "matc-blockchain-proof",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Blockchain proof of authorship for Man Amongst the Clouds",
+  "scripts": {
+    "prove": "node prove-manuscript.js",
+    "prove:submit": "node prove-manuscript.js --submit",
+    "verify": "node verify-proof.js",
+    "wallet:create": "node setup-wallet.js create",
+    "wallet:check": "node setup-wallet.js check"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  }
+}

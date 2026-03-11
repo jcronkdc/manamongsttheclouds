@@ -1,0 +1,2990 @@
+{
+  "version": "1.0",
+  "type": "proof-of-authorship",
+  "creator": {
+    "name": "Justin Cronk",
+    "project": "Man Amongst the Clouds",
+    "claim": "I am the original author of this novel and all associated materials. This story was written by me over a period of nine years, from March 2017 to March 2026. No artificial intelligence was used to write any prose, dialogue, or narrative content in this work.",
+    "contact": "justincronk@cronkcompaniesllc.com"
+  },
+  "work": {
+    "title": "Man Amongst the Clouds",
+    "author": "Justin Cronk",
+    "type": "Novel — Fantasy Fiction",
+    "beganWriting": "March 2017",
+    "completedManuscript": "March 2026",
+    "structure": "5 Parts, 48 Chapters, ~115,000 words",
+    "description": "A fantasy novel where magic is memory — the world remembers everything, and magic is communing with those memories. The story follows a young man who discovers he can Sing, the rarest and most dangerous of the seven magical disciplines, as he navigates a world where a tyrant king steals the memories of others to fuel his stolen power."
+  },
+  "aiTransparency": {
+    "statement": "This novel was written entirely by Justin Cronk. AI was never used to generate prose, dialogue, characters, plot, or any narrative content. AI tools were used solely as editorial aids — in place of a professional copywriter — to identify plot holes, flag inconsistencies, and pressure-test internal logic across a 48-chapter manuscript. The story, the voice, the world, and every word on the page are the author's own.",
+    "aiUsedFor": [
+      "Identifying plot holes and continuity errors",
+      "Flagging inconsistencies in character details across chapters",
+      "Pressure-testing internal logic of the magic system",
+      "Copyediting assistance (grammar, spelling, punctuation)"
+    ],
+    "aiNeverUsedFor": [
+      "Writing prose, dialogue, or narrative content",
+      "Generating characters, plot points, or world-building",
+      "Rewriting or paraphrasing the author's original text",
+      "Creating any content that appears in the final manuscript"
+    ],
+    "verificationLinks": [
+      "https://gptzero.me/ — AI content detection (paste any chapter)",
+      "https://originality.ai/ — Professional AI detection and plagiarism check"
+    ]
+  },
+  "proof": {
+    "merkleRoot": "afbda03e71191c620705fe1f935a5003f0d0919f1aed304ee330151a978e4804",
+    "merkleRootBytes32": "0xafbda03e71191c620705fe1f935a5003f0d0919f1aed304ee330151a978e4804",
+    "fileCount": 581,
+    "totalSize": 7307376,
+    "totalSizeMB": "6.97",
+    "timestamp": "2026-03-09T15:41:17.645Z",
+    "unixTimestamp": 1773070877
+  },
+  "blockchain": {
+    "network": "polygon",
+    "chainId": 137,
+    "contractAddress": "pending-deployment",
+    "transactionHash": "pending",
+    "blockNumber": null,
+    "confirmedAt": null
+  },
+  "verification": {
+    "instructions": [
+      "1. Compute SHA-256 hash of any file in this project",
+      "2. Verify the hash exists in the manifest below (proves file was part of proof)",
+      "3. Verify Merkle inclusion path (cryptographic proof)",
+      "4. Check blockchain for Merkle root at PolygonScan.com",
+      "5. Transaction sender wallet proves creator identity"
+    ],
+    "verifyUrl": "https://polygonscan.com/tx/",
+    "aiDetection": [
+      "https://gptzero.me/",
+      "https://originality.ai/"
+    ]
+  },
+  "legal": {
+    "disclaimer": "This proof certifies that the specified files existed at the recorded timestamp. The proof was created by hashing all manuscript and associated files and storing the Merkle root on the Polygon blockchain. This constitutes cryptographic proof of existence and authorship at the specified time, admissible as evidence in legal proceedings.",
+    "copyright": "© 2026 Justin Cronk / Cronk Companies LLC. All rights reserved."
+  },
+  "statistics": {
+    "filesByType": {
+      "md": 77,
+      "docx": 3,
+      "html": 1,
+      "py": 427,
+      "json": 1,
+      "txt": 72
+    }
+  },
+  "manifest": [
+    {
+      "path": "01_PROTAGONIST_NAME.md",
+      "size": 2600,
+      "hash": "0de6fda1c435acb9de05a834014ff94edc07f88e5ccb7bd3fbc8316557edd88e"
+    },
+    {
+      "path": "02_MAGIC_SYSTEM.md",
+      "size": 12795,
+      "hash": "cfc22c0397148defd873e4a37872ef97eb5568547ca130b576036c7415179c45"
+    },
+    {
+      "path": "03_CHARACTER_BIBLE.md",
+      "size": 26806,
+      "hash": "67e5774504b57dff40be8e8468feabffebf3a8408684b69f63f0b04576b123a3"
+    },
+    {
+      "path": "04_WORLD_AND_REGIONS.md",
+      "size": 19339,
+      "hash": "39eecca167833dbce604efec1b39f897d1597cd2b07e1169ad1fb558f4d74d70"
+    },
+    {
+      "path": "05_OUTLINE_PART_1.md",
+      "size": 13125,
+      "hash": "17351743a1f7243420d26ee6e0f2da428d19d41107a5e810aeecf34eb5708397"
+    },
+    {
+      "path": "06_OUTLINE_PART_2.md",
+      "size": 20280,
+      "hash": "57bf7d73dab323967b100e99353aeb63c6e14695d743144290e12cab56b86207"
+    },
+    {
+      "path": "07_OUTLINE_PART_3.md",
+      "size": 29059,
+      "hash": "e8de4b492648c888af9e9d31d2a5810f49de2a81735b8f3c883cd0fd43908eac"
+    },
+    {
+      "path": "08_OUTLINE_PART_4.md",
+      "size": 27531,
+      "hash": "d761de52f7b9a4f51095be51d13e4764754fdd1c3f1b12ca478c0d4942ff3510"
+    },
+    {
+      "path": "09_OUTLINE_PART_5.md",
+      "size": 20164,
+      "hash": "a67983b440b9ce410a89de84c183c97fde9b30b7edc893568dfb04a9472a1da1"
+    },
+    {
+      "path": "BOOK_BIBLE.md",
+      "size": 3863,
+      "hash": "e3f666339893e9f9548041ea99c69da282e7b1ed079f6784545e36d5c918cc38"
+    },
+    {
+      "path": "BOOK_BIBLE_2.md",
+      "size": 5224,
+      "hash": "9ff5e3818130557fcae87d7d2cc77bdcda1f400583f1ec8c820fedcaafb9a914"
+    },
+    {
+      "path": "BOOK_BIBLE_3.md",
+      "size": 11187,
+      "hash": "ffc5d3caee352107d37ba012a2ab23daf16cf160c92ece9d3fe755005b7d7b39"
+    },
+    {
+      "path": "Man Amongst the Clouds - Manuscript.docx",
+      "size": 357749,
+      "hash": "364086921dd8d731284b20870b9d58840fc2f629ec2006b0f124025aa22e98c5"
+    },
+    {
+      "path": "Man Amongst the Clouds - Print Copy.docx",
+      "size": 357569,
+      "hash": "af2484fac0ffa9da6acd04de351459d1f1e78f66a540a238fff94047996ad871"
+    },
+    {
+      "path": "Part I - The Still Water.docx",
+      "size": 113629,
+      "hash": "f5104205604151aeaca21994a54c452866dc4cc5cdabede43a396e1746402a96"
+    },
+    {
+      "path": "binder_cover.html",
+      "size": 16949,
+      "hash": "641b6ccb26712386f3a727ded6fa73d9d7c5c80ef4f30230bd9e2c9bdbee0719"
+    },
+    {
+      "path": "blockchain/hash_manuscript.py",
+      "size": 3778,
+      "hash": "2589e4dcbca256cadf0a4bd6fea7d3c105e42562f1af7fd09da298e228be2e2a"
+    },
+    {
+      "path": "blockchain/manuscript_proof.json",
+      "size": 6944,
+      "hash": "a5cabebb6d2ffb58514e3bf21b2cec913bb9f095f8467c0d709d54dc5c122e53"
+    },
+    {
+      "path": "build_manuscript.py",
+      "size": 11432,
+      "hash": "eefed1bafd559e8e4386e7ef37b6e1d0e3f10c7d192fc1a3872a87c156368a57"
+    },
+    {
+      "path": "build_part1.py",
+      "size": 8965,
+      "hash": "d456ef9a9f2ce552758b5c05f037a92f53ca12df25b9ac73c96d8a7bece51f2f"
+    },
+    {
+      "path": "build_part1_epub.py",
+      "size": 7170,
+      "hash": "69eb48d4575990d3f00c280d3dce0a95647bdcf856502e519e73ad45a0a124c3"
+    },
+    {
+      "path": "build_print_copy.py",
+      "size": 12584,
+      "hash": "6b108b8e8a12c69a9b0237b212271af4d9cf3f62c47d355f37756d61cc84f759"
+    },
+    {
+      "path": "extracted_notes/00_garnet Crystals Used In Aggressive Magick  Witch University.txt",
+      "size": 8354,
+      "hash": "e177789fb033c9e1a2a2466dd1f85e44c10d94408bc5cd43f0a6bea8c65278cf"
+    },
+    {
+      "path": "extracted_notes/01_10 Largest Castles in the World with Photos  Map - Touropia.txt",
+      "size": 12369,
+      "hash": "938cc85ebbefe2b1a1d858fadb829126025665a246e2ee46e13f198bbc8a8a42"
+    },
+    {
+      "path": "extracted_notes/02_Abadjyang - YouTube.txt",
+      "size": 788,
+      "hash": "593d53239c90d0ae76caf4946176bb7eed86daa2594a77595bf3cef87976d888"
+    },
+    {
+      "path": "extracted_notes/03_Alchemical Elixirs -- Introduction to Spagyrics - YouTube.txt",
+      "size": 6662,
+      "hash": "5b8f3a797d9dbe3765a7946708c5ab0bbababe8cd677ab69fc9f3874efad2d29"
+    },
+    {
+      "path": "extracted_notes/04_Beasts.txt",
+      "size": 261,
+      "hash": "fe1d184d1992407476c25856dd0e4ce2dd3f5ed99f96a244839ea9af81e85851"
+    },
+    {
+      "path": "extracted_notes/05_Black Market.txt",
+      "size": 230,
+      "hash": "dcd040310a6e915b2d9455deea725954017fe9dee4b48a45a811bf8342a5ace0"
+    },
+    {
+      "path": "extracted_notes/06_Castle.txt",
+      "size": 298,
+      "hash": "86ecd9a6a7460ece6ee6cfc67a1ded9cbdbe8f02ad21397841cab9e1acabb830"
+    },
+    {
+      "path": "extracted_notes/07_Color Magick Reference Chart  The Magickal Cat Online PaganWiccan Store.txt",
+      "size": 4847,
+      "hash": "fa2b9784f3893127964b7b554d4744bea2c448f3d75716cbd5519a9af81bda39"
+    },
+    {
+      "path": "extracted_notes/08_Crystals Gems  Metals Magical Properties  The Village Witch Shop UK Witchcraft H.txt",
+      "size": 13741,
+      "hash": "51fdfe4b1791f583600bc3119d81a9b00bcb0d85515b362e39c416fa51228320"
+    },
+    {
+      "path": "extracted_notes/09_Currency.txt",
+      "size": 131,
+      "hash": "7f6db5775c577a78c003b7ad0e57fb8ac6d22935ad1899b411383734bd6183be"
+    },
+    {
+      "path": "extracted_notes/10_Dictionary.txt",
+      "size": 133,
+      "hash": "7df1d9ffc5a32e6edb7d101025896a12af57d040cdf61c34ee51c2e19d156e99"
+    },
+    {
+      "path": "extracted_notes/11_Early Medieval timber work - YouTube.txt",
+      "size": 9887,
+      "hash": "f1783823fe9bc02c920e654ae1d306b00ca9ffadf0e748ceef969088abdb3584"
+    },
+    {
+      "path": "extracted_notes/12_Early Medieval timber work - YouTube.txt",
+      "size": 9887,
+      "hash": "cda1ebee1ddfc00c10fbb11d9c6733b98d7032d08bb6a0525f9b8fc4715bf011"
+    },
+    {
+      "path": "extracted_notes/13_Flying Ship.txt",
+      "size": 134,
+      "hash": "e2a2218efc1e66d7f94083daaa32f3fe5e9ac2b5eec5c2d9d43a85404cc665e2"
+    },
+    {
+      "path": "extracted_notes/14_Guide to Making Tinctures.txt",
+      "size": 5842,
+      "hash": "a3d26919b74f53963a90ecd900891983345393bc37254a8c1d2f0b8f0d749279"
+    },
+    {
+      "path": "extracted_notes/15_Herb Grimoire - Magickal Correspondences of Herbs Flowers  Resins  The Magickal.txt",
+      "size": 103253,
+      "hash": "772a37aa3ea556ef9ea26535ae93d8646d5ac498864131a8781a6fe10ed9bcb7"
+    },
+    {
+      "path": "extracted_notes/16_Herbs.txt",
+      "size": 334,
+      "hash": "a0687fab2c9357e89ffda4b76056544246c6b9e4c52c238d317e842282b8819d"
+    },
+    {
+      "path": "extracted_notes/17_Insects.txt",
+      "size": 185,
+      "hash": "2981d01bedb05b5efff82c485ab31e82a51fdab0be9d69bacb5ea8b1d280e198"
+    },
+    {
+      "path": "extracted_notes/18_INTJ - Wikipedia - possible Varas personality type.txt",
+      "size": 16663,
+      "hash": "4f62082cc4a1f14f4b0101efba95f9f62901797b68e93ee3c16c09b92fdc2c0a"
+    },
+    {
+      "path": "extracted_notes/19_Jalos Cabinet.txt",
+      "size": 170,
+      "hash": "347ae23185ed46c9850576a0bc567af71be6c397333a48ddba84edfc390dbe26"
+    },
+    {
+      "path": "extracted_notes/20_King Varas first council meeting.txt",
+      "size": 898,
+      "hash": "e6e7c66a79a58cd9cbcecca3b76b9eb196cf1742e4f0d21efea586e1e8bf34f7"
+    },
+    {
+      "path": "extracted_notes/21_King Varas general.txt",
+      "size": 400,
+      "hash": "3f7e447e43f541212dd353749a2ce0842fe2a189f8f19377745f3546feb813f3"
+    },
+    {
+      "path": "extracted_notes/22_King Varas possible personality type MBTI type is most likely to be a psychopath.txt",
+      "size": 3419,
+      "hash": "f1e124e1c479745446fbb57ac2e5c1cc1b0d5bee8bfcf676fa587b6c645b103b"
+    },
+    {
+      "path": "extracted_notes/23_King Varas propaganda.txt",
+      "size": 144,
+      "hash": "d3589d8a2c97fbadbf89c2147f44ebb5c038b1d25aab557e051a3f364fbfff2b"
+    },
+    {
+      "path": "extracted_notes/24_King Varass distribution of power.txt",
+      "size": 157,
+      "hash": "8c14db38cd50f64888ce9881c5416f2fd8756fc0124acbeb815d73cdc30c646b"
+    },
+    {
+      "path": "extracted_notes/25_Knower ceremony.txt",
+      "size": 2733,
+      "hash": "42df538bd09635ef2dc8c490496427fd4b0df9e5d259f3505c953d4dc159ea54"
+    },
+    {
+      "path": "extracted_notes/26_log11jpg 800600.txt",
+      "size": 226,
+      "hash": "f68b05af7d7539839f34f045840d4bbd438c896703e4f13b37e39bae9ea179da"
+    },
+    {
+      "path": "extracted_notes/27_Making a Fresh Herb Tincture Part Two - YouTube.txt",
+      "size": 2293,
+      "hash": "8abef016c33bf174ec8d0813088f4665a45c66d28a3f04b839b61f5d99d4daa5"
+    },
+    {
+      "path": "extracted_notes/28_Mrak Patrol.txt",
+      "size": 393,
+      "hash": "9ad73611cfda74b0e02cb7cab8af9273d1420ec2ace13fe0bb53dd45a0d59a7e"
+    },
+    {
+      "path": "extracted_notes/29_Nim in his youth.txt",
+      "size": 230,
+      "hash": "1c000ffc4e845c0ddad26767f98bfe587c73013eb3b9eb3fce7df766cdbee4be"
+    },
+    {
+      "path": "extracted_notes/30_Nims Training.txt",
+      "size": 222,
+      "hash": "f0bababb97ea05c3b159df29cadd72665d35f88010b3f66085a1e41d3b964fb5"
+    },
+    {
+      "path": "extracted_notes/31_Nims Caretaker Jalo Soturi.txt",
+      "size": 1313,
+      "hash": "306bbd28bd916d047af394f4b41f2ed83fbf85e49a64ef362536bf8aa63e015a"
+    },
+    {
+      "path": "extracted_notes/32_Note.txt",
+      "size": 4654,
+      "hash": "d7ea147eb409386d24c4bc226641e92b7072c38e58b6ceca1f851048f3ab2645"
+    },
+    {
+      "path": "extracted_notes/33_Note.txt",
+      "size": 361,
+      "hash": "4df03cd71fbaf0b688020770a12f8af51b50e6b60b7ea011b0a9079b505096bc"
+    },
+    {
+      "path": "extracted_notes/34_Note.txt",
+      "size": 7330,
+      "hash": "393418e29a453597e25286372574ca8992498c85bd0ca1ce3b7a214a98ce22fb"
+    },
+    {
+      "path": "extracted_notes/35_Note.txt",
+      "size": 352,
+      "hash": "d69369e1c5e4730e98f67eaf7d62bc45283d214105f3d7166f8ce89ba02f0963"
+    },
+    {
+      "path": "extracted_notes/36_Note.txt",
+      "size": 401,
+      "hash": "73aa22931c0c565e4fab26ed5b1880274ae24dc4e3e8c2819c2ddb43e721b36f"
+    },
+    {
+      "path": "extracted_notes/37_Personality types.txt",
+      "size": 140,
+      "hash": "b6b9cea87243c85093287b1868b2f600e2713cba784571cc5201e9da25406afd"
+    },
+    {
+      "path": "extracted_notes/38_Prison.txt",
+      "size": 129,
+      "hash": "7581dc135e7938c6fea3bfa6766a0005e9d2d05d56d48e6906b1f8414ed8e37c"
+    },
+    {
+      "path": "extracted_notes/39_Questions.txt",
+      "size": 242,
+      "hash": "a7d0a96c7bf786c2f424ccd6a6a7c87f989fd7e058d4734166b6f59bac978b20"
+    },
+    {
+      "path": "extracted_notes/40_r960-a8d7996c87d0b218e72b677c1f02ea65jpg 960625.txt",
+      "size": 257,
+      "hash": "a1ba054162ae3ca88203dc38d5377d61f2c561235f4dae33ee06518aee51595f"
+    },
+    {
+      "path": "extracted_notes/41_Still0224_00021_1487968892295_8677173_ver10jpg 640360.txt",
+      "size": 325,
+      "hash": "2eaca071896f20a951c62a7e978ca350911ebbdb5395e38ca69c5fc9e915e7d5"
+    },
+    {
+      "path": "extracted_notes/42_Story ideas - general.txt",
+      "size": 3495,
+      "hash": "213f17c6c8e73d39c38ffcb2a6d85d98a1618f27f1af920ebb025d9f25b852f4"
+    },
+    {
+      "path": "extracted_notes/43_The 5 Element Theory - YouTube.txt",
+      "size": 594,
+      "hash": "fb0ba46a2faca742e4c8a7689398a0f748d226c05eeae7318541a61fa3a17294"
+    },
+    {
+      "path": "extracted_notes/44_The Kings roving patrols.txt",
+      "size": 242,
+      "hash": "e1b6f584a7b109b6c7e443db83b414544710c5de678ae89b73eae2e22bbac18b"
+    },
+    {
+      "path": "extracted_notes/45_Themes.txt",
+      "size": 665,
+      "hash": "6c0c22db8906e31cf18e0c7a0d7a3ca726278a52833da98a9949dffa2ef8653e"
+    },
+    {
+      "path": "extracted_notes/46_Untitled Note.txt",
+      "size": 524,
+      "hash": "77fc6cec0742a10a91d4050f3c61dc61514f8218e13f6cd45e663f36466cb600"
+    },
+    {
+      "path": "extracted_notes/47_Tour of the Chinese Herb Dispensatory - YouTube.txt",
+      "size": 3114,
+      "hash": "e05328d235ed12e473982a272ff0d07c06ada2b7186a08fb2f4249fb4036474a"
+    },
+    {
+      "path": "extracted_notes/48_Transport.txt",
+      "size": 132,
+      "hash": "23241304c6a0019080f5708c3e6fdb345c40941c27003ff7a9d34e53336df54f"
+    },
+    {
+      "path": "extracted_notes/49_Untitled Note.txt",
+      "size": 136,
+      "hash": "a164eb1c68507804eb85e76b90c32209839eaffbbbc40badef83899c39f4628a"
+    },
+    {
+      "path": "extracted_notes/50_Untitled.txt",
+      "size": 389,
+      "hash": "93d22deee6b9e0d46fcef1430c254b1fe3f8dd4461969e9df269e58e6922020b"
+    },
+    {
+      "path": "extracted_notes/_ALL_NOTES_COMBINED.txt",
+      "size": 233439,
+      "hash": "32ae4afdf7683d69a68efb01defb20e987d3f4d52f9e828fb09a3a6d5c0cf751"
+    },
+    {
+      "path": "manuscript/chapter_01.md",
+      "size": 18552,
+      "hash": "d182b8fcfdcb7f23e7dea0e30f5c5b086acc5a7d3b63dfaae7248309a54c2fa6"
+    },
+    {
+      "path": "manuscript/chapter_02.md",
+      "size": 20556,
+      "hash": "9d421d30ba3525a634113c5d28e669ccefc58c4444bff183edcd69618c8238ac"
+    },
+    {
+      "path": "manuscript/chapter_03.md",
+      "size": 21565,
+      "hash": "3de39946725e0123586cb3aa06dad7821b29950cd988b628d28d7f6e84cfb85e"
+    },
+    {
+      "path": "manuscript/chapter_04.md",
+      "size": 19787,
+      "hash": "e76cfab67bc06a89347b8b87d182eadbc720d392e935964f068e1c5ff4967378"
+    },
+    {
+      "path": "manuscript/chapter_05.md",
+      "size": 15483,
+      "hash": "1cfaa44c6660de1acd1be415c9cecd3b364a64a550d1162bb7d45c714e8b426b"
+    },
+    {
+      "path": "manuscript/chapter_06.md",
+      "size": 19996,
+      "hash": "a2b53e83e9b759a37bc669fec7c13b494d15507b22e5620910fad61d3caa8fce"
+    },
+    {
+      "path": "manuscript/chapter_07.md",
+      "size": 11660,
+      "hash": "cdb832a33063f7d19c6a8507cddd204c135157ff2534fccccd48290bef0a6775"
+    },
+    {
+      "path": "manuscript/chapter_08.md",
+      "size": 13039,
+      "hash": "bfcde6f6fa58ee72e609c74b4f0b12bcf5d9d1180bed9464836c4389baa44ac0"
+    },
+    {
+      "path": "manuscript/chapter_09.md",
+      "size": 15793,
+      "hash": "a16bc1dedd0049cce78139d7f27285a13cb15e511f4af8d7e969d0f1eb209bd3"
+    },
+    {
+      "path": "manuscript/chapter_10.md",
+      "size": 21952,
+      "hash": "2bbe480da4e831487c47030b4e22774507e87aff5ddd2f4b1d9d631420a5e682"
+    },
+    {
+      "path": "manuscript/chapter_11.md",
+      "size": 22577,
+      "hash": "a44c4aff3ac255bdb88aa19c898dc06dc2ac87b8307aa757141316eac4c72bf4"
+    },
+    {
+      "path": "manuscript/chapter_12.md",
+      "size": 12949,
+      "hash": "1da957bd49bf9337502a2ab01d7a52be4bd0702e786b11deb83f3727ecb93a48"
+    },
+    {
+      "path": "manuscript/chapter_13.md",
+      "size": 16325,
+      "hash": "e898b6e9faf7a8a3a7104c7f133574d3c30abcf1699f3c3a72c21dc945f161ec"
+    },
+    {
+      "path": "manuscript/chapter_14.md",
+      "size": 17178,
+      "hash": "4c153eb47b9384690569350ba527e2ceef454000f4dd336c51d839f50e4dddf8"
+    },
+    {
+      "path": "manuscript/chapter_15.md",
+      "size": 25363,
+      "hash": "7ca8fa5a6edd29399917b39a2d6f5101017f7e4a883ce5b8de3a01ae450367cf"
+    },
+    {
+      "path": "manuscript/chapter_16.md",
+      "size": 32257,
+      "hash": "69bf4b64767d2b1a235e0ab1004b3a53df3b49da5569e7fc1267f00f3a96c09a"
+    },
+    {
+      "path": "manuscript/chapter_17.md",
+      "size": 18694,
+      "hash": "95ec06a4a75835d557fc33f5d406a92345f281185f0cbeb60f79aac1ee6658e8"
+    },
+    {
+      "path": "manuscript/chapter_18.md",
+      "size": 24310,
+      "hash": "dadc7c0e434d4da4a4b337514bb1ea3e213fb846d5929872b45f8c41da5703ca"
+    },
+    {
+      "path": "manuscript/chapter_19.md",
+      "size": 15939,
+      "hash": "641a410ba4e4f4312b9f6076021b7b53b242eed5a928b3eb7a45e0a60aa4f747"
+    },
+    {
+      "path": "manuscript/chapter_20.md",
+      "size": 14203,
+      "hash": "c705a678386ef56d6e5ea5b2f55d96eaade8efcc6f5d37080f923fa07527eb8f"
+    },
+    {
+      "path": "manuscript/chapter_21.md",
+      "size": 22185,
+      "hash": "7d347a64a591f3f906e1f8ae59d881e2ed3b9b197910afd34784b4b9a52d350b"
+    },
+    {
+      "path": "manuscript/chapter_22.md",
+      "size": 18210,
+      "hash": "af241ea0833cc19b2ca45d42b93c5a19133238b68b474ff830b15f44307111a9"
+    },
+    {
+      "path": "manuscript/chapter_23.md",
+      "size": 22856,
+      "hash": "a70348eb1abaee78d5f6e2e9d6c5681b1de702e94da93d4956ad6f3744b941fe"
+    },
+    {
+      "path": "manuscript/chapter_24.md",
+      "size": 23829,
+      "hash": "a613f376d61a48bf360657c57ed6519b6987b85a379ba1c7560fdbd8bedc0973"
+    },
+    {
+      "path": "manuscript/chapter_25.md",
+      "size": 20776,
+      "hash": "9e7b0bb1f62e3cb055226a9fba25bde847c25e81d1ccb7994cc81ecd74350109"
+    },
+    {
+      "path": "manuscript/chapter_26.md",
+      "size": 19187,
+      "hash": "2e3b526fd82079ac82801e0ad36c4be52454c32768e45030146d4ccefcb30eaf"
+    },
+    {
+      "path": "manuscript/chapter_27.md",
+      "size": 13179,
+      "hash": "a8a96d2dced4ac3b7213416161819c86fffe6c782d6157cefc370746ef988ffb"
+    },
+    {
+      "path": "manuscript/chapter_28.md",
+      "size": 17763,
+      "hash": "8ad5f5a18ea908fcfa60b5116212ba8171639459ab8aae8f837959719431e53a"
+    },
+    {
+      "path": "manuscript/chapter_29.md",
+      "size": 15456,
+      "hash": "1b7dc3fc7c8e4766ff0bfae9ac3e688e41b08056bf793fdd8c8b700f02a5eb63"
+    },
+    {
+      "path": "manuscript/chapter_30.md",
+      "size": 19834,
+      "hash": "6756a5c9fda3e9e4a31677431fb8161b49c46c9c44aaa455eee07ad990f62438"
+    },
+    {
+      "path": "manuscript/chapter_31.md",
+      "size": 13274,
+      "hash": "a17bdc77887f62d5ad1cb82863ed07f5d4123ba29225a4152db10b0b04fd6c60"
+    },
+    {
+      "path": "manuscript/chapter_32.md",
+      "size": 11034,
+      "hash": "abf5647e03935da064e8c3f4946c5a3fac51a89eb7bc9e4aa872d4dc2363cf7a"
+    },
+    {
+      "path": "manuscript/chapter_33.md",
+      "size": 25208,
+      "hash": "61e7a7c58eda44f9fa1f03536316cded14d3456cc07b93c75b6816de2bd8e6ef"
+    },
+    {
+      "path": "manuscript/chapter_34.md",
+      "size": 15054,
+      "hash": "9340f7fe323673869dd074720e6d520f22618071315cec9ae3e32ef9392d34c2"
+    },
+    {
+      "path": "manuscript/chapter_35.md",
+      "size": 17150,
+      "hash": "17e8b410404b33a597e2e58e02e19ac3775ecc13a2ef0afc1e0dc77779f09630"
+    },
+    {
+      "path": "manuscript/chapter_36.md",
+      "size": 14774,
+      "hash": "805c16b518f74970ffbd4ebceff11d8a2d49d866984ecc886d49251ae7856d1a"
+    },
+    {
+      "path": "manuscript/chapter_37.md",
+      "size": 14842,
+      "hash": "198d2d89ae7a27daf5c13089f179aa2d064569273ffea22a9574949088e9965c"
+    },
+    {
+      "path": "manuscript/chapter_38.md",
+      "size": 12057,
+      "hash": "bcd44051a5e4a6f07a61376e408bd2b8d53ba3f6811ed056880f78d84bb126dd"
+    },
+    {
+      "path": "manuscript/chapter_39.md",
+      "size": 15498,
+      "hash": "6a6758fdbc0ecfe37124d7922b83c709f68aaeb4ae6066a075baf3da5fd5d293"
+    },
+    {
+      "path": "manuscript/chapter_40.md",
+      "size": 22273,
+      "hash": "ebb0b57d212e7b1b4f2c0cb9085c24ad9234538a7d5006fbcd456f7803c18ac5"
+    },
+    {
+      "path": "manuscript/chapter_41.md",
+      "size": 11847,
+      "hash": "aec5008f59270d7e1da21e49b899bc2af2c5c6df33996a911b15d1a9c1ed3cac"
+    },
+    {
+      "path": "manuscript/chapter_42.md",
+      "size": 22753,
+      "hash": "40b4b4f1049132f4fa12528809ae2e55c6a6eec67f1ab4f894b2f2b1a49d3255"
+    },
+    {
+      "path": "manuscript/chapter_43.md",
+      "size": 14001,
+      "hash": "f887a34de880332ee5a060db98147c731daac3275e7f8c6cc1d65ef5cc934f6a"
+    },
+    {
+      "path": "manuscript/chapter_44.md",
+      "size": 10601,
+      "hash": "bf26a07b0bda2462e360a51e6d0a1e9e2116768806b5762174a0456675ac59b1"
+    },
+    {
+      "path": "manuscript/chapter_45.md",
+      "size": 13181,
+      "hash": "1346dbb1de1de6549931172c7698fcb7915b5468efa2f059ae022dc728777a93"
+    },
+    {
+      "path": "manuscript/chapter_46.md",
+      "size": 13971,
+      "hash": "66a8a9bfdaf6883d293756b1f3ed25c56d11b1ac2b5fc3ee75a8dfe17de2c0fb"
+    },
+    {
+      "path": "manuscript/chapter_47.md",
+      "size": 10106,
+      "hash": "235cebadfa44d1ab4c4486aec60cb2efc99d03cdcfc7cf268cbe1e9e5b4451e0"
+    },
+    {
+      "path": "manuscript/chapter_48.md",
+      "size": 10597,
+      "hash": "33033409c3860abbc66a723443e0706cef232f67056e654ceea830f9529aea70"
+    },
+    {
+      "path": "manuscript/epilogue.md",
+      "size": 13676,
+      "hash": "fc16c37f3e0dcc73bcb0994ac550d7ff3a69c897eb785dcf3821447fc5f73936"
+    },
+    {
+      "path": "manuscript/prologue.md",
+      "size": 14403,
+      "hash": "23bed9ab2f5eee62809b57f6465d333814aaf57f7c41adb49159fab8c289f86c"
+    },
+    {
+      "path": "parse_enex.py",
+      "size": 4186,
+      "hash": "a0532c7b4f8a2f5f6286062ef9b4e008d974b25931199608a5126227661bffe9"
+    },
+    {
+      "path": "publishing/01_BOOK_DESCRIPTION.md",
+      "size": 3042,
+      "hash": "fa64ad0acd3711d26ea0c52c5973b3230e19f4fbbef083120e5d466dc2116d14"
+    },
+    {
+      "path": "publishing/02_AUTHOR_BIO.md",
+      "size": 5104,
+      "hash": "38e11d4dabae1cb168f82684811dee582ea1846682ac80efb0b427fdd31a31f3"
+    },
+    {
+      "path": "publishing/03_CATEGORIES_AND_KEYWORDS.md",
+      "size": 2815,
+      "hash": "73bebbeaeedb3728d5a5c231aaccf9f503e878eca89d9d464511c05a9e07d975"
+    },
+    {
+      "path": "publishing/04_COVER_DESIGN_BRIEF.md",
+      "size": 4861,
+      "hash": "1bb4716b1e71dc953dcf2217e253004f0b02c3adaf1f8a8c9a49835d7951ac92"
+    },
+    {
+      "path": "publishing/05_QUERY_LETTER.md",
+      "size": 3166,
+      "hash": "554deb28f86c64600be523325e747c0a0b4d7b06460710ad305ee33bbec13bc8"
+    },
+    {
+      "path": "publishing/06_SERIES_BIBLE_SEQUEL.md",
+      "size": 8788,
+      "hash": "2a29cfce242cb52265ce0e174a446260bbdef9ec85cc704d807f2c886184c8a8"
+    },
+    {
+      "path": "publishing/07_FORMATTING_GUIDE.md",
+      "size": 6650,
+      "hash": "11343f9aa57e8ac5775a2756baeefe54985f4d33f296e05e021f947e04b5bd86"
+    },
+    {
+      "path": "publishing/08_AI_TRANSPARENCY_AND_OWNERSHIP.md",
+      "size": 3875,
+      "hash": "c73050031e4a11f1a1bc6f8e3b145a119e9979085e7d227e6e7e51e87df46d7b"
+    },
+    {
+      "path": "screenplay/AUDIT_REPORT.md",
+      "size": 16535,
+      "hash": "09fc5f47164ed04745b997261bf50fc93a5874900f6f0db65babb46a57d28076"
+    },
+    {
+      "path": "screenplay/FILM_ONE_THE_STILL_WATER.md",
+      "size": 35411,
+      "hash": "79bce4a6a11411fbbf8cc8d4f1141c2b117fd5fe57f579ea3dda4f2df3813b28"
+    },
+    {
+      "path": "screenplay/FILM_THREE_THE_SONG.md",
+      "size": 46711,
+      "hash": "24f156f448bca043fbf9764c8b412ce0850eaca9c5ef9f99b3b608337a02c52d"
+    },
+    {
+      "path": "screenplay/FILM_TWO_THE_BREAKING.md",
+      "size": 35565,
+      "hash": "8225561c2a85d6951ad342183f3d043f8fce35cd5542475afa2fedee86ee0b43"
+    },
+    {
+      "path": "screenplay/TRILOGY_STRUCTURE.md",
+      "size": 8561,
+      "hash": "8be43b7dc4f8dd6a012177452805cc061ca4906b735d40531c5acf342afd086c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/__init__.py",
+      "size": 1420,
+      "hash": "c7c615083a91d577fefb584b740e31ca60b8bac771edd47b4c26c332c5c2a320"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/epub.py",
+      "size": 60314,
+      "hash": "24498eb7ce2e70265fd8b104b7946b22352cd96f2c3fac7121d79bd34965b2ad"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/plugins/base.py",
+      "size": 1561,
+      "hash": "63c5e4812816c02bbe09de035cc4329157063c49d199c019f1fb7ae8c68f9281"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/plugins/booktype.py",
+      "size": 4654,
+      "hash": "30709aa4882193cd4aad0adf835872f135b1ac43098244a67d4b86980e2b45c3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/plugins/sourcecode.py",
+      "size": 2461,
+      "hash": "7e888c45e66b6e8455f7b14dc57536c58fa2234cf4128ba553a1c0331b650570"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/plugins/standard.py",
+      "size": 15362,
+      "hash": "6b94582194be0634b2c3b9dffba2200bdaabe8d27f3b496ff364360746b110bd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/plugins/tidyhtml.py",
+      "size": 2349,
+      "hash": "182a1d0666194b1080e6bd90c24b544fb0e5fb27b6d77122882843d546417de8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib/utils.py",
+      "size": 3586,
+      "hash": "8d9557b174a20fef1ed4c8e72242f91150bccdd2e4a4f3df0ad794d6d8f5e96f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib-0.20.dist-info/licenses/AUTHORS.txt",
+      "size": 1773,
+      "hash": "5f39f9f20994d500d1e79598b1fe9b21b5e439566b8508ee9c00021fbd5c675c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib-0.20.dist-info/licenses/LICENSE.txt",
+      "size": 34520,
+      "hash": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/ebooklib-0.20.dist-info/top_level.txt",
+      "size": 9,
+      "hash": "4b1843ce2a21e106582d0527edb3039ee59801d560e1e4d72d3f794009dee575"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/ElementInclude.py",
+      "size": 8560,
+      "hash": "3d22de645bc26bbe961c9ba53cbc5c65726d088dbee1d2b60ada8f46260e0108"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/__init__.py",
+      "size": 574,
+      "hash": "ae039c3f265434114bdf4ca5c48c5df1f1c75a2e93c322140a2f00bfce175b0a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/_elementpath.py",
+      "size": 10959,
+      "hash": "6fcd213379dd0244ed457eafe78cdadcb92402a09c774ef4d016cc3d91e74c15"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/builder.py",
+      "size": 8485,
+      "hash": "288d47c474dde3026aa957e64d1b526d7050765d93f8fdfa8a1e214fe27730dc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/cssselect.py",
+      "size": 3306,
+      "hash": "ff065d5fe07da7931e2180019843486115849305f05feee33bc0e47fed6b5195"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/doctestcompare.py",
+      "size": 17731,
+      "hash": "e341039e4c2972f5bceaa35af3af7dd0e5c5e36c5d1daa2c499a2206c1239335"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/ElementSoup.py",
+      "size": 320,
+      "hash": "b3f74ba1b2ccb8a9f60e17b147e8835dd66b3058354632f2d5f787b08799329c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/__init__.py",
+      "size": 64425,
+      "hash": "082e5676cbd2a6d661afd319c9ad6ab0be892956ef89876b1ce857ac68663918"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/_diffcommand.py",
+      "size": 2081,
+      "hash": "933ffb10ff4f9985ae7339597068b0ef8feb1b47932af43696b3b4ae48b09581"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/_difflib.py",
+      "size": 84954,
+      "hash": "1a01ff8d5ad9402f2d23c595fe515942c5c527798e4c03eea75ce304936f90fa"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/_html5builder.py",
+      "size": 3230,
+      "hash": "34b693f84bfe681809a5e425fba65b24284b64ae4657ece70e41ce243e55402e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/_setmixin.py",
+      "size": 1188,
+      "hash": "f0814838b995cf41be5f3b03dad0849121563be7603c11e0bc7b9f0bc9e2ebbb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/builder.py",
+      "size": 6187,
+      "hash": "533debe6e8ae09da0dd143daee78282ccc0069d54886c9731af9513c68a063f3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/clean.py",
+      "size": 503,
+      "hash": "160852272e23b7645a072e9d82eb28c24535f21c696785cb13971e08af6ac720"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/defs.py",
+      "size": 4250,
+      "hash": "97fea78780c7bebb15c9656a582514c75e1089a851c99bf831e96acbfb617fa4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/diff.py",
+      "size": 32989,
+      "hash": "65ad01cbec9e6254048d4bbb9bbc4a076f3c90a8b2f15052e604f444f39a158d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/formfill.py",
+      "size": 9681,
+      "hash": "ba6824d016e4008d56eaaf66bac15b2fe7039c8fda6a9d8db0b049aa4d149952"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/html5parser.py",
+      "size": 8634,
+      "hash": "767c82e1ca87c72c23652ce4d26bb62fb4c74d98f1860e32178a67723bac6bfc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/soupparser.py",
+      "size": 10197,
+      "hash": "c68f15bcd78e11bf920a1b972ca09110287c27b1c18892c4f6c01b12c9285144"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/html/usedoctest.py",
+      "size": 249,
+      "hash": "b4f966573e0a2b5191295e4324badd54409eaac4fd3e50f34aaa93a1d562e6cd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/isoschematron/__init__.py",
+      "size": 13274,
+      "hash": "b9ab9ead878a4e55850894aa89e207845e65eab615da6c9e109d0899dd4bcd17"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt",
+      "size": 3310,
+      "hash": "3862e216cc2e2c9116e443d828e7a86aeb8224512d55aea3cb3044d4e70923df"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/pyclasslookup.py",
+      "size": 92,
+      "hash": "80b0f51ccd87b484d86221b38c439ec12c1b07b5e4571fcd66ffeab82b7bf4e7"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/sax.py",
+      "size": 9706,
+      "hash": "cab36f283eab9689f8f23ad1fb5aa9157111f23e29b180b6479cadd2ee9358bb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml/usedoctest.py",
+      "size": 230,
+      "hash": "a9181929055c019725fb33740085d52673ac113517cf69cf5e4c6ececd651a09"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml-6.0.2.dist-info/licenses/LICENSE.txt",
+      "size": 1507,
+      "hash": "8fc2b568133516e46845d2147917adeee1648e70ae9ab5ed6c5417afef4ce855"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml-6.0.2.dist-info/licenses/LICENSES.txt",
+      "size": 1514,
+      "hash": "41d49dd406aa0e1548a6d5f21a30d6bf638b3cd96eb7289dd348d83ed2e40392"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/lxml-6.0.2.dist-info/top_level.txt",
+      "size": 5,
+      "hash": "3630fdf3cc2a68aab9d769ec84d74bb7eb83c6c8e4a78061e759ba37e76152b9"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/__init__.py",
+      "size": 353,
+      "hash": "bd22eaa8927dd7ea973b3e6d5e368f9f08f94c3073f948e7f08ef298d99dbed0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/__main__.py",
+      "size": 854,
+      "hash": "5b36e11d74db484ea0058d7d98d37d9b8b39a3fdfae4b3af4d84a0aa06dd0611"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/__pip-runner__.py",
+      "size": 1450,
+      "hash": "24ea04653c2bb6fee345a5c1920490280134e323727c59861f1aa91e2187bcbd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/__init__.py",
+      "size": 511,
+      "hash": "4bb8bd0e7f5a4994b4306fb65abbdeddd57d4c898fcef427e638e1a7db7fb9fd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/build_env.py",
+      "size": 14201,
+      "hash": "a0c44e45d956a070b9f75a29036d4f8b198cca47e139f1f0ecfd4c33b2604ab4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cache.py",
+      "size": 10345,
+      "hash": "9cc878f18bf7caed474b5c8276c728baee81e81e7360159d57a6e1aacee02fe1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/__init__.py",
+      "size": 131,
+      "hash": "22a83fb4a03bef55ee30ed4fe2dfec0c79d228fce451bf43d03aae9c09b0fe4a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/autocompletion.py",
+      "size": 7193,
+      "hash": "646d9c334de795c36bb3e586fd21535b8ea2b31f6cd86a399540fff3e8afef4a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py",
+      "size": 8716,
+      "hash": "d4dc7dd7d25116581444b8acf57609c2d6f21048d125afcd747c0cea206466f6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py",
+      "size": 31025,
+      "hash": "daf39dc884ba363cf27064f989dc4ac713ac7f0e93811e370917b6952b5860bd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/command_context.py",
+      "size": 817,
+      "hash": "926bb711665b7c17a06b5a036a69c625303f51a7a384840db8c8f609598c5eed"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py",
+      "size": 5717,
+      "hash": "00793a792a9ba1ac535db1b7bfd981ad57747422b532d5b8c373d5b9d9e3d161"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/main.py",
+      "size": 2815,
+      "hash": "2bd3eda51760eae06b54a93c4b6559d787c037490ff9c9c0d68f85b4908dfce4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/main_parser.py",
+      "size": 4329,
+      "hash": "52e80f0fe845d56b4d41da30fd659db832d41f50ef125a5cec47945a352470da"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/parser.py",
+      "size": 10916,
+      "hash": "07d3e9c8fcba898f4b32f90a272809fb73f040b1ba0e88ab59af8c86fde75651"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/progress_bars.py",
+      "size": 4668,
+      "hash": "9d14d63687fe1631dfbe2aef1025c887b4fb780ca74d454f4f21c435fa5b5a25"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py",
+      "size": 13799,
+      "hash": "1cd00d9fbfa10c82058914d46ee763e6845f3d60bd29fdae906ddf79800dc7de"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/spinners.py",
+      "size": 7362,
+      "hash": "109cd921937252d2658e9dfe5a372cc88aeac56f8752c7d6ce1b96f389ff4eac"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/cli/status_codes.py",
+      "size": 116,
+      "hash": "b0414751a5096eabfc880acbdc702d733b5666618e157d358537ac4b2b43121d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/__init__.py",
+      "size": 4026,
+      "hash": "68d7826d0bab1968a17e142aec1a9a2d71ea5834348b7234e0e4bb9312baa654"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py",
+      "size": 8230,
+      "hash": "3abacb4ba1091216bfe79c8f6bd7d368e6a89f0f95a47e3f955863c6e3930a14"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/check.py",
+      "size": 2244,
+      "hash": "85514141ecd0df38f813276859b1508ff69f3d4a6932deebf493c0958db653a6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py",
+      "size": 4530,
+      "hash": "303c214ce06394ce1611b3a181b86b5a79439bbd748b814c8e8a774415d75c27"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/configuration.py",
+      "size": 10105,
+      "hash": "ea034e1ab5569ce2d4d79cd49c088db8e3217fbe9144866f09d543d1d7a03d19"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/debug.py",
+      "size": 6805,
+      "hash": "ffc22a33c171d7f958d924eefeab29afadedb9f17bcf21490b26005edc73d0de"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/download.py",
+      "size": 5075,
+      "hash": "a6f07b237eb3eaca0b3dfbf820cc0d4479f55af63c23bcf3336879b1ede757ab"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/freeze.py",
+      "size": 3099,
+      "hash": "7f1a16f0001cf9b02a07f7d774dab656767725f5a414c83e6d1e8b71d0d53bb0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/hash.py",
+      "size": 1679,
+      "hash": "18ef6944ddf05c2da441aa2f2b9ed368b60131cdc896d387f763ba404c3a604d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/help.py",
+      "size": 1108,
+      "hash": "073dcb7233505e4cf80aefffa4be0267cea8e3e1cd2d98f535959d949863baed"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/index.py",
+      "size": 5243,
+      "hash": "f06301548e4dbe14511c1494ab6ed8c43204d360e9bdd27feaa88116019dd5ca"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/inspect.py",
+      "size": 3177,
+      "hash": "a209b8513ecb468f1b210716512d48880db941d0f85472daec968f028743b6d3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/install.py",
+      "size": 30472,
+      "hash": "a149524fb630a1eb8013a2335a8924664f0871c4a3dfd1d3d32a5004e3e3d9f3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/list.py",
+      "size": 13514,
+      "hash": "238647eb4e04e60a5c44ec445c0edec9a3441615f1dd5155aafa6c733fcfb3f0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/lock.py",
+      "size": 5797,
+      "hash": "e66d0fb2440532e3f571841819f4a204b6bcd5af0c0df9544c2fa252c394d6ed"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/search.py",
+      "size": 5782,
+      "hash": "cdb32c5ff6004a3ea45c0e972018130efd1b18ae75c46f825772329d925c13e7"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/show.py",
+      "size": 8066,
+      "hash": "a0b54921f2969832a6d12b101848b7a68ccd8aaad78d3adab3f7db05260aa410"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/uninstall.py",
+      "size": 3868,
+      "hash": "0ac3a286abdbe9903a3baecbef4a177a82c778e7cdccc33cf07f60fbd6a8720c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/commands/wheel.py",
+      "size": 6013,
+      "hash": "fa4232cf2f7c9cf7a3a4f89cf82a49937ecf4851855619b9949d543bd669bb6b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/configuration.py",
+      "size": 14568,
+      "hash": "5b1c304b063f066e90cc381fdf606cba31323bc76045e75e802a606d47c3bccf"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/distributions/__init__.py",
+      "size": 858,
+      "hash": "1eaea4b7a8170608cd8ade614d358b03378234e2a807e374a46612a9e86b962f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/distributions/base.py",
+      "size": 1830,
+      "hash": "97e39308022cdb996c6a97a303a218a4f67148ce7e0444f8b1d64392a97c8e26"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/distributions/installed.py",
+      "size": 929,
+      "hash": "92020413fd4dce36712c1482fafe6ceb8b8e15995512ddda3eb8d3b4beb1d976"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/distributions/sdist.py",
+      "size": 6627,
+      "hash": "458c1021bbb1a4acba3a394164201e7f1a4c0daa28714438745b61786b224ce4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/distributions/wheel.py",
+      "size": 1364,
+      "hash": "fc76c6d0e7a117c7708f8517fb157ffed5cbc203eeb3d3a33047f635346a05b1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/exceptions.py",
+      "size": 29592,
+      "hash": "96a9d63de031dec6deb6405b7246c4b50d541e16d67d7ebc1cf09ea882c97df5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/index/__init__.py",
+      "size": 29,
+      "hash": "b73c0c1ff7e141eb9bc0ca877528af6ac83571181349b360d8288c567ccc9b25"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/index/collector.py",
+      "size": 16185,
+      "hash": "3c2077b61556462481a301ada6fd5e9483c573e1af12a85988d8190fb6f4bc17"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/index/package_finder.py",
+      "size": 38835,
+      "hash": "c63b1fb5307624896c09dc68ac3227a1e709e9a7ecd4ed25b2a520e04c5c5c8d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/index/sources.py",
+      "size": 8639,
+      "hash": "9d72643a384bcbe3b616caca53d448a823aa818d8fb28296c9bb598e3460a94d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/locations/__init__.py",
+      "size": 14185,
+      "hash": "d920035f41abf41229c75f403bb15eabcf673a60501846e5d485a30699da13d1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/locations/_distutils.py",
+      "size": 5975,
+      "hash": "8e9163e15d34ac3f48477bc0f53aab1a4c1c74d545739f0bb028596af81ef496"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/locations/_sysconfig.py",
+      "size": 7716,
+      "hash": "3617048b5ff6e70f5c4d3707e11c8e8c3e141d6e888e4b34b8acb53cbd7f8fff"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/locations/base.py",
+      "size": 2550,
+      "hash": "0089a36095b13ad0e473428a73a6381b3ebbedc83dd5c68c0382fde01f456448"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/main.py",
+      "size": 338,
+      "hash": "d5c1ea8ec7c50ab3057f7079b70ce87314c951d1cc2e85d4a72e6526816a522f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py",
+      "size": 5824,
+      "hash": "be9f8903189683ffa5e45f004f425c7b2ef6b949e1f020f0c2897df8a92d1d9f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/_json.py",
+      "size": 2711,
+      "hash": "84dbe73073972c0c8d9738ab5a13cbf4dc760af0aa6b589199ae8eb2ad587d5f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py",
+      "size": 25420,
+      "hash": "046b8c7a795c413f22ee3f62725adf742def4b082f86bf208e7f79e5c0b2d7ab"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/__init__.py",
+      "size": 135,
+      "hash": "8d4522768c671dc7c84c71da0161b51b68b97dd058925bffb89723a36c7b5581"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_compat.py",
+      "size": 2804,
+      "hash": "b27795878ffa5b14192b8963765df2955b8ffaad2db52a9b825f665add079ce8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py",
+      "size": 8420,
+      "hash": "ce7643ecc378442ef7fbceca5c09fab4a66ff65010448d00c712b66ee6c3bcfc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py",
+      "size": 5333,
+      "hash": "1f7a952d7561e0b5afacfbeefde9177f775f6edc2796134940fda9c57a5c71f5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/metadata/pkg_resources.py",
+      "size": 10544,
+      "hash": "34eefa66b7d1dbe2ca253c9a5eb990a0686624c02b00bbda72b9591d58920d3f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/__init__.py",
+      "size": 62,
+      "hash": "023982101c57fcc1fd7ff8d58c818d08524a60261e4847b5f32caf371e2e44a4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/candidate.py",
+      "size": 753,
+      "hash": "cf380546ec3f9163e32a91b0ecb0b4654303d8243611b7ab50862cf22ce37420"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py",
+      "size": 6555,
+      "hash": "e0d31669cbbf4333cf591102d6d7bbbfa59fbfed87908e2dbd2245f820602e1e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/format_control.py",
+      "size": 2471,
+      "hash": "3f07a6606d4bdbb04cd1fd4a3fad6b9b6e304a110d172c6a943d535aedf86a57"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/index.py",
+      "size": 1030,
+      "hash": "b589cbf28c468b8692356babd261bc0c03fbac2eb2ba16bf33024ef31c3472b2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/installation_report.py",
+      "size": 2839,
+      "hash": "72a7d627ddd3842c6371a72a496af23820f65ed227d4266b83367102fe45419d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/link.py",
+      "size": 21793,
+      "hash": "0d107304326b794cb595a7833ab1b6688c990d6fcb86bf33263bd84e2f261988"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/pylock.py",
+      "size": 6211,
+      "hash": "56669aef580e495d196334605a2226e0ac156c295a6a131cbaf28290ffd9ce70"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/scheme.py",
+      "size": 575,
+      "hash": "3da9261c93377bc38e592645b5fcf5033edfd6678e3499e41ae431165b77c011"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/search_scope.py",
+      "size": 4507,
+      "hash": "d61c54d8856c01a2d9563a7409bcc96d8698cc2c6fef6fd06e0dc92f4aa15e8d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/selection_prefs.py",
+      "size": 2016,
+      "hash": "960632a385bc95bdb6c2c631d84941041d1cbd236505582e7300732f8ddd7f31"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/target_python.py",
+      "size": 4243,
+      "hash": "2347854be7a26b793086b3af82ca61159b4d001d88c1767d4abf5fa7a22304fe"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py",
+      "size": 2920,
+      "hash": "d5275f0ef37b00b4ec6f267d10eb0dcb518f8ab3f59fa1231f2ccfad9c8b4a1f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/__init__.py",
+      "size": 49,
+      "hash": "14ccb4e8ffffcba8cc8d473ccf765c41d285fa9999db3335e3fbc17873c68542"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/auth.py",
+      "size": 20681,
+      "hash": "b80c1118062756d80d4999b81cc0b704c00292003b92ee26f30ba9897e8ba4af"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/cache.py",
+      "size": 4862,
+      "hash": "926457290ac6f44dbac50463db5d4b1de106a4383f4a5614f439f57c9f8031e2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/download.py",
+      "size": 12682,
+      "hash": "1e0b05bd390f0dd820d3351e868b1efc9fb9e36fbd474169ca2a51c39061c403"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/lazy_wheel.py",
+      "size": 7646,
+      "hash": "cbd81592c7490928e72df633b3f9b70d8500b65de173f93ec453c305df4380eb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/session.py",
+      "size": 19188,
+      "hash": "784f9550824653d61e79a572eed540bcc4568a032ccae00ca7192395ba6d6e3a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/utils.py",
+      "size": 4091,
+      "hash": "002b177759aca8d0a2747557b2eecb1d44abf0d81aca970e290e0a1be67fc093"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py",
+      "size": 1830,
+      "hash": "ffe467937bce7dff2e17d8401a64fa48b00b7e563580c05c6c6c12d767dbfd8e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/build_tracker.py",
+      "size": 4771,
+      "hash": "5b76f972690c58f684e902307f3b136b2268efe3a5c451d60f17cfb9ac7529c1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata.py",
+      "size": 1421,
+      "hash": "20d1da7a245f3a22d80970297c3351a3d0b0db12385704dcd0a22dbdf75f3a39"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_editable.py",
+      "size": 1509,
+      "hash": "a16b9d32c9e3cb89683bf272ee0e0df67c6c9da117fe20e5551802cbba6ed6bb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel.py",
+      "size": 1136,
+      "hash": "ddb3fe9cd889e12f09bcc6819f27acb17414061c53aadd46071e8343588f2436"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel_editable.py",
+      "size": 1478,
+      "hash": "ab791f12572533a16eb556c5c04f3b24e4e9556b798b10dfdff5241c02157f3e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/check.py",
+      "size": 5894,
+      "hash": "c82d975ad87a89e846184fdf8fb5d124b8d5281b13206dd9a16464162deb3b07"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py",
+      "size": 9854,
+      "hash": "3c3758fb2fd9b596492c029c6963c8191280196ec35d1e3c7f468c454d23ec10"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/__init__.py",
+      "size": 50,
+      "hash": "6a4f941137103ca94565a5a860a5aee505576e9141be0d2c5dcde2d0ee2f4986"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py",
+      "size": 27956,
+      "hash": "f1a7a9c710059a7cd916d70c0affb52384ff99a12441de215d9ced616138c91d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py",
+      "size": 28914,
+      "hash": "3da8d252fa7b8cc592102eec2cf68174a5afeec8a8615768074244584a2b2ecc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/pyproject.py",
+      "size": 4555,
+      "hash": "27eb135aa0be5dfb0a420cfd9b56f2a4c5993c722db121f320dfcd59e2119a13"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py",
+      "size": 3041,
+      "hash": "59c63dcfb0f7ae520a5f5418f3fb519c0b12fe9a1e6e218676d43b109e49410a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/constructors.py",
+      "size": 18581,
+      "hash": "6780b8d401ee17b619173b2a4d05c51205e651d00279479a91ff212d9110afe1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/req_dependency_group.py",
+      "size": 2618,
+      "hash": "d3211009468ee41cdaeba6370f9a3d2517f4a88239420091ba09f5c796918af0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py",
+      "size": 20130,
+      "hash": "b3250d72c0be025385a1fa01c31508d557fa14245ec81bd9fc01f2be9b8659ab"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py",
+      "size": 31273,
+      "hash": "befe5c6ecdcfe607f8ddeff5bfbda0c1243637f0ffaa9b1fb973b27ab3210ee2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/req_set.py",
+      "size": 2828,
+      "hash": "6b092a2179d80383eb9ac8f441bdf386a75b61499777ed68d0ff8a6779af450b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py",
+      "size": 24099,
+      "hash": "74298e1edfbd45a241abddb52f8b4c1f73e62010deb46a659db8d1297986b74d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/base.py",
+      "size": 577,
+      "hash": "448b2a48fefda253dd3a0b4f296fa8390dfae08095a297a103a45f1a445f7b6b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/legacy/resolver.py",
+      "size": 24060,
+      "hash": "6f052a13ae9eb73d9b70f69bab179dd7cfa2caaa9bfa4c7712bd9a4fa19e5096"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/base.py",
+      "size": 5047,
+      "hash": "fc0a0fd195a569272df024439f6a25dc26cd9f8cc3b6787fd334068d70120ca2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py",
+      "size": 20454,
+      "hash": "e7400dec17c1fa909f1266ca365159497b5d0b40bc9acd70689ac5d9aae49d01"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py",
+      "size": 33628,
+      "hash": "eab663bc975c2efb02a8d8cf7c734088654a5338eedf56773859619808d4ec0b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py",
+      "size": 6018,
+      "hash": "f1b6580c264b5d274b1f2fecd68e5fe2bd791e62afa85521cc1510385db52ebe"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py",
+      "size": 11441,
+      "hash": "b5b54f7c5bf8560efcd32676fd71a81853f92d5a345366c59d9a2fde3a520089"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py",
+      "size": 3909,
+      "hash": "7da4a08ea99ed24feecefd5fbcce53d196ad3d0d9e124b4dbca06a7ef5de1a37"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+      "size": 8076,
+      "hash": "cf48179967e8d37ca73a7845f24a63e52c9c82ba1eac3850574556ce600a01f8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py",
+      "size": 13437,
+      "hash": "c10f781e47a9fbb91610701cf8d6cc2619b3784ce0100b71781c72295cd9a1ea"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py",
+      "size": 8471,
+      "hash": "1a18bfb227eef6e7fd40d48bb68d6b79653b6d4f9a8fa8bf771a727cad6287e9"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/_jaraco_text.py",
+      "size": 3350,
+      "hash": "335e6e50f221e4da4fd6d754181c516aeeaad59004b48f3e5f22c4113b1c15f1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/_log.py",
+      "size": 1015,
+      "hash": "fa31cb384fd31da673e4115c0a7a122fd11802d2749d77a6e3db3da1fe23bcac"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/appdirs.py",
+      "size": 1681,
+      "hash": "2ebcc33d930a561d2bb9bb42c7dbeedd79596cb092ba0e954a3e10b2fb7ae810"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/compat.py",
+      "size": 2514,
+      "hash": "0bd2c75c900a930007f079f79cf933f4460adeba8f05e3bf21790e1b6cf3b1d4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/compatibility_tags.py",
+      "size": 6630,
+      "hash": "0e23522eaa6eaee5d46a6190c0e2765990720c62d319a5e2f4ef977fc7ce8b7e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/datetime.py",
+      "size": 241,
+      "hash": "1addbd325e13a0f48cf3c8f9e22bb8dd62adad4f40fa6a0fe1098c8a2ab379d5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/deprecation.py",
+      "size": 3696,
+      "hash": "1d586fc8ee6a89115c1bcf0f859969ffceea74a40dc0f4d42081d6b6c4d1db22"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/direct_url_helpers.py",
+      "size": 3200,
+      "hash": "b6d2afe06314aa54703cfa20f7f094a29cba483828c5520bcde049ce07e7dad8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/egg_link.py",
+      "size": 2459,
+      "hash": "6167ecadb99f72b7d682a418cba3ae223b326fd21f2f5abfdafe33b26b355a32"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/entrypoints.py",
+      "size": 3324,
+      "hash": "b8f8c0c9284a39b768b63423254ce9ad0eabdf142f0c86705187c71ea67b0e89"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/filesystem.py",
+      "size": 5497,
+      "hash": "72c548a6e3909e53a702940e7e58ff01000e4a2626fc352bdd5661bfbce1b543"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/filetypes.py",
+      "size": 689,
+      "hash": "b0431adfca9aaa3bf1d5989ddce0805236b7d4138153e512b9230f06f537ca3a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/glibc.py",
+      "size": 3726,
+      "hash": "b0487c44924b612751bd3a803b84c754f3c0f9848354b0f8488f52a3e6f15f55"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/hashes.py",
+      "size": 4998,
+      "hash": "777d942357a7f27caa67375942fc5455d7de0687b80035b1ec7b6b20ce3e5d0e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py",
+      "size": 12108,
+      "hash": "46d45eed5a7408e0b85017b061d7ca89c5e30939875e90d91dd45e4f326f07bf"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py",
+      "size": 23374,
+      "hash": "d63129aa37ea62643a2b70f8fcef315d23e7f1a11f1f6b8c3a534ceca3ef4ab8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/packaging.py",
+      "size": 1601,
+      "hash": "b39b6952616e9b05741fd2524f3af2ac863827040cf29686b7b4a6ede370b766"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/retry.py",
+      "size": 1461,
+      "hash": "f37c11784076adc9ed319e552ddedab1c6984a39ff90b765402ab120bc5690f3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/subprocess.py",
+      "size": 8983,
+      "hash": "af8f816bf61cdee6574298b42b8a5916c093fd0a9d4afb45dd727edb4e1059a0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/temp_dir.py",
+      "size": 9307,
+      "hash": "0fd73c0fb58e3eba0e3bc1860eaa417954a3d74346166ba71b4a364e87638c85"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/unpacking.py",
+      "size": 12974,
+      "hash": "69bd4a727896411f8af18cb208bd1bfc988f51587bbce3e62d02b961318d68ba"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/urls.py",
+      "size": 1601,
+      "hash": "685fde83dba5e5df1b302c5f4924b141c7ecf8ea4975b4ad62a647a32d8ad511"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/virtualenv.py",
+      "size": 3455,
+      "hash": "997f943f2c3530fc61c14c4a85ba96597ef427a3c75c0263555ad19c6d21f667"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/utils/wheel.py",
+      "size": 4468,
+      "hash": "61d46e8fa322706f90f4c834dc56d4bf55932da9ba2dcec08228d8e2fa15ca2b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/vcs/__init__.py",
+      "size": 596,
+      "hash": "500aafce96e2d156d9a3751beac904799030fa8a08651fb35ff5a909bc720a85"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/vcs/bazaar.py",
+      "size": 3734,
+      "hash": "dd6d5e1e3918c76bdce9ba1e6f634187823fae51805ccfafaf37cd84b9b54718"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py",
+      "size": 19144,
+      "hash": "4d37aa0eecd2fbf04548db944ad556984da7183a4abaf521041264fc20905d5d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/vcs/mercurial.py",
+      "size": 5575,
+      "hash": "c3564958b2aa34fd689c48e47e39700559cca8f64d488111f1aca341c9d3ab8c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/vcs/subversion.py",
+      "size": 11787,
+      "hash": "b9481d3efc66bc407c430b63af41dcd178058db88d8b971bbc8e2f0112ce257a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/vcs/versioncontrol.py",
+      "size": 22502,
+      "hash": "77ebf599c2f1a1f83615a22a06b57e7be65c8ce810852d28c57a648b5bf5c97b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_internal/wheel_builder.py",
+      "size": 9010,
+      "hash": "caf1142d2b59b6dcbd2a9969f3db438acde119dc8a43ed8151b14b989ff98a79"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/__init__.py",
+      "size": 4907,
+      "hash": "5b3bac3d319620c790416495274876ada7c69154daf56289d874fedbe12866b5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/LICENSE.txt",
+      "size": 558,
+      "hash": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/__init__.py",
+      "size": 677,
+      "hash": "045da7e4e790cf5416db149ecb62f17cd0adc1b8e74da7577481f6b68a8979c8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/_cmd.py",
+      "size": 1737,
+      "hash": "8a2b2dd84a7326f0d5221300c57abc8859d306c89901dea2a65c5f98d6e83729"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py",
+      "size": 6599,
+      "hash": "f32eab4cf5cecd51e60ca096e4247db22bcb56e0eff9ca5d19c65875158d68fc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py",
+      "size": 1953,
+      "hash": "397c2fec59f60309ca3626a12479e3b6f68a2e776f54bbfffb33be96d955f6a2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/__init__.py",
+      "size": 303,
+      "hash": "76daebae82b90670034751968c2675f5a674b45b0c7ef141b4b410535b29fda8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py",
+      "size": 4117,
+      "hash": "77cba9166cbfcf06829a56d61150652d715d76df19c3c739485a7178e66c75fc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py",
+      "size": 1386,
+      "hash": "f6b9aac2d62efe58d5916ebfa0ba9b0bb11a5ff6bc613ff22ee9daf9e4b4760a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py",
+      "size": 19101,
+      "hash": "731d0797cc4b66052e5eecbbf068a1f406230adaaeae6623549c72038c96b7bc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py",
+      "size": 4291,
+      "hash": "da4b5734f1342aa9f2cc5db868eb0a080e7c1d0ab5c5e0ba97683aff3c238217"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py",
+      "size": 4881,
+      "hash": "82a31753cc34810b8442249dbb7620fb4bddf645bb9eb58a6cb71aef9ae17861"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/serialize.py",
+      "size": 5163,
+      "hash": "1d0776225950d391f33e454b3174c5dae5f99a31108c3064c42a94254383a599"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/wrapper.py",
+      "size": 1417,
+      "hash": "86c19cee0f101904d3fb87fcb60cf700ce6ac12720e853b405274b491744be95"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/certifi/__init__.py",
+      "size": 94,
+      "hash": "8d691a607324e2820f4920442b96cb31b3bfaab932366fdc445c7e0f5ebedcab"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/certifi/__main__.py",
+      "size": 255,
+      "hash": "d64dc2afde6f0b1c464460e58eb5b7c0c76965d2f73617f4bb59fe936a9db026"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/certifi/core.py",
+      "size": 3442,
+      "hash": "82efc40952359b746ad32b69b0d13ad6181019c29a380b7d46cf46f0ab1308e2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/LICENSE.txt",
+      "size": 1099,
+      "hash": "1ab36e3e2a4ba8631625384f87e9e091db1faed034c5b23325b3239abf2cc525"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/__init__.py",
+      "size": 250,
+      "hash": "0b7385bb4346c03cd0e0b3a69923853ec452be46c19fe99d7788ffe58a89c3eb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/__main__.py",
+      "size": 1709,
+      "hash": "50d4ccecfe667d5b53ef00e2f643935d6815ddfbb77bc6d3aedd50a758ef8caa"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_implementation.py",
+      "size": 8041,
+      "hash": "1aa6f60e54042d16a478794a7fa42d4125b433e6dc1289b11f0e09b2f203d65b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_lint_dependency_groups.py",
+      "size": 1710,
+      "hash": "ca9f830ea297b5b9034cd6b489f6be166380f2b6b6e253d91177ed5be47902e2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_pip_wrapper.py",
+      "size": 1865,
+      "hash": "9ee556ff0fe7b55c69136e842c4be780c634374e2c14bb228d747265944e146f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_toml_compat.py",
+      "size": 285,
+      "hash": "0479d79c569c9b70dea25b00df91a323aaa40c0a6fb9afb5176d24bf705f6561"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/LICENSE.txt",
+      "size": 14531,
+      "hash": "808e10c8a6ab8deb149ff9b3fb19f447a808094606d712a9ca57fead3552599d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/__init__.py",
+      "size": 625,
+      "hash": "0dea37ba8f7c694c887dd28936aa1f7921055b00f3ad5d907862d72ec82ad008"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/compat.py",
+      "size": 41467,
+      "hash": "da34528d1238a3ebe55de4cad8108621486473a7bd646852b1a711339a2c793c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/resources.py",
+      "size": 10820,
+      "hash": "2f06cf92c73403524c6e2e979ee3dd301527f375fb04fb85356a8f184288ebdf"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/scripts.py",
+      "size": 18612,
+      "hash": "42fa7be84f49737220c98b9b9e9a88f5f4bb7ac78639ee058e97952aa2adf48c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distlib/util.py",
+      "size": 66682,
+      "hash": "bcc3c6bec4b88fd845e98f64dd3ca89b569a1cb6f4ac5999004cb378075e97dc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distro/__init__.py",
+      "size": 981,
+      "hash": "d9f1e317e49f80fbe3c8d67588787fc23a96751fd8a393831f0642d232c13e17"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distro/__main__.py",
+      "size": 64,
+      "hash": "6eef5ddd389fa0a72264572a441bb2815dc64ae4e19d50ff9b620ae1ccfde95b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/distro/distro.py",
+      "size": 49430,
+      "hash": "5ea6de7da7008434f8cebfedae76c0d79798f2f74ae064e08609af506ac433fe"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
+      "size": 1541,
+      "hash": "a59f0b0ef3635874109a4461ca44ff7a70d50696e814767bfaf721d4c9b0db0f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/__init__.py",
+      "size": 868,
+      "hash": "30fa8d0cb65b5ea19a35d5f1005862a853ca1105e3bb68cd42109ecbafb97893"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/codec.py",
+      "size": 3422,
+      "hash": "3c47b0dc8b70ce35b887299b6ac9edcb6376397bcd7201c1f898eb06ec473d86"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/compat.py",
+      "size": 316,
+      "hash": "4732f2e90402765f7bf3868585bd845fd10a1822638343f73e294675e5d7731f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/core.py",
+      "size": 13239,
+      "hash": "60963200c9f089010f8d50b8f85aaefe9e0227ac8a2ae0c69a9a41350350a45b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/idnadata.py",
+      "size": 78306,
+      "hash": "5b7d067081afb4e598c008d98f8663ba8b94bad0ba7df80dbb28c9cbb7d9fa5a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/intranges.py",
+      "size": 1898,
+      "hash": "6a652d91d8587101bc66bf82a0c33f91545a731922bc2d568313756fadca29d5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/package_data.py",
+      "size": 21,
+      "hash": "ab9f52dce5ec739548f23eaf483d2c18133293acd9e2f58544413cf3208960ab"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/idna/uts46data.py",
+      "size": 239289,
+      "hash": "aedf742bd278d20512c29a433c2ae18e08b9000ea958ceb974419149feab2213"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/__init__.py",
+      "size": 1109,
+      "hash": "440f2072a2b5ed8a64c419cdc172556b5a1ad8bca058381f1759c0d4d3f0de6a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/exceptions.py",
+      "size": 1081,
+      "hash": "7424d67a2f1da64accb100dc8d093be004e5f47b08047d326edf3338f36a3187"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py",
+      "size": 5726,
+      "hash": "92d789bf4de7f6d633779a28df1628a554e8e2f45a031a27050409857a21659a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py",
+      "size": 32390,
+      "hash": "d20d4fce9d2fb66044989e70f45decffe24c55444ff114b81b571ce5345a02c2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/__init__.py",
+      "size": 494,
+      "hash": "ff470388f55fd92f9b35f566660bb1c739ab2185a5c804b1a6aa61e2ab095947"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py",
+      "size": 3286,
+      "hash": "524adb0ed5bb69eab7aaaa007d4d7aa23c87675c6c4ef1a47bf5aa31328029dd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py",
+      "size": 9596,
+      "hash": "b78cbff9d4ce71faf7ea02d8fb3b623a9c7124518eda2902d751e07f2b06c623"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_musllinux.py",
+      "size": 2694,
+      "hash": "a7d66a35888e22d19e7bc29c64578717f61c76157018774aeabfbc9608b1bc64"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py",
+      "size": 10221,
+      "hash": "8187e78f4a511df955738447662b75dca353c8df62895714d915021a2db60703"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_structures.py",
+      "size": 1431,
+      "hash": "ab77953666d62461bf4b40e2b7f4b7028f2a42acffe4f6135c500a0597b9cabe"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py",
+      "size": 5310,
+      "hash": "398cedeea2b1ca538027eab45f22b5a80c9cc8f4582df30f74640a4579195b22"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py",
+      "size": 5727,
+      "hash": "ddbc7e82bca8e2c46fe4bb2bc00a68bb2eb9548b37bba8ab48e449cc02e4af35"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py",
+      "size": 48398,
+      "hash": "a009b5ced3c5c25b2608a7bb94002cbff38839f4b57160eef5b34191ebbeda7b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py",
+      "size": 12049,
+      "hash": "3f4c1edbb8e6d71533806309c418ed50508859e0714ec31e253389e9c8599806"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py",
+      "size": 34739,
+      "hash": "f08644aea4109cd9b9ddd659b98ab8146538fdda728a731e1f540504858891f1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/requirements.py",
+      "size": 2947,
+      "hash": "818c9148075bac8c8a0d8ebaba02035108d132fc641f600b8a84e65f7b672faa"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py",
+      "size": 40079,
+      "hash": "c9cf43fccc9c2449b052966f72cd4e64bf477e23459b2c3445969e1d134790fc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py",
+      "size": 22745,
+      "hash": "e35b3ded6f596adaead8477b45cdea7810da1def2928abd8ab69868f06a17d79"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py",
+      "size": 5050,
+      "hash": "d05dc787d385b9182b8538066549792b6d85bf560fdad665d73ff680eea42620"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py",
+      "size": 16688,
+      "hash": "a221eacd352ffe9d768698e0b0b0d571a179853ee90da48e56250d303e064d6d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pkg_resources/__init__.py",
+      "size": 124451,
+      "hash": "bdb4c9d3faee5201b1423944aacaee16688d3d5ca1dadf6afb3c930d3d39df12"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__init__.py",
+      "size": 22344,
+      "hash": "51f7921d697c01e4ed6ce04ea070312b874e0ce5a466d7f2fa6fe2edc59d27c7"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__main__.py",
+      "size": 1505,
+      "hash": "8c127ccdbecca71e5e6dca85f37c6ba4ef7831a782a4d18755ff5cbc337624b8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/android.py",
+      "size": 9013,
+      "hash": "af40ec85505ff913b58d72465fc0b84e297b1755d6b7e6e47563209af1226988"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/api.py",
+      "size": 9281,
+      "hash": "c0f1ce9703ac7f3da8a9067a03615c0aee641008fe2689ddce834e1d8150d21f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/macos.py",
+      "size": 6322,
+      "hash": "d17a0e8229f534aed0922ee2b240fea12f312b1c3a6d782828481daa90910054"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/unix.py",
+      "size": 10458,
+      "hash": "5999a4500fbe2f724d4469b3df6b37e587e80f789c6bac4a20f74257f1e12dcb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/version.py",
+      "size": 704,
+      "hash": "b2f79defa9779ecb444a36489ec606ccfaf247870f21a7f74074c9b930d85cd3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/windows.py",
+      "size": 10125,
+      "hash": "205a62a21501c313ed0b39722b036dc725b8264f2169ae96f28e7d99fac35d5a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/__init__.py",
+      "size": 2983,
+      "hash": "f2e36a2420b05ea6c4c79692b01af417291440e0432818a13b998faa2c356aaa"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/__main__.py",
+      "size": 353,
+      "hash": "5ab9dda527ba8b57245ff490d4a6b10fd093286cc3d04b82385c5c6f0169a0b5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/console.py",
+      "size": 1718,
+      "hash": "01a8035aac1e6b6c8159fd74282f69b4180ca4c8f12a9f3200102687e3503959"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/filter.py",
+      "size": 1910,
+      "hash": "60bb694e7662bb4ee7637a0af677d1e84f58d4504784fe4f5fc82f90959c7da8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/filters/__init__.py",
+      "size": 40392,
+      "hash": "e14e23b40d17de23fcdee42707df9323e1c34b0f04f32f333181dad148db6da2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatter.py",
+      "size": 4390,
+      "hash": "29940c9b2a3fc643889101bc83ae8b6049018756f1edad07c8608172f848f44c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatters/__init__.py",
+      "size": 5385,
+      "hash": "293c019a75e56a8a498500ce7a6547607b24883821baafb4f18b4feb13cd24f8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatters/_mapping.py",
+      "size": 4176,
+      "hash": "d42c37ec5b9094d69c9f144a9ad94f5f89f22e85fdfedb64a39670b1c354659e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexer.py",
+      "size": 35349,
+      "hash": "fe406b389fcd4f94e5d0854cd2b03d73c7b2b0febfcab946cc4408d1e55807e0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/__init__.py",
+      "size": 12115,
+      "hash": "c1b20c137e461fb6c8d41f6b34f245a964fe8a3fd102964360f52567271a2f30"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/_mapping.py",
+      "size": 77602,
+      "hash": "978b425ccf1ef5a3c2d810fab2322bd1d793f89fb3e6d1e00b02fea757d2d0f1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py",
+      "size": 53853,
+      "hash": "bf18e7d5c38772520a24ac68ca206c41363ae461db919b5946e290d8054229ac"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py",
+      "size": 1005,
+      "hash": "2b9792911f064b5af93a45d74c739c57468cffac6993d7963442005be38e2768"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py",
+      "size": 1891,
+      "hash": "b4fc74ac9093219f62a1180b3581b8a627c26c0c1345465d76f2f0f8d7c0936c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py",
+      "size": 3072,
+      "hash": "c1768ff468e9fe1280767202aa80e447100e40949ce2fdd7ea6731c77cfe4cdb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py",
+      "size": 3092,
+      "hash": "9cd7044d1475b51ba24da1e61d24d310255814f70b7fa98366ed5ee2ef7503d1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py",
+      "size": 7981,
+      "hash": "e71ed987d62553a212277d5d33076e89a6a76f97566672a0dccc8442cb1e3674"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py",
+      "size": 6420,
+      "hash": "3e5399aa5b274d5779f111b2e74be403671743f94fe5b1791063040539e8e830"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py",
+      "size": 2042,
+      "hash": "c7d79b72d7f2bc2005a4c4e5309e58c7070d601ce382aeb325a2a4366efcaf83"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/_mapping.py",
+      "size": 3312,
+      "hash": "ea5a2f154136f6dcfa12c5775d8638860a3327bab524bedc7cedd43a58274bcc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py",
+      "size": 6226,
+      "hash": "59b7561a1626fd5a2c6f40c3c56f651cd3e02135df593b10987b7a732f516dc3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py",
+      "size": 63208,
+      "hash": "6a5fbfac17a646e1af8a7b2b33a6ad36c1d3989e8351bc36e2ad8ed91bb57017"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py",
+      "size": 10031,
+      "hash": "a11b52a62028e6333dba59ed92f55b81751d8805b9ee39ee60607bb7d7d8ba17"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__init__.py",
+      "size": 691,
+      "hash": "70f07f6bd2d7cf9c6fb116d7d68daac807632dab5925d43f2dce4c70d5fe5fb6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py",
+      "size": 14936,
+      "hash": "8d8fab6b19e6c91c81e7baee022b6b25153311ec6e021193a6033282ac7aed9e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py",
+      "size": 557,
+      "hash": "30934fa5f23170ef85821c6905bc641b5ac58907fa1ce51b5785399aad07167b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py",
+      "size": 12216,
+      "hash": "a9c5cc866c7ffcc209ab5d201875b7980e1397c772f18cc731c7309cda0a970d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/__init__.py",
+      "size": 5057,
+      "hash": "1e507f1f386bcc6b5f0ff69a614c14875cd65cb67be7f6022f28adef9774573f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/__version__.py",
+      "size": 435,
+      "hash": "40a0dc78af0afee8eac030dcde862b474a1d381620295390439bc56a9fc6fdc8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/_internal_utils.py",
+      "size": 1495,
+      "hash": "9cc4329abe21b37d93a95a3901b0ab99c24486f3d487bc57965bb2ab0b252e24"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/adapters.py",
+      "size": 26429,
+      "hash": "d8c2c538af46a5836189377accb0d4ac081290807eefa8baa664ae5098c70b6c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/api.py",
+      "size": 6449,
+      "hash": "fd96fd39aeedcd5222cd32b016b3e30c463d7a3b66fce9d2444467003c46b10b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/auth.py",
+      "size": 10186,
+      "hash": "905ef9b6a9cb72d67d31ffe19bd4d9223e1c4169cde6ec51cfca16b31e70991d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/certs.py",
+      "size": 441,
+      "hash": "9070e590afdb7ae1d778c3dce63b5adb0825f2074a7945ade5fda74c356bbedf"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/compat.py",
+      "size": 1822,
+      "hash": "41f6e67531626738d21cc5e232b7788e809153a45a6ed43dcc870fa1568722eb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/cookies.py",
+      "size": 18590,
+      "hash": "6cd8be8aa123e0d3d9d34fa86feac7bf392f39bccdde5129830de0ea9692dd7c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/exceptions.py",
+      "size": 4272,
+      "hash": "0f5c2acd85a77b5992dab538ded3fd09e3751bb400cbb7aa2fda3582877a123c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/help.py",
+      "size": 3813,
+      "hash": "85129a7fdbb41bb7ddc2ba8c1ed177a06d7a44a92d45fe8a8b0b52ab6168d7fd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/hooks.py",
+      "size": 733,
+      "hash": "0a2bb2b221c0dfd57951f702057148c7cdc8ac3a6ec1f37d45c4d482fdbc7ed4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/models.py",
+      "size": 35575,
+      "hash": "b5a963960eaf2786fec4cbb64da30d14591a8b031ec7f56c110eaa513377c336"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/packages.py",
+      "size": 1057,
+      "hash": "fd94030894c9f123f79155ae9d2a81b1164d3f38f673558556a6ddaf4f29cf75"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/sessions.py",
+      "size": 30503,
+      "hash": "0a5d5da449ce7f0af3ccf6e4bbe7a67a935e37846dff4ff9f08cb6c7e2464e6f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/status_codes.py",
+      "size": 4322,
+      "hash": "889500780db96da4ddc3ee8f7c3d1e178aa1a48343251248fb268cab1b382c42"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/structures.py",
+      "size": 2912,
+      "hash": "f886e6855cf4e92fb968f499b94b6167afba0fd5ce8d1b935c739a6d8d38d573"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/requests/utils.py",
+      "size": 33225,
+      "hash": "592df01d241a6847dc7aed6cca2168e637f87bf0962944dea7f21a6ce548fc9d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__init__.py",
+      "size": 541,
+      "hash": "ca85fe778493bf01860a24111397090bd0ad7abebd4a0560a82971382bd23fb3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/providers.py",
+      "size": 8914,
+      "hash": "a485896c874927d185b4d6edc131f421ae37563ea16021098f60ce2ee7b5e453"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py",
+      "size": 2037,
+      "hash": "a4d25fe271712e901e2b1941522d86123d1ad888f59e2918d1469b4ca5deb13e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__init__.py",
+      "size": 640,
+      "hash": "ef6f0cdc4be69cf6d55d2ec4c5796fda432ee9bef012ca0fbad11f97eb9593f2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py",
+      "size": 1543,
+      "hash": "08d7903e7a40b9d63bee79b33a438d4a6020465cc87f4e97f97f66bd160e0e6b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py",
+      "size": 1768,
+      "hash": "95c9991afe6c2873a7143fd1cd9c2f9464a3d7d31e03ee6b08ca5d7f64a0c3b6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py",
+      "size": 1768,
+      "hash": "967fe3690b602e545448563adbbca21c6da00fb020697cd129a12515587b7c34"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py",
+      "size": 24212,
+      "hash": "dc9ff3916fac0f7118f8194d5e3ca59fffe78e9c87e67d146494fab95ec285e0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py",
+      "size": 6420,
+      "hash": "a6ef84262476201213af649078d3d16b4ad7863952b5f98efc6120021af7d34e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/__init__.py",
+      "size": 6090,
+      "hash": "751c6320bf926c5558d2adc88d232b7e00531eb9b52d90e02ceca0541c226197"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/__main__.py",
+      "size": 7896,
+      "hash": "7bf6950beb43cdaad6416f52b9932e0a006be8e0d5fe20cd5765a1db19313a5c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_cell_widths.py",
+      "size": 10209,
+      "hash": "7db99ec9eb447478f313f571da5d6e2bbb673ce84cb365f59497cedefb0a0e90"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_emoji_codes.py",
+      "size": 140235,
+      "hash": "86ed552fd9db55da6926b5688a356c85195c4517bfbf7763bb7326776b0a65d6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_emoji_replace.py",
+      "size": 1064,
+      "hash": "9fe91c7adb04531d99526850adf78c35cfad79e1a1a6e490e45f153c1b32bc3a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_export_format.py",
+      "size": 2128,
+      "hash": "448d3ca52ae6e6d052ccf32f9db4ea6c3f5621a95a3a837977833545398bab56"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_extension.py",
+      "size": 265,
+      "hash": "5ede3b41a7022b062bbb38c38be80e06aef6e0945e0e3f429bdc548b97ebfb7e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_fileno.py",
+      "size": 799,
+      "hash": "1d66713f90b66a331b1ebcaf01066c79f9557d0a06cec28e1f3286b0b0fcca74"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py",
+      "size": 9656,
+      "hash": "44e4f43cb0b618c5a26a559992a2488e662aec83518a34109284a89164da0222"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_log_render.py",
+      "size": 3225,
+      "hash": "d41c88d0f035669c5963708624e2b9e218e5ab85fe073fdba088c8a8277c2a7b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_loop.py",
+      "size": 1236,
+      "hash": "855ffa08b7683e6d2f6b6d96a70e332aa334458b33dd36715e3d0fa12fbd7834"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py",
+      "size": 1394,
+      "hash": "00318aa75cadfa4ef414c295ead9ea0aa79c07ead2273a7e590b03ecb3cbfa48"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_palettes.py",
+      "size": 7063,
+      "hash": "71d7afd4940a67426f960b95f62a478339d3767be52335050c16f422dd8fce32"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_pick.py",
+      "size": 423,
+      "hash": "7af0edf10378945e428b0ad421794e2429ed8ad0423ac23764b3c42005512c95"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_ratio.py",
+      "size": 5325,
+      "hash": "20eb65efcb1009866c987cb185ee3992b91bebcbbdc55cfbcc5b175490fe6f66"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_spinners.py",
+      "size": 19919,
+      "hash": "536af5fe0ff5cd28ec8e251d00449cda200c7378b8ae2fd2f0f60fea4439cf52"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_stack.py",
+      "size": 351,
+      "hash": "f82f0e2bbaf19f7b0851d570c59041a5e1e12335f4788f9533731e9987da5e6d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_timer.py",
+      "size": 417,
+      "hash": "cde9716d3ea83c566736bc163e973592d51e013f957387ee15c4592d018bb4c2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py",
+      "size": 22755,
+      "hash": "05268344833004b2139ff9b499344b3ea304e6afaab8675232e60ca587982707"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows.py",
+      "size": 1925,
+      "hash": "681c1a0ff4b9e926e0a2922f6b2566a64d18dbcbb06360b905a6f5c25dc1a7e2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_windows_renderer.py",
+      "size": 2783,
+      "hash": "b7be192f7c6e0c23f79e64e9f691f52f92e223671a909b9045095e1c225eae59"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/_wrap.py",
+      "size": 3404,
+      "hash": "1654aca26e445f42d5900dca5b2df8c879c27cbb6a5fe6487a95ca87eef4ae97"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/abc.py",
+      "size": 890,
+      "hash": "38df84f99a924a1799f3c56b297d8cdcf5e915b18451464f31afc07f497ee1fd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py",
+      "size": 10324,
+      "hash": "760fbbb98d2e90c2cb95412c04344bbdadb6fec4202090f804ad1d9991c51ee8"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py",
+      "size": 6921,
+      "hash": "02fb352c76d275cc8ebc339da442d952850b7018987b063be9e341a7ab85061b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/bar.py",
+      "size": 3263,
+      "hash": "95d6d51cecca24e9df95536ebf5c52ee0e9d2d7d84df03275e474f6e9cc94dcb"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/box.py",
+      "size": 10686,
+      "hash": "9266af05cfdd9fbdcbfe0ffcbf1592c18243daecc15ce5054ed24e7e96dccdc3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/cells.py",
+      "size": 5130,
+      "hash": "2ab4248f9f8b821082a492d23502320198e775ce1b9c4a8e1268b962e67d5026"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py",
+      "size": 18211,
+      "hash": "dc74942d50e3eea4245d47455afefc24e8926737f2e72d6791c6219dadbde95d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/color_triplet.py",
+      "size": 1054,
+      "hash": "de585091d25bbd63e82c33be0276089805a626f579765818342559f7b39168de"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/columns.py",
+      "size": 7131,
+      "hash": "1d45f429c326f5db0a362d757d36e233f876883b65f3248269573195a944ceaf"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py",
+      "size": 100849,
+      "hash": "b7d6b366999131553972985505949284db26071776f880167134e5868afe135b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/constrain.py",
+      "size": 1288,
+      "hash": "d5520fb82f0082d296adc9dc42b8c1758a80dc9556cacbba8d9a35aeb87b73b4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/containers.py",
+      "size": 5502,
+      "hash": "73fe7a4f171e74662a0dea4704c4ee65d5088a38ad010827a31f9075ed19d6aa"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/control.py",
+      "size": 6487,
+      "hash": "1144d25052d06f163a666a3fb1d33ee4bb37db7bc81d305f37c4cfba5a9e1d46"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/default_styles.py",
+      "size": 8257,
+      "hash": "921405aaa6a80ecddba6b32a5a91f0f273b95291b60cde90b6e4dde8bcd9c187"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/diagnose.py",
+      "size": 1025,
+      "hash": "7c99754c8b519f5f601b0a2ea9383ef333d45b762a401a8696dadf3d0b351fdc"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/emoji.py",
+      "size": 2367,
+      "hash": "59de1b42e6d9752cbaf8fcab45036e307b67d959258caf6e3d93d596ed9c9b1d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/errors.py",
+      "size": 642,
+      "hash": "e693f729ce5de1027f734285b31adfca18e23d57bb275ccea9215b140cdc57e6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/file_proxy.py",
+      "size": 1683,
+      "hash": "4e5f531cc0d9f8f9395a6f2c23580683f5390e1bac9b10fe159d1f51b714d16d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/filesize.py",
+      "size": 2484,
+      "hash": "fe2cfd948a5182f5bb30d49e0999cb83e1f0cdb3f81844e0e78dd6a83f1216cd"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py",
+      "size": 9586,
+      "hash": "1bfb27fbc0ca8ccd6c1232c6fe8738a2f9169a25295af8fc6d78b4c9e7762e76"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/json.py",
+      "size": 5031,
+      "hash": "bd512829d6b0a094630056b23f05e43013cbcbb4524ecf9fe38c124034769c9d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/jupyter.py",
+      "size": 3252,
+      "hash": "432a0aa04ffc21d09baed8921e9f53b1348dc931d8d053b9c2113b8ce4ddf541"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/layout.py",
+      "size": 14004,
+      "hash": "6a3912140b4456ff44153705b3ec38b997dfb7b9c45e13732fb655760ad3e6b2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/live.py",
+      "size": 15180,
+      "hash": "b45dee90000967f37665b19c96a67e8b02e822867c7f41c7533efd8c0c89aa3f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/live_render.py",
+      "size": 3521,
+      "hash": "22dff7f58773ac19bca372cbd24686a2b3c583e05f65601cac18cb8c5a246f1e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/logging.py",
+      "size": 12468,
+      "hash": "e4a68f3d230ff45c5c5cf05c28ce1c19dff35bbf0f3207fe61b3159ef7d2c34a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/markup.py",
+      "size": 8451,
+      "hash": "ddeb8628fe6ce353424306928d39c9c6eb398993078f1a483345ba7c2c6b6b7f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/measure.py",
+      "size": 5305,
+      "hash": "1e6ac8257f2c5914c76e087c33111acbff37564a8d5bfef4b3c68a3f965c608f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/padding.py",
+      "size": 4908,
+      "hash": "295108ded3b0a3db202b560d4ae1fffccd7f8d45a62d9c11555fca98eb55cf23"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/pager.py",
+      "size": 828,
+      "hash": "48efc44c114a6e0de7fc080ecd79b8d52bf7e98c57032237fd1f8a398dbfb927"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/palette.py",
+      "size": 3396,
+      "hash": "9489ef4753830d3d9fdd464c7cbd60aeaedd63fa4374a1f0e1b75480e19a3386"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/panel.py",
+      "size": 11157,
+      "hash": "f6c425d3484f22a1f91b68002d0a3835ea45c293f493dc13facfe03a6b39a487"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/pretty.py",
+      "size": 36391,
+      "hash": "832dd2ef6bb8151836cada28ecdd590d60c8bc1e2e9dbcdde625067609bef1f7"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/progress.py",
+      "size": 60408,
+      "hash": "09473696453e5f9f6655d19f8cc0819197a218f2f7bb174e36384d245d93ef06"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/progress_bar.py",
+      "size": 8162,
+      "hash": "9994cfa4953071f71d8100934f3de4c98f9f73bf5d74bc2dc7a1a18717e8d3ae"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/prompt.py",
+      "size": 12447,
+      "hash": "974461414fb45154d5f5ed3cc56d416c88f426ad885f20a15f8942d2514dcede"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/protocol.py",
+      "size": 1391,
+      "hash": "e611c70c3347724764f22587e7311b8becee215485e616d4da3228e3b47b9531"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/region.py",
+      "size": 166,
+      "hash": "acd4fdc59ad56536085d90b43589f8d42250c1835b47e29e70f3b14e042f07c6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/repr.py",
+      "size": 4431,
+      "hash": "e4c64966638d802ea4b9df905befe6d68917c0bd9a47abbacbea54714089cf6f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/rule.py",
+      "size": 4602,
+      "hash": "d1f35a4bf68445add43117374f958ca4dfecba6b43c5f6a8af6cb7a1fd5fb419"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/scope.py",
+      "size": 2843,
+      "hash": "4cc514f2aa35eed872a9008faa30cb62983f514d64e6a55df96c2226f9c955ab"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/screen.py",
+      "size": 1591,
+      "hash": "628791784494871ef882ba9bd264926fd960861cac5a6147621b1b3154235cef"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/segment.py",
+      "size": 24743,
+      "hash": "a2d9ca78a18457e591950568b1f2557850dc0f100a1e9bc9fe12f34aee65ba63"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/spinner.py",
+      "size": 4214,
+      "hash": "a27221a4a9658d11e9a5365ab313bc91782d632087524a5280a825449de8e758"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/status.py",
+      "size": 4424,
+      "hash": "9243e987761e019068f97fb8c0fa7c813a99c94e3ae8d2f06410383d94d37b0a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py",
+      "size": 26990,
+      "hash": "5bd09ccbc3f2f253480ad95f729fabcb3313b90686c405376afefe8397c7bb4b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/styled.py",
+      "size": 1258,
+      "hash": "799367cc6ac8e248bfe78a606373a3d13fb1de5c5d5d3621e3faf20c1db8c015"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py",
+      "size": 36371,
+      "hash": "78328847097ef9e6742f0a3675ad9146d7eeb5719abeb24eeb50a5e4e912e7d5"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py",
+      "size": 40049,
+      "hash": "6664fb57b30c08e60ac3b4c663d4992f26037fa25d33e5957f4ec5755b958532"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/terminal_theme.py",
+      "size": 3370,
+      "hash": "d63e7eb9f25f9ef940a3942c8bf0026625c39b0317cea826141c8e6d3f7ec896"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py",
+      "size": 47552,
+      "hash": "00eec93c2cfafa068dd6d8552d73019ed1260cf55816014d1b5a0ceb5fec6a75"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py",
+      "size": 3771,
+      "hash": "a0dca15e119a82d0e56c3c9eded56eddeb16396934bcd92ec45c3efee9e568ad"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/themes.py",
+      "size": 102,
+      "hash": "d318132e8cdf69b79b62d709b43742e50917e4855411abe2a83509261e185459"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py",
+      "size": 35861,
+      "hash": "7345a607f2f4e3f51f65b2daa07f7cdbf53fb3b7a8b3128c5220159833dd4585"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py",
+      "size": 9451,
+      "hash": "c969d0eab02f446277a991aa06bc52d925b64ca05336b3f449d63c4313853eec"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/__init__.py",
+      "size": 314,
+      "hash": "ab310697c40786a8103c2b8bcdf2b23c8b87dca28fb297fe5153db674a69043e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py",
+      "size": 25778,
+      "hash": "6cef2d5189a7c80d8aea6e139db41b7d4aa6205703bfb986d4ab82f60a915660"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_re.py",
+      "size": 3235,
+      "hash": "9fcf88a3c64ad54f85ea3ce583b3da6dce3484b149b1ac04dae34b287f70ee25"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/tomli/_types.py",
+      "size": 254,
+      "hash": "f864c6d9552a929c7032ace654ee05ef26ca75d21b027b801d77e65907138b74"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__init__.py",
+      "size": 169,
+      "hash": "d05f320ed5f1dd4ba7866f3be0aac070fefab2bb0cf7ccbb5b21d0c02ba565ba"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py",
+      "size": 6961,
+      "hash": "76c89f152db161fd62efa9a64727f3f72d76e710bb67f1d0f38e592a126c617b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/__init__.py",
+      "size": 1320,
+      "hash": "06eee4aa49a9ba784bb23e710aef204ffdb992da0f5dc4a7c1ef151e4d46989a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py",
+      "size": 11413,
+      "hash": "0982425790537edb5961fa98de6a2f74c044fbc6b3eee8444ff2d86ca4f6367e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_macos.py",
+      "size": 20503,
+      "hash": "9d994b90e9accd413483aaf2470055198e423b33f2b9d72c889b4359aacce4b4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_openssl.py",
+      "size": 2412,
+      "hash": "cc1f9242f272764b3bb50d32230acfe860f77d035249a3e2abbcf0e321794f8d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_ssl_constants.py",
+      "size": 1130,
+      "hash": "3540f87d529d483d36ae2efe75bd2d9ced15a8b3fd687bb3992b5c5bbb40974f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/truststore/_windows.py",
+      "size": 17993,
+      "hash": "ac01f22980fc33bb7e6d77c6f1580e55add3a5f85585bb78ad94253b8e58b8ff"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/LICENSE.txt",
+      "size": 1115,
+      "hash": "c37bf186e27cf9dbe9619e55edfe3cea7b30091ceb3da63c7dacbe0e6d77907b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/__init__.py",
+      "size": 3333,
+      "hash": "8972dc6222724a7d0635b58e3990c30298012f52603f8e0467c8b5efad12f0c7"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/_collections.py",
+      "size": 11372,
+      "hash": "a72012249856ef074ea6a263f50240f05c8645fafc13cb94521a94be1174ef6f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/_version.py",
+      "size": 64,
+      "hash": "b7dc0607aa283935d782263ae8ad66e81652d422725c7014f04a160d37ba4a19"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/connection.py",
+      "size": 20314,
+      "hash": "b6d200f74f41adb4d4cf092a11efd3cd9561e0938e8fb83ad58b1e8b69abc068"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/connectionpool.py",
+      "size": 40408,
+      "hash": "7b67a203035b14d08ac63e1bc0328d2bec3b1c8752cf73a633153f4c8b7e7af4"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py",
+      "size": 957,
+      "hash": "6c36f2384856d8228b25c42a00a032ac41cdf9a925b321c52aaeaf17c645b269"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py",
+      "size": 17632,
+      "hash": "e1793ae2a2243c1b74f40e6af9120552e0e135cf665e29556a99bb5a7627cd1c"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py",
+      "size": 13922,
+      "hash": "076241076fcd44fd36c4ae8309ad4f6bd22ec6b3f0c730f365b8b14246fb53d3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/appengine.py",
+      "size": 11036,
+      "hash": "551ebc780544d77ee5c53823043c029dae5488165338a6b4d408fffb905a0b3e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py",
+      "size": 4528,
+      "hash": "3657e45bb58c756f338aab9da298c7a16dbdf688350535a2d0878889baae1709"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py",
+      "size": 17081,
+      "hash": "843261e0c87263fa7ea0a9457187106954110efe86326046b96f728f1c9e7a33"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/securetransport.py",
+      "size": 34446,
+      "hash": "15e7f5208514147aa97afcd78833db20690329c858d8554a79578b191d50ab78"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/contrib/socks.py",
+      "size": 7097,
+      "hash": "6918bd7965e8f5911bf795d4c5e7f8676d421659e78db122028f473ac7a832de"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/exceptions.py",
+      "size": 8217,
+      "hash": "d0c9e7a372874cd7d745f63beb7f0db9f38f9146fa9973a6f8baa3fb8c76c3c0"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/fields.py",
+      "size": 8579,
+      "hash": "92f2c30a0fc9987d652e3514118fc52d2f14858ee106f0cfb951136d8f2676b3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/filepost.py",
+      "size": 2440,
+      "hash": "e5bfeaaa04475652fbb8bb5d018073061f861e653901f255b7fd8dd174b73de6"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py",
+      "size": 1417,
+      "hash": "9dbcedde2d1a80f54fd3b8eaaa08e16988cc9ae022fd6e44d04cb0662bd53bc1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py",
+      "size": 5343,
+      "hash": "b5109a97938084d491c9bd03847a7edfc02d2250ac44ff01c45dcd5feeaba880"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/packages/six.py",
+      "size": 34665,
+      "hash": "6fd2ccd30057bfb13b4ab6c28c09b8c3037e86b1fe88dc6fd7c2e058d30c28fa"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/poolmanager.py",
+      "size": 19990,
+      "hash": "696ca15d1b4d3b82549c249556a29329077c1174ef526d5537da60b366dc38da"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/request.py",
+      "size": 6691,
+      "hash": "61358536bed023087b1355bd75d7bd2ccefbbf65564c9e55efc5ee4d3c3b0f50"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/response.py",
+      "size": 30641,
+      "hash": "7e60c9005906ef5b854e7fac5524e1d88c345a6717418aa46d18e286fc018d4f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/__init__.py",
+      "size": 1155,
+      "hash": "2449929a6aaa2f26b0f0fe75814226661f06c20f62d7349ef83a2a022b67da77"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/connection.py",
+      "size": 4901,
+      "hash": "e4bc760753d6dbd2b1067d93d3190dd420604416b780654904aa10a11a201159"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/proxy.py",
+      "size": 1605,
+      "hash": "cd4bcf3c226ba7a74e17437818055b39c97aa3ee2e5ca4ab1a24e492be6f512e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/queue.py",
+      "size": 498,
+      "hash": "9d1817f3f797fbf564bf1a17d3de905a8cfc3ecd101d4004c482c263fecf9dc3"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/request.py",
+      "size": 3997,
+      "hash": "0b4394b76b5c53a2d189027b61834ff46bcfad2be5ef388805e910fb99e50599"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/response.py",
+      "size": 3510,
+      "hash": "189a60dc4822f6a6895d1c01879c2ff8c36e4566a7e4122ee34a117a8c563f6f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/retry.py",
+      "size": 22050,
+      "hash": "e8436f399f0f043ce1f24822c69aa5f6522b6f67711fe93b66605a9c9176360e"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_.py",
+      "size": 17460,
+      "hash": "403bae4f13d20a3d6b62d678c690fb531fabdb44c3e74687caa2b2850ec1ab80"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py",
+      "size": 5758,
+      "hash": "22be1c65512398093c8140081d64a2ef0b4e3bcdd4098001636c450f5425fd60"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/ssltransport.py",
+      "size": 6895,
+      "hash": "340faee6b313ac3143142f10cd129410a306d39eb584e0f8a814ebdd9e29bfa1"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/timeout.py",
+      "size": 10168,
+      "hash": "730ab874c93cee624748192d2b59a2609fbce46fb74f74664f6d2fed2142a67a"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/url.py",
+      "size": 14296,
+      "hash": "942004ecce66c80f040dd5b4b09bb2c9985507d2bf8f7f258d684702715a5a81"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/urllib3/util/wait.py",
+      "size": 5403,
+      "hash": "7ce5f4fdf6a8cc6d8fee25688d0a04d666f277078dc93726fa15c47c5ad3b4b2"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt",
+      "size": 343,
+      "hash": "bd540dc5fadffe73f2fe98d2486925c50556987e61be1c83b5981bb3319bc3b7"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/entry_points.txt",
+      "size": 84,
+      "hash": "5617fcb34218817dfb9ad778bc62fbdc13dcc5d2a7a9e0853f3079f9ddf4c7ca"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/AUTHORS.txt",
+      "size": 11503,
+      "hash": "1f7d99860167faae5bdc101c0d8aac4b0d0d37b4515581e95a2355347433cc1b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/LICENSE.txt",
+      "size": 1093,
+      "hash": "634300a669d49aeae65b12c6c48c924c51a4cdf3d1ff086dc3456dc8bcaa2104"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/cachecontrol/LICENSE.txt",
+      "size": 558,
+      "hash": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/dependency_groups/LICENSE.txt",
+      "size": 1099,
+      "hash": "1ab36e3e2a4ba8631625384f87e9e091db1faed034c5b23325b3239abf2cc525"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/distlib/LICENSE.txt",
+      "size": 14531,
+      "hash": "808e10c8a6ab8deb149ff9b3fb19f447a808094606d712a9ca57fead3552599d"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+      "size": 1541,
+      "hash": "a59f0b0ef3635874109a4461ca44ff7a70d50696e814767bfaf721d4c9b0db0f"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+      "size": 1115,
+      "hash": "c37bf186e27cf9dbe9619e55edfe3cea7b30091ceb3da63c7dacbe0e6d77907b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/six-1.17.0.dist-info/top_level.txt",
+      "size": 4,
+      "hash": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b"
+    },
+    {
+      "path": "venv/lib/python3.14/site-packages/six.py",
+      "size": 34703,
+      "hash": "c51c91f703d3d4b3696c923cb5fec213e05e75d9215393befac7f2fa6a3904df"
+    }
+  ]
+}

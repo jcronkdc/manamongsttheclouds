@@ -1,0 +1,766 @@
+{
+  "version": "1.0",
+  "type": "proof-of-authorship",
+  "creator": {
+    "name": "Justin Cronk",
+    "project": "Man Amongst the Clouds",
+    "claim": "I am the original author of this novel and all associated materials. This story was written by me over a period of nine years, from March 2017 to March 2026. No artificial intelligence was used to write any prose, dialogue, or narrative content in this work.",
+    "contact": "justincronk@cronkcompaniesllc.com"
+  },
+  "work": {
+    "title": "Man Amongst the Clouds",
+    "author": "Justin Cronk",
+    "type": "Novel — Fantasy Fiction",
+    "beganWriting": "March 2017",
+    "completedManuscript": "March 2026",
+    "structure": "5 Parts, 48 Chapters, ~115,000 words",
+    "description": "A fantasy novel where magic is memory — the world remembers everything, and magic is communing with those memories. The story follows a young man who discovers he can Sing, the rarest and most dangerous of the seven magical disciplines, as he navigates a world where a tyrant king steals the memories of others to fuel his stolen power."
+  },
+  "aiTransparency": {
+    "statement": "This novel was written entirely by Justin Cronk. AI was never used to generate prose, dialogue, characters, plot, or any narrative content. AI tools were used solely as editorial aids — in place of a professional copywriter — to identify plot holes, flag inconsistencies, and pressure-test internal logic across a 48-chapter manuscript. The story, the voice, the world, and every word on the page are the author's own.",
+    "aiUsedFor": [
+      "Identifying plot holes and continuity errors",
+      "Flagging inconsistencies in character details across chapters",
+      "Pressure-testing internal logic of the magic system",
+      "Copyediting assistance (grammar, spelling, punctuation)"
+    ],
+    "aiNeverUsedFor": [
+      "Writing prose, dialogue, or narrative content",
+      "Generating characters, plot points, or world-building",
+      "Rewriting or paraphrasing the author's original text",
+      "Creating any content that appears in the final manuscript"
+    ],
+    "verificationLinks": [
+      "https://gptzero.me/ — AI content detection (paste any chapter)",
+      "https://originality.ai/ — Professional AI detection and plagiarism check"
+    ]
+  },
+  "proof": {
+    "merkleRoot": "86cabb99e2ae4131e4135ed453145bcbffb0c807efcb205eba74408f06859913",
+    "merkleRootBytes32": "0x86cabb99e2ae4131e4135ed453145bcbffb0c807efcb205eba74408f06859913",
+    "fileCount": 136,
+    "totalSize": 2594561,
+    "totalSizeMB": "2.47",
+    "timestamp": "2026-03-09T15:41:55.953Z",
+    "unixTimestamp": 1773070915
+  },
+  "blockchain": {
+    "network": "polygon",
+    "chainId": 137,
+    "contractAddress": "pending-deployment",
+    "transactionHash": "0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a",
+    "blockNumber": 83979213,
+    "confirmedAt": "2026-03-09T17:47:39.890Z",
+    "gasUsed": "27840",
+    "walletAddress": "0xAB34A2E20Bbc0Ae30AC049ee0767fBFAaBEdcb9c"
+  },
+  "verification": {
+    "instructions": [
+      "1. Compute SHA-256 hash of any file in this project",
+      "2. Verify the hash exists in the manifest below (proves file was part of proof)",
+      "3. Verify Merkle inclusion path (cryptographic proof)",
+      "4. Check blockchain for Merkle root at PolygonScan.com",
+      "5. Transaction sender wallet proves creator identity"
+    ],
+    "verifyUrl": "https://polygonscan.com/tx/0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a",
+    "aiDetection": [
+      "https://gptzero.me/",
+      "https://originality.ai/"
+    ]
+  },
+  "legal": {
+    "disclaimer": "This proof certifies that the specified files existed at the recorded timestamp. The proof was created by hashing all manuscript and associated files and storing the Merkle root on the Polygon blockchain. This constitutes cryptographic proof of existence and authorship at the specified time, admissible as evidence in legal proceedings.",
+    "copyright": "© 2026 Justin Cronk / Cronk Companies LLC. All rights reserved."
+  },
+  "statistics": {
+    "filesByType": {
+      "md": 75,
+      "docx": 3,
+      "html": 1,
+      "py": 5,
+      "txt": 52
+    }
+  },
+  "manifest": [
+    {
+      "path": "01_PROTAGONIST_NAME.md",
+      "size": 2600,
+      "hash": "0de6fda1c435acb9de05a834014ff94edc07f88e5ccb7bd3fbc8316557edd88e"
+    },
+    {
+      "path": "02_MAGIC_SYSTEM.md",
+      "size": 12795,
+      "hash": "cfc22c0397148defd873e4a37872ef97eb5568547ca130b576036c7415179c45"
+    },
+    {
+      "path": "03_CHARACTER_BIBLE.md",
+      "size": 26806,
+      "hash": "67e5774504b57dff40be8e8468feabffebf3a8408684b69f63f0b04576b123a3"
+    },
+    {
+      "path": "04_WORLD_AND_REGIONS.md",
+      "size": 19339,
+      "hash": "39eecca167833dbce604efec1b39f897d1597cd2b07e1169ad1fb558f4d74d70"
+    },
+    {
+      "path": "05_OUTLINE_PART_1.md",
+      "size": 13125,
+      "hash": "17351743a1f7243420d26ee6e0f2da428d19d41107a5e810aeecf34eb5708397"
+    },
+    {
+      "path": "06_OUTLINE_PART_2.md",
+      "size": 20280,
+      "hash": "57bf7d73dab323967b100e99353aeb63c6e14695d743144290e12cab56b86207"
+    },
+    {
+      "path": "07_OUTLINE_PART_3.md",
+      "size": 29059,
+      "hash": "e8de4b492648c888af9e9d31d2a5810f49de2a81735b8f3c883cd0fd43908eac"
+    },
+    {
+      "path": "08_OUTLINE_PART_4.md",
+      "size": 27531,
+      "hash": "d761de52f7b9a4f51095be51d13e4764754fdd1c3f1b12ca478c0d4942ff3510"
+    },
+    {
+      "path": "09_OUTLINE_PART_5.md",
+      "size": 20164,
+      "hash": "a67983b440b9ce410a89de84c183c97fde9b30b7edc893568dfb04a9472a1da1"
+    },
+    {
+      "path": "BOOK_BIBLE.md",
+      "size": 3863,
+      "hash": "e3f666339893e9f9548041ea99c69da282e7b1ed079f6784545e36d5c918cc38"
+    },
+    {
+      "path": "BOOK_BIBLE_2.md",
+      "size": 5224,
+      "hash": "9ff5e3818130557fcae87d7d2cc77bdcda1f400583f1ec8c820fedcaafb9a914"
+    },
+    {
+      "path": "BOOK_BIBLE_3.md",
+      "size": 11187,
+      "hash": "ffc5d3caee352107d37ba012a2ab23daf16cf160c92ece9d3fe755005b7d7b39"
+    },
+    {
+      "path": "Man Amongst the Clouds - Manuscript.docx",
+      "size": 357749,
+      "hash": "364086921dd8d731284b20870b9d58840fc2f629ec2006b0f124025aa22e98c5"
+    },
+    {
+      "path": "Man Amongst the Clouds - Print Copy.docx",
+      "size": 357569,
+      "hash": "af2484fac0ffa9da6acd04de351459d1f1e78f66a540a238fff94047996ad871"
+    },
+    {
+      "path": "Part I - The Still Water.docx",
+      "size": 113629,
+      "hash": "f5104205604151aeaca21994a54c452866dc4cc5cdabede43a396e1746402a96"
+    },
+    {
+      "path": "binder_cover.html",
+      "size": 16949,
+      "hash": "641b6ccb26712386f3a727ded6fa73d9d7c5c80ef4f30230bd9e2c9bdbee0719"
+    },
+    {
+      "path": "build_manuscript.py",
+      "size": 11432,
+      "hash": "eefed1bafd559e8e4386e7ef37b6e1d0e3f10c7d192fc1a3872a87c156368a57"
+    },
+    {
+      "path": "build_part1.py",
+      "size": 8965,
+      "hash": "d456ef9a9f2ce552758b5c05f037a92f53ca12df25b9ac73c96d8a7bece51f2f"
+    },
+    {
+      "path": "build_part1_epub.py",
+      "size": 7170,
+      "hash": "69eb48d4575990d3f00c280d3dce0a95647bdcf856502e519e73ad45a0a124c3"
+    },
+    {
+      "path": "build_print_copy.py",
+      "size": 12584,
+      "hash": "6b108b8e8a12c69a9b0237b212271af4d9cf3f62c47d355f37756d61cc84f759"
+    },
+    {
+      "path": "extracted_notes/00_garnet Crystals Used In Aggressive Magick  Witch University.txt",
+      "size": 8354,
+      "hash": "e177789fb033c9e1a2a2466dd1f85e44c10d94408bc5cd43f0a6bea8c65278cf"
+    },
+    {
+      "path": "extracted_notes/01_10 Largest Castles in the World with Photos  Map - Touropia.txt",
+      "size": 12369,
+      "hash": "938cc85ebbefe2b1a1d858fadb829126025665a246e2ee46e13f198bbc8a8a42"
+    },
+    {
+      "path": "extracted_notes/02_Abadjyang - YouTube.txt",
+      "size": 788,
+      "hash": "593d53239c90d0ae76caf4946176bb7eed86daa2594a77595bf3cef87976d888"
+    },
+    {
+      "path": "extracted_notes/03_Alchemical Elixirs -- Introduction to Spagyrics - YouTube.txt",
+      "size": 6662,
+      "hash": "5b8f3a797d9dbe3765a7946708c5ab0bbababe8cd677ab69fc9f3874efad2d29"
+    },
+    {
+      "path": "extracted_notes/04_Beasts.txt",
+      "size": 261,
+      "hash": "fe1d184d1992407476c25856dd0e4ce2dd3f5ed99f96a244839ea9af81e85851"
+    },
+    {
+      "path": "extracted_notes/05_Black Market.txt",
+      "size": 230,
+      "hash": "dcd040310a6e915b2d9455deea725954017fe9dee4b48a45a811bf8342a5ace0"
+    },
+    {
+      "path": "extracted_notes/06_Castle.txt",
+      "size": 298,
+      "hash": "86ecd9a6a7460ece6ee6cfc67a1ded9cbdbe8f02ad21397841cab9e1acabb830"
+    },
+    {
+      "path": "extracted_notes/07_Color Magick Reference Chart  The Magickal Cat Online PaganWiccan Store.txt",
+      "size": 4847,
+      "hash": "fa2b9784f3893127964b7b554d4744bea2c448f3d75716cbd5519a9af81bda39"
+    },
+    {
+      "path": "extracted_notes/08_Crystals Gems  Metals Magical Properties  The Village Witch Shop UK Witchcraft H.txt",
+      "size": 13741,
+      "hash": "51fdfe4b1791f583600bc3119d81a9b00bcb0d85515b362e39c416fa51228320"
+    },
+    {
+      "path": "extracted_notes/09_Currency.txt",
+      "size": 131,
+      "hash": "7f6db5775c577a78c003b7ad0e57fb8ac6d22935ad1899b411383734bd6183be"
+    },
+    {
+      "path": "extracted_notes/10_Dictionary.txt",
+      "size": 133,
+      "hash": "7df1d9ffc5a32e6edb7d101025896a12af57d040cdf61c34ee51c2e19d156e99"
+    },
+    {
+      "path": "extracted_notes/11_Early Medieval timber work - YouTube.txt",
+      "size": 9887,
+      "hash": "f1783823fe9bc02c920e654ae1d306b00ca9ffadf0e748ceef969088abdb3584"
+    },
+    {
+      "path": "extracted_notes/12_Early Medieval timber work - YouTube.txt",
+      "size": 9887,
+      "hash": "cda1ebee1ddfc00c10fbb11d9c6733b98d7032d08bb6a0525f9b8fc4715bf011"
+    },
+    {
+      "path": "extracted_notes/13_Flying Ship.txt",
+      "size": 134,
+      "hash": "e2a2218efc1e66d7f94083daaa32f3fe5e9ac2b5eec5c2d9d43a85404cc665e2"
+    },
+    {
+      "path": "extracted_notes/14_Guide to Making Tinctures.txt",
+      "size": 5842,
+      "hash": "a3d26919b74f53963a90ecd900891983345393bc37254a8c1d2f0b8f0d749279"
+    },
+    {
+      "path": "extracted_notes/15_Herb Grimoire - Magickal Correspondences of Herbs Flowers  Resins  The Magickal.txt",
+      "size": 103253,
+      "hash": "772a37aa3ea556ef9ea26535ae93d8646d5ac498864131a8781a6fe10ed9bcb7"
+    },
+    {
+      "path": "extracted_notes/16_Herbs.txt",
+      "size": 334,
+      "hash": "a0687fab2c9357e89ffda4b76056544246c6b9e4c52c238d317e842282b8819d"
+    },
+    {
+      "path": "extracted_notes/17_Insects.txt",
+      "size": 185,
+      "hash": "2981d01bedb05b5efff82c485ab31e82a51fdab0be9d69bacb5ea8b1d280e198"
+    },
+    {
+      "path": "extracted_notes/18_INTJ - Wikipedia - possible Varas personality type.txt",
+      "size": 16663,
+      "hash": "4f62082cc4a1f14f4b0101efba95f9f62901797b68e93ee3c16c09b92fdc2c0a"
+    },
+    {
+      "path": "extracted_notes/19_Jalos Cabinet.txt",
+      "size": 170,
+      "hash": "347ae23185ed46c9850576a0bc567af71be6c397333a48ddba84edfc390dbe26"
+    },
+    {
+      "path": "extracted_notes/20_King Varas first council meeting.txt",
+      "size": 898,
+      "hash": "e6e7c66a79a58cd9cbcecca3b76b9eb196cf1742e4f0d21efea586e1e8bf34f7"
+    },
+    {
+      "path": "extracted_notes/21_King Varas general.txt",
+      "size": 400,
+      "hash": "3f7e447e43f541212dd353749a2ce0842fe2a189f8f19377745f3546feb813f3"
+    },
+    {
+      "path": "extracted_notes/22_King Varas possible personality type MBTI type is most likely to be a psychopath.txt",
+      "size": 3419,
+      "hash": "f1e124e1c479745446fbb57ac2e5c1cc1b0d5bee8bfcf676fa587b6c645b103b"
+    },
+    {
+      "path": "extracted_notes/23_King Varas propaganda.txt",
+      "size": 144,
+      "hash": "d3589d8a2c97fbadbf89c2147f44ebb5c038b1d25aab557e051a3f364fbfff2b"
+    },
+    {
+      "path": "extracted_notes/24_King Varass distribution of power.txt",
+      "size": 157,
+      "hash": "8c14db38cd50f64888ce9881c5416f2fd8756fc0124acbeb815d73cdc30c646b"
+    },
+    {
+      "path": "extracted_notes/25_Knower ceremony.txt",
+      "size": 2733,
+      "hash": "42df538bd09635ef2dc8c490496427fd4b0df9e5d259f3505c953d4dc159ea54"
+    },
+    {
+      "path": "extracted_notes/26_log11jpg 800600.txt",
+      "size": 226,
+      "hash": "f68b05af7d7539839f34f045840d4bbd438c896703e4f13b37e39bae9ea179da"
+    },
+    {
+      "path": "extracted_notes/27_Making a Fresh Herb Tincture Part Two - YouTube.txt",
+      "size": 2293,
+      "hash": "8abef016c33bf174ec8d0813088f4665a45c66d28a3f04b839b61f5d99d4daa5"
+    },
+    {
+      "path": "extracted_notes/28_Mrak Patrol.txt",
+      "size": 393,
+      "hash": "9ad73611cfda74b0e02cb7cab8af9273d1420ec2ace13fe0bb53dd45a0d59a7e"
+    },
+    {
+      "path": "extracted_notes/29_Nim in his youth.txt",
+      "size": 230,
+      "hash": "1c000ffc4e845c0ddad26767f98bfe587c73013eb3b9eb3fce7df766cdbee4be"
+    },
+    {
+      "path": "extracted_notes/30_Nims Training.txt",
+      "size": 222,
+      "hash": "f0bababb97ea05c3b159df29cadd72665d35f88010b3f66085a1e41d3b964fb5"
+    },
+    {
+      "path": "extracted_notes/31_Nims Caretaker Jalo Soturi.txt",
+      "size": 1313,
+      "hash": "306bbd28bd916d047af394f4b41f2ed83fbf85e49a64ef362536bf8aa63e015a"
+    },
+    {
+      "path": "extracted_notes/32_Note.txt",
+      "size": 4654,
+      "hash": "d7ea147eb409386d24c4bc226641e92b7072c38e58b6ceca1f851048f3ab2645"
+    },
+    {
+      "path": "extracted_notes/33_Note.txt",
+      "size": 361,
+      "hash": "4df03cd71fbaf0b688020770a12f8af51b50e6b60b7ea011b0a9079b505096bc"
+    },
+    {
+      "path": "extracted_notes/34_Note.txt",
+      "size": 7330,
+      "hash": "393418e29a453597e25286372574ca8992498c85bd0ca1ce3b7a214a98ce22fb"
+    },
+    {
+      "path": "extracted_notes/35_Note.txt",
+      "size": 352,
+      "hash": "d69369e1c5e4730e98f67eaf7d62bc45283d214105f3d7166f8ce89ba02f0963"
+    },
+    {
+      "path": "extracted_notes/36_Note.txt",
+      "size": 401,
+      "hash": "73aa22931c0c565e4fab26ed5b1880274ae24dc4e3e8c2819c2ddb43e721b36f"
+    },
+    {
+      "path": "extracted_notes/37_Personality types.txt",
+      "size": 140,
+      "hash": "b6b9cea87243c85093287b1868b2f600e2713cba784571cc5201e9da25406afd"
+    },
+    {
+      "path": "extracted_notes/38_Prison.txt",
+      "size": 129,
+      "hash": "7581dc135e7938c6fea3bfa6766a0005e9d2d05d56d48e6906b1f8414ed8e37c"
+    },
+    {
+      "path": "extracted_notes/39_Questions.txt",
+      "size": 242,
+      "hash": "a7d0a96c7bf786c2f424ccd6a6a7c87f989fd7e058d4734166b6f59bac978b20"
+    },
+    {
+      "path": "extracted_notes/40_r960-a8d7996c87d0b218e72b677c1f02ea65jpg 960625.txt",
+      "size": 257,
+      "hash": "a1ba054162ae3ca88203dc38d5377d61f2c561235f4dae33ee06518aee51595f"
+    },
+    {
+      "path": "extracted_notes/41_Still0224_00021_1487968892295_8677173_ver10jpg 640360.txt",
+      "size": 325,
+      "hash": "2eaca071896f20a951c62a7e978ca350911ebbdb5395e38ca69c5fc9e915e7d5"
+    },
+    {
+      "path": "extracted_notes/42_Story ideas - general.txt",
+      "size": 3495,
+      "hash": "213f17c6c8e73d39c38ffcb2a6d85d98a1618f27f1af920ebb025d9f25b852f4"
+    },
+    {
+      "path": "extracted_notes/43_The 5 Element Theory - YouTube.txt",
+      "size": 594,
+      "hash": "fb0ba46a2faca742e4c8a7689398a0f748d226c05eeae7318541a61fa3a17294"
+    },
+    {
+      "path": "extracted_notes/44_The Kings roving patrols.txt",
+      "size": 242,
+      "hash": "e1b6f584a7b109b6c7e443db83b414544710c5de678ae89b73eae2e22bbac18b"
+    },
+    {
+      "path": "extracted_notes/45_Themes.txt",
+      "size": 665,
+      "hash": "6c0c22db8906e31cf18e0c7a0d7a3ca726278a52833da98a9949dffa2ef8653e"
+    },
+    {
+      "path": "extracted_notes/46_Untitled Note.txt",
+      "size": 524,
+      "hash": "77fc6cec0742a10a91d4050f3c61dc61514f8218e13f6cd45e663f36466cb600"
+    },
+    {
+      "path": "extracted_notes/47_Tour of the Chinese Herb Dispensatory - YouTube.txt",
+      "size": 3114,
+      "hash": "e05328d235ed12e473982a272ff0d07c06ada2b7186a08fb2f4249fb4036474a"
+    },
+    {
+      "path": "extracted_notes/48_Transport.txt",
+      "size": 132,
+      "hash": "23241304c6a0019080f5708c3e6fdb345c40941c27003ff7a9d34e53336df54f"
+    },
+    {
+      "path": "extracted_notes/49_Untitled Note.txt",
+      "size": 136,
+      "hash": "a164eb1c68507804eb85e76b90c32209839eaffbbbc40badef83899c39f4628a"
+    },
+    {
+      "path": "extracted_notes/50_Untitled.txt",
+      "size": 389,
+      "hash": "93d22deee6b9e0d46fcef1430c254b1fe3f8dd4461969e9df269e58e6922020b"
+    },
+    {
+      "path": "extracted_notes/_ALL_NOTES_COMBINED.txt",
+      "size": 233439,
+      "hash": "32ae4afdf7683d69a68efb01defb20e987d3f4d52f9e828fb09a3a6d5c0cf751"
+    },
+    {
+      "path": "manuscript/chapter_01.md",
+      "size": 18552,
+      "hash": "d182b8fcfdcb7f23e7dea0e30f5c5b086acc5a7d3b63dfaae7248309a54c2fa6"
+    },
+    {
+      "path": "manuscript/chapter_02.md",
+      "size": 20556,
+      "hash": "9d421d30ba3525a634113c5d28e669ccefc58c4444bff183edcd69618c8238ac"
+    },
+    {
+      "path": "manuscript/chapter_03.md",
+      "size": 21565,
+      "hash": "3de39946725e0123586cb3aa06dad7821b29950cd988b628d28d7f6e84cfb85e"
+    },
+    {
+      "path": "manuscript/chapter_04.md",
+      "size": 19787,
+      "hash": "e76cfab67bc06a89347b8b87d182eadbc720d392e935964f068e1c5ff4967378"
+    },
+    {
+      "path": "manuscript/chapter_05.md",
+      "size": 15483,
+      "hash": "1cfaa44c6660de1acd1be415c9cecd3b364a64a550d1162bb7d45c714e8b426b"
+    },
+    {
+      "path": "manuscript/chapter_06.md",
+      "size": 19996,
+      "hash": "a2b53e83e9b759a37bc669fec7c13b494d15507b22e5620910fad61d3caa8fce"
+    },
+    {
+      "path": "manuscript/chapter_07.md",
+      "size": 11660,
+      "hash": "cdb832a33063f7d19c6a8507cddd204c135157ff2534fccccd48290bef0a6775"
+    },
+    {
+      "path": "manuscript/chapter_08.md",
+      "size": 13039,
+      "hash": "bfcde6f6fa58ee72e609c74b4f0b12bcf5d9d1180bed9464836c4389baa44ac0"
+    },
+    {
+      "path": "manuscript/chapter_09.md",
+      "size": 15793,
+      "hash": "a16bc1dedd0049cce78139d7f27285a13cb15e511f4af8d7e969d0f1eb209bd3"
+    },
+    {
+      "path": "manuscript/chapter_10.md",
+      "size": 21952,
+      "hash": "2bbe480da4e831487c47030b4e22774507e87aff5ddd2f4b1d9d631420a5e682"
+    },
+    {
+      "path": "manuscript/chapter_11.md",
+      "size": 22577,
+      "hash": "a44c4aff3ac255bdb88aa19c898dc06dc2ac87b8307aa757141316eac4c72bf4"
+    },
+    {
+      "path": "manuscript/chapter_12.md",
+      "size": 12949,
+      "hash": "1da957bd49bf9337502a2ab01d7a52be4bd0702e786b11deb83f3727ecb93a48"
+    },
+    {
+      "path": "manuscript/chapter_13.md",
+      "size": 16325,
+      "hash": "e898b6e9faf7a8a3a7104c7f133574d3c30abcf1699f3c3a72c21dc945f161ec"
+    },
+    {
+      "path": "manuscript/chapter_14.md",
+      "size": 17178,
+      "hash": "4c153eb47b9384690569350ba527e2ceef454000f4dd336c51d839f50e4dddf8"
+    },
+    {
+      "path": "manuscript/chapter_15.md",
+      "size": 25363,
+      "hash": "7ca8fa5a6edd29399917b39a2d6f5101017f7e4a883ce5b8de3a01ae450367cf"
+    },
+    {
+      "path": "manuscript/chapter_16.md",
+      "size": 32257,
+      "hash": "69bf4b64767d2b1a235e0ab1004b3a53df3b49da5569e7fc1267f00f3a96c09a"
+    },
+    {
+      "path": "manuscript/chapter_17.md",
+      "size": 18694,
+      "hash": "95ec06a4a75835d557fc33f5d406a92345f281185f0cbeb60f79aac1ee6658e8"
+    },
+    {
+      "path": "manuscript/chapter_18.md",
+      "size": 24310,
+      "hash": "dadc7c0e434d4da4a4b337514bb1ea3e213fb846d5929872b45f8c41da5703ca"
+    },
+    {
+      "path": "manuscript/chapter_19.md",
+      "size": 15939,
+      "hash": "641a410ba4e4f4312b9f6076021b7b53b242eed5a928b3eb7a45e0a60aa4f747"
+    },
+    {
+      "path": "manuscript/chapter_20.md",
+      "size": 14203,
+      "hash": "c705a678386ef56d6e5ea5b2f55d96eaade8efcc6f5d37080f923fa07527eb8f"
+    },
+    {
+      "path": "manuscript/chapter_21.md",
+      "size": 22185,
+      "hash": "7d347a64a591f3f906e1f8ae59d881e2ed3b9b197910afd34784b4b9a52d350b"
+    },
+    {
+      "path": "manuscript/chapter_22.md",
+      "size": 18210,
+      "hash": "af241ea0833cc19b2ca45d42b93c5a19133238b68b474ff830b15f44307111a9"
+    },
+    {
+      "path": "manuscript/chapter_23.md",
+      "size": 22856,
+      "hash": "a70348eb1abaee78d5f6e2e9d6c5681b1de702e94da93d4956ad6f3744b941fe"
+    },
+    {
+      "path": "manuscript/chapter_24.md",
+      "size": 23829,
+      "hash": "a613f376d61a48bf360657c57ed6519b6987b85a379ba1c7560fdbd8bedc0973"
+    },
+    {
+      "path": "manuscript/chapter_25.md",
+      "size": 20776,
+      "hash": "9e7b0bb1f62e3cb055226a9fba25bde847c25e81d1ccb7994cc81ecd74350109"
+    },
+    {
+      "path": "manuscript/chapter_26.md",
+      "size": 19187,
+      "hash": "2e3b526fd82079ac82801e0ad36c4be52454c32768e45030146d4ccefcb30eaf"
+    },
+    {
+      "path": "manuscript/chapter_27.md",
+      "size": 13179,
+      "hash": "a8a96d2dced4ac3b7213416161819c86fffe6c782d6157cefc370746ef988ffb"
+    },
+    {
+      "path": "manuscript/chapter_28.md",
+      "size": 17763,
+      "hash": "8ad5f5a18ea908fcfa60b5116212ba8171639459ab8aae8f837959719431e53a"
+    },
+    {
+      "path": "manuscript/chapter_29.md",
+      "size": 15456,
+      "hash": "1b7dc3fc7c8e4766ff0bfae9ac3e688e41b08056bf793fdd8c8b700f02a5eb63"
+    },
+    {
+      "path": "manuscript/chapter_30.md",
+      "size": 19834,
+      "hash": "6756a5c9fda3e9e4a31677431fb8161b49c46c9c44aaa455eee07ad990f62438"
+    },
+    {
+      "path": "manuscript/chapter_31.md",
+      "size": 13274,
+      "hash": "a17bdc77887f62d5ad1cb82863ed07f5d4123ba29225a4152db10b0b04fd6c60"
+    },
+    {
+      "path": "manuscript/chapter_32.md",
+      "size": 11034,
+      "hash": "abf5647e03935da064e8c3f4946c5a3fac51a89eb7bc9e4aa872d4dc2363cf7a"
+    },
+    {
+      "path": "manuscript/chapter_33.md",
+      "size": 25208,
+      "hash": "61e7a7c58eda44f9fa1f03536316cded14d3456cc07b93c75b6816de2bd8e6ef"
+    },
+    {
+      "path": "manuscript/chapter_34.md",
+      "size": 15054,
+      "hash": "9340f7fe323673869dd074720e6d520f22618071315cec9ae3e32ef9392d34c2"
+    },
+    {
+      "path": "manuscript/chapter_35.md",
+      "size": 17150,
+      "hash": "17e8b410404b33a597e2e58e02e19ac3775ecc13a2ef0afc1e0dc77779f09630"
+    },
+    {
+      "path": "manuscript/chapter_36.md",
+      "size": 14774,
+      "hash": "805c16b518f74970ffbd4ebceff11d8a2d49d866984ecc886d49251ae7856d1a"
+    },
+    {
+      "path": "manuscript/chapter_37.md",
+      "size": 14842,
+      "hash": "198d2d89ae7a27daf5c13089f179aa2d064569273ffea22a9574949088e9965c"
+    },
+    {
+      "path": "manuscript/chapter_38.md",
+      "size": 12057,
+      "hash": "bcd44051a5e4a6f07a61376e408bd2b8d53ba3f6811ed056880f78d84bb126dd"
+    },
+    {
+      "path": "manuscript/chapter_39.md",
+      "size": 15498,
+      "hash": "6a6758fdbc0ecfe37124d7922b83c709f68aaeb4ae6066a075baf3da5fd5d293"
+    },
+    {
+      "path": "manuscript/chapter_40.md",
+      "size": 22273,
+      "hash": "ebb0b57d212e7b1b4f2c0cb9085c24ad9234538a7d5006fbcd456f7803c18ac5"
+    },
+    {
+      "path": "manuscript/chapter_41.md",
+      "size": 11847,
+      "hash": "aec5008f59270d7e1da21e49b899bc2af2c5c6df33996a911b15d1a9c1ed3cac"
+    },
+    {
+      "path": "manuscript/chapter_42.md",
+      "size": 22753,
+      "hash": "40b4b4f1049132f4fa12528809ae2e55c6a6eec67f1ab4f894b2f2b1a49d3255"
+    },
+    {
+      "path": "manuscript/chapter_43.md",
+      "size": 14001,
+      "hash": "f887a34de880332ee5a060db98147c731daac3275e7f8c6cc1d65ef5cc934f6a"
+    },
+    {
+      "path": "manuscript/chapter_44.md",
+      "size": 10601,
+      "hash": "bf26a07b0bda2462e360a51e6d0a1e9e2116768806b5762174a0456675ac59b1"
+    },
+    {
+      "path": "manuscript/chapter_45.md",
+      "size": 13181,
+      "hash": "1346dbb1de1de6549931172c7698fcb7915b5468efa2f059ae022dc728777a93"
+    },
+    {
+      "path": "manuscript/chapter_46.md",
+      "size": 13971,
+      "hash": "66a8a9bfdaf6883d293756b1f3ed25c56d11b1ac2b5fc3ee75a8dfe17de2c0fb"
+    },
+    {
+      "path": "manuscript/chapter_47.md",
+      "size": 10106,
+      "hash": "235cebadfa44d1ab4c4486aec60cb2efc99d03cdcfc7cf268cbe1e9e5b4451e0"
+    },
+    {
+      "path": "manuscript/chapter_48.md",
+      "size": 10597,
+      "hash": "33033409c3860abbc66a723443e0706cef232f67056e654ceea830f9529aea70"
+    },
+    {
+      "path": "manuscript/epilogue.md",
+      "size": 13676,
+      "hash": "fc16c37f3e0dcc73bcb0994ac550d7ff3a69c897eb785dcf3821447fc5f73936"
+    },
+    {
+      "path": "manuscript/prologue.md",
+      "size": 14403,
+      "hash": "23bed9ab2f5eee62809b57f6465d333814aaf57f7c41adb49159fab8c289f86c"
+    },
+    {
+      "path": "parse_enex.py",
+      "size": 4186,
+      "hash": "a0532c7b4f8a2f5f6286062ef9b4e008d974b25931199608a5126227661bffe9"
+    },
+    {
+      "path": "publishing/01_BOOK_DESCRIPTION.md",
+      "size": 3042,
+      "hash": "fa64ad0acd3711d26ea0c52c5973b3230e19f4fbbef083120e5d466dc2116d14"
+    },
+    {
+      "path": "publishing/02_AUTHOR_BIO.md",
+      "size": 5104,
+      "hash": "38e11d4dabae1cb168f82684811dee582ea1846682ac80efb0b427fdd31a31f3"
+    },
+    {
+      "path": "publishing/03_CATEGORIES_AND_KEYWORDS.md",
+      "size": 2815,
+      "hash": "73bebbeaeedb3728d5a5c231aaccf9f503e878eca89d9d464511c05a9e07d975"
+    },
+    {
+      "path": "publishing/04_COVER_DESIGN_BRIEF.md",
+      "size": 4861,
+      "hash": "1bb4716b1e71dc953dcf2217e253004f0b02c3adaf1f8a8c9a49835d7951ac92"
+    },
+    {
+      "path": "publishing/05_QUERY_LETTER.md",
+      "size": 3166,
+      "hash": "554deb28f86c64600be523325e747c0a0b4d7b06460710ad305ee33bbec13bc8"
+    },
+    {
+      "path": "publishing/06_SERIES_BIBLE_SEQUEL.md",
+      "size": 8788,
+      "hash": "2a29cfce242cb52265ce0e174a446260bbdef9ec85cc704d807f2c886184c8a8"
+    },
+    {
+      "path": "publishing/07_FORMATTING_GUIDE.md",
+      "size": 6650,
+      "hash": "11343f9aa57e8ac5775a2756baeefe54985f4d33f296e05e021f947e04b5bd86"
+    },
+    {
+      "path": "publishing/08_AI_TRANSPARENCY_AND_OWNERSHIP.md",
+      "size": 3875,
+      "hash": "c73050031e4a11f1a1bc6f8e3b145a119e9979085e7d227e6e7e51e87df46d7b"
+    },
+    {
+      "path": "screenplay/AUDIT_REPORT.md",
+      "size": 16535,
+      "hash": "09fc5f47164ed04745b997261bf50fc93a5874900f6f0db65babb46a57d28076"
+    },
+    {
+      "path": "screenplay/FILM_ONE_THE_STILL_WATER.md",
+      "size": 35411,
+      "hash": "79bce4a6a11411fbbf8cc8d4f1141c2b117fd5fe57f579ea3dda4f2df3813b28"
+    },
+    {
+      "path": "screenplay/FILM_THREE_THE_SONG.md",
+      "size": 46711,
+      "hash": "24f156f448bca043fbf9764c8b412ce0850eaca9c5ef9f99b3b608337a02c52d"
+    },
+    {
+      "path": "screenplay/FILM_TWO_THE_BREAKING.md",
+      "size": 35565,
+      "hash": "8225561c2a85d6951ad342183f3d043f8fce35cd5542475afa2fedee86ee0b43"
+    },
+    {
+      "path": "screenplay/TRILOGY_STRUCTURE.md",
+      "size": 8561,
+      "hash": "8be43b7dc4f8dd6a012177452805cc061ca4906b735d40531c5acf342afd086c"
+    }
+  ]
+}
