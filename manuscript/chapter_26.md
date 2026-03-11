@@ -6,7 +6,7 @@
 
 The Seers taught him to hold the world in his mouth.
 
-Not literally — though the physical sensation was close enough that the metaphor survived scrutiny. The Sing was not a technique. It was not a skill that could be drilled or a muscle that could be strengthened through repetition. It was a surrender — the willingness to open every channel at once, to hold every discipline simultaneously, to become the junction through which the world's memory passed on its way from silence to song. What the Seers could teach was not the Sing itself but the approach — the preparation of a mind and a body for an act that would, if it succeeded, consume both.
+Not literally — though the physical sensation was close enough that the metaphor survived scrutiny. The Sing was not a technique. It was not a skill that could be drilled or a muscle that could be strengthened through repetition. It was a surrender — the willingness to open every channel at once, to become the junction through which the world's memory passed on its way from silence to song. What the Seers could teach was not the Sing itself but the approach — the preparation of a mind and a body for an act that would, if it succeeded, consume both.
 
 The training was musical. Literally.
 
@@ -34,7 +34,7 @@ Two notes. He had done this before — at the sealed passage, without training, 
 
 The Guide. Laine's discipline — the sustained middle tone, the frequency of momentum. He reached for it and it came easily, too easily, the Guide sense that had been open since the Volcano responding to the Seers' frequency the way a dog responds to its name. Three notes. The drone, the beat, the sustained tone. Three disciplines, held simultaneously, each one drawing on a different part of his memory — the Know on his attention, the Mold on his conviction, the Guide on his perception. Three parts of himself, offered to three different aspects of the world's memory at the same time.
 
-The strain began. Not physical — emotional. Each discipline drew on a different emotional resource, and holding three open simultaneously was like trying to have three conversations at once, each one requiring full engagement, each one pulling his attention in a different direction. The Know wanted him to listen. The Mold wanted him to speak. The Guide wanted him to watch. The three requests were not contradictory, but they were competing, and the competition produced a tension that lived in his chest — a tightening, a pressure, the sensation of a container being filled beyond its designed capacity.
+The strain began. Not physical — emotional. Each discipline drew on a different emotional resource, and holding three open simultaneously was like trying to have three conversations at once, each one requiring full engagement, each one pulling his attention in a different direction. The competition produced a tension that lived in his chest — a tightening, a pressure, the sensation of a container being filled beyond its designed capacity.
 
 "Four."
 
@@ -82,7 +82,7 @@ Aelo looked at her. The milky eyes looked back — or past, or through, the opac
 
 "Then what can I do?"
 
-"You can Sing _your_ Song. Not Fletcher's — yours. The Song is not a fixed composition. It is not a piece of music written once and performed identically forever. The Song is the world's memory expressing itself through a willing vessel, and the expression changes with the vessel, the way water changes shape with the container that holds it. Fletcher's Song was the Song of seven elements because Fletcher was the beginning and the beginning required division. Your Song will be different."
+"You can Sing _your_ Song. Not Fletcher's — yours. The Song is not a fixed composition. The Song is the world's memory expressing itself through a willing vessel, and the expression changes with the vessel, the way water changes shape with the container that holds it. Fletcher's Song was the Song of seven elements because Fletcher was the beginning and the beginning required division. Your Song will be different."
 
 "Different how?"
 
@@ -116,7 +116,7 @@ The Song was not seven notes. The Song was not a chord or a harmonization or a s
 
 He could not hold seven notes. He could hold five. And beneath the five — unnamed, untrained, growing — the sixth and the seventh were not absent. They were waiting. The Burn was in the blade he had felt in the Volcano, the transformation of ore into weapon, the fire's memory of change. The Sing was in everything — in the sky, in the stone, in the blood, in the specific frequency that his mother had left in the air and that his father had left in his eyes and that Jalo had left in every morning of his life.
 
-He did not need to hold all seven. He needed to remind the world that all seven were already held. That they had always been held. That the holding was not a performance but a memory, and the memory was not lost but buried, and the buried could be reached if the reaching was done not with power but with listening.
+He did not need to hold all seven. He needed to remind the world that all seven were already held. That they had always been held. That the holding was not a performance but a memory, and the memory was not lost but buried.
 
 He stood. He walked back to the chamber. Cael followed — slowly, the old body maintaining itself through habit, the milky eyes fixed on the boy who was walking with the specific, quiet certainty of a person who has understood something and is now carrying the understanding the way the lake stone carried the riverbed: compressed, portable, always accessible.
 

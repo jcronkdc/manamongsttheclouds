@@ -14,7 +14,7 @@ The lake stone was in his numb left hand. The amber mark on his wrist pulsed —
 
 Jalo sat beside him. Not gracefully — the knee protested, the body negotiated, the settling required the specific choreography of a large man lowering himself onto a narrow ledge while compensating for a joint that had been complaining for twenty years and that the Ming's pain-sharing had improved but not silenced. He settled. His legs extended over the edge beside Aelo's. His staff lay across his lap. His face — unwrapped since the Ming, the scars exposed to the sky, the ridged tissue catching the skystone's pale light — was turned upward.
 
-Above them, the sky was doing something Aelo had never seen. The stars were present — cold, sharp, the specific high-altitude stars that appeared twice as bright from the Clouds as from the ground because the atmosphere between the viewer and the light was thinner. But among the stars, low on the eastern horizon, a new light was emerging. Not a star. Not the sun. Something else — a deep, electric blue, the color of a sky seen from inside itself, the color of the atmosphere's own memory of the light that passed through it. The Blue Sun. The annual event that the Cloud People had been tracking in their calendars since before Fletcher, the phenomenon that empowered the Knower Ceremony, the once-a-year moment when the world's memory was at its brightest and the Song was at its loudest and the sky remembered, for one full day, what it had sounded like before the silence came.
+Above them, the sky was doing something Aelo had never seen. The stars were present — cold, sharp, the specific high-altitude stars that appeared twice as bright from the Clouds as from the ground because the atmosphere between the viewer and the light was thinner. But among the stars, low on the eastern horizon, a new light was emerging. Not a star. Not the sun. Something else — a deep, electric blue, the color of a sky seen from inside itself. The Blue Sun. The annual event that the Cloud People had been tracking in their calendars since before Fletcher, the phenomenon that empowered the Knower Ceremony, the once-a-year moment when the world's memory was at its brightest and the Song was at its loudest and the sky remembered, for one full day, what it had sounded like before the silence came.
 
 From the Clouds, the Blue Sun was visible longer than anywhere else. It rose slowly — the blue light spreading across the eastern horizon like a stain, dyeing the fog bank beneath them, turning the white to azure, transforming the grey concealment into a luminous, depthless blue that made the Refuge look as if it were floating not above clouds but above the ocean of the sky's own memory.
 
@@ -90,7 +90,7 @@ He was quiet for a moment. The Blue Sun climbed. The words, when they came, were
 
 The words sat in the air between them. The Blue Sun illuminated them. The sky held them.
 
-"I have read those words every night for fifteen years," Jalo said. "I raised you knowing what they meant. 'And in Singing, cease.' Cease. Not die — the prophecy does not use the word die. But cease. End. Stop being the person you were. The Sing consumes the Singer. Fletcher ceased — he became the Song, he became the Elder Stones, he became the world's memory. He did not die. He became. But the becoming is an ending. The man who Sings is not the man who finishes."
+"I have read those words every night for fifteen years," Jalo said. "I raised you knowing what they meant. 'And in Singing, cease.' Cease. Not die — the prophecy does not use the word die. But cease. The Sing consumes the Singer. Fletcher ceased — he became the Song, he became the Elder Stones, he became the world's memory. He did not die. He became. But the becoming is an ending. The man who Sings is not the man who finishes."
 
 His hands were trembling. The phantom archive — reduced by the Ming, managed by the Ironbark, shared across a dozen practitioners — was still there, and the trembling was the archive's response to the truth that had been its heaviest item. The truth that had been the reason for the herbs. The reason for the village. The reason for every lie and every morning and every locked cabinet and every night spent not-telling.
 
@@ -104,7 +104,7 @@ The words were out. The truth was out. The fifteen years were out — the herbs,
 
 Aelo took Jalo's hand.
 
-The hand — the hand that had mixed the herbs and held the staff and wrapped the linen and carried the baby through fire and built the wall of lies that had been the architecture of Aelo's safety and Aelo's captivity and Aelo's childhood. The hand was shaking. The fingers — thick, calloused, the hands of a man who had held a staff for twenty years and mixed herbs every morning and carried a baby through fire — were trembling with the specific frequency of a man who has just set down a weight he was not sure he could survive without.
+The hand — the hand that had mixed the herbs and carried the baby through fire. The hand was shaking. The fingers were trembling with the specific frequency of a man who has just set down a weight he was not sure he could survive without.
 
 "You did both," Aelo said. "You hid me and you prepared me. I wasn't ready before. I am now. Because of you."
 

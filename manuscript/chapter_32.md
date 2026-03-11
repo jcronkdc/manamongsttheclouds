@@ -6,7 +6,7 @@
 
 The castle moved.
 
-They were within a hundred yards of the outer wall — close enough for Aelo to see the Blood Vine threading through the stonework, the dark, red-brown tendrils running through the mortar joints the way veins run through flesh, pulsing with the slow, rhythmic cadence of a circulatory system that was not mechanical but organic, not built but grown. Close enough to feel the castle's presence through what remained of his Know — not as architecture but as _appetite_. The castle was hungry. The castle was Varas. Every stone, every wall, every surface connected to the King through the Vine, the entire structure functioning as an extension of the man on the throne, and the extension was not a building but a body, and the body was reaching toward them with the specific, patient, inevitable attention of a predator that does not need to hurry because the prey has walked into its mouth.
+They were within a hundred yards of the outer wall — close enough for Aelo to see the Blood Vine threading through every surface. Close enough to feel the castle's presence through what remained of his Know — not as architecture but as _appetite_. The castle was hungry. The castle was Varas. Every stone, every wall, every surface connected to the King through the Vine, the entire structure functioning as an extension of the man on the throne, and the extension was not a building but a body, and the body was reaching toward them with the specific, patient, inevitable attention of a predator that does not need to hurry because the prey has walked into its mouth.
 
 The ground Molded beneath them.
 

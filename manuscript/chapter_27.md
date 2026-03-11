@@ -10,7 +10,7 @@ The Knife held it in his palm and felt nothing. The physical properties were int
 
 It meant nothing.
 
-He searched. The ritual demanded it — the nightly discipline of checking, of reaching for the story the way a tongue reaches for a missing tooth. A river. He had found it in a river. He knew this as a fact — a data point, filed, labeled, stripped of every contextual detail that had once made it a memory rather than an entry in a log. Which river. When. Why he had bent down. Why he had closed his fingers around this particular stone and not the thousands of others that the current carried. Why the choosing had mattered. Why the taking had felt like — the word was gone. The taking had felt like something. The something was gone. The stone was a stone, and the stone was in his hand, and the hand did not know why it was holding it, and the not-knowing was not grief but inventory.
+He searched. The ritual demanded it — the nightly discipline of checking, of reaching for the story the way a tongue reaches for a missing tooth. A river. He had found it in a river. He knew this as a fact — a data point, filed, labeled, stripped of every contextual detail that had once made it a memory rather than an entry in a log. Which river. When. Why he had bent down. Why the choosing had mattered. Why the taking had felt like — the word was gone. The taking had felt like something. The something was gone. The stone was a stone, and the stone was in his hand, and the hand did not know why it was holding it, and the not-knowing was not grief but inventory.
 
 Two items left with stories. The feather. The glass.
 
@@ -26,8 +26,7 @@ He sat at the fire. The soldiers maintained the perimeter — Drell efficient, t
 
 The Ming tracker sat across the fire.
 
-She was thin — thinner than when they had left the castle, the weeks of march reducing a body that had not been substantial to begin with. Her name was Sera. The Knife had not used her name in the operational logs — she was listed as "Asset: Know-Tracker, Ming-Trained, Conscripted" — because names created connections and connections created vulnerabilities and vulnerabilities were the one thing an operational commander could not afford. He had not asked how she had been conscripted. He had not asked whether the flat black eyes held the resistance or the resignation of a person serving an empire she did not believe in. He had not asked because asking required the bridge, and the bridge was the thing his father had never built in him.
-
+She was thin — thinner than when they had left the castle, the weeks of march reducing a body that had not been substantial to begin with. Her name was Sera. The Knife had not used her name in the operational logs — she was listed as "Asset: Know-Tracker, Ming-Trained, Conscripted" — because names created connections and connections created vulnerabilities and vulnerabilities were the one thing an operational commander could not afford. He had not asked how she had been conscripted. He had not asked whether the flat black eyes held the resistance or the resignation of a person serving an empire she did not believe in.
 She was looking at him.
 
 Not casually — not the glance of a soldier checking on a commanding officer. Looking. The flat black eyes — the expanded pupils, the depthless Ming black — were fixed on him with a quality that The Knife recognized from the briefings about Know-practitioners: the volumetric gaze. The seeing that went deeper than surface. The attention that read not the face but the architecture beneath the face.
@@ -66,7 +65,7 @@ He had known since the Elder Stone. He had filed the knowing with the other unfi
 
 "You should."
 
-She stood. She walked away from the fire. She did not look back. Her body language — the straight spine, the controlled stride, the deliberate not-looking — was the body language of a person who has said the thing she came to say and is now managing the consequences of the saying, which include: guilt for not saying more, relief for not saying less, and the specific, professional self-hatred of a person who has identified a threat to her commanding officer and has chosen to address it with two sentences rather than the full report that protocol demands.
+She stood. She walked away from the fire. She did not look back. Her body language — the straight spine, the controlled stride, the deliberate not-looking — was the body language of a person who has said the thing she came to say and is now managing the consequences of the saying, which include: guilt for not saying more, relief for not saying less.
 
 The Knife sat at the fire. His hand was still on the mark. Beneath his fingers, through the skin, he could feel it: a pulse. Faint, rhythmic, synchronized with something that was not his heartbeat. A second rhythm, laid over his own, the two beats out of phase by a fraction of a second — just enough to be perceptible, just enough to confirm that the second beat was external, that the rhythm was not his body's but someone else's, someone far away, someone who was connected to him through a thread that ran from the base of his skull through the stone of the mountains and the dead earth of the Murkr and the Vine-threaded walls of the castle to a throne where a man sat and drained and felt nothing and called the draining _governance_ and called the nothing _godhood_ and called the thread _administrative necessity_ and called the son _Reserve Supply 7_.
 

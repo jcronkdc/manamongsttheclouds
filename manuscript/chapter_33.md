@@ -88,7 +88,7 @@ The Knife struck.
 
 ---
 
-The fight was not an action set piece. It was not the choreographed, dramatic, aesthetically satisfying exchange that the ballads would have required. It was a man with a stone blade striking a man who did not strike back.
+It was a man with a stone blade striking a man who did not strike back.
 
 Jalo took the blows. Each one. The blade cut — the stone's draining edge slicing flesh and severing, simultaneously, the magical connection between the flesh and the world's memory. Each wound was a double injury: the physical damage and the magical damage, the blood and the silence, the skin opening and the memory closing. Jalo's Heal worked — automatically, the discipline responding to injury the way a heart responds to exertion, the mending operating beneath consciousness, the body repairing what the blade had opened.
 
@@ -156,7 +156,7 @@ And inside the love: a memory. The last memory Jalo released as he died. The one
 
 The sound of Maera singing a lullaby in the nursery. The night everything burned. The note she held as the door broke down. The shield. The Song. The mother's voice, preserved for fifteen years in a guardian's memory, carried across seven regions and through a dead zone and into a castle where a boy was standing with his hand on a wall and his world ending.
 
-It poured through Aelo like light through a window. Not the dimmed, muffled, Murkr-attenuated light that filtered through the dead air outside. Full light. Golden. The light of the Core's crystal veins and the lake stone's stillness and the Blue Sun's annual remembering and the sky above the Clouds where the Song lived in the air. Maera's voice — clear, warm, the lullaby that she had been singing to him since before he was born — filled him. Not as sound. As memory. As the specific, irreducible, indestructible record of a mother's love expressed as music, carried through death and fifteen years of a guardian's stubborn protection, arriving now, in this corridor, in this castle, at the moment when the boy needed it most.
+It poured through Aelo like light through a window. Not the dimmed, muffled, Murkr-attenuated light that filtered through the dead air outside. Full light. Golden. The light of the Core's crystal veins and the lake stone's stillness and the Blue Sun's annual remembering and the sky above the Clouds where the Song lived in the air. Maera's voice — clear, warm, the lullaby that she had been singing to him since before he was born — filled him. Not as sound. As memory. Carried through death and fifteen years of a guardian's stubborn protection, arriving now, in this corridor, in this castle, at the moment when the boy needed it most.
 
 For the first time in his life, Aelo heard the Song clearly. Not as a distant note. Not as a harmonic beneath other disciplines. Not as the faint, buried, suffocated frequency that he had been following since the herbs stopped. As a complete, whole, devastating piece of music — all seven voices, all seven disciplines, the full chord that Fletcher had Sung and that Maera had held and that the world had been waiting to hear again for centuries.
 

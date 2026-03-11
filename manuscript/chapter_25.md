@@ -6,7 +6,7 @@
 
 The feast was loud and Varas felt nothing.
 
-This was not unusual. The nothing had been there since birth — not an emptiness that had been created by loss or trauma or the specific kinds of damage that Healers could name and attempt to mend, but a structural absence. An architectural fact. The way some men are born without the use of their legs, Varas had been born without the use of whatever organ or capacity or thread of connection allowed other people to feel what they felt. The Know, which operated in every living person as a low-grade, ambient awareness of the emotional weather around them — the unconscious perception of a room's mood, a stranger's grief, a lover's joy — operated in Varas as silence. He walked through rooms full of people and felt the same thing he always felt: the sound of his own thoughts in an empty space.
+This was not unusual. The nothing had been there since birth — not an emptiness that had been created by loss or trauma or the specific kinds of damage that Healers could name and attempt to mend, but a structural absence. The way some men are born without the use of their legs, Varas had been born without the use of whatever organ or capacity or thread of connection allowed other people to feel what they felt. The Know, which operated in every living person as a low-grade, ambient awareness of the emotional weather around them — the unconscious perception of a room's mood, a stranger's grief, a lover's joy — operated in Varas as silence. He walked through rooms full of people and felt the same thing he always felt: the sound of his own thoughts in an empty space.
 
 He sat on the obsidian throne and watched the feast. The great hall of the Murkr was full — three hundred guests, lords and administrators and military commanders and the various functionaries of an empire that required a feast every quarter to maintain the illusion that the empire was a civilization rather than a mechanism. The tables were loaded. The wine was excellent. Musicians played in the gallery — strings, wind, a percussionist who was, by any objective measure, extraordinary. Varas could hear the music. He could assess it. He could not feel it.
 
@@ -18,7 +18,7 @@ His father had been able to feel that laugh.
 
 The thought arrived without invitation, the way all thoughts about his father arrived — not as memory but as inventory. Aldric. King Aldric the First. A man who could walk into a room and feel every person in it — their joy, their fear, their petty resentments, their aching loves. The Know had been strong in Aldric. He had governed with it — reading his court the way a Molder reads stone, sensing the fissures, the pressures, the places where the structure was weak and where it was sound. He had been loved. Not because he was kind, though he was. Because he could feel, and the people around him could feel him feeling, and the feeling was a form of inclusion, and inclusion was the foundation of loyalty.
 
-Varas had watched this. As a child, seated beside the throne, he had watched his father smile at a courtier and had known — not felt, _known_, the way you know a fact — that the smile was connected to something inside his father that Varas did not have. A thread. A line between the self and the other. A bridge. He had looked for the bridge in himself. He had searched for it the way a blind man searches for a door in a dark room — by touch, by inference, by the desperate, systematic elimination of every surface that was not the door. He did not find it. The door was not there. The room had been built without one.
+Varas had watched this. As a child, seated beside the throne, he had watched his father smile at a courtier and had known — not felt, _known_, the way you know a fact — that the smile was connected to something inside his father that Varas did not have. A thread. A line between the self and the other. A bridge. He had looked for the bridge in himself. He had searched for it the way a blind man searches for a door in a dark room — by touch, by inference, by the desperate, systematic elimination of every surface that was not the door. The door was not there. The room had been built without one.
 
 He was twelve when he understood. Not older — twelve. A child. He had been in the garden, watching his younger brother play with a dog — a small, brown, unremarkable animal that his brother loved with the specific, boundless, unconditional devotion that children reserve for animals that depend on them. The brother was laughing. The dog was leaping. Varas stood at the garden's edge and watched and felt the nothing and understood, for the first time, that the nothing was not temporary. That it was not a phase. That it was him. That the bridge was not broken — it had never been built. And that the garden, the brother, the dog, the laughter, the sunlight on the grass — all of it existed on the other side of a gap he could not cross.
 
@@ -38,7 +38,7 @@ It was continuous now — not the deliberate, timed sessions of the early years.
 
 The memories arrived as sensations. Not his — other people's. Faint, diluted, the emotional equivalent of broth: the nutrients present but the substance thin. A prisoner in the Chamber below felt despair. The despair arrived in Varas as a dim awareness that something was happening in the vicinity of his chest. A Molder in the lower cells remembered her daughter's face. The remembering arrived in Varas as a flicker of visual input that was not connected to his own eyes — a child's face, unfamiliar, lasting half a second, carrying a warmth that dissipated before he could identify it.
 
-This was what the draining gave him. Not feeling. The ghost of feeling. The afterimage of an emotion experienced by someone else, transmitted through stone and Vine and the specific, parasitic architecture that Varas had spent forty years constructing because the architecture was the only thing that made the empty room bearable. He could not feel. But he could consume the residue of other people's feeling, and the consuming produced a sensation that was not emotion but was adjacent to it — the way the heat from a fire is not the fire but is close enough to remind you that the fire exists.
+This was what the draining gave him. Not feeling. The ghost of feeling, transmitted through stone and Vine and the specific, parasitic architecture that Varas had spent forty years constructing because the architecture was the only thing that made the empty room bearable. He could not feel. But he could consume the residue of other people's feeling, and the consuming produced a sensation that was not emotion but was adjacent to it — the way the heat from a fire is not the fire but is close enough to remind you that the fire exists.
 
 It was not enough. It had never been enough. But it was all he had.
 
@@ -78,21 +78,21 @@ The guard returned with a dog. A guard dog — large, muscular, trained for patr
 
 Varas took the leash.
 
-What followed was not performed for the audience. That was the thing the histories would get wrong — the chronicles and the rumors and the whispered accounts that would spread through the regions in the weeks after, growing more grotesque with each retelling, accumulating details that were invented because the truth was insufficient to carry the weight of the horror. The histories would say that Varas did what he did to send a message. To terrorize. To establish dominance. And the histories would be wrong, because the histories assumed that Varas could feel the satisfaction of dominance, and he could not. The histories assumed a motive that required an emotional architecture that Varas did not possess.
+What followed was not performed for the audience. The histories would say that Varas did what he did to send a message. To terrorize. To establish dominance. And the histories would be wrong, because the histories assumed that Varas could feel the satisfaction of dominance, and he could not.
 
 He did it for the fear.
 
-The fear of three hundred people, concentrated by proximity and helplessness and the specific, escalating horror of watching something happen that should not be happening, that the mind was not designed to process, that violated the fundamental compact between civilization and the humans who maintained it. The fear built. Layer upon layer. Each act producing a new stratum of terror, each stratum pressing harder against Varas's barrier, each press producing a faint, distant, almost-imagined sensation of — being alive. Of existing. Of occupying the same emotional space as the people around him, even if the occupying was parasitic and the space was borrowed.
+The fear of three hundred people, concentrated by proximity and helplessness and the specific, escalating horror of watching something happen that should not be happening. The fear built. Layer upon layer. Each act producing a new stratum of terror, each stratum pressing harder against Varas's barrier, each press producing a faint, distant, almost-imagined sensation of being alive.
 
-The dog died. The assassin did not — not immediately. Not for a long time. The specifics were the specifics, and the specifics were what the histories would remember, and the specifics were not the point. The point was the room. The point was the three hundred people watching and the three hundred sets of lungs failing to breathe and the three hundred hearts racing in a synchronized rhythm of pure, primal, undiluted horror. The point was the sound the room made — not screaming, not yet, but the sound that precedes screaming, the intake that is not a breath but a brace, the collective preparation of three hundred bodies for a sound they cannot stop themselves from producing.
+The dog died. The assassin did not — not immediately. Not for a long time.
 
-Varas felt this sound. Not clearly. Not the way other people would have felt it — not with the full, devastating, soul-crushing weight of empathy that would have made any normal person stop, that would have made the act impossible for anyone who possessed the bridge. He felt it the way you feel the vibration of thunder through glass: muted, distorted, recognizable but diminished. A ghost. An afterimage. The fossil of an emotion, compressed by the geological pressure of his condition into something that was not the thing itself but was shaped like the thing and occupied the space where the thing should have been.
+Varas felt the room's sound. He felt it the way you feel the vibration of thunder through glass: muted, distorted, recognizable but diminished. A ghost. The fossil of an emotion, compressed by the geological pressure of his condition into something that was shaped like the thing and occupied the space where the thing should have been.
 
-He did not stop. He could not stop. The sensation — the faint, distant, almost-real sensation of feeling something — was the most alive he had been in months, and stopping would mean returning to the empty room, to the silence, to the sixty-two-degree crystal surface that was all the world's magic had ever given him.
+He did not stop. He could not stop. The sensation was the most alive he had been in months, and stopping would mean returning to the empty room, to the silence, to the sixty-two-degree crystal surface that was all the world's magic had ever given him.
 
-Lord Kirik vomited. A woman near the back fainted. A guard who had served for twenty years dropped his spear and walked out. The histories would remember these details. The details were not the point.
+Lord Kirik vomited. A woman near the back fainted. A guard who had served for twenty years dropped his spear and walked out.
 
-The point was Varas, alone in the center of a hall full of people, doing something unspeakable because the unspeakable was the only thing loud enough to reach him through the walls of the room he had been born in and would die in, the room without a door, the room where the silence was not the absence of sound but the absence of the capacity to hear.
+The point was Varas, alone in the center of a hall full of people, doing something unspeakable because the unspeakable was the only thing loud enough to reach him through the walls of the room he had been born in and would die in.
 
 ---
 
@@ -106,7 +106,7 @@ Varas sat on the throne. Alone. The draining continued — the slow, constant tr
 
 The fear was gone. The room was empty. The people who had carried the fear had taken it with them — out the doors, into the corridors, into the city, into their homes where they would sit with the horror and metabolize it through the emotional architecture that Varas could not access: grief, rage, resolve, the specific human capacity to transform experience into meaning.
 
-He had none of these. The fear had pressed against his barrier and the pressing had been — something. Now the pressing was gone and the something was gone with it and the barrier was the barrier and the empty room was the empty room and the silence was the silence and the silence was absolute.
+He had none of these. The fear had pressed against his barrier and the pressing had been — something. Now the pressing was gone and the something was gone with it and the barrier was the barrier and the empty room was the empty room and the silence was absolute.
 
 He reached for his cup. The wine was excellent. The taste was — the taste. Sixty-two degrees.
 
@@ -140,7 +140,7 @@ The orders went out. The castle responded — the walls shifting, the corridors 
 
 A need. The only need the empty room had ever produced. The need for the Song. Not to hear it — hearing was not enough. Not to consume it — consumption left ghosts and ghosts were not enough.
 
-To _be_ it. To stand in the frequency. To cross the gap. To feel, for longer than a moment, what the note had promised: that the bridge existed, that the door was real, that the empty room had an exit and the exit was the Song and the Song was in a boy who was somewhere in his sky and who would be brought to him and who would Sing and who would, finally, _finally_, fill the silence that had been Varas's only companion since the day he was born.
+To _be_ it. To stand in the frequency. To cross the gap. To feel, for longer than a moment, what the note had promised: that the bridge existed, that the door was real, that the empty room had an exit and the exit was the Song and the Song was in a boy who was somewhere in his sky.
 
 He did not know that this was impossible. He did not know that the Song could not fill a room that had been built without a door. He did not know that what he had felt — the moment of contact, the faint vibration through the barrier — was not an invitation but a warning.
 

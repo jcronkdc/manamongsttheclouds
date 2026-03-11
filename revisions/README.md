@@ -42,6 +42,24 @@ Snapshot taken before the Part I editorial pass began. Represents the manuscript
 - Ch1 subtle polish pass (9 sensory/rhythm upgrades)
 - All per-part DOCX, full manuscript DOCX, print copy, and Part I EPUB rebuilt
 
+### rev04 — Part III editorial pass (Mar 11, 2025)
+
+- ~30 prose trims across Ch23-34
+- Iron taste motif threaded at Murkr summit (Ch23)
+- Ch23: Desert static, Weave-Road, elder speech trimmed; thesis statement trusts reader
+- Ch24: Seer age, Flash Rat breeding comparison, magic-system explanation mid-sacrifice all cut
+- Ch25: Varas chapter — structural absence, ghost/afterimage, histories restatement trimmed; feast scene restored
+- Ch26: Surrender triple, competition restatement, fixed composition trimmed
+- Ch27: Knife's loss cascade, bridge explanation, Sera departure trimmed
+- Ch28: Blue Sun description, cease/die triple, hand catalog compressed
+- Ch29: Cloud rider clause, horror comprehension trimmed
+- Ch30: Unremarkability, storm comparison, memory catalog trimmed; Reserve Supply 7 payoff preserved
+- Ch31: Grass non-color, light description, three comparative silences cut
+- Ch32: Redundant Blood Vine description cut
+- Ch33: Meta-commentary on fight removed; music metaphor compressed. Jalo's death preserved.
+- Ch34: Torvus factual fix (elbows not built "for" Aelo). Ledge scene preserved.
+- All builds rebuilt, website synced, 153,112 total words
+
 ### rev03 — AI-pattern fixes (Mar 11, 2025)
 
 - Rewrote 8 instances of "Not X. Not Y." mirrored negation across Ch1, Ch4, Ch7, Ch9, Ch13, Ch14, Ch22

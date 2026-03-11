@@ -6,7 +6,7 @@
 
 They dropped through the clouds like stones remembering the ground.
 
-Rise led the formation — Aelo on her back, the harness tight across his chest, the bird's wings folded against the dive, the descent so steep that the air screamed past his ears and the fog peeled away in white streaks and the world below resolved from abstraction to geography in the space of a held breath. Behind him: three Cloud riders on smaller birds, Move practitioners, their hands extended, the air around the formation bending and parting in response to their discipline — the wind channeled, the turbulence smoothed, the dive converted from chaos to trajectory by the specific, practiced manipulation of a people who had been shaping air since before the gates were sealed.
+Rise led the formation — Aelo on her back, the harness tight across his chest, the bird's wings folded against the dive, the descent so steep that the air screamed past his ears and the fog peeled away in white streaks and the world below resolved from abstraction to geography in the space of a held breath. Behind him: three Cloud riders on smaller birds, Move practitioners, their hands extended, the air around the formation bending and parting in response to their discipline — the wind channeled, the turbulence smoothed, the dive converted from chaos to trajectory.
 
 Jalo rode with a Cloud elder — a stocky, quiet man whose bird was the largest in The Refuge, bred for weight, the massive wings producing lift that could carry two riders and the specific, audible strain of a body working at its design limits. Jalo's face was grey. The altitude. The speed. The knee, which did not appreciate the dive's pressure changes and was communicating its displeasure through the phantom archive that the Ming had redistributed but not silenced. His arms were around the elder's waist. His eyes were closed.
 
@@ -66,7 +66,7 @@ The silence that followed was the specific silence of a group of people processi
 
 "It's Blood Vine. I can feel the thread. It runs from the Knife to the castle. To the throne. To Varas. And Varas is pulling."
 
-Jalo sat down. Not collapsed — sat. The deliberate, controlled sitting of a man whose legs have decided that the standing is finished and who has enough discipline to convert the falling into a sitting before the falling becomes a falling. He sat on the rocky plateau and he looked at the ground and his emotional weather, which Aelo could read from five feet away, was a frequency that Aelo had never felt from him in this specific configuration: horror. Not the horror of threat — the horror of comprehension. The horror of a man who has just understood the depth of the evil he has been opposing and who has discovered that the depth is deeper than he thought.
+Jalo sat down. Not collapsed — sat. The deliberate, controlled sitting of a man whose legs have decided that the standing is finished and who has enough discipline to convert the falling into a sitting before the falling becomes a falling. He sat on the rocky plateau and he looked at the ground and his emotional weather, which Aelo could read from five feet away, was a frequency that Aelo had never felt from him in this specific configuration: horror. The horror of comprehension.
 
 "He's eating his own son," Jalo said. "The way he eats the prisoners in the Chamber. The way he eats the Elder Stones. Reserve supply. His own child."
 

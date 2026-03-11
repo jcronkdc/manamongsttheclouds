@@ -6,7 +6,7 @@
 
 The world died in stages.
 
-They walked north — Aelo, Jalo, Laine — through a landscape that deteriorated the way a body deteriorates when the blood stops flowing to the extremities. The first sign was the grass. On the foothills it had been sparse but alive — thin blades pushing through rocky soil, the green tentative, the growth modest but real. Within a mile of the Murkr's edge, the grass turned grey. Not dead — grey. The color drained from it the way color drained from The Knife's memories: slowly, by degrees, the life not removed but attenuated, the green fading to silver to ash to the specific, terrible non-color of living things that have forgotten how to be alive.
+They walked north — Aelo, Jalo, Laine — through a landscape that deteriorated the way a body deteriorates when the blood stops flowing to the extremities. The first sign was the grass. On the foothills it had been sparse but alive — thin blades pushing through rocky soil, the green tentative, the growth modest but real. Within a mile of the Murkr's edge, the grass turned grey. Not dead — grey. The color drained from it the way color drained from The Knife's memories: slowly, by degrees, the life not removed but attenuated, the green fading to silver to ash.
 
 The trees followed. They had been small on the plain — wind-stunted, adapted to the altitude and the open sky. As the party moved north, the trees stopped being stunted and started being _petrified_. The wood hardened. The bark cracked and fell away in grey flakes. The branches held their shape but lost their flexibility — frozen in the specific posture of a tree that had been reaching for sunlight and had been caught mid-reach, the motion arrested, the intention preserved in stone, the living wood converted to a mineral replica of itself that was accurate in every detail except the one that mattered: the life.
 
@@ -22,7 +22,7 @@ Jalo walked past her. His stride was steady — the rationed, deliberate stride 
 
 He paused. The staff struck the grey ground with a sound that was not the sound of wood on earth but the sound of wood on dust — dry, flat, carrying no resonance, the ground too dead to return the vibration. "Now it sounds like this."
 
-They walked. The deterioration continued — each hundred yards producing a new iteration of loss. The air lost its moisture. The wind lost its direction. The light lost its warmth — not the temperature but the quality, the specific, subtle warmth that sunlight carries when it passes through an atmosphere that remembers being alive. The Murkr's light was flat. Grey. The light of a sky that had forgotten the sun.
+They walked. The deterioration continued — each hundred yards producing a new iteration of loss. The air lost its moisture. The wind lost its direction. The light lost its warmth — not the temperature but the quality, the specific, subtle warmth that sunlight carries when it passes through an atmosphere that remembers being alive. The Murkr's light was flat. Grey.
 
 Aelo's disciplines dimmed. The Know — which had been his constant companion since the herbs, the sense that had carried him through every region and every teacher and every cost — faded. Not disappeared — faded. The voices that the Know carried — the emotional weather of the people around him, the memory embedded in the materials he touched, the vast, layered, world-wide conversation of things that remembered — grew quieter. As if the volume were being turned down. As if the Murkr were a room that absorbed sound, and every step deeper reduced the signal, and the signal was the world's memory, and the world's memory was being consumed faster than it could be produced.
 
@@ -54,7 +54,7 @@ The noise stopped. For the first time since the herbs wore off — since the mor
 
 Silence.
 
-Not the Ming's riverbed silence, which was the resolution of noise into structure. Not the Core's silence, which was the mass of stone being present. Not the sky's silence, which was the Song sustaining itself above the clouds. This was dead silence. The silence of a room where someone has screamed until there is no air left. The silence that is not the absence of sound but the aftermath of its removal — the specific, echoing, horrifying quiet of a place where something should be singing and is not.
+Dead silence. The silence of a room where someone has screamed until there is no air left. The silence that is not the absence of sound but the aftermath of its removal — the specific, echoing, horrifying quiet of a place where something should be singing and is not.
 
 Aelo's chest tightened. The lake stone pulsed — the riverbed holding, the three centuries of compressed stillness resisting the Murkr's dead weight the way a flame resists the wind. He held the stone. He held the riverbed. He held the Song — faint, buried, suffocated, but there.
 
