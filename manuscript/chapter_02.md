@@ -62,7 +62,7 @@ She was trying to speak.
 
 The Knife stood very still. He cataloged: elevated awareness inconsistent with recorded drain levels. Motor function beyond baseline. Possible partial recovery — unprecedented, but not theoretically impossible if the drain rate had been miscalibrated. More likely: an anomaly. A dying brain producing a final, meaningless surge of activity.
 
-He watched her mouth move. He tried to read the word. It was not a word he recognized. It was, as far as he could tell, a name. Or a sound shaped like a name. Her eyes were bright — not with intelligence, exactly, but with something more unsettling. Recognition. As if she knew him. As if she had been waiting for him to walk past her alcove on this particular morning and she had something to say and the fact that her body had been drained to a husk was an inconvenience she was prepared to work around.
+He watched her mouth move. He tried to read the word. It was not a word he recognized. It was, as far as he could tell, a name. Or a sound shaped like a name. Her eyes were bright — not with intelligence, exactly, but with something more unsettling. Recognition. As if she knew him, and the fact that her body had been drained to a husk was an inconvenience she was prepared to work around.
 
 He recorded the anomaly in the log. _Row 4, Alcove 6: Elevated awareness. Motor function. Monitor._
 
@@ -80,7 +80,7 @@ Breathing. Maybe. A sound so low it might have been the stone settling or the Bl
 
 Words. Spoken at a volume below hearing. Continuous. Repetitive. A loop. As if someone behind the door had been saying the same thing for a very long time, so long that the sound had worn itself into the stone and become indistinguishable from the silence around it.
 
-The Knife pressed his palm to the door. The stone was warm. It should not have been warm. The Chamber was cold — engineered to be cold, because cold slowed the hosts' metabolisms and extended their useful duration. But this door was warm the way skin is warm. The way a living thing is warm.
+The Knife pressed his palm to the door. The stone was warm. It should not have been warm. But this door was warm the way skin is warm. The way a living thing is warm.
 
 He pulled his hand away. He did not record this in the log. Some observations were better left unwritten.
 
@@ -110,7 +110,7 @@ The Knife paused. This was not part of the standard report. "My lord?"
 
 "It hummed."
 
-The Knife waited. Calibration stones were inert — small Elder Stones, stripped of capacity, used to measure ambient magical density in a region the way a thermometer measures heat. They did not respond to individuals. They did not produce sound. Sound required expression, and expression required memory, and the calibration stones had neither. They were empty vessels. Dead instruments.
+The Knife waited. Calibration stones were inert — small Elder Stones, stripped of capacity, used to measure ambient magical density in a region the way a thermometer measures heat. They did not produce sound. Sound required expression, and expression required memory, and the calibration stones had neither.
 
 "Hummed," The Knife repeated.
 
@@ -144,7 +144,7 @@ He stopped. His father almost never used his name. The sound of it in Varas's mo
 
 "Be efficient."
 
-Not _be careful_. Not _come home safely_. Not _I'll miss you_ or _I'm proud of you_ or any of the hundred things that fathers say to sons when the sons are leaving and the fathers are afraid. _Be efficient._ A performance review delivered to a tool.
+Not _be careful_. Not _come home safely_. Not _I'll miss you_ or _I'm proud of you_. _Be efficient._ A performance review delivered to a tool.
 
 "Always, my lord."
 
@@ -152,9 +152,7 @@ He left.
 
 ---
 
-The corridor outside the throne room was empty. The castle was always empty — Varas had reduced the staff to a skeleton crew decades ago, preferring the company of drained prisoners to living servants. The Knife's footsteps echoed in the stone. His shadow stretched ahead of him, long and thin in the light from the narrow windows, and he watched it move the way he watched everything: with the detached precision of a man who has been trained to see the world as a series of objects, threats, and targets, and who has spent his life not noticing that there is a fourth category.
-
-Beautiful things.
+The corridor outside the throne room was empty. The castle was always empty — Varas had reduced the staff to a skeleton crew decades ago, preferring the company of drained prisoners to living servants. The Knife's footsteps echoed in the stone. His shadow stretched ahead of him, long and thin in the light from the narrow windows.
 
 He stopped in a corridor where no one could see him and reached inside his coat and took out the feather.
 
@@ -166,7 +164,7 @@ A bird. He'd been — young. On a mission. His first outside the castle walls. T
 
 The memory was a room with the furniture removed. The shape was there — walls, floor, ceiling, the outline of where things had been — but the things themselves were gone. He could feel the absence of them the way you feel a missing tooth with your tongue: a space that is defined by what it is not.
 
-He knew the feather mattered. He knew it the way he knew his own name — not through reasoning but through something deeper, structural, load-bearing. The feather was important. The feather was his. And he could not remember why.
+He knew the feather mattered. He knew it the way he knew his own name — not through reasoning but through something deeper, structural, load-bearing. The feather was his. And he could not remember why.
 
 He held it for eleven seconds. He counted. Eleven seconds was the amount of time he allowed himself each morning, timed against the beat of his own pulse, because discipline was the only thing standing between the man he was and the man he was afraid of becoming, and the man he was afraid of becoming was the kind who held feathers for twelve seconds or more.
 

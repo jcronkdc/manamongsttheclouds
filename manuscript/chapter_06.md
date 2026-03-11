@@ -36,7 +36,7 @@ The soldiers were on the other side. The wood was splintering. And Maera was sin
 
 She stopped singing only to speak. "Half a pinch in warm water," she'd said. Her voice had been calm — not the calm of someone at peace but the calm of someone who had already grieved for herself and come out the other side. Calmer than the door that was bending inward, calmer than the soldiers shouting on the other side, calmer than Halvar's heart, which was pounding so hard he could taste it. "Half a pinch. Every morning. It will quiet him. It will keep him hidden. Promise me."
 
-He had promised. What else do you say to a woman who is about to die for her child? You say yes. You say I promise. You say it with the full weight of everything you are and you carry that weight for the rest of your life, and every morning you measure half a pinch and you put it in the porridge and you watch the boy eat it and you exhale, because the promise is kept for one more day, and one more day is all you have ever been able to guarantee.
+He had promised. What else do you say to a woman who is about to die for her child? You say yes. You say I promise. You say it with the full weight of everything you are and you carry that weight for the rest of your life, and every morning you measure half a pinch and you put it in the porridge and you watch the boy eat it and you exhale, because the promise is kept for one more day.
 
 He mixed the herbs in warm water. Half a pinch. He held the cup to the baby's lips. The baby drank, coughed, drank again.
 
@@ -46,7 +46,7 @@ Not gradually. Not the way a tired infant winds down into sleep. It stopped the 
 
 And the silence that followed was the worst thing Halvar had ever heard. Worse than the door splintering. Worse than the soldiers. Worse than the moment when Maera's voice thinned and broke and stopped. Because this silence was his doing. He had taken a child who was born to sing and he had put a hand over the bell. Half a pinch. Warm water. And the most powerful voice in three hundred years went quiet.
 
-He held the silent baby in the dark cabin and something inside him broke — not dramatically, not with the clean fracture of bone or the sharp rupture of tearing muscle, but slowly, structurally, the way a foundation cracks under a weight it was not designed to bear. The crack would widen over the years. The bottle would fill it. The linen would cover it. But the crack itself — the specific, original damage of choosing to silence the thing you had sworn to protect — that was permanent.
+He held the silent baby in the dark cabin and something inside him broke — not dramatically, not with the clean fracture of bone or the sharp rupture of tearing muscle, but slowly, structurally, the way a foundation cracks under a weight it was not designed to bear. The crack would widen over the years. The bottle would fill it. The linen would cover it. But the crack itself was permanent.
 
 He named the baby then. Held him to his chest and whispered it into the dark, a word that was also a prayer, a hope that the silence would not last forever, that the breath beneath the herbs would one day break through.
 
@@ -76,7 +76,7 @@ He bit through the leather strap he had placed between his teeth. He did not dro
 
 When it was done, he plunged his face into the river. The cold was a mercy so sharp it felt like a second burning. The water turned pink. The current carried the blood downstream, and with it, the last physical evidence that the man kneeling at the bank had ever been anyone other than a nameless trapper with a ruined face and a baby and a story about a dead wife and a difficult birth.
 
-Halvar Eld died in that river. Jalo Soturi was born in the same water, screaming into the cold, the way all new things are born.
+Halvar Eld died in that river. Jalo Soturi was born in the same water, screaming into the cold.
 
 ---
 
@@ -96,7 +96,7 @@ King Aldric on the balcony. Tall, thin, the opposite of Varas in every way that 
 
 Halvar remembered: a morning in the garden, early spring, the clouds low enough to touch. Maera singing — not a spell, not a discipline, just a song. An old one. A lullaby she said she'd learned from her mother, who had learned it from hers, passed down through generations of Cloud Singers like an heirloom that accumulated meaning with each new voice. Vero on the grass, hands up, laughing. Aldric on the balcony, leaning on the rail, his face soft with the particular expression of a man watching his wife and son and understanding, in the precise way that happy men understand, that this is the thing he will remember when everything else is gone.
 
-Halvar had stood at the garden gate and felt the song move through him — through the stone beneath his feet, through the leather of his armor, through the bones of his chest — and he had thought: _This is what I am protecting. This sound. This morning. This family in this garden on this day when the clouds are low enough for a boy to reach._
+Halvar had stood at the garden gate and felt the song move through him — through the stone beneath his feet, through the leather of his armor, through the bones of his chest — and he had thought: _This is what I am protecting. This morning. This family in this garden on this day when the clouds are low enough for a boy to reach._
 
 He could not have known, then, what the garden would cost. That Varas would come. That Aldric and Vero would be taken. That Maera — the Queen who Sang the flowers into memory, the last of the Cloud Singers, the woman who carried Fletcher's bloodline not through Aldric's distant, diluted echo but through the direct, unbroken line of Singers who had passed the Song from mother to daughter for three hundred years — would be left alone in a kingdom that no longer existed, carrying a second child she would not live to raise.
 
@@ -112,23 +112,13 @@ _The history._
 
 It was the oath that bound him to the garden. It was the garden that bound him to the story. And the story — the real one, the one they did not teach in village schools or whisper in taverns or carve into the propaganda stones that lined every road in Varas's kingdom — was older than any of them.
 
-Three hundred years ago, a man named Fletcher stood on a hill and Sang.
+Three hundred years ago, Fletcher stood before the Great Elder Stone and poured himself into it — every memory, every thread of the Song — and dissolved. The world knew this story. The Vael Guard knew what came after.
 
-He was not a king then. He was a shepherd's son with a voice that made the sheep lie down and the grass bend toward him and the stones in the field hum with a frequency that had no name. The gods had made the world and filled it with memory — every rock, every river, every breath of wind carrying the accumulated record of everything that had ever happened — but they had not given humanity the ability to hear it. The world remembered. Humans forgot.
-
-Fletcher heard it anyway. Not because he was chosen. Because he listened. And one of the seven gods — the one who had always loved humanity more than divinity, the one the others called reckless and sentimental and dangerous — heard Fletcher listening and made a choice that could not be undone. The god gave him the Song. The ability to hear the world's memory, to speak its language, to _commune_ with the living record of creation itself.
-
-The golden age lasted two centuries. Fletcher became a king — not through conquest but through the simple, irresistible gravity of a man who could Sing and who taught others to listen. The disciplines emerged: the Know, the Mold, the Heal, the Sing. Magic was memory made tangible. It was shared, studied, celebrated. The Elder Stones — natural formations that resonated with the Song — became libraries, hospitals, universities. Fletcher's hill became a kingdom. The kingdom became a civilization.
-
-And then the corruption came. As it always comes. As it came for every good thing men had ever built. Not from outside — from within. Magicians discovered that memory could be _taken_, not just shared. That draining another person's connection to the Song produced a concentrated, intoxicating power that felt like becoming more than human. The practice spread. The gods, furious at what their gift had become, threatened to unmake it entirely — to strip the Song from the world and leave humanity deaf again.
-
-Fletcher stopped them. He gathered every scroll, every text, every record of how the Song could be corrupted, and he burned them. Then he stood before the Great Elder Stone — the largest in the world, the one that held the deepest memories — and he Sang. Not a song of power. A song of _giving_. He poured himself into the Stone — every memory, every feeling, every thread of the Song that lived in his blood — and he dissolved. His body became light, then sound, then silence. The Stone absorbed him. The corruption was sealed. The knowledge of how to drain was lost.
-
-But not forever. Fletcher knew it would surface again. In his final moment — the last breath before the dissolution took him — he spoke the prophecy. Not a prediction. A _memory of the future_, because the Song does not distinguish between what has happened and what will happen. Both are remembered.
+In his final breath, Fletcher spoke the prophecy:
 
 _One of my blood will Sing again. And in Singing, cease. And in ceasing, restore what was taken. The Song will not die. It will wait. It will remember. And when the voice comes — the voice that carries every voice before it — the world will answer._
 
-The prophecy was carried by the Vael Guard. Memorized. Passed from captain to captain, generation to generation, a chain of whispered words that stretched across three centuries and ended in a hollow tree in the Canopy, in the mouth of a man with shaking hands and a ruined face.
+The prophecy was carried by the Guard. Memorized. Passed from captain to captain, generation to generation, a chain of whispered words that stretched across three centuries and ended in a hollow tree in the Canopy, in the mouth of a man with shaking hands and a ruined face.
 
 And between Fletcher's dissolution and Halvar's hollow, the world broke.
 
@@ -180,7 +170,7 @@ Halvar pressed his forehead to his knees. The shaking intensified. His body want
 
 He reached for the supply cache without looking. His hand found the cloth. Found the neck of the bottle underneath. Root wine. He pulled it out.
 
-He held it. The weight was familiar — the specific, calibrated heft of a full bottle, the exact counterweight to the emptiness in his chest. He could feel the liquid shift inside, patient, waiting, offering the same bargain it had offered every night for fifteen years: drink, and the ghosts go quiet; drink, and the boy sleeps undisturbed; drink, and the crack in the foundation fills, temporarily, with something that is not love but occupies the same space.
+He held it. The weight was familiar — the specific, calibrated heft of a full bottle. He could feel the liquid shift inside, patient, waiting, offering the same bargain it had offered every night for fifteen years: drink, and the ghosts go quiet; drink, and the boy sleeps undisturbed; drink, and the crack in the foundation fills, temporarily, with something that is not love but occupies the same space.
 
 He put it down.
 
@@ -218,7 +208,7 @@ She looked at the boy the way you look at something you have been waiting for.
 
 "The boy, then. He looks feverish. I have—"
 
-Halvar stood. The staff came up — not a threat, not yet, but the promise of one. The wood hummed. The amber light caught the woman's eyes, and in that light Halvar saw what he could not name but could not ignore: an expression that did not match the body. Too deep. Too weighted. Too _old_. The eyes of a tincture seller should hold nothing more complicated than the hope of a sale. These eyes held something vast and grieving and patient, the expression of something that had been watching the world for longer than the world had been watching itself.
+Halvar stood. The staff came up — not a threat, not yet, but the promise of one. The wood hummed. The amber light caught the woman's eyes, and in that light Halvar saw what he could not name but could not ignore: an expression that did not match the body. Too deep. Too weighted. Too _old_. The expression of something that had been watching the world for longer than the world had been watching itself.
 
 He had never met a god. But he had served a king who could Know, and Aldric had once described what the divine felt like — not a presence but an _absence_. A hole in the world's memory shaped like something too large to fit. You couldn't see it. You could feel the edges.
 
@@ -248,7 +238,7 @@ He looked at Aelo. The boy slept. The elm whispered above him. The mark on his w
 
 Halvar sat down. He picked up his staff. He held it across his knees and gripped it until his knuckles went white, and the shaking in his hands transferred into the wood and the wood absorbed it, the way it had absorbed everything he had ever given it — his pain, his magic, his fifteen years of penance.
 
-Outside, the sky began to lighten. Somewhere to the north, the Mrak Patrol was regrouping. Somewhere to the south, a woman who was not a merchant was walking through the forest with a tray of tinctures she would never sell, and the grief on her face was three hundred years old, and she had looked at the boy the way a person looks at the last proof that the thing they sacrificed everything for was worth it.
+Outside, the sky began to lighten. Somewhere to the north, the Mrak Patrol was regrouping. Somewhere to the south, a woman who was not a merchant was walking through the forest with a tray of tinctures she would never sell, and the grief on her face was three hundred years old.
 
 Halvar did not know any of this. He knew only that a stranger had found them, that the stranger had looked at Aelo too long, and that the stranger's eyes had held something he could not name.
 

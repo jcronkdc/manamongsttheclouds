@@ -6,9 +6,9 @@
 
 The village had the particular silence of a place where something had happened and everyone was still deciding how to lie about it.
 
-The Knife knew that silence. He had walked into it a hundred times — the aftermath quiet, the held-breath-of-a-settlement-that-has-been-visited-by-authority quiet. It was not the silence of peace. It was the silence of fear that has passed through its acute phase and settled into the chronic — the dull, persistent, background hum of people who have seen something terrible and are now engaged in the elaborate communal project of pretending they have not.
+The Knife knew that silence. He had walked into it a hundred times — the aftermath quiet, the held-breath-of-a-settlement-that-has-been-visited-by-authority quiet. It was the silence of fear that has passed through its acute phase and settled into the chronic — the dull, persistent, background hum of people who have seen something terrible and are now engaged in the elaborate communal project of pretending they have not.
 
-He arrived at dawn. Twelve men behind him — the same patrol that had conducted the Knower Ceremony, minus the two the old man had buried under a wall of stone. They had been waiting at the village perimeter for three days, per his instruction via communication stone, and in those three days the village had done what villages always do in the aftermath: cleaned, rebuilt, resumed. The ceremony square had been swept. The cracked earth where the Elder Stone had split the ground had been filled and flattened. The fragments of the stone wall the old man had Molded from nothing — from the *earth itself*, which was not a minor detail, which was in fact the kind of detail that changed the classification of a target from "retrieve" to "approach with extreme caution" — had been removed, the rubble distributed, the evidence absorbed back into the landscape.
+He arrived at dawn. Twelve men behind him — the same patrol that had conducted the Knower Ceremony, minus the two the old man had buried under a wall of stone. They had been waiting at the village perimeter for three days, per his instruction via communication stone, and in those three days the village had done what villages always do in the aftermath: cleaned, rebuilt, resumed. The ceremony square had been swept. The cracked earth where the Elder Stone had split the ground had been filled and flattened. The fragments of the stone wall the old man had Molded from nothing — from the _earth itself_, which was not a minor detail, which was in fact the kind of detail that changed the classification of a target from "retrieve" to "approach with extreme caution" — had been removed, the rubble distributed, the evidence absorbed back into the landscape.
 
 But the Elder Stone remained.
 
@@ -28,15 +28,15 @@ The hum entered through his palm and traveled up his arm and settled in his ches
 
 Then the hum deepened.
 
-It did not get louder. It got *wider*. As if the frequency were expanding, filling a space in his chest that he had not known was empty — a cavity, a hollow, a place where something should have been and was not and had not been for as long as he could remember, which was not as long as it should have been, because The Knife could not remember anything before the age of twelve and had trained himself not to think about why.
+It did not get louder. It got _wider_. As if the frequency were expanding, filling a space in his chest that he had not known was empty — a cavity, a hollow, a place where something should have been and was not and had not been for as long as he could remember, which was not as long as it should have been, because The Knife could not remember anything before the age of twelve and had trained himself not to think about why.
 
-For half a second, he felt warmth. Not physical warmth — the stone was cool under his hand — but the warmth of *belonging*. Of being part of something. The specific, precise, unbearable warmth of a thing returning to the place it was taken from. As if the hollow in his chest were a socket and the hum were the missing piece and for half a second they were reconnected and he was — he was —
+For half a second, he felt warmth. Not physical warmth — the stone was cool under his hand — but the warmth of _belonging_. Of being part of something. The specific, precise, unbearable warmth of a thing returning to the place it was taken from. As if the hollow in his chest were a socket and the hum were the missing piece and for half a second they were reconnected and he was — he was —
 
 He pulled his hand away.
 
 The sound stopped. The warmth vanished. The hollow remained, but now it had edges — now he could feel its shape, its dimensions, the precise geometry of what was missing. Before, the absence had been abstract. Now it was specific. He knew the shape of the thing that had been taken from him.
 
-He stood very still. His breathing was controlled. His face showed nothing. These were skills he had spent a lifetime developing — the ability to experience something internally and produce no external evidence of it. His father had taught him this, though "taught" was generous. His father had *required* it, the way the sea requires that ships float: not as a lesson but as a condition of survival.
+He stood very still. His breathing was controlled. His face showed nothing. These were skills he had spent a lifetime developing — the ability to experience something internally and produce no external evidence of it. His father had taught him this, though "taught" was generous. His father had _required_ it, the way the sea requires that ships float: not as a lesson but as a condition of survival.
 
 He did not report the note to his father. The thought of reporting it surfaced and he examined it and set it aside with the care of a man handling something fragile. He did not analyze why. He simply knew — with the bone-deep certainty that preceded all his best operational decisions — that this piece of information was his. The first thing that had been his in a very long time.
 
@@ -48,7 +48,7 @@ He was gaunt. The Knife had seen gaunt — he maintained forty-seven individuals
 
 "Tell me about the boy."
 
-The Knower looked at him. His eyes were the color of fog — not grey but *depleted* grey, the grey of a thing that had once held color and had it removed. His hands, folded in his lap, trembled with the fine, high-frequency tremor of a nervous system that was running on residual charge.
+The Knower looked at him. His eyes were the color of fog — not grey but _depleted_ grey, the grey of a thing that had once held color and had it removed. His hands, folded in his lap, trembled with the fine, high-frequency tremor of a nervous system that was running on residual charge.
 
 "Fifteen. Dark hair. Thin." The Knower's voice was a whisper. Not from choice — from capacity. He did not have enough left to project. "Lived with the old man at the edge of the settlement. Quiet boy. Kept to himself."
 
@@ -70,7 +70,7 @@ The Knife filed this. A Molder who could shape stone from raw ground without pre
 
 The Knower closed his eyes. The memory cost him something — The Knife could see the expenditure, the way you see a lamp dim when another appliance draws power from the same source.
 
-"He stepped on the stone. The Blood Vine made contact. And the stone..." The Knower opened his eyes. The fog in them had thinned — not cleared, but thinned, as if the memory itself were a form of light. "The stone sang. Not hummed. Not vibrated. *Sang.* A note — one note — that was every note. I have conducted four hundred and twelve Knowing Ceremonies in twenty-three years. I have seen children register on every discipline. I have never heard the stone produce a sound. Stones don't have voices. They don't *express*. They receive. They contain. They are vessels." He paused. "This boy is not a vessel. This boy is a source."
+"He stepped on the stone. The Blood Vine made contact. And the stone..." The Knower opened his eyes. The fog in them had thinned — not cleared, but thinned, as if the memory itself were a form of light. "The stone sang. Not hummed. Not vibrated. _Sang._ A note — one note — that was every note. I have conducted four hundred and twelve Knowing Ceremonies in twenty-three years. I have seen children register on every discipline. I have never heard the stone produce a sound. Stones don't have voices. They don't _express_. They receive. They contain. They are vessels." He paused. "This boy is not a vessel. This boy is a source."
 
 The Knife waited.
 
@@ -82,23 +82,23 @@ The Knife waited.
 
 The Knower looked at The Knife with the lucidity of a man who has nothing left to lose.
 
-"The last time that happened was Fletcher. Three hundred years ago. The scrolls say he dissolved. The scrolls say the stone he created still sits above the clouds." The Knower's voice dropped. "If your master gets his hands on that boy, he won't drain him. He'll try to *use* him. And if that boy Sings the way Fletcher Sang — if he becomes the note instead of simply hearing it — then what comes out of him will be something your master cannot control. Cannot contain. Cannot survive."
+"The last time that happened was Fletcher. Three hundred years ago. The scrolls say he dissolved. The scrolls say the stone he created still sits above the clouds." The Knower's voice dropped. "If your master gets his hands on that boy, he won't drain him. He'll try to _use_ him. And if that boy Sings the way Fletcher Sang — if he becomes the note instead of simply hearing it — then what comes out of him will be something your master cannot control. Cannot contain. Cannot survive."
 
 The Knife absorbed this. He gave nothing back. He turned and walked out of the schoolhouse and the door closed behind him and the Knower sat in the silence and waited for whatever came next, which would be nothing good, because nothing good had come to a Knower in this kingdom in a very long time.
 
 ---
 
-Outside, the village waited. The Knife stood in the ceremony square and looked at the Elder Stone and did not touch it again. The hollow in his chest pulsed — not with pain but with *awareness*. He could feel the shape of what was missing. He could feel the edges.
+Outside, the village waited. The Knife stood in the ceremony square and looked at the Elder Stone and did not touch it again. The hollow in his chest pulsed — not with pain but with _awareness_.
 
 He thought of the wooden box under his cot. The blue feather. The river stone, smooth, fitting perfectly in the palm. The piece of sea glass, green, translucent, the color of deep water. The dried flower — species unknown, petals papery, still holding a ghost of scent. The scrap of cloth — fine-woven, the kind used for infant swaddling, with a stitch pattern he did not recognize.
 
-Five objects. Five beautiful things, collected over eleven years, each one acquired in the same way: he would see it, and something inside him — the hollow, he now understood, the precise shape of the thing that had been taken — would *respond*. A pulse. A flicker of warmth. The momentary, agonizing sensation of almost-remembering. He would pick the object up. He would hold it. He would wait for the memory to surface. It never did.
+Five objects. Five beautiful things, collected over eleven years, each one acquired in the same way: he would see it, and something inside him — the hollow, he now understood, the precise shape of the thing that had been taken — would _respond_. A pulse. A flicker of warmth. The momentary, agonizing sensation of almost-remembering. He would pick the object up. He would hold it. He would wait for the memory to surface. It never did.
 
 He carried the box in his coat now. He had taken it from the castle for the first time, telling himself it was for security — the objects were personal, leaving them unattended invited questions — but the truth was simpler than that and he was not yet ready to look at it directly.
 
 He was looking for the boy. The boy had made a stone sing. The Knife had touched the stone and felt a piece of himself come back.
 
-These two facts were connected. He did not know how. He did not know what the connection meant or where it led or what it would cost. But he knew — with the same bone-deep certainty that had kept him alive through twenty-three years of being his father's instrument — that the boy was not simply a target.
+These two facts were connected. He did not know how. But he knew — with the same bone-deep certainty that had kept him alive through twenty-three years of being his father's instrument — that the boy was not simply a target.
 
 The boy was an answer to a question The Knife had not yet learned how to ask.
 

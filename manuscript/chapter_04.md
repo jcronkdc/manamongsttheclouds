@@ -48,7 +48,7 @@ Not metaphorically. Not the faint, conceptual bell that he'd used to describe th
 
 Jalo's knee gave without warning.
 
-The old man went down hard — not a stumble but a collapse, the joint folding sideways with a sound that Aelo felt in his own body, a wet mechanical failure that turned forward momentum into a graceless sprawl across the forest floor. The staff flew from his hand — and Aelo noticed, in the instant before the fall consumed everything, that Jalo's fingers had opened too easily, as if they could not feel the wood leaving them. His grip had been absolute an hour ago. Now his hands moved with the clumsy uncertainty of a man wearing gloves too thick for the work. The Molding had cost him something. The wall he'd raised from the earth had taken it — sensation, feeling, the intimate knowledge of what his own fingers were touching. The price of asking stone to remember a different shape. His face hit the earth. The linen wrapping tore loose from one corner, exposing the ridge of scarring along his jaw.
+The old man went down hard — not a stumble but a collapse, the joint folding sideways with a sound that Aelo felt in his own body, a wet mechanical failure that turned forward momentum into a graceless sprawl across the forest floor. The staff flew from his hand — and Aelo noticed, in the instant before the fall consumed everything, that Jalo's fingers had opened too easily, as if they could not feel the wood leaving them. His grip had been absolute an hour ago. Now his hands moved with the clumsy uncertainty of a man wearing gloves too thick for the work. The Molding had cost him something. The wall he'd raised from the earth had taken it — sensation, feeling, the intimate knowledge of what his own fingers were touching. His face hit the earth. The linen wrapping tore loose from one corner, exposing the ridge of scarring along his jaw.
 
 Aelo stopped. He turned. He reached for Jalo and the old man's hand came up — not to accept help but to push him away.
 
@@ -88,7 +88,7 @@ The whispering of the trees pressed against the walls of the hollow. Aelo could 
 
 "My name is not Jalo Soturi," the old man said. "It was, for fifteen years. Before that, it was Halvar Eld. I was a Captain of the Vael Guard — the last Captain, as it turned out. The Guard protected the royal family of the Cloud Kingdom. We served King Aldric. Your father."
 
-The words arrived in Aelo's mind the way the Elder Stone's note had arrived in the ceremony square: not through hearing but through the chest. He felt them. They rearranged something.
+The words arrived in Aelo's mind the way the Elder Stone's note had arrived in the ceremony square: not through hearing but through the chest. They rearranged something.
 
 "The Cloud Kingdom doesn't exist," he said. "The history says—"
 
@@ -110,9 +110,15 @@ Aelo thought of the exhale. Jalo watching him eat. The fractional release of ten
 
 It had not been relief that the herbs were working. It had been grief that they had to.
 
+The understanding lasted half a second. Then the anger came.
+
+It was not the clean anger of betrayal — the sharp, theatrical fury that stories gave to wronged princes. It was low and hot and physical, a pressure behind his sternum that tasted like the iron flash from the dead bird, and it wanted to _hurt_. He looked at Jalo's ruined face and the trembling hands and the knee that had carried them both through fifteen years of careful, loving deception, and he thought — clearly, viciously, in a voice he did not recognize as his own: _You had no right._
+
 "You drugged me," Aelo said. The word was wrong — too small, too clinical — but it was the only one he had. "Every morning. My entire life. You put something in my food that—"
 
 "Kept you alive." Jalo's voice was raw. "Yes. Every morning. Your entire life. I put something in your food that kept Varas from finding you and killing you the way he killed your mother and imprisoned your father and erased your brother from the memory of the world."
+
+The anger did not leave. It heard Jalo's reasons and acknowledged them and stayed. It settled behind Aelo's ribs like a coal pushed to the back of a fire — not extinguished, not visible, but radiating. He would carry it for a long time. He did not know this yet.
 
 "My brother?"
 
@@ -128,7 +134,7 @@ The locked door. The warm stone. The breathing. The words on a loop, spoken at a
 
 The forest was loud. The whispering had become a conversation — not between the trees and Aelo, not yet, but among the trees themselves, as if the Canopy were discussing the two men in the hollow the way a village discusses a fire: urgently, with concern, with the particular quality of attention that living things give to events that affect them directly.
 
-Aelo sat in the amber light and felt the world he had known — the cottage, the porridge, the lies, the routine, the bell and the herbs and the careful distance between himself and everything — come apart. Not violently. Not the way the ceremony square had come apart, with singing and light and the earth rearranging itself. Quietly. The way a held breath ends. The way a page turns.
+Aelo sat in the amber light and felt the world he had known — the cottage, the porridge, the lies, the routine, the bell and the herbs and the careful distance between himself and everything — come apart. Not violently. Not the way the ceremony square had come apart, with singing and light and the earth rearranging itself. Quietly. The way a held breath ends.
 
 He thought of the Hopper in his hands. The dispersal. The memory going home.
 
@@ -140,7 +146,7 @@ Dawn came grey through the canopy. Jalo had slept — or lost consciousness, the
 
 Aelo had not slept. He had sat in the dark and listened to the world and the world had not stopped talking.
 
-The whispering had evolved through the night — a slow, inexorable clarification, like eyes adjusting to darkness. What had been murmur was now texture. What had been texture was now detail. He could not understand the trees — not in words, not in any way he could translate — but he could feel them. Each one distinct. Each one _old_ in its own specific way, carrying its own particular accumulation of experience the way a person carries a face: uniquely, unrepeatable, the product of every wind and rain and season and root-push and branch-break that had ever happened to it. The elm they sheltered in was ancient — he could feel its depth the way you feel the depth of a well when you lean over the edge and the darkness goes down further than you expected. It had stood here for centuries. It had witnessed things. It remembered.
+The whispering had evolved through the night — a slow, inexorable clarification, like eyes adjusting to darkness. What had been murmur was now texture. What had been texture was now detail. He could not understand the trees — not in words, not in any way he could translate — but he could feel them. Each one distinct. Each one _old_ in its own specific way, carrying its own particular accumulation of experience the way a person carries a face: uniquely, unrepeatable, the product of every wind and rain and season and root-push and branch-break that had ever happened to it. The elm they sheltered in was ancient — he could feel its depth the way you feel the depth of a well when you lean over the edge and the darkness goes down further than you expected. It had stood here for centuries. It remembered.
 
 Everything remembered. The soil remembered the roots that had passed through it. The air remembered the shapes of birds that had displaced it. The moss on the bark remembered the rain that had fed it and the sun that had dried it and the specific quality of light that filtered through the canopy at this angle on this morning at this time of year.
 
@@ -190,13 +196,11 @@ The world poured in.
 
 The elm spoke first — a deep, slow resonance that was less sound than vibration, the accumulated memory of three hundred years of standing in one place and witnessing everything that passed beneath its branches. Then the oaks to the north, their voices higher, younger, tinged with the specific quality of trees that had grown in the aftermath of a fire and knew, in their wood, what burning was. Then the undergrowth — ferns, moss, bramble — a chorus of smaller voices, layered and overlapping, each one distinct, each one carrying its own tiny archive of sunlight and water and the particular insects that had walked its leaves.
 
-And beneath all of it, beneath the individual voices, the hum. The same hum he had heard through the wall of the cottage on the night the herbs almost held. But now it was not muffled. It was not distant. It was _here_ — vast, foundational, the sound of the world itself remembering everything at once. A chord so large it contained every note. A memory so deep it held every moment.
+And beneath all of it, beneath the individual voices, the hum. The same hum he had heard through the wall of the cottage on the night the herbs almost held. But now it was not muffled. It was not distant. It was _here_ — vast, foundational, the sound of the world itself remembering everything at once. A memory so deep it held every moment.
 
 "Everything," Aelo said. His eyes were still closed. His face was wet. "I hear everything."
 
 Jalo watched him. The tremor in his hands had stopped. His face — the full, ruined, honest face — held an expression that Aelo had never seen on it before, because it was an expression that required both sides to produce: the unmarked half providing the shape, the scarred half providing the depth.
-
-It was the face of a man watching the thing he had protected for fifteen years finally become what it was always meant to be.
 
 He reached out and placed his hand on Aelo's shoulder.
 

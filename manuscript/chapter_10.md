@@ -124,11 +124,11 @@ He left her to her work.
 
 ---
 
-His tent was a standard field shelter — canvas over a frame of Canopy wood, large enough for a cot and a chest and nothing else, because The Knife did not require comfort and did not trust it. Comfort was softness, and softness was the condition that preceded failure, and failure in his father's service was not an event but an identity — you did not fail and recover. You failed and became the failure. Permanently. The way a cracked stone becomes the crack.
+His tent was a standard field shelter — canvas over a frame of Canopy wood, large enough for a cot and a chest and nothing else, because The Knife did not require comfort and did not trust it.
 
 He sat on the cot. He removed his coat. He reached inside the lining — the pocket he had sewn himself, years ago, with thread stolen from the castle's laundry because requisitioning thread would have required explaining what the thread was for — and took out the box.
 
-The wood was warm from his body heat. It always was. He had carried it against his ribs for four days now — the first time it had left the space beneath his cot, the first time it had traveled with him, and the warmth of it against his side had become a companion he had not expected and did not know how to categorize. Not comfort. Not exactly. Something adjacent. The warmth of a thing that was his, pressed close, enduring.
+The wood was warm from his body heat. It always was. He had carried it against his ribs for four days now — the first time it had left the space beneath his cot, the first time it had traveled with him, and the warmth of it against his side had become a companion he had not expected. The warmth of a thing that was his, pressed close, enduring.
 
 He opened it.
 
@@ -162,7 +162,7 @@ _You have been draining me since I was twelve._
 
 The thought surfaced and he looked at it. He had been looking at it for four days — since the Elder Stone, since the warmth, since the shape of the missing thing sharpened from abstraction into architecture. He did not have proof. He had the hollow, and the fading memories, and the box of beautiful things that were losing their color one by one, and the fact that his father had access to Blood Vine and Elder Stones and a lifetime of practice at taking what did not belong to him.
 
-He did not have proof. He had certainty. And certainty, in The Knife's experience, was proof that had stopped waiting for permission.
+He had certainty. And certainty, in The Knife's experience, was proof that had stopped waiting for permission.
 
 He placed each object back in the box. The feather, the stone, the glass, the flower, the cloth. He closed the lid. He held the box against his chest for eleven seconds. He counted.
 
@@ -185,8 +185,6 @@ He lay very still. The thought lived in him the way the Elder Stone's hum lived 
 It was a question.
 
 _What if I don't?_
-
-He did not answer it. The question was enough. The question was the first crack in a wall that had been standing for twenty-three years, and cracks do not need answers. They need time. They need pressure. They need the specific, patient, structural inevitability of a load that exceeds the material's capacity to bear it.
 
 The Knife closed his eyes. The box was warm against his ribs. The Flash Rat whined. The earth hummed. The hunt was underway, and the hunter was beginning — slowly, invisibly, in the dark of a field tent in a nameless clearing at the edge of the world's oldest forest — to wonder whether the thing he was hunting might be the thing that could save him.
 

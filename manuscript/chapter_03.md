@@ -26,7 +26,7 @@ The old man was at the table, cleaning a snare. His hands — large, scarred, th
 
 "A holiday."
 
-The word landed wrong. Not the sound of it — Jalo's voice was steady, his breathing was even, his hands did not pause. But the _feel_ of it. The texture. The way a lie tastes different from the truth, even when the mouth shapes them identically. Aelo had been tasting Jalo's lies his entire life, and this one was sharper than most — not a deflection or a simplification but a wall. A door slammed shut.
+The word landed wrong. Not the sound of it — Jalo's voice was steady, his breathing was even, his hands did not pause. But the _feel_ of it. The texture. The way a lie tastes different from the truth, even when the mouth shapes them identically. Aelo had been tasting Jalo's lies his entire life, and this one was sharper than most — not a deflection or a simplification but a wall.
 
 "What kind of holiday?"
 
@@ -44,7 +44,7 @@ The hands paused. One beat. Two. Then resumed. "Mothers are always afraid. It's 
 
 "It's nothing to worry about." The old man set down the snare and looked at him — the visible half of his face composed, the covered half unreadable as always. "Once a year, the Blue Sun rises. It's brighter than the regular sun. There are ceremonies. Administrative. Nothing that concerns you."
 
-_Concerns you._ Not _concerns us_. The distinction was small and it was everything. Aelo filed it. He did not press further, because he had learned that pressing Jalo was like pressing stone: the harder you pushed, the less it moved. The truth, when it came from the old man, came on its own schedule, usually late, usually incomplete, and always shaped to fit through the smallest possible opening.
+_Concerns you._ Not _concerns us_. The distinction was small and it was everything. Aelo filed it. He did not press further, because he had learned that pressing Jalo was like pressing stone: the harder you pushed, the less it moved.
 
 He went to bed early. He did not sleep.
 
@@ -118,7 +118,7 @@ The stone was the size of a man's torso, irregular, dark grey, set on a low wood
 
 Beside the stone stood the Knower.
 
-He was gaunt. That was the first thing. A man reduced to his architecture — cheekbones, eye sockets, the ridge of clavicle visible above his collar. His hands were large and they trembled. His eyes were open and they were the emptiest things Aelo had ever seen — not empty like Jalo's lies, which were full of the thing they were hiding, but empty like a room after a fire. No furniture. No walls. Just the outline of where a person had been.
+A man reduced to his architecture — cheekbones, eye sockets, the ridge of clavicle visible above his collar. His hands were large and they trembled. His eyes were open and they were the emptiest things Aelo had ever seen — not empty like Jalo's lies, which were full of the thing they were hiding, but empty like a room after a fire. Just the outline of where a person had been.
 
 The Knower did not want to be here. Aelo could feel this with a certainty that bypassed thought and arrived in his body as nausea. The man's heartbeat was a damaged thing — arrhythmic, panicked, the cardiac signature of a bird in a cage. He was here because the alternative to being here was worse, and Aelo could feel the shape of that alternative too, pressing against the Knower's ribs like a scream he had swallowed so many times it had become a permanent resident.
 
@@ -146,11 +146,11 @@ The Knower pressed. The Blood Vine on the Elder Stone contracted, as it had for 
 
 The Elder Stone sang.
 
-Not a hum. Not a vibration. Not the dim pulse of a minor talent being cataloged. A _sound_. A clear, high, sustained note that rose from the stone like a bird from a branch and filled the ceremony square the way light fills a room when a curtain is thrown open — instantly, completely, leaving no shadow. The note was not loud. It did not need to be loud. It was _present_ in a way that loudness could not achieve, a frequency that bypassed the ears and arrived in the chest, in the teeth, in the marrow of every bone in every body in the square. It was the sound of something remembering what it was. The sound of a locked instrument being played for the first time in three hundred years.
+Not a hum. Not a vibration. Not the dim pulse of a minor talent being cataloged. A _sound_. A clear, high, sustained note that rose from the stone like a bird from a branch and filled the ceremony square the way light fills a room when a curtain is thrown open — instantly, completely, leaving no shadow. The note was not loud. It did not need to be loud. It was _present_ in a way that loudness could not achieve, a frequency that bypassed the ears and arrived in the chest, in the teeth, in the marrow of every bone in every body in the square. The sound of a locked instrument being played for the first time in three hundred years.
 
 The Blood Vine recoiled from Aelo's skin as if burned. The Elder Stone blazed — not the dim glow of a minor reading or the vivid green of the red-haired girl, but a light so bright and so warm that it had no color at all. It was simply _light_. The original light. The light that existed before anyone named the colors.
 
-The soldiers froze. Their training, their armor, their diamond-tipped spears — all of it irrelevant in the face of a sound that made their spines vibrate and their eyes water and their hearts do something that hearts are not supposed to do, which is remember. Every soldier in the square felt, for the span of that note, the first memory they had ever made. A face. A hand. A warmth. The sound reached into them and pulled it out — not violently, not painfully, but with the irresistible gentleness of a tide — and for three seconds, every man in the Mrak Patrol was a child again, and the cruelty they had learned was a thin veneer over the wonder they had been born with.
+The soldiers froze. Their training, their armor, their diamond-tipped spears — all of it irrelevant in the face of a sound that made their spines vibrate and their eyes water and their hearts do something that hearts are not supposed to do, which is remember. Every soldier in the square felt, for the span of that note, the first memory they had ever made. A face. A hand. A warmth. For three seconds, every man in the Mrak Patrol was a child again, and the cruelty they had learned was a thin veneer over the wonder they had been born with.
 
 Three seconds.
 
@@ -170,7 +170,7 @@ The earth _opened_.
 
 Six feet of stone. Straight up. Two soldiers caught mid-lunge disappeared beneath the surge, the rock folding over them, burying them where they stood. The sound was not a crash — it was a groan, deep and tectonic, the ground remembering a shape it hadn't held in centuries. Dust billowed. Someone screamed. Mold magic — raw, fifteen years of grief behind the first stroke.
 
-Jalo's hand on his arm. Iron grip. Both eyes open, the scarred one and the clear one, and his face was calm — not the manufactured calm of lies. The real calm. The calm of a man who has been waiting for this and is almost relieved it has finally come.
+Jalo's hand on his arm. Iron grip. Both eyes open, the scarred one and the clear one, and his face was calm — not the manufactured calm of lies. The real calm.
 
 "With me. Now."
 

@@ -10,7 +10,7 @@ Aelo could feel it now — the age of things. Not as an abstraction but as a phy
 
 Sereth walked ahead. She moved through the forest with the unhurried ease of someone who knew where every root was — not from skill but from memory, the way you know the floorboards of the house you grew up in, which ones creak and which ones hold. Occasionally she paused, placed a hand on a trunk, and stood still for a moment, her face doing something Aelo could not read. Then she moved on.
 
-Jalo walked behind. His knee was worse. Three days of running and sleeping on root-knotted ground had compressed the damage that years of careful management had held in suspension, and now the joint was producing a sound with each step — not the clean _tap-step-drag_ that Aelo had grown up with but a grinding, wet, mechanical protest that he could hear through the earth as well as the air. Jalo's emotions came through too: pain as a color, a dark red that pulsed with each footfall, layered over the copper-guilt and the smoke-fear and the pressure-love that Aelo was learning to identify the way a musician identifies instruments in an orchestra. Each emotion had its own frequency. Each frequency had its own taste.
+Jalo walked behind. His knee was worse. Three days of running and sleeping on root-knotted ground had compressed the damage that years of careful management had held in suspension, and now the joint was producing a sound with each step — not the clean _tap-step-drag_ that Aelo had grown up with but a grinding, wet, mechanical protest that he could hear through the earth as well as the air. Jalo's emotions came through too: pain as a color, a dark red that pulsed with each footfall, layered over the copper-guilt and the smoke-fear and the pressure-love that Aelo was learning to identify the way a musician identifies instruments in an orchestra.
 
 He was getting better at the pocket. The silence he had found — the small, fragile, entirely-his space inside the sound — was still small and still fragile but it was strengthening, the way a muscle strengthens with use. He could hold it for minutes at a time now. When he held it, the world's voices were still there — the trees and the soil and the insects and the memories — but they were _outside_, on the far side of a boundary he was learning to maintain, and he could choose to listen to one voice at a time instead of being engulfed by all of them simultaneously.
 
@@ -28,7 +28,13 @@ Sereth's voice, from ahead. She had stopped walking and was looking at Aelo with
 
 "I don't mean to—"
 
-"I know. That's the danger." Sereth walked back to him. Up close, her eyes were wrong for the face she wore — too deep, too layered, the iris flecked with a darkness that was not color but _depth_, like looking down into water that goes further than it should. "The Know is the first discipline. The ability to hear the world's memory. Every child born with magical sensitivity begins here — they hear before they speak, feel before they act. But the Know is passive. It's the ear, not the voice. And your ear is..." She paused, choosing words. "Very large."
+"I know. That's the danger."
+
+"But they _want_ me to." The words came out before he could shape them. "The trees. They're not just tolerating my attention. They're _reaching_ for it. They haven't been listened to like this in — I don't know how long. And you're telling me to pull back."
+
+Sereth was quiet for a beat. One beat too long. Aelo could feel the shift in her — the patient-teacher surface holding steady while something beneath it recalibrated. When she spoke, her voice had an edge it hadn't carried before. Not anger. Authority. The difference between a person who was sharing knowledge and a person who was _managing_ it.
+
+"What they want and what is safe for you are not the same thing." She walked back to him. Up close, her eyes were wrong for the face she wore — too deep, too layered, the iris flecked with a darkness that was not color but _depth_, like looking down into water that goes further than it should. "The Know is the first discipline. The ability to hear the world's memory. Every child born with magical sensitivity begins here — they hear before they speak, feel before they act. But the Know is passive. It's the ear, not the voice. And your ear is..." She paused, choosing words. "Very large."
 
 "What does that mean?"
 
@@ -38,7 +44,7 @@ Aelo felt the word before Sereth said it. It rose from the hum — from the vast
 
 "The Sing."
 
-"The Sing is not a discipline. It's the harmonization of all seven. Know, Mold, Heal, Move, Guide, Burn — each one a single voice. The Sing is what happens when all seven voices sound at once, in a single throat. Fletcher could do it. Your mother came close. It has not been done fully since Fletcher dissolved into the Great Elder Stone three hundred years ago." Sereth's face was very still. "Your mother could hold five disciplines simultaneously. On the night she died, she held six. The seventh — the one she couldn't reach — would have saved her."
+"The Sing is not a discipline. It's what happens when all seven sound at once, in a single throat. Fletcher could do it. Your mother came close." Sereth's face was very still. "She could hold five disciplines simultaneously. On the night she died, she held six. The seventh — the one she couldn't reach — would have saved her."
 
 "Which one?"
 
@@ -49,6 +55,22 @@ The information settled into Aelo with the weight of a stone sinking into still 
 "Will I have to?"
 
 "Burn?" Sereth looked at him. The depth in her eyes was not coldness — Aelo could feel it now, could taste the specific quality of Sereth's attention: salt and age and the grief of someone who has watched this question asked before. "I don't know. I don't know what your limits are. I don't know which of the seven you'll reach and which will resist you. That's what we're going to find out."
+
+They walked in silence for a while. The trees whispered. Aelo's pocket held. And in the holding, he noticed something he had not noticed before — a flavor in Sereth's emotional signature that did not fit the profile of grief. Grief tasted like salt. This tasted like ash. It was buried deep, beneath the patience and the age and the carefully maintained surface of a woman who had been managing her own interior for three centuries. But it was there. And it was not sadness.
+
+It was guilt. Specific, structural, load-bearing guilt — the kind that does not respond to time because it is not a feeling but a fact.
+
+"You're not just sad about my mother," Aelo said. The words came out sharper than he intended. The iron taste was there again, faintly, behind his teeth. "You feel responsible."
+
+Sereth's stride did not break. Her face — the old Canopy woman's face — did not change. But her emotional signature contracted. A flinch. Small, deep, instantly controlled. The flinch of a person who has been carrying a secret so long she forgot other people might be able to read it.
+
+"I feel many things," Sereth said. "Responsibility is one of them."
+
+"For what?"
+
+"For not being faster. For not being there." She looked at him. The depth in her eyes held steady, but the ash-taste intensified. "I was three hundred miles away when your mother died. I should have been closer."
+
+It was not a lie. Aelo could feel that. But it was not the whole truth either. There was a shape behind the words — a larger thing, a heavier thing — that Sereth was not offering and that Aelo's Know could sense but not name. He filed it. The way he had once filed Jalo's lies: carefully, in a room that was filling up.
 
 ---
 
@@ -84,7 +106,7 @@ Jalo knelt in the gate of the Remembering with the sky behind him and the forest
 
 "Everything I've done," he said. "Every lie. Every herb. Every night I drank instead of holding you. Every morning I watched you eat the thing that stole your voice. It was for this moment."
 
-Aelo stood at the threshold. The forest whispered behind him. The sky waited ahead. The wall of memory — the Remembering, grown by the first Knowers, older than kingdoms — held the gate open between them.
+Aelo stood at the threshold. The forest whispered behind him. The sky waited ahead. The Remembering held the gate open between them.
 
 "I need you to know something," Jalo said. "Not the facts. Not the history. You know the history. I need you to know this."
 
@@ -102,7 +124,7 @@ He walked to Jalo. He knelt across from him — his new, longer legs folding eas
 
 "I know," Aelo said.
 
-Two words. Not enough. Not nearly enough for fifteen years of sacrifice and silence and mornings spent exhaling. But they were the truest words he had, and Jalo heard them, and the sound they made — not magic, not the Sing, just a boy speaking to the man who raised him — was, in that moment, enough.
+Two words. Not enough. Not nearly enough for fifteen years of sacrifice and silence and mornings spent exhaling. But they were the truest words he had.
 
 They crossed the threshold together.
 
@@ -127,7 +149,5 @@ They walked south. The Canopy wall rose behind them — ancient, massive, the me
 Jalo limped between them, his staff and his knee and his fifteen years of damage trailing behind him like a wake. He did not look back. He had never looked back. Looking back was a luxury, and Halvar Eld had given up luxuries the night he burned his face in a river and became someone else.
 
 Aelo walked and listened. The world sang. The bell in his chest — the tuning fork, waiting for the rest of the chord — hummed in time with his footsteps.
-
-The first discipline was behind him. The second was ahead.
 
 The journey had begun.

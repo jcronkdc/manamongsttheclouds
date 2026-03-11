@@ -54,9 +54,9 @@ The god placed their hands on Fletcher's temples and opened the door.
 
 ---
 
-What Fletcher heard that night cannot be described in words, because words are a small thing and what he heard was not. It was the memory of the world — all of it, at once. Every stone, every river, every fire, every breath of wind. The accumulated remembering of a planet that had been alive for longer than numbers could measure. It was beautiful and it was devastating and it was _true_, in a way that made everything Fletcher had ever thought was true seem like a sketch of the real thing, a child's drawing of the sun held up against the sun itself.
+What Fletcher heard that night cannot be described in words, because words are a small thing and what he heard was not. It was the memory of the world — all of it, at once. Every stone, every river, every fire, every breath of wind. It was beautiful and it was devastating and it was _true_, in a way that made everything Fletcher had ever thought was true seem like a sketch of the real thing, a child's drawing of the sun held up against the sun itself.
 
-He wept. Of course he wept. What else do you do when you hear the voice of the world and realize it has been speaking to you your entire life and you have only just now learned to listen?
+He wept. Of course he wept.
 
 And then he did what the god knew he would do, what kind men always do when they discover something beautiful: he shared it.
 
@@ -86,7 +86,7 @@ He Sang.
 
 Not one discipline. Not two or three in careful harmony. All seven. Every voice in the world's choir, channeled through a single human throat. The Know heard every living thing within a thousand miles and wept for all of them. The Mold reshaped the stone beneath his feet into a pillar of crystal so pure it rang like a bell. The Heal mended the earth itself, sealing wounds in the soil that had been bleeding since the wars began. The Move rearranged the air, lifting the crystal into the sky. The Guide set the trajectory — upward, always upward, toward the clouds where the air was thin and the song was loudest. The Burn ignited the crystal's core with the memory of the first fire, so that it would glow forever, a beacon in the sky. And the Sing — the Sing bound it all together, one sustained note that contained every note, one memory that contained every memory.
 
-He poured himself into it. All of him. Every memory he had — his childhood, his students, the traveler by the fire, the face of his wife, the sound of his children's laughter, the taste of bread and rain and morning air — all of it flowed out of him and into the stone. He did not lose his memories. He _gave_ them. Freely. Willingly. The way the magic was always meant to be shared.
+He poured himself into it. All of him. Every memory he had — his childhood, his students, the traveler by the fire, the face of his wife, the sound of his children's laughter, the taste of bread and rain and morning air — all of it flowed out of him and into the stone. He did not lose his memories. He _gave_ them. Freely. Willingly.
 
 The Great Elder Stone rose into the sky and lodged itself among the clouds, singing a single, perfect note that would not fade for three hundred years.
 
@@ -94,7 +94,7 @@ King Fletcher stood in the field. His mouth was open. His eyes were clear. He wa
 
 The scrolls burned in the same fire that consumed the wars. The knowledge was lost. The stone remained.
 
-And with it, a prophecy, carved into the base of the pillar in the moment before Fletcher dissolved — not in any language the living could read, but in the language of memory itself, felt rather than spoken, understood rather than translated:
+And with it, a prophecy, carved into the base of the pillar in the moment before Fletcher dissolved — not in any language the living could read, but in the language of memory itself, felt rather than spoken:
 
 _One will come who carries the Song in his blood. He will hear the stone. He will find the note. And in Singing, he will remember what the world forgot._
 
