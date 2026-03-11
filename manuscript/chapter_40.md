@@ -48,7 +48,7 @@ He joined his mother.
 
 Seven notes. The Sing.
 
-The sound that came out of him was not a sound. It was a feeling. The feeling of being remembered. Of mattering. Of being part of something so vast and so beautiful that individual identity became not irrelevant but transcended — not destroyed but _included_. The way a drop of water joins the ocean and discovers that it was always the ocean, it had just forgotten. The way a note joins a chord and discovers that the chord was incomplete without it, that the chord had been waiting, that the waiting was the silence and the joining was the Song.
+The sound that came out of him was not a sound. It was a feeling. The feeling of being remembered. Of mattering. Of being part of something so vast and so beautiful that individual identity became not irrelevant but _included_. The way a drop of water joins the ocean and discovers that it was always the ocean, it had just forgotten. The way a note joins a chord and discovers that the chord was incomplete without it, that the chord had been waiting, that the waiting was the silence and the joining was the Song.
 
 The Song poured through him. Through his blood. Through his bones. Through the numb hands and the dim forearms and the face that could still feel tears and the wrist where the mark pulsed its single, solitary beat. The Song used him the way a river uses a riverbed: by flowing through, by following the shape, by filling the container that had been built to hold it. The riverbed was not consumed by the river. The riverbed was _fulfilled_ by it.
 
@@ -116,7 +116,7 @@ In the Clouds, the Great Elder Stone — Fletcher's masterwork, the largest and 
 
 Not power. Not extraction. Not the consuming or the draining or the hoarding or the stealing.
 
-Memory. The world's memory, speaking. The world's memory, singing. The world's memory, reminding every living thing and every stone and every drop of water and every breath of air that they were all part of the same thing, and the same thing was the Song, and the Song was love, and love was the sound the world made when it remembered being whole.
+Memory. The world's memory, singing. The world's memory, reminding every living thing and every stone and every drop of water and every breath of air that they were all part of the same thing, and the same thing was the Song, and the Song was love, and love was the sound the world made when it remembered being whole.
 
 ---
 

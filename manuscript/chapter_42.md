@@ -122,7 +122,7 @@ The feather was blue. The stone was a river. The glass was a thought. The flower
 
 Five objects. Five stories. Five pieces of a humanity that had been stolen and returned and that were, in this moment, in this room, in this man's hands — the most precious things in the world. Not because they were rare or powerful or magical. Because they were _his_. Because they were the proof that a man who had been designed as a weapon and labeled as a supply and consumed as a resource was none of those things. Was a person. Was Baara. Was the boy who caught the feather and the man who held the stone and the soldier who saved the flower and the checkpoint officer who kept the cloth.
 
-Was a person who found the world beautiful and who had been punished for the finding by a father who could not feel beauty and who had consumed his son's capacity for it the way a man dying of thirst drinks saltwater — desperately, futilely, the drinking making the thirst worse, the consuming producing nothing except the need for more consuming.
+Was a person who found the world beautiful and who had been punished for the finding by a father who could not feel beauty and who had consumed his son's capacity for it the way a man dying of thirst drinks saltwater — desperately, futilely.
 
 He closed the box. He put it in his coat. He walked out of the throne room.
 

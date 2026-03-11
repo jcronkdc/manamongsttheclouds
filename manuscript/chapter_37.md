@@ -6,7 +6,7 @@
 
 The throne room was the silence made architectural.
 
-Aelo entered through a corridor that had straightened as he walked — the Song's resonance peeling back decades of Varas's organic Molding, the stone remembering Fletcher's original design, the clean lines and honest angles of a room that had been built for governance and had been converted into a feeding apparatus. The corridor opened onto the great hall, and the great hall was vast, and the vastness was not the vastness of space but the vastness of absence — the specific, acoustic, oppressive emptiness of a room that had been designed to hold the convergence of seven elemental memories and that now held nothing.
+Aelo entered through a corridor that had straightened as he walked — the Song's resonance peeling back decades of Varas's organic Molding, the stone remembering Fletcher's original design, the clean lines and honest angles of a room that had been built for governance and had been converted into a feeding apparatus. The corridor opened onto the great hall, and the great hall was vast, and the vastness was not the vastness of space but the vastness of absence.
 
 The walls were covered in Blood Vine — the roots thicker here than anywhere else in the castle, the arterial network converging on a single point the way rivers converge on a delta. The Vine ran in organized channels from every surface to the center of the room, where the channels met and merged and descended into the floor and from the floor into the Chamber below, the circulatory system connecting the king on the throne to the prisoners in the dark.
 
@@ -62,7 +62,7 @@ He looked at Aelo. The stone eyes — flat, carrying no emotional content that t
 
 "I can't." The word was not defiance. It was diagnosis. "Stopping is silence. And silence is all I've ever known. You don't understand what it's like to live in a world that sings and hear nothing. You, with your gifts, your sensitivities, your tears over dead birds —" The bark-textured face produced something that was not quite a smile and not quite a grimace. "I know about the bird. The Guardian's memories — some of them reached me through the network. A boy, crying in a yard, holding a small dead thing. The Guardian's love for the boy was so strong that even the draining could not strip it completely. I consumed his memories for fifteen years and in every one of them, the love was the loudest thing."
 
-The words landed in the empty hall with a weight that Aelo had not expected — the weight of a man who had consumed Jalo's memories and had found, in every one, the same thing: the love. The love that the draining could not strip. The love that had been the loudest thing in the room, louder than the extraction, louder than the silence, louder than the void that Varas lived in.
+The words landed in the empty hall with a weight that Aelo had not expected — the weight of a man who had consumed Jalo's memories and had found, in every one, the same thing: the love. The love that the draining could not strip. The love that had been the loudest thing in the room, louder than the extraction, louder than the silence.
 
 "You felt it," Aelo said. "You felt his love."
 

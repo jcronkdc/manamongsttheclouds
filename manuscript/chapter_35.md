@@ -20,7 +20,7 @@ The Chamber.
 
 It was worse than he had imagined.
 
-The room was large — larger than the underground city of the Core, though the comparison was obscene because the Core's city was a place of life and craft and communal meals and laughter that echoed from stone walls, and this was a place of extraction. The ceiling was high. The walls were covered — not with the Blood Vine's dark tendrils but with the Vine's roots, the deep growth, the arterial system that connected every surface to every other surface and that pulsed with the slow, rhythmic cadence of a circulatory system that was not pumping blood but pumping memory. The roots were thick — some as wide as Aelo's arm — and they ran in organized lines from the walls to the floor to the rows of stone platforms that filled the Chamber like beds in a hospital ward.
+The room was large — larger than anything Aelo had seen underground. The ceiling was high. The walls were covered — not with the Blood Vine's dark tendrils but with the Vine's roots, the deep growth, the arterial system that connected every surface to every other surface and that pulsed with the slow, rhythmic cadence of a circulatory system that was not pumping blood but pumping memory. The roots were thick — some as wide as Aelo's arm — and they ran in organized lines from the walls to the floor to the rows of stone platforms that filled the Chamber like beds in a hospital ward.
 
 The platforms held people.
 
@@ -50,7 +50,7 @@ A man on the sixteenth platform: the feeling of rain. Not a specific rain — al
 
 These were people reduced to a single beautiful moment. And that moment was all that kept them alive.
 
-Aelo walked the rows and felt each one and the feeling accumulated in his chest — not as weight but as resonance. Each single memory was a note. A faint, barely audible, almost-extinguished note in the silence of the Chamber. And the notes, together — the kiss and the laugh and the bread and the rain and the dozens of others, each one different, each one irreducible, each one the specific, private, unreplicable essence of a human life preserved at its most compressed — the notes formed a chord. A quiet chord. A chord that was not the Song but was the Song's raw material — the human experience, reduced to its elements, waiting to be reminded that it was part of something larger.
+Aelo walked the rows and felt each one and the feeling accumulated in his chest — not as weight but as resonance. Each single memory was a note. A faint, barely audible, almost-extinguished note in the silence of the Chamber. And the notes, together — the kiss and the laugh and the bread and the rain and the dozens of others, each one different, each one irreducible, each one the specific, private, unreplicable essence of a human life preserved at its most compressed — the notes formed a chord. A chord that was not the Song but was the Song's raw material — the human experience, reduced to its elements, waiting to be reminded that it was part of something larger.
 
 ---
 
@@ -100,7 +100,7 @@ Aelo touched Vero's hand. The Know showed him: not thirty years of solitary awar
 
 Aelo stood in the locked room with the two bodies and the massive Elder Stone and the Blood Vine and the thirty years and the four-year-old reaching up and the unfinished sentence repeating, and he understood what the Chamber was. Not a prison. Not a weapon. Not the mechanism of a tyrant's power.
 
-A family. Broken. The father who failed. The brother who pleaded. The son who consumed. Three members of the same family, each one trapped by the same wound — the wound that had been inflicted the day Aldric looked at his youngest child and saw the void and turned away, and the turning had created the silence, and the silence had created the hunger, and the hunger had created the Chamber, and the Chamber had swallowed them all.
+A family. Broken. The father who failed. The brother who pleaded. The son who consumed. Three members of the same family, each one trapped by the same wound.
 
 He left the locked room. He walked back through the rows of platforms, past the prisoners and their single memories, past the copper smell and the herb smell and the Blood Vine's rhythmic pulse. He walked toward the door that led up — up to the corridors, up to the throne room, up to the man on the throne who was waiting for him because the man on the throne had heard the Song pulsing in the walls and had felt, for the first time, the thing he had been consuming the world to feel.
 

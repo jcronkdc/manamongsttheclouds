@@ -42,6 +42,25 @@ Snapshot taken before the Part I editorial pass began. Represents the manuscript
 - Ch1 subtle polish pass (9 sensory/rhythm upgrades)
 - All per-part DOCX, full manuscript DOCX, print copy, and Part I EPUB rebuilt
 
+### rev05 — Parts IV & V editorial pass (Mar 11, 2025)
+
+- ~20 prose trims across Ch35-48 + Epilogue
+- Ch35: Chamber comparison, chord restatement, causation chain trimmed. Prisoner single-memory passages preserved.
+- Ch36: Sereth stories double-beat, infinity/caring contrast, Fletcher consumption clause trimmed
+- Ch37: Absence restatement, love triple trimmed. Varas "I didn't want to be a monster" speech preserved.
+- Ch38: Container/label chain, wonder-as-data, Bridge permanence chain trimmed. Five-object payoff preserved.
+- Ch39: Sereth's Stone-creation explanation trimmed
+- Ch40: Identity transcendence, triple world's-memory trimmed. Varas's death + Song climax preserved.
+- Ch41: Three comparative silences cut, transaction fairness doubled cut
+- Ch42: Saltwater simile trimmed. Feather-on-Jalo's-chest scene preserved — no cuts.
+- Ch43: Grey metaphor double, fullness qualification trimmed
+- Ch44: Vero dialogue repetition fixed, attribution restored
+- Ch45: Volcano smith callback cut — reader feels connection
+- Ch46: Arc-recap sentence cut
+- Ch47: Human hearing gaps restatement cut
+- Epilogue: Singing parenthetical tightened. Sequel hook preserved.
+- All builds rebuilt, website synced, 152,673 total words
+
 ### rev04 — Part III editorial pass (Mar 11, 2025)
 
 - ~30 prose trims across Ch23-34
