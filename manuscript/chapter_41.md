@@ -56,7 +56,7 @@ Sereth lay on the floor nearby. Mortal. The brown eye open, looking at the ceili
 
 "Sereth," Aelo said. His voice was different — thinner, the resonance reduced, the specific quality of sound that the Song had been producing in his throat since the herbs stopped now diminished to a frequency that was merely human. "Are you—"
 
-"Mortal." The word came out with a smile. Not the fisherman's grin. Not the old woman's wryness. Sereth's smile — the smile of the person they had been trying to be for three hundred years. "Fully, completely, irrevocably mortal. I will age. I will weaken. I will die. Like Essa. Like everyone I ever loved."
+"Mortal." The word came out with a smile. Not the fisherman's grin. Not the old woman's wryness. Sereth's smile — the smile of the person she had been trying to be for three hundred years. "Fully, completely, irrevocably mortal. I will age. I will weaken. I will die. Like Essa. Like everyone I ever loved."
 
 "I'm sorry."
 
@@ -70,7 +70,7 @@ Laine appeared beside them. She knelt. Her hands — Essa's hands, the shape tha
 
 "The fisherman's letter was right," Laine said. Her voice was rough — the roughness of a woman who had been weeping and who had stopped because the weeping was finished and the woman was not. "He was worth the grief."
 
-Sereth's mortal hand squeezed Laine's — the grip human, the strength human, the warmth human. Everything human. Everything mortal. Everything Sereth had wanted to be since the day they looked at the creatures and fell in love.
+Sereth's mortal hand squeezed Laine's — the grip human, the strength human, the warmth human. Everything human. Everything mortal. Everything Sereth had wanted to be since the day she looked at the creatures and fell in love.
 
 "You were always the reason," Sereth said. "All of you. The creatures. The lovers and the fighters and the mothers and the guardians and the smiths and the trackers and the girls who sort shells by color. You were always the reason."
 

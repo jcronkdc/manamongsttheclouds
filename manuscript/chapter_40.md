@@ -54,7 +54,7 @@ The Song poured through him. Through his blood. Through his bones. Through the n
 
 The Song reached Sereth.
 
-The god-turned-person received it through the conduit — through the Blood Vine tendrils connecting their body to every prisoner and every Stone. The Song entered Sereth and Sereth screamed — not in pain but in recognition. After three centuries of waiting. After three hundred years of watching humanity struggle with the gift. They heard a human Sing. And it was more beautiful than anything the gods had ever created.
+The god-turned-person received it through the conduit — through the Blood Vine tendrils connecting her body to every prisoner and every Stone. The Song entered Sereth and Sereth screamed — not in pain but in recognition. After three centuries of waiting. After three hundred years of watching humanity struggle with the gift. She heard a human Sing. And it was more beautiful than anything the gods had ever created.
 
 The divine residue burned away. The golden eye became brown. The bones became mortal. The body became human — fully, permanently, irrevocably. And Sereth did not care. Sereth was laughing and crying simultaneously, holding the Song in a mortal chest and distributing it through the Blood Vine to every prisoner in the Chamber, and the distributing was the last divine act and the first fully human one, and the two were indistinguishable because the Song did not differentiate between divine and human. The Song was the Song. The Song was love made audible. And love did not care what kind of throat it came from.
 

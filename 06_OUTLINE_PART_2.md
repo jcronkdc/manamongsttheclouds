@@ -1,6 +1,6 @@
 # CHAPTER-BY-CHAPTER OUTLINE — Part II: THE WAKING
 
-*"To learn what you are, first you must lose everything you were."*
+_"To learn what you are, first you must lose everything you were."_
 
 **Chapters 11–22 | ~28,000 words**
 **Hero's Journey:** Crossing the Threshold → Tests, Allies, Enemies → Meeting the Mentors
@@ -92,11 +92,11 @@ Jalo looks at his own matching scar. He opens his mouth. Closes it. "Not yet," h
 
 Aelo must leave the Ming. The Flash Rat will find them eventually — the magical signature is too strong. The Ming teacher gives him a parting gift: a small stone from the lake bottom, polished smooth. "It carries the lake's memory. When the noise becomes too loud, hold it. It will remind you of the riverbed."
 
-Split POV: Sereth, in their guise as a one-eyed Canopy herbalist, watches Aelo and Jalo depart the Ming from a hilltop. They have left something behind in the monastery: a map, "accidentally" dropped, showing a safe route through the Core to the Sea. The map is old. The handwriting on it belongs to no living person.
+Split POV: Sereth, in her guise as a one-eyed Canopy herbalist, watches Aelo and Jalo depart the Ming from a hilltop. She has left something behind in the monastery: a map, "accidentally" dropped, showing a safe route through the Core to the Sea. The map is old. The handwriting on it belongs to no living person.
 
-Sereth turns south. They need to reach the Sea before Aelo does. There is someone there Aelo needs to meet — a young Guide named Laine who doesn't know she's the descendant of the woman Sereth loved three hundred years ago. Sereth has been watching Laine from a distance her entire life, the same way they've watched Aelo.
+Sereth turns south. She needs to reach the Sea before Aelo does. There is someone there Aelo needs to meet — a young Guide named Laine who doesn't know she's the descendant of the woman Sereth loved three hundred years ago. Sereth has been watching Laine from a distance her entire life, the same way she's watched Aelo.
 
-They think: *I collect orphans the way other people collect regrets. Perhaps they are the same thing.*
+She thinks: _I collect orphans the way other people collect regrets. Perhaps they are the same thing._
 
 ---
 
@@ -110,7 +110,7 @@ Torvus's training is the opposite of the Ming's contemplation. It is physical, l
 
 First exercise: reshape a pebble. Aelo holds it and asks it to become round. Nothing happens. Torvus laughs. "You asked. Stone doesn't care about asking. Stone cares about knowing. You have to KNOW the shape. See it so clearly that the stone has no choice but to remember it."
 
-Aelo fails for two days. On the third day, furious, exhausted, he squeezes the pebble and *feels* it — the memory of the mountain it came from, the pressure that formed it, the millennia of stillness. And inside that memory, he sees: the pebble was once round. A river stone, tumbled smooth over centuries. It was round before it was broken.
+Aelo fails for two days. On the third day, furious, exhausted, he squeezes the pebble and _feels_ it — the memory of the mountain it came from, the pressure that formed it, the millennia of stillness. And inside that memory, he sees: the pebble was once round. A river stone, tumbled smooth over centuries. It was round before it was broken.
 
 He reminds it. The pebble rounds in his palm.
 
@@ -150,7 +150,7 @@ Aelo practices. Each Mold costs him a tiny sensation — the feeling of the ston
 
 Torvus: "Every magic costs. The question isn't whether you'll pay. The question is what you're willing to buy."
 
-Important moment: Aelo Molds a passage through a collapsed tunnel to reach a group of Core people who've been sealed underground for years — survivors of Varas's conquest. He reaches through the stone and *listens* to it: the collapse, the trauma of it, the stone's own memory of being broken. He doesn't force the stone open. He reminds it of the passage that existed before.
+Important moment: Aelo Molds a passage through a collapsed tunnel to reach a group of Core people who've been sealed underground for years — survivors of Varas's conquest. He reaches through the stone and _listens_ to it: the collapse, the trauma of it, the stone's own memory of being broken. He doesn't force the stone open. He reminds it of the passage that existed before.
 
 The wall opens. On the other side: gaunt, blinking, disbelieving faces. People who had given up on rescue. Children who have never seen a face from outside.
 
@@ -190,7 +190,7 @@ She is also blunt, funny, impatient, and completely unimpressed by prophecy. "Gr
 
 Aelo has no plan. This is, paradoxically, the first thing Laine respects about him.
 
-She agrees to teach him the Guide — not because she believes in the prophecy, but because Sereth (in the guise of a one-eyed fisherman in the harbor) has left her a letter saying simply: *"He is worth the grief."*
+She agrees to teach him the Guide — not because she believes in the prophecy, but because Sereth (in the guise of a one-eyed fisherman in the harbor) has left her a letter saying simply: _"He is worth the grief."_
 
 **Establishes:** The Sea region (vast, ancient, tidal), Laine as a character (funny, broken, pragmatic), the Guide magic, the ocean's resonance with the Song, Sereth's background manipulation, Aelo's growing sense of the world.
 
@@ -200,7 +200,7 @@ She agrees to teach him the Guide — not because she believes in the prophecy, 
 
 Guide training with Laine. She teaches on the move — walking the coast, reading tide patterns, tracking the path of a thrown stone through the air before it lands.
 
-"The Guide doesn't predict the future. It reads momentum. Everything in the world is going somewhere. A river is going to the sea. A stone is going to the ground. A person is going toward whatever they love or fear most. You don't see *what will happen*. You see *what is already happening*."
+"The Guide doesn't predict the future. It reads momentum. Everything in the world is going somewhere. A river is going to the sea. A stone is going to the ground. A person is going toward whatever they love or fear most. You don't see _what will happen_. You see _what is already happening_."
 
 Aelo's Guide-training reveals something unsettling: he can feel trajectories converging on him. Multiple paths, from multiple directions, all pointing toward the same destination. The Knife's hunting party. Sereth's orbit. And something else — something coming from the center of the world, from the Murkr itself. A pull. The Great Elder Stone, calling to his blood.
 
@@ -230,7 +230,7 @@ Split POV. The Knife has tracked them to Bahar. The Flash Rat is crazed — Aelo
 
 The Knife arrives at the coast. He stands where Aelo stood hours ago. He touches the sand. He can feel the boy's passage — a warmth in the ground that shouldn't be there.
 
-And then he feels it again. The note. Louder this time. Not from an Elder Stone — from the *ground itself*. The memory of Aelo's presence has left a resonance in the earth, and The Knife can hear it.
+And then he feels it again. The note. Louder this time. Not from an Elder Stone — from the _ground itself_. The memory of Aelo's presence has left a resonance in the earth, and The Knife can hear it.
 
 He opens his box. The dried flower is blank — a flower, nothing more. He can't remember where he found it or why he kept it. Three items left with meaning. Three.
 
@@ -250,10 +250,10 @@ Jalo stares at him. Something in Jalo's face shifts — the realization that the
 
 "One more stop," Jalo says. "The Clouds. Your mother's people. Then we go to the Murkr."
 
-First mention of Aelo's mother as Cloud People. Aelo processes this — he has a people. He has a *heritage*. He is not nothing. He was never nothing.
+First mention of Aelo's mother as Cloud People. Aelo processes this — he has a people. He has a _heritage_. He is not nothing. He was never nothing.
 
 **Establishes:** The Knife closing in, his resonance with Aelo's trail growing (parallel to his memory loss), Aelo's pull toward the Murkr, Aelo asserting himself for the first time, the revelation of his Cloud heritage, the final training destination set.
 
 ---
 
-*End of Part II. Continues in 07_OUTLINE_PART_3.md*
+_End of Part II. Continues in 07_OUTLINE_PART_3.md_

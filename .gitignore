@@ -1,4 +1,4 @@
-node_modules/
+**/node_modules/
 venv/
 venv_build/
 .DS_Store
@@ -6,3 +6,5 @@ venv_build/
 __pycache__/
 .next/
 ~$*
+*.enex
+.venv/

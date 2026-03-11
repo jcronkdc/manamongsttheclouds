@@ -62,9 +62,9 @@ Sereth sat against a wall, wrapped in a blanket.
 
 The blanket had been given by a Cloud fighter — a young woman who had looked at the old, frail, mortal figure leaning against the stone and had recognized, with the Cloud People's specific sensitivity to the Song's residue, that the figure was not ordinary. The fighter had not asked questions. She had brought the blanket, and water, and a piece of dried fruit that Sereth had looked at with the bewildered expression of a person encountering the concept of hunger for the first time.
 
-They were cold. Actually cold. The specific, physical, mortal cold of a body that needed warmth from outside because there was none left inside — the divine internal heat, the residual energy of three centuries of godhood, having burned away in the conduit. The cold was new. The cold was extraordinary. The cold was the most mortal thing Sereth had ever felt, and the feeling of it — the actual, physical, nerve-transmitted, body-experienced feeling of being cold — was, paradoxically, the warmest thing they had ever experienced, because the experiencing was the point. The experiencing was what mortality was. Not the cold itself but the _feeling_ of the cold, the body's declaration that it existed in a world that had temperatures and that the temperatures mattered.
+She was cold. Actually cold. The specific, physical, mortal cold of a body that needed warmth from outside because there was none left inside — the divine internal heat, the residual energy of three centuries of godhood, having burned away in the conduit. The cold was new. The cold was extraordinary. The cold was the most mortal thing Sereth had ever felt, and the feeling of it — the actual, physical, nerve-transmitted, body-experienced feeling of being cold — was, paradoxically, the warmest thing she had ever experienced, because the experiencing was the point. The experiencing was what mortality was. Not the cold itself but the _feeling_ of the cold, the body's declaration that it existed in a world that had temperatures and that the temperatures mattered.
 
-Laine brought them water. The exchange was brief — Laine's specific, practical, no-nonsense communication style applied to the act of hydrating a former god.
+Laine brought her water. The exchange was brief — Laine's specific, practical, no-nonsense communication style applied to the act of hydrating a former god.
 
 "You look terrible."
 
@@ -78,12 +78,12 @@ Laine brought them water. The exchange was brief — Laine's specific, practical
 
 Sereth drank the water. It tasted different now — not the way a god tasted water, which was as a concept, a memory of creation, the chemical formula experienced as an abstraction. The way a person tasted water: cold. Clean. Necessary. Simple. Real. The water entered Sereth's mortal throat and the throat accepted it and the body used it and the using was the most mundane and most miraculous thing in the world — a body, processing water, because the body needed it, because need was the condition of mortality and the condition was, at last, Sereth's.
 
-They thought: _This is what I gave them. This. The experience of needing something and having it given. The feeling of being small in a large world and mattering anyway. The capacity to be cold and to feel the cold and to be grateful for the blanket._
+She thought: _This is what I gave them. This. The experience of needing something and having it given. The feeling of being small in a large world and mattering anyway. The capacity to be cold and to feel the cold and to be grateful for the blanket._
 
-They understood the gift differently now. Not from above — not from the divine perspective that had seen humanity as a beautiful project, a remarkable experiment, a species worth empowering. From inside. From the mortal perspective that experienced the world not as an architecture but as a sensation, not as a memory but as a present, not as something to observe but as something to _be in_.
+She understood the gift differently now. Not from above — not from the divine perspective that had seen humanity as a beautiful project, a remarkable experiment, a species worth empowering. From inside. From the mortal perspective that experienced the world not as an architecture but as a sensation, not as a memory but as a present, not as something to observe but as something to _be in_.
 
 The gift was not magic. The gift was not the Song. The gift was the capacity to need and to be needed, to feel and to be felt, to exist in a world that mattered because the existence was finite and the mattering was the consequence of the finitude.
 
-They pulled the blanket tighter. They closed their brown eye — the mortal eye, the human eye, the eye that would age and dim and eventually close for the last time. They were tired. They were mortal. They were home.
+She pulled the blanket tighter. She closed her brown eye — the mortal eye, the human eye, the eye that would age and dim and eventually close for the last time. She was tired. She was mortal. She was home.
 
 The castle held them. The morning held them. And above — through the thinning grey, through the first light of a dawn that was not golden but was, undeniably, lighter than the dawn before — the world breathed. The world remembered. The world began.

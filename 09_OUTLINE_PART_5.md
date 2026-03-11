@@ -1,6 +1,6 @@
 # CHAPTER-BY-CHAPTER OUTLINE — Part V: THE REMEMBERING
 
-*"The world sings to itself, and men are wise enough to listen."*
+_"The world sings to itself, and men are wise enough to listen."_
 
 **Chapters 43–48 | ~12,000 words**
 **Hero's Journey:** The Resurrection → Return with the Elixir
@@ -13,7 +13,7 @@ The aftermath. The world begins to heal. Characters reckon with what they've los
 
 Dawn in the Murkr. Except it isn't the Murkr anymore. The grey is retreating. Slowly — not a dramatic transformation but a gradual thaw. The petrified trees haven't come back to life, but the soil at their roots is dark again. Damp. Remembering moisture. A single blade of grass has pushed through the dead earth outside the castle gates. It shouldn't be there. It is.
 
-Aelo stands at the castle entrance and feels the world waking up. The Song has done its work — not a reset, not a cure, but a *reminder*. The world's memory at the center was suffocated, not killed. Now it's breathing again. It will take years, maybe decades, for the Murkr to fully recover. But the direction has changed. The drain has stopped.
+Aelo stands at the castle entrance and feels the world waking up. The Song has done its work — not a reset, not a cure, but a _reminder_. The world's memory at the center was suffocated, not killed. Now it's breathing again. It will take years, maybe decades, for the Murkr to fully recover. But the direction has changed. The drain has stopped.
 
 Inside the castle, the prisoners are being helped to their feet by Laine, the Cloud resistance fighters who descended when the fog bank around the Refuge dissolved (the Song reached even there), and a handful of Mrak soldiers who laid down their weapons when the castle stopped obeying Varas.
 
@@ -23,9 +23,9 @@ Aelo watches a woman recognize her own hands. She turns them over, flexing the f
 
 This is what restoration looks like. Not a triumphant march. A woman remembering her own name and laughing because it sounds right.
 
-Sereth sits against a wall, wrapped in a blanket someone gave them. They are fully mortal now. The last trace of divinity burned away in the conduit. They are cold for the first time — actually cold, the way humans are cold, needing warmth from outside because there's none left inside. They pull the blanket tighter. They look at their hands — human hands, mortal hands, hands that will age and wrinkle and eventually stop.
+Sereth sits against a wall, wrapped in a blanket someone gave her. She is fully mortal now. The last trace of divinity burned away in the conduit. She is cold for the first time — actually cold, the way humans are cold, needing warmth from outside because there's none left inside. She pulls the blanket tighter. She looks at her hands — human hands, mortal hands, hands that will age and wrinkle and eventually stop.
 
-Laine brings them water. "You look terrible."
+Laine brings her water. "You look terrible."
 
 "I feel terrible. Is this what you all feel like all the time?"
 
@@ -37,7 +37,7 @@ Laine brings them water. "You look terrible."
 
 Sereth drinks the water. It tastes different now — not the way a god tastes water (as a concept, a memory of creation) but the way a person tastes water: cold, clean, necessary. Simple. Real.
 
-They think: *This is what I gave them. This. The experience of needing something and having it given. The feeling of being small in a large world and mattering anyway.* They understand the gift differently now. Not from above. From inside.
+She thinks: _This is what I gave them. This. The experience of needing something and having it given. The feeling of being small in a large world and mattering anyway._ She understands the gift differently now. Not from above. From inside.
 
 **Establishes:** The aftermath — messy, slow, human. The Murkr thawing. Prisoners in various states of recovery. The grass as symbol (your Desert elder's flower-in-the-sand philosophy, now in the Murkr). Sereth's mortality experienced. The tone shifts from epic to intimate.
 
@@ -77,13 +77,13 @@ Aelo enters the prison — the massive Elder Stone facility where captives were 
 
 He meets the Warden. The man who ran the facility. He is not in chains — no one has arrested him. He is sitting in his office, at his desk, surrounded by his catalogs. Prisoner numbers. Drain schedules. Efficiency reports.
 
-He is not defiant. He is not repentant. He is *confused*. The structure he served has dissolved, and he doesn't know what to do. He was a bureaucrat. He filed reports. He optimized drain rates. He never once asked himself whether what he was doing was wrong because the question didn't fit into his filing system.
+He is not defiant. He is not repentant. He is _confused_. The structure he served has dissolved, and he doesn't know what to do. He was a bureaucrat. He filed reports. He optimized drain rates. He never once asked himself whether what he was doing was wrong because the question didn't fit into his filing system.
 
 "I was following orders," he says. Not as a defense. As a genuine explanation. He doesn't understand why Aelo is looking at him like that.
 
-Aelo uses the Know on him. What he finds is the most disturbing thing in the entire book — more disturbing than Varas, more disturbing than the Dog Scene. The Warden's mind is *organized*. Clean. Efficient. There is no guilt because there was never a question. He processed human beings the way a mill processes grain, and he did it well, and he slept soundly every night.
+Aelo uses the Know on him. What he finds is the most disturbing thing in the entire book — more disturbing than Varas, more disturbing than the Dog Scene. The Warden's mind is _organized_. Clean. Efficient. There is no guilt because there was never a question. He processed human beings the way a mill processes grain, and he did it well, and he slept soundly every night.
 
-Aelo wants to hate him. He can't. Hate requires a target, and the Warden isn't a monster — he's an absence. A different kind of void from Varas's. Not the absence of empathy, but the absence of *inquiry*. He never asked. He just did.
+Aelo wants to hate him. He can't. Hate requires a target, and the Warden isn't a monster — he's an absence. A different kind of void from Varas's. Not the absence of empathy, but the absence of _inquiry_. He never asked. He just did.
 
 Aelo doesn't punish him. He doesn't forgive him either. He simply says: "You will help take them out. Every single one. You will carry them if they can't walk. You will learn their names. And then you will decide what kind of man you are."
 
@@ -93,7 +93,7 @@ He begins carrying prisoners out of the facility. He learns one name. Then anoth
 
 But he's asking now. For the first time, he's asking.
 
-**Establishes:** The banality of evil as the story's most unsettling element (from your Volcano blacksmith seed). The Warden as the character who scares the reader most because he is the most *recognizable*. The beginning of justice — not punishment, but reckoning. Aelo's wisdom: he doesn't destroy evil, he makes it look at itself.
+**Establishes:** The banality of evil as the story's most unsettling element (from your Volcano blacksmith seed). The Warden as the character who scares the reader most because he is the most _recognizable_. The beginning of justice — not punishment, but reckoning. Aelo's wisdom: he doesn't destroy evil, he makes it look at itself.
 
 ---
 
@@ -137,11 +137,11 @@ He almost smiles. Almost. The muscles for it are still learning.
 
 ### Chapter 47 — The Last God (SERETH) ~2,000 words
 
-Sereth sits on a hill above the ceremony ground. They can hear the children. They can hear the Knower's assessments. They can feel — not with divine senses, but with human ears, picking up the sound the ordinary way.
+Sereth sits on a hill above the ceremony ground. She can hear the children. She can hear the Knower's assessments. She can feel — not with divine senses, but with human ears, picking up the sound the ordinary way.
 
 It's enough. More than enough.
 
-Laine climbs the hill and sits beside them. She's been visiting every few days. She brings food, which Sereth forgets to eat (a mortal inconvenience they haven't adjusted to). She brings news. She brings, once, a jar of Cloudmilk from the Refuge, and Sereth drinks it and says it tastes like the sky, and Laine says that's what everyone says.
+Laine climbs the hill and sits beside her. She's been visiting every few days. She brings food, which Sereth forgets to eat (a mortal inconvenience she hasn't adjusted to). She brings news. She brings, once, a jar of Cloudmilk from the Refuge, and Sereth drinks it and says it tastes like the sky, and Laine says that's what everyone says.
 
 "I know who you are," Laine says. "The real you. Aelo told me. A god who gave magic to humans and was punished for it."
 
@@ -151,7 +151,7 @@ Laine climbs the hill and sits beside them. She's been visiting every few days. 
 
 Sereth watches the ceremony below. A child on the Elder Stone. The Knower smiling. Parents holding their breath.
 
-"Because you're beautiful," Sereth says. "Not in spite of being mortal. Because of it. Everything you do matters because you know it will end. Every memory you make is precious because you know you'll forget. Every act of love is an act of defiance against a universe that will eventually erase you. The gods never had that. We were eternal, and eternity is boring. You are brief, and brevity is — " They search for the word. "It's the most remarkable thing I've ever seen."
+"Because you're beautiful," Sereth says. "Not in spite of being mortal. Because of it. Everything you do matters because you know it will end. Every memory you make is precious because you know you'll forget. Every act of love is an act of defiance against a universe that will eventually erase you. The gods never had that. We were eternal, and eternity is boring. You are brief, and brevity is — " She searches for the word. "It's the most remarkable thing I've ever seen."
 
 "That's a lot of weight to put on a species."
 
@@ -161,13 +161,13 @@ Silence. The ceremony continues below. A child laughs.
 
 Laine asks: "Do you miss being a god?"
 
-Sereth thinks about this. They think about infinite memory, about seeing across time, about knowing the architecture of the universe. They think about Essa. They think about the Elder Stone singing. They think about cold nights and jars they can't open and the taste of water when you're thirsty.
+Sereth thinks about this. She thinks about infinite memory, about seeing across time, about knowing the architecture of the universe. She thinks about Essa. She thinks about the Elder Stone singing. She thinks about cold nights and jars she can't open and the taste of water when you're thirsty.
 
-"No," they say. "I miss someone. But that's a human thing to do. So I suppose it means I'm finally where I belong."
+"No," she says. "I miss someone. But that's a human thing to do. So I suppose it means I'm finally where I belong."
 
-Laine takes their hand. Essa's hands. Three hundred years later, the same shape.
+Laine takes her hand. Essa's hands. Three hundred years later, the same shape.
 
-Sereth closes their eyes. They are mortal. They are tired. They are home.
+Sereth closes her eyes. She is mortal. She is tired. She is home.
 
 **Establishes:** Sereth's final state — mortal, at peace, belonging. The thematic capstone: mortality is not a punishment, it's the gift that makes everything matter. Laine as Essa's echo — not a replacement, but a rhyme. The last god becomes the newest human.
 
@@ -201,7 +201,7 @@ He goes. Not as a hero. Not as a chosen one. As a man who lost some things and f
 
 The last line of the book:
 
-*The world sang to itself. And in the space between the notes, where silence lived, a man breathed — and the air remembered.*
+_The world sang to itself. And in the space between the notes, where silence lived, a man breathed — and the air remembered._
 
 ---
 
@@ -213,41 +213,41 @@ The last line of the book:
 
 Every thread planted in the novel resolves:
 
-| Thread | Planted | Paid Off |
-|--------|---------|----------|
-| Jalo's identity (Halvar Eld) | Ch 1 (cane, scars, tension) | Ch 28 (full reveal), Ch 33 (death) |
-| The suppression herbs | Ch 1 (daily ritual) | Ch 4 (stopped), Ch 7 (consequences) |
-| The matching blood-marks | Ch 3 (seen), Ch 6 (explained in memory) | Ch 28 (confirmed), Ch 33 (The Knife recognizes) |
-| Varas's father and brother alive | Ch 2 (locked door sounds) | Ch 35 (found), Ch 40 (freed), Ch 44 (Vero's garden) |
-| The Knife's wooden box | Ch 2 (introduced) | Ch 12/17/27 (forgetting), Ch 38 (confrontation), Ch 42 (restored) |
-| The Knife's draining by Varas | Ch 12 (first gaps) | Ch 27 (Blood Vine mark), Ch 30 (shown truth), Ch 38 ("Reserve Supply 7") |
-| Sereth's true nature | Ch 5 (merchant) | Ch 36 (revealed to Laine), Ch 39 (conduit), Ch 47 (mortal) |
-| Essa and Laine's lineage | Ch 5 (Essa memory) | Ch 20 (Laine introduced), Ch 47 (hands) |
-| Aelo's mother Maera | Ch 6 (lullaby in memory) | Ch 24 (named, historied), Ch 34 (wind catches him), Ch 40 (seventh note) |
-| The prophecy ("Sing and cease") | Ch 6 (Jalo's dread) | Ch 28 (spoken), Ch 40 (fulfilled differently — he survives) |
-| Aelo's empathy as proto-Sing | Ch 1 (feeling nightmares) | Ch 7 (unfiltered), Ch 40 (Song = love made audible) |
-| The Knower Ceremony | Ch 3 (perverted) | Ch 46 (restored) |
-| The Elder Stone singing | Ch 3 (inciting incident) | Ch 40 (all stones sing) |
-| The Ming prisoner who moves her eyes | Ch 2 (anomaly logged) | Ch 35 (she's among those who wake) |
-| Varas's want to hear the Song | Ch 10 ("I want to hear what makes a stone sing") | Ch 37 (confrontation), Ch 40 (he hears it, dies) |
-| The Volcano People's complicity | Ch 19 (blacksmith) | Ch 46 (uncomfortable delegation) |
-| The Desert's restoration | Ch 23 (elder's flower) | Ch 48 (flower in the sand, invitation) |
-| The Warden / banality of evil | Ch 45 (full chapter) | Open — he is learning, not resolved. Deliberately. |
-| Jalo's footsteps | Ch 1 (daily routine) | Ch 48 (earth remembers the limp) |
-| The dead bird | Ch 1 (first magic) | Ch 48 (earth remembers the grave) |
-| The Vael Guard oath | Ch 6 (whispered) | Ch 33 (fulfilled — burned before the Song went silent) |
+| Thread                               | Planted                                          | Paid Off                                                                 |
+| ------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------ |
+| Jalo's identity (Halvar Eld)         | Ch 1 (cane, scars, tension)                      | Ch 28 (full reveal), Ch 33 (death)                                       |
+| The suppression herbs                | Ch 1 (daily ritual)                              | Ch 4 (stopped), Ch 7 (consequences)                                      |
+| The matching blood-marks             | Ch 3 (seen), Ch 6 (explained in memory)          | Ch 28 (confirmed), Ch 33 (The Knife recognizes)                          |
+| Varas's father and brother alive     | Ch 2 (locked door sounds)                        | Ch 35 (found), Ch 40 (freed), Ch 44 (Vero's garden)                      |
+| The Knife's wooden box               | Ch 2 (introduced)                                | Ch 12/17/27 (forgetting), Ch 38 (confrontation), Ch 42 (restored)        |
+| The Knife's draining by Varas        | Ch 12 (first gaps)                               | Ch 27 (Blood Vine mark), Ch 30 (shown truth), Ch 38 ("Reserve Supply 7") |
+| Sereth's true nature                 | Ch 5 (merchant)                                  | Ch 36 (revealed to Laine), Ch 39 (conduit), Ch 47 (mortal)               |
+| Essa and Laine's lineage             | Ch 5 (Essa memory)                               | Ch 20 (Laine introduced), Ch 47 (hands)                                  |
+| Aelo's mother Maera                  | Ch 6 (lullaby in memory)                         | Ch 24 (named, historied), Ch 34 (wind catches him), Ch 40 (seventh note) |
+| The prophecy ("Sing and cease")      | Ch 6 (Jalo's dread)                              | Ch 28 (spoken), Ch 40 (fulfilled differently — he survives)              |
+| Aelo's empathy as proto-Sing         | Ch 1 (feeling nightmares)                        | Ch 7 (unfiltered), Ch 40 (Song = love made audible)                      |
+| The Knower Ceremony                  | Ch 3 (perverted)                                 | Ch 46 (restored)                                                         |
+| The Elder Stone singing              | Ch 3 (inciting incident)                         | Ch 40 (all stones sing)                                                  |
+| The Ming prisoner who moves her eyes | Ch 2 (anomaly logged)                            | Ch 35 (she's among those who wake)                                       |
+| Varas's want to hear the Song        | Ch 10 ("I want to hear what makes a stone sing") | Ch 37 (confrontation), Ch 40 (he hears it, dies)                         |
+| The Volcano People's complicity      | Ch 19 (blacksmith)                               | Ch 46 (uncomfortable delegation)                                         |
+| The Desert's restoration             | Ch 23 (elder's flower)                           | Ch 48 (flower in the sand, invitation)                                   |
+| The Warden / banality of evil        | Ch 45 (full chapter)                             | Open — he is learning, not resolved. Deliberately.                       |
+| Jalo's footsteps                     | Ch 1 (daily routine)                             | Ch 48 (earth remembers the limp)                                         |
+| The dead bird                        | Ch 1 (first magic)                               | Ch 48 (earth remembers the grave)                                        |
+| The Vael Guard oath                  | Ch 6 (whispered)                                 | Ch 33 (fulfilled — burned before the Song went silent)                   |
 
 ---
 
 ## WORD COUNT ESTIMATE
 
-| Part | Chapters | Estimated Words |
-|------|----------|-----------------|
-| I: The Still Water | 1–10 | ~22,000 |
-| II: The Waking | 11–22 | ~28,000 |
-| III: The Breaking | 23–34 | ~30,000 |
-| IV: The Chamber | 35–42 | ~21,000 |
-| V: The Remembering | 43–48 | ~14,000 |
-| **Total** | **48 chapters** | **~115,000 words** |
+| Part               | Chapters        | Estimated Words    |
+| ------------------ | --------------- | ------------------ |
+| I: The Still Water | 1–10            | ~22,000            |
+| II: The Waking     | 11–22           | ~28,000            |
+| III: The Breaking  | 23–34           | ~30,000            |
+| IV: The Chamber    | 35–42           | ~21,000            |
+| V: The Remembering | 43–48           | ~14,000            |
+| **Total**          | **48 chapters** | **~115,000 words** |
 
 This is a full-length fantasy novel. Every chapter serves at least two narrative threads. No dead code.

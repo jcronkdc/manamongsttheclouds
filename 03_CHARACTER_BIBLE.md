@@ -235,46 +235,46 @@ When Aelo Sings and restores the stolen memories, The Knife is among those who w
 
 ### The Surface
 
-An information broker who appears in every region under a different name and a different face. In the Canopy, they are an elderly woman who sells tinctures. In the Core, they are a one-eyed miner with a talent for finding veins of ore. In the Clouds, they are a child — always a child, because the Cloud People trust children more than adults. In Varas's court, they are a minor lord who laughs at the King's jokes and never says anything memorable.
+An information broker who appears in every region under a different name and a different face. In the Canopy, she is an elderly woman who sells tinctures. In the Core, she is a one-eyed miner with a talent for finding veins of ore. In the Clouds, she is a child — always a child, because the Cloud People trust children more than adults. In Varas's court, she is a minor lord who laughs at the King's jokes and never says anything memorable.
 
-No one has ever connected these identities. The Snake has been operating for centuries, and their network is the largest intelligence apparatus in the world. They sell information to everyone and loyalty to no one. At least, that's what everyone believes.
+No one has ever connected these identities. The Snake has been operating for centuries, and her network is the largest intelligence apparatus in the world. She sells information to everyone and loyalty to no one. At least, that's what everyone believes.
 
 ### The Truth Beneath
 
-Sereth is one of the original seven gods who created the world. Specifically, they are the god who **gave magic to King Fletcher** — the one who broke rank, defied the other six, and handed humanity the keys to creation.
+Sereth is one of the original seven gods who created the world. Specifically, she is the god who **gave magic to King Fletcher** — the one who broke rank, defied the other six, and handed humanity the keys to creation.
 
-The other gods were furious. They couldn't undo what Sereth had done, so they cursed them: live among the humans. Walk as they walk. Eat as they eat. Age as they age. And every century, lose a piece of your divinity until there is nothing left. Become the thing you loved more than us.
+The other gods were furious. They couldn't undo what Sereth had done, so they cursed her: live among the humans. Walk as they walk. Eat as they eat. Age as they age. And every century, lose a piece of your divinity until there is nothing left. Become the thing you loved more than us.
 
-Sereth accepted the punishment. Not with grace — with exhaustion. They had been arguing with the other gods for millennia about whether humans deserved magic, and they were tired of arguing. So they went down and lived.
+Sereth accepted the punishment. Not with grace — with exhaustion. She had been arguing with the other gods for millennia about whether humans deserved magic, and she was tired of arguing. So she went down and lived.
 
 ### The Wound
 
-They fell in love. Centuries ago, with a mortal woman named Essa, a Healer from the Sea People. They lived together for forty years. Sereth watched her age while they did not. They watched her forget things — not from magic, but from time. They watched her die.
+She fell in love. Centuries ago, with a mortal woman named Essa, a Healer from the Sea People. They lived together for forty years. Sereth watched her age while she did not. She watched her forget things — not from magic, but from time. She watched her die.
 
-This was the first time Sereth understood what memory meant to mortals. For gods, memory is infinite and weightless. For humans, it is everything — finite, fragile, and unbearably precious. Essa's death taught Sereth that the gift they gave humanity wasn't just power. It was the ability to _matter_ — to make a mark on the world's memory that outlasts a single life.
+This was the first time Sereth understood what memory meant to mortals. For gods, memory is infinite and weightless. For humans, it is everything — finite, fragile, and unbearably precious. Essa's death taught Sereth that the gift she gave humanity wasn't just power. It was the ability to _matter_ — to make a mark on the world's memory that outlasts a single life.
 
-They have never recovered. They carry Essa's name like a stone in their chest. They have not loved since.
+She has never recovered. She carries Essa's name like a stone in her chest. She has not loved since.
 
 ### The Want
 
-To see the Sing used again. To know that their sacrifice — their divinity, their immortality, their place among the gods — was worth it. To hear a human Sing and know that the music was beautiful enough to justify everything they lost.
+To see the Sing used again. To know that her sacrifice — her divinity, her immortality, her place among the gods — was worth it. To hear a human Sing and know that the music was beautiful enough to justify everything she lost.
 
-### The Lie They Tell Themselves
+### The Lie She Tells Herself
 
-"I don't take sides." They take sides constantly. They have been subtly protecting Fletcher's bloodline for centuries — a whisper here, a misdirection there, a Mrak Patrol pointed in the wrong direction at exactly the right moment. They are the reason Jalo and Aelo survived as long as they did.
+"I don't take sides." She takes sides constantly. She has been subtly protecting Fletcher's bloodline for centuries — a whisper here, a misdirection there, a Mrak Patrol pointed in the wrong direction at exactly the right moment. She is the reason Jalo and Aelo survived as long as they did.
 
-### Their Role in the Story
+### Her Role in the Story
 
 - In Act I (Chapter 6), Sereth appears as an elderly woman selling tinctures who finds Halvar and Aelo in the Canopy safehouse. She lingers watching the sleeping boy. Halvar senses something wrong — her eyes are too old, too weighted, her expression doesn't match her body — but cannot confirm what she is (his senses are dulled by withdrawal and fifteen years of disuse). He threatens her with his staff. She says only "Take care of him" and leaves without explanation. The mystery of her identity is preserved.
-- In Act II, Sereth appears in different guises at each stage of Aelo's training, always nearby, never helping directly. They leave small gifts: a map that was "accidentally" dropped. A warning scratched into a wall.
-- In Act III, Sereth reveals themselves to Aelo at his lowest point — after Jalo's death, before the suicide attempt. They tell him the truth: they are the god who gave magic to man. They tell him about Essa. They tell him that the Song is worth dying for because they know — they gave up eternity for it.
-- In Act IV, Sereth walks into Varas's chamber alongside Aelo. They cannot Sing — they lost that ability centuries ago when their divinity faded. But they can do one thing: they can hold the Blood Vine. They can serve as the conduit, the bridge between Aelo and the captives, amplifying his Sing at the cost of whatever divinity they have left. This is their final sacrifice — they become fully mortal. The last god becomes human.
+- In Act II, Sereth appears in different guises at each stage of Aelo's training, always nearby, never helping directly. She leaves small gifts: a map that was "accidentally" dropped. A warning scratched into a wall.
+- In Act III, Sereth reveals herself to Aelo at his lowest point — after Jalo's death, before the suicide attempt. She tells him the truth: she is the god who gave magic to man. She tells him about Essa. She tells him that the Song is worth dying for because she knows — she gave up eternity for it.
+- In Act IV, Sereth walks into Varas's chamber alongside Aelo. She cannot Sing — she lost that ability centuries ago when her divinity faded. But she can do one thing: she can hold the Blood Vine. She can serve as the conduit, the bridge between Aelo and the captives, amplifying his Sing at the cost of whatever divinity she has left. This is her final sacrifice — she becomes fully mortal. The last god becomes human.
 
 ### The Cost
 
-After the Sing, Sereth is just a person. Old, tired, mortal, alone. But they heard it. They heard a human Sing, and it was more beautiful than anything the gods ever created.
+After the Sing, Sereth is just a person. Old, tired, mortal, alone. But she heard it. She heard a human Sing, and it was more beautiful than anything the gods ever created.
 
-They sit in the ruins of Varas's chamber, surrounded by waking prisoners, and they weep. Not from sorrow. From completion.
+She sits in the ruins of Varas's chamber, surrounded by waking prisoners, and she weeps. Not from sorrow. From completion.
 
 ---
 

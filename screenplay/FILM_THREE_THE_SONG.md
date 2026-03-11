@@ -88,13 +88,13 @@ The Chamber is not a prison. It's a broken FAMILY.
 
 **EXT. MURKR BORDER — SIMULTANEOUSLY**
 
-SERETH enters the Murkr in their TRUE FORM — small, worn, one-eyed, golden eye. Each step STRIPS a divine memory. The sky that day they gave Fletcher the gift — gone. The other gods' voices — gone. The feeling of being infinite — gone. They do not care.
+SERETH enters the Murkr in her TRUE FORM — small, worn, one-eyed, golden eye. Each step STRIPS a divine memory. The sky that day she gave Fletcher the gift — gone. The other gods' voices — gone. The feeling of being infinite — gone. She does not care.
 
-They find LAINE unconscious at the border. Vine-burns on her legs. Sereth performs the LAST ACT OF DIVINE POWER — the original mending. The golden eye becomes BROWN. Mortal. Permanently.
+She finds LAINE unconscious at the border. Vine-burns on her legs. Sereth performs the LAST ACT OF DIVINE POWER — the original mending. The golden eye becomes BROWN. Mortal. Permanently.
 
-Laine wakes. Sereth explains: they need to become a conduit. The Blood Vine network can be REVERSED — used to distribute the Song instead of drain.
+Laine wakes. Sereth explains: she needs to become a conduit. The Blood Vine network can be REVERSED — used to distribute the Song instead of drain.
 
-Sereth connects the severed Vine tendrils TO THEMSELVES. The draw is immediate. The divine residue holds the balance.
+Sereth connects the severed Vine tendrils TO HERSELF. The draw is immediate. The divine residue holds the balance.
 
 **SERETH**
 I chose this. Three hundred years ago. The loving destroyed the god. But it made the person. And the person is enough.
@@ -684,7 +684,7 @@ The lake stone is in his numb left hand. The mark on his wrist pulses — single
 
 SERETH sits on a hill above the ceremony ground. Wrapped in a blanket. Mortal. Brown-eyed. COLD — the blanket thin, the hill windy.
 
-They listen to the children below. Not with divine hearing — that is gone, burned away in the conduit. With HUMAN ears. Ordinary. Limited. Frequency-restricted.
+She listens to the children below. Not with divine hearing — that is gone, burned away in the conduit. With HUMAN ears. Ordinary. Limited. Frequency-restricted.
 
 The children's voices arrive as FRAGMENTS. A laugh. A name. The Knower's assessments producing ripples of response. The sounds are not the sounds a god heard — not the layered, frequency-rich, emotionally saturated data the divine senses provided. They are the sounds a PERSON hears. Simple. Partial. Requiring imagination to fill in the gaps between what the ear receives and what the mind needs.
 
@@ -733,7 +733,7 @@ Sereth watches the ceremony below. A child on the Elder Stone. The Knower smilin
 **SERETH**
 Because you're beautiful. Not in spite of being mortal. Because of it. Everything you do matters because you know it will end. Every memory you make is precious because you know you'll forget. Every act of love is an act of defiance against a universe that will eventually erase you. The gods never had that. We were eternal, and eternity is boring. You are brief, and brevity is—
 
-They search for the word. The word is in the gap between the divine vocabulary and the human vocabulary.
+She searches for the word. The word is in the gap between the divine vocabulary and the human vocabulary.
 
 **SERETH (CONT'D)**
 It's the most remarkable thing I've ever seen.
@@ -749,16 +749,16 @@ Silence. A child laughs below. Another is assessed — the words arriving as fra
 **LAINE**
 Do you miss being a god?
 
-Sereth thinks about this. They think about infinite memory — the total, unbroken record of everything. About seeing across time — past and future equally visible. About knowing the architecture of the universe.
+Sereth thinks about this. She thinks about infinite memory — the total, unbroken record of everything. About seeing across time — past and future equally visible. About knowing the architecture of the universe.
 
-They think about ESSA. The mortal woman they loved three hundred years ago. Essa's hands braiding rope on a dock in Bahar. Essa's hands cupping water. Essa's hands on Sereth's face, the night Essa understood what Sereth was and chose to love them anyway. Essa's hands, old and spotted, the last time Sereth held them.
+She thinks about ESSA. The mortal woman she loved three hundred years ago. Essa's hands braiding rope on a dock in Bahar. Essa's hands cupping water. Essa's hands on Sereth's face, the night Essa understood what Sereth was and chose to love her anyway. Essa's hands, old and spotted, the last time Sereth held them.
 
-They think about cold nights. About jars they cannot open. About the taste of water when thirsty. About the specific, mundane, unremarkable, extraordinarily precious experience of needing something and having it given.
+She thinks about cold nights. About jars she cannot open. About the taste of water when thirsty. About the specific, mundane, unremarkable, extraordinarily precious experience of needing something and having it given.
 
 **SERETH**
 No. I miss someone. But that's a human thing to do. So I suppose it means I'm finally where I belong.
 
-Laine takes their hand. ESSA'S HANDS — the same shape, three hundred years later. The genetic memory of a woman's hands carried through generations of daughters, arriving here, in this woman, on this hill.
+Laine takes her hand. ESSA'S HANDS — the same shape, three hundred years later. The genetic memory of a woman's hands carried through generations of daughters, arriving here, in this woman, on this hill.
 
 The touch is WARM. Body heat transmitted through skin, received by nerve endings that are mortal and limited and gloriously sufficient. Sereth can feel the warmth. Can feel the hand's pressure. The specific, physical, whole-body experience of being touched by another person — an experience the divine body registered as data and that the mortal body registers as connection.
 
@@ -767,9 +767,9 @@ The connection is the bridge. Not something you build. Something you RECEIVE. Th
 **SERETH (CONT'D)**
 You were always the reason. All of you. The creatures. The lovers and the fighters and the mothers and the guardians and the smiths and the trackers and the girls who sort shells by color. You were always the reason.
 
-Sereth closes their brown eye. The mortal eye. The eye that will age and dim and eventually close for the last time. They are tired. They are mortal. They are cold, and the blanket is thin, and the hill is windy, and the ceremony is producing sounds that require imagination to complete.
+Sereth closes her brown eye. The mortal eye. The eye that will age and dim and eventually close for the last time. She is tired. She is mortal. She is cold, and the blanket is thin, and the hill is windy, and the ceremony is producing sounds that require imagination to complete.
 
-They are home.
+She is home.
 
 The ceremony continues below. The Blue Sun burns above the canopy. And on a hill above the clearing, the last god holds a human hand and listens to children with mortal ears and imagines what the laughing faces look like and discovers, in the imagining, that the gaps are the gift, and the gift is the reason, and the reason is enough.
 

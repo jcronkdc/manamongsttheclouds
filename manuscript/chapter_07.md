@@ -56,11 +56,11 @@ Aelo was on his hands and knees. Tears on his face. Snot on his lip. Throat raw.
 
 "Good," said a voice that was not Jalo's.
 
-Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him with the patient expression of someone observing a process they had seen before — not this exact process, not this boy, but something in the same family. A distant cousin of this pain.
+Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him with the patient expression of someone observing a process she had seen before — not this exact process, not this boy, but something in the same family. A distant cousin of this pain.
 
 "That was not good," Aelo said. His voice was different. Lower. Rougher. A voice that had aged a year overnight.
 
-"It was necessary. The compression had to release. You just released it." Sereth tilted their head. "Loudly. But that's the nature of things that have been held for too long."
+"It was necessary. The compression had to release. You just released it." Sereth tilted her head. "Loudly. But that's the nature of things that have been held for too long."
 
 Jalo moved into Aelo's field of vision. He lowered himself — slowly, the knee protesting, the cane braced against the ground — until he was kneeling in front of his boy. His face was open. Both sides. The scars and the skin. The fear and the love.
 
@@ -114,7 +114,7 @@ Aelo held it. The pocket trembled. The voices pressed. The silence was small and
 
 But it was his. The first thing that had ever been entirely his. Not given by Jalo, not suppressed by herbs, not inherited from a bloodline he hadn't known about until two days ago. A silence he had found inside the sound. A self, held steady in the current of the world's remembering.
 
-The birds returned to the branches. The insects resumed their frequencies. The elm settled back into its roots with a sound like a long exhale. Sereth, on their rock, watched the boy with an expression that three hundred years of mortality had not dulled — the expression of someone watching a thing they had broken begin, at last, to repair itself.
+The birds returned to the branches. The insects resumed their frequencies. The elm settled back into its roots with a sound like a long exhale. Sereth, on her rock, watched the boy with an expression that three hundred years of mortality had not dulled — the expression of someone watching a thing she had broken begin, at last, to repair itself.
 
 The forest was loud. Aelo was quiet. And somewhere, at the center of the quiet, the bell was still ringing — but now he could hear it for what it was.
 

@@ -494,21 +494,21 @@ Then we'd better teach you how to listen.
 
 **EXT. TRADE ROAD — DAY**
 
-SERETH sits on a rock, peeling an apple. They appear as a MIDDLE-AGED MERCHANT — weathered, one-eyed.
+SERETH sits on a rock, peeling an apple. She appears as a MIDDLE-AGED MERCHANT — weathered, one-eyed.
 
-They bite into the apple. Close their eyes. Juice runs down their chin. Then the Elder Stone's note reaches them from forty miles away.
+She bites into the apple. Closes her eyes. Juice runs down her chin. Then the Elder Stone's note reaches her from forty miles away.
 
-Sereth DROPS THE APPLE. Their hands shake — with RESONANCE. They know this sound. They heard it three hundred years ago when Fletcher sang.
+Sereth DROPS THE APPLE. Her hands shake — with RESONANCE. She knows this sound. She heard it three hundred years ago when Fletcher sang.
 
-They stand. The apple lies in the dirt. One bite missing. Already browning. They have been leaving things behind for three hundred years — possessions, identities, the faces of people they loved.
+She stands. The apple lies in the dirt. One bite missing. Already browning. She has been leaving things behind for three hundred years — possessions, identities, the faces of people she loved.
 
-They think of ESSA. They always think of Essa. A Guide. Sea-born. Dark-skinned. Hands that moved through water the way Sereth's voice had once moved through the divine register. She could hold a bowl of seawater and ask it to remember being rain, and the salt would separate from the fresh. She had done this for Sereth once, moonlight on her shoulders, and Sereth had thought: _This. This is why I gave them the Song._
+She thinks of ESSA. She always thinks of Essa. A Guide. Sea-born. Dark-skinned. Hands that moved through water the way Sereth's voice had once moved through the divine register. She could hold a bowl of seawater and ask it to remember being rain, and the salt would separate from the fresh. She had done this for Sereth once, moonlight on her shoulders, and Sereth had thought: _This. This is why I gave them the Song._
 
 She had died. Eighty-one years — the blink of a divine eye. Sereth had felt her go. A silence where a voice had been.
 
 Three hundred years of penance. Every drained prisoner, every corrupted ceremony, every child taken — all of it traced back to a night by a fire when a god said to a kind man: _Would you like to hear the world sing?_
 
-They close their eyes and CHANGE. The merchant dissolves. An OLD CANOPY WOMAN emerges — broad-shouldered, grey-haired, calloused hands, unremarkable. Forgettable. Safe.
+She closes her eyes and CHANGES. The merchant dissolves. An OLD CANOPY WOMAN emerges — broad-shouldered, grey-haired, calloused hands, unremarkable. Forgettable. Safe.
 
 ---
 
@@ -915,20 +915,20 @@ From a hilltop, the boy and the guardian look like ants. SERETH watches from a d
 
 The old woman's body is wrong now — wrong for where Sereth is going. The Sea doesn't speak wood. The Sea speaks salt and tide.
 
-They close their eyes. Breathe. Remember.
+She closes her eyes. Breathes. Remembers.
 
 The old woman DISSOLVES — not dramatically. Like a sentence being revised. The same words, rearranged. A MIDDLE-AGED FISHERMAN emerges — lean, sun-weathered, dark skin, salt-stiffened hair. One eye — the left scarred over, a detail carried from body to body because the loss is real.
 
-They open the new eye. The hilltop looks different through it — the colors shifted, recalibrated by the new body's optics.
+She opens the new eye. The hilltop looks different through it — the colors shifted, recalibrated by the new body's optics.
 
 **SERETH (V.O.)**
 I collect orphans the way other people collect regrets. Perhaps they are the same thing.
 
-They have a letter to deliver. Four words, composed over fifteen years: _He is worth the grief._
+She has a letter to deliver. Four words, composed over fifteen years: _He is worth the grief._
 
 The fisherman turns south. The Sea is weeks away. Laine is there — Essa's descendant. She does not know about the connection. She knows only that every trajectory she follows ends in grief.
 
-Sereth walks. Behind them, a boy holds a stone and listens to the world. And the world listens back.
+Sereth walks. Behind her, a boy holds a stone and listens to the world. And the world listens back.
 
 The journey has begun.
 

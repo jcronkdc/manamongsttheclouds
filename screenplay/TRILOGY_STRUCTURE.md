@@ -5,17 +5,20 @@
 ---
 
 ### FILM ONE: THE STILL WATER
-**Tagline:** *"The world sang to itself. And then a boy heard it."*
+
+**Tagline:** _"The world sang to itself. And then a boy heard it."_
 **Runtime target:** ~150 minutes
 **Novel chapters covered:** Prologue, 1–15 (Parts I & early Part II)
 **Emotional arc:** Awakening → Flight → Discovery
 
 **ACT I — THE SILENCE (Prologue, Ch 1–3)**
+
 - COLD OPEN: The Prologue — Fletcher's Song, the Great Elder Stone, the burning nursery, Jalo running with the baby. Intercut with title card.
 - Aelo's suppressed life in Settlement 34. The herbs. The dead bird. Jalo's nightmares.
 - The Blue Sun. The Knower Ceremony. The Elder Stone SINGS. Jalo reveals himself. They run.
 
 **ACT II — THE RUNNING (Ch 4–9)**
+
 - Flight through the Canopy. Aelo refuses the herbs. The world floods in.
 - Sereth introduced — the god disguised as a merchant, misdirecting the Mrak Patrol.
 - Jalo's confession in the hollow tree. Aelo's identity revealed.
@@ -23,12 +26,14 @@
 - CUT TO: The Knife's introduction (intercut). The Chamber. The box. Varas's orders. The hunt begins.
 
 **ACT III — THE LEARNING (Ch 10–15)**
+
 - The Ming monastery. The riverbed. Oren's mind-corridors. Jalo's pain shared.
 - INTERCUT: The Knife's hunt. The Flash Rat. The cloth goes blank. The forgetting accelerates.
 - The lake stone gifted. Departure. The teacher: "Come back and Sing."
 - CLIFFHANGER/PROMISE: The Knife's camp — the Ming tracker says "the mark on your neck." The hunting party moves south. Sereth changes face. The journey continues.
 
 **KEY CINEMATIC SET PIECES:**
+
 1. The Knower Ceremony — Elder Stone singing, Jalo's wall of earth
 2. The Canopy flight — trees making room, the world flooding Aelo's senses
 3. The Ming lake — Aelo's first descent to the riverbed, the Elder Stone beneath
@@ -37,12 +42,14 @@
 ---
 
 ### FILM TWO: THE BREAKING
-**Tagline:** *"The Song is worth the grief."*
+
+**Tagline:** _"The Song is worth the grief."_
 **Runtime target:** ~160 minutes
 **Novel chapters covered:** 16–34 (Part II conclusion, Parts III & IV beginning)
 **Emotional arc:** Training → Convergence → Sacrifice
 
 **ACT I — THE DISCIPLINES (Ch 16–22)**
+
 - The Core. Torvus. The pebble. The sealed people freed (MAJOR SET PIECE).
 - The Volcano — passing through Kasuum. Aelo feels the blade's trajectory.
 - The Sea. Laine's introduction. "Another Chosen One." Grief with better marketing.
@@ -51,6 +58,7 @@
 - INTERCUT: The Knife. The flower goes blank. The stone goes blank. Two items left.
 
 **ACT II — THE SKY (Ch 23–28)**
+
 - The Desert crossing. The Weave-Roads. The Desert elder's philosophy.
 - The ascent. Rise the Saddle Bird. The Clouds. The Refuge.
 - THE BIRTHPLACE — Maera's full story. Aelo's first Sing. Two notes harmonizing. The Clouds shiver.
@@ -60,6 +68,7 @@
 - The descent. Aelo confronts The Knife. "Your father is killing you." The handshake. Reserve Supply 7.
 
 **ACT III — THE CASTLE (Ch 29–34)**
+
 - The approach to the Murkr. The world dying in stages.
 - The castle attacks. Jalo fights the Vine. THE GUARDIAN FALLS (Ch 33 — the emotional climax).
 - The Knife's choice — strikes Jalo, but lets Aelo through.
@@ -68,6 +77,7 @@
 - End of Part III marker. The journey to the Chamber begins.
 
 **KEY CINEMATIC SET PIECES:**
+
 1. Opening the sealed passage in the Core — Aelo's hands go numb, the children's faces
 2. Aelo's first Sing in the Clouds — two notes, the formations shiver, the fog glows gold
 3. The Dog Scene — Varas's horror, the feast, the void
@@ -77,12 +87,14 @@
 ---
 
 ### FILM THREE: THE SONG
-**Tagline:** *"The world remembers."*
+
+**Tagline:** _"The world remembers."_
 **Runtime target:** ~140 minutes
 **Novel chapters covered:** 35–48 (Parts IV & V)
 **Emotional arc:** Confrontation → Singing → Aftermath
 
 **ACT I — THE CHAMBER (Ch 35–37)**
+
 - Aelo descends through the castle. The prisoners. The single memories.
 - The locked room. Aldric. Vero's unfinished sentence.
 - Sereth enters the Murkr in true form. The divine memories stripped. Heals Laine.
@@ -91,6 +103,7 @@
 - "Sing. Let me hear it."
 
 **ACT II — THE SINGING (Ch 38–40)**
+
 - The Knife enters the castle. Confronts his father. The box on the floor. "My memories."
 - The Knife steps aside. Stands between Varas and the corridor.
 - THE SONG — Aelo Sings. Seven notes. Each costs a memory. The lullaby arrives as the seventh.
@@ -102,17 +115,19 @@
 - Aelo survives. Diminished. The cost: memories thinned, vividness reduced. But alive.
 
 **ACT III — THE AFTERMATH (Ch 41–48)**
+
 - The morning after. The grass blade in the Murkr.
 - The Knife's memories return. The feather's story. The stone. The glass. The flower. The cloth.
 - He places the feather on Jalo's chest. The first gift.
 - Vero plants seeds in the dead garden. The unfinished conversation about Varas as a child.
 - The Warden — learning names instead of numbers. The banality of evil.
 - The Ceremony restored — children tested with celebration, not extraction.
-- Sereth on the hill. Mortal. "The gaps are the gift." Laine takes their hand.
+- Sereth on the hill. Mortal. "The gaps are the gift." Laine takes her hand.
 - FINAL SCENE: Aelo in the forest at night. He can't remember Jalo's face. But the earth holds Jalo's footsteps. The rhythm of the limp. The world kept what Aelo lost.
-- He breathes. The air remembers. *Aelo. Breath of remembering.*
+- He breathes. The air remembers. _Aelo. Breath of remembering._
 
 **KEY CINEMATIC SET PIECES:**
+
 1. The Chamber — rows of prisoners, single memories flickering like candles
 2. Varas's confession — the empty room, the need
 3. THE SONG — the seven-note sequence, the worldwide resonance, every Elder Stone blazing

@@ -88,17 +88,17 @@ That night, it begins. Bones ache. Skin too tight. Sweat through clothes. And in
 
 ### Chapter 5 — The Merchant (SERETH) ~2,000 words
 
-POV shift. Sereth as a traveling merchant near Aelo's village. They felt the Elder Stone sing from forty miles away. Their hands tremble. _Finally._
+POV shift. Sereth as a traveling merchant near Aelo's village. She felt the Elder Stone sing from forty miles away. Her hands tremble. _Finally._
 
 Flashback: the last time a stone sang like that — Fletcher, three hundred years ago, Singing the Great Elder Stone into existence and dissolving into the note. Sereth was there.
 
-Back to present. Sereth changes aspect — now an older Canopy woman. On the road, they pass a Mrak Patrol. Sell the captain false information: "The boy went north." The boy went south.
+Back to present. Sereth changes aspect — now an older Canopy woman. On the road, she passes a Mrak Patrol. Sells the captain false information: "The boy went north." The boy went south.
 
-Internal: Sereth has been doing this for decades. Small interventions. Misdirections. They have protected Fletcher's bloodline without touching it directly. The penance they chose.
+Internal: Sereth has been doing this for decades. Small interventions. Misdirections. She has protected Fletcher's bloodline without touching it directly. The penance she chose.
 
-They think of Essa. Her hands. How she held water and asked it to remember being rain. The Elder Stone's song brought her back.
+She thinks of Essa. Her hands. How she held water and asked it to remember being rain. The Elder Stone's song brought her back.
 
-They enter the forest, looking for Jalo — a man they've watched for fifteen years and never spoken to.
+She enters the forest, looking for Jalo — a man she's watched for fifteen years and never spoken to.
 
 **Establishes:** Sereth's true nature (god in disguise), the scope of the protection conspiracy, Essa (the grief), the misdirection, continental stakes — everyone is converging.
 

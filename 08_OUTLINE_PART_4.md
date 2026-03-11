@@ -1,6 +1,6 @@
 # CHAPTER-BY-CHAPTER OUTLINE — Part IV: THE CHAMBER
 
-*"He who takes everything possesses nothing. He who gives everything becomes everything."*
+_"He who takes everything possesses nothing. He who gives everything becomes everything."_
 
 **Chapters 35–42 | ~18,000 words**
 **Hero's Journey:** The Reward → Seizing the Sword → The Road Back
@@ -17,7 +17,7 @@ He finds The Chamber.
 
 It is worse than he imagined. Rows of Elder Stones, each connected by Blood Vine to a living person. Dozens of them. Men, women, some so old they might have been children when they were taken. Their eyes are open. Nobody is home. The room smells like dust and copper and the faintest trace of something sweet — the herbs used to keep their bodies alive while their minds are drained.
 
-Aelo walks among them. He uses the Know — gently, carefully — to touch each one. What he finds is devastating: they're not empty. They're *almost* empty. Each one has a single memory left — the last one the drain couldn't reach, the one buried deepest, the one the person held onto when everything else was taken. A first kiss. A child's laugh. The smell of bread baking. The feeling of rain.
+Aelo walks among them. He uses the Know — gently, carefully — to touch each one. What he finds is devastating: they're not empty. They're _almost_ empty. Each one has a single memory left — the last one the drain couldn't reach, the one buried deepest, the one the person held onto when everything else was taken. A first kiss. A child's laugh. The smell of bread baking. The feeling of rain.
 
 These are people reduced to a single beautiful moment. And that moment is all that keeps them alive.
 
@@ -41,13 +41,13 @@ Aelo weeps. Not for himself. For a king who made a mistake and has had thirty ye
 
 ### Chapter 36 — The Arrival (SERETH) ~2,500 words
 
-Sereth enters the Murkr. They have walked here in their true form — not a disguise, not an aspect, but themselves. Ancient. Tired. Nearly human. Their divinity is a candle in a hurricane, guttering with every step into the void.
+Sereth enters the Murkr. She has walked here in her true form — not a disguise, not an aspect, but herself. Ancient. Tired. Nearly human. Her divinity is a candle in a hurricane, guttering with every step into the void.
 
-The Murkr resists them. It was designed (by Varas, unknowingly) to repel divine memory — the oldest memory in the world. Walking through it is like walking upstream in a river of forgetting. Sereth loses things with every step: the color of the sky the day they gave Fletcher the gift. The sound of the other gods' voices. The feeling of being infinite.
+The Murkr resists her. It was designed (by Varas, unknowingly) to repel divine memory — the oldest memory in the world. Walking through it is like walking upstream in a river of forgetting. Sereth loses things with every step: the color of the sky the day she gave Fletcher the gift. The sound of the other gods' voices. The feeling of being infinite.
 
-They don't care. They've been losing pieces of themselves for centuries. This is just the final mile.
+She doesn't care. She's been losing pieces of herself for centuries. This is just the final mile.
 
-They find Laine at the border — unconscious, the Guide in her shattered. Sereth kneels beside her. They look at her hands. Essa's hands. They allow themselves one moment of grief, then they Heal her — the last significant act of magic they may ever perform. The last flicker of divine power, spent on the granddaughter of the woman they loved.
+She finds Laine at the border — unconscious, the Guide in her shattered. Sereth kneels beside her. She looks at her hands. Essa's hands. She allows herself one moment of grief, then she Heals her — the last significant act of magic she may ever perform. The last flicker of divine power, spent on the granddaughter of the woman she loved.
 
 Laine wakes. She sees Sereth's true face — not old, not young, not human, not god. Something in between. Something that has been in between for a very long time.
 
@@ -65,7 +65,7 @@ Laine's Guide-sight, even damaged, can feel the trajectory of what's about to ha
 
 "He's going to become something else. Whether that's death depends on how much help he has."
 
-Sereth tells Laine the truth — quickly, without embellishment. Who they are. What magic is. Why they gave it to humanity. What the Song is. What it costs. And what they need Laine to do: carry Sereth into the Chamber, because Sereth's nearly-mortal body can't survive the void alone. But once inside, Sereth can serve as a conduit — a bridge between Aelo and the prisoners, amplifying the Sing so that it reaches everyone.
+Sereth tells Laine the truth — quickly, without embellishment. Who she is. What magic is. Why she gave it to humanity. What the Song is. What it costs. And what she needs Laine to do: carry Sereth into the Chamber, because Sereth's nearly-mortal body can't survive the void alone. But once inside, Sereth can serve as a conduit — a bridge between Aelo and the prisoners, amplifying the Sing so that it reaches everyone.
 
 "Why can't he do it alone?"
 
@@ -111,11 +111,11 @@ He is not asking for sympathy. He is stating facts. The way a doctor describes a
 
 "I can't. Stopping is silence. And silence is all I've ever known. You don't understand what it's like to live in a world that sings and hear nothing. You, with your gifts, your sensitivities, your tears over dead birds — you don't know what I would give to feel what you feel for one single breath."
 
-Aelo looks at the King. And for the first time, he does what his magic was born to do: he feels Varas. Not his thoughts. Not his memories. His *absence*. The void. The hollow where a soul should be. The deafening, screaming silence that Varas has lived in his entire life.
+Aelo looks at the King. And for the first time, he does what his magic was born to do: he feels Varas. Not his thoughts. Not his memories. His _absence_. The void. The hollow where a soul should be. The deafening, screaming silence that Varas has lived in his entire life.
 
 And Aelo understands.
 
-Varas isn't evil. Varas is *in pain*. A pain so absolute and so primal — the pain of being excluded from existence itself — that it has warped him into the thing he is.
+Varas isn't evil. Varas is _in pain_. A pain so absolute and so primal — the pain of being excluded from existence itself — that it has warped him into the thing he is.
 
 "I'm sorry," Aelo says.
 
@@ -145,7 +145,7 @@ He doesn't stop him. Not because he's redeemed. Not because he's choosing good. 
 
 The Knife enters the castle. He followed Aelo. He doesn't know why. He thinks he's following orders (bring the boy to his father). He's lying to himself. He's following the note he heard when he touched the Elder Stone. He's following the blue feather.
 
-He reaches the throne room. He sees his father. He sees Aelo. He sees the web of Blood Vine — and now, knowing what to look for, he sees *his* thread. The thin, almost invisible vine running from the mark on his neck, through the wall, into the network. Labeled, somewhere in his father's taxonomy: Reserve Supply 7.
+He reaches the throne room. He sees his father. He sees Aelo. He sees the web of Blood Vine — and now, knowing what to look for, he sees _his_ thread. The thin, almost invisible vine running from the mark on his neck, through the wall, into the network. Labeled, somewhere in his father's taxonomy: Reserve Supply 7.
 
 He walks to his father's throne. Varas watches him approach.
 
@@ -189,13 +189,13 @@ He steps to the side. He stands with his box at his feet, between his father and
 
 ### Chapter 39 — The Conduit (SERETH / AELO) ~2,500 words
 
-Sereth and Laine arrive in the Chamber. Sereth is barely standing — the Murkr has stripped almost everything divine from them. They are shaking, frail, mortal in every way that matters. But their eyes — their eyes are still god's eyes. They have seen the beginning of the world, and they want to see this.
+Sereth and Laine arrive in the Chamber. Sereth is barely standing — the Murkr has stripped almost everything divine from her. She is shaking, frail, mortal in every way that matters. But her eyes — her eyes are still god's eyes. She has seen the beginning of the world, and she wants to see this.
 
-Sereth takes position at the center of the Chamber, among the prisoners. They begin unwinding the Blood Vine from the captives — not with magic but with their hands, pulling the parasitic tendrils from skin gently, carefully, the way you'd remove thorns from a child.
+Sereth takes position at the center of the Chamber, among the prisoners. She begins unwinding the Blood Vine from the captives — not with magic but with her hands, pulling the parasitic tendrils from skin gently, carefully, the way you'd remove thorns from a child.
 
 Each freed prisoner gasps. Their single remaining memory flares — a first kiss, a child's laugh, bread baking, rain — and then settles. They're not restored. They're still almost empty. But they're disconnected. Free. For the first time in years, no one is pulling at what little they have left.
 
-Sereth connects the Blood Vine to themselves. Voluntarily. They take the conduit that was draining dozens and they point it at their own chest.
+Sereth connects the Blood Vine to herself. Voluntarily. She takes the conduit that was draining dozens and she points it at her own chest.
 
 "What are you doing?" Laine asks.
 
@@ -205,11 +205,11 @@ Sereth connects the Blood Vine to themselves. Voluntarily. They take the conduit
 
 "Everything I was. But I haven't been a god in a very long time. I've been a person who remembers being one. Now I'll just be a person."
 
-They smile. It's the first real smile Laine has seen from them. It transforms their face. For a moment — just a moment — they look the way they must have looked when the world was new and they decided to give humanity the most dangerous gift in the universe: the ability to matter.
+She smiles. It's the first real smile Laine has seen from her. It transforms her face. For a moment — just a moment — she looks the way she must have looked when the world was new and she decided to give humanity the most dangerous gift in the universe: the ability to matter.
 
-Sereth turns to the locked door. Aldric. Vero. They open it — with their own hand, because the stone remembers *them*. They are older than the castle. Older than the throne. The stone was young when they walked the earth.
+Sereth turns to the locked door. Aldric. Vero. She opens it — with her own hand, because the stone remembers her. She is older than the castle. Older than the throne. The stone was young when she walked the earth.
 
-They touch Aldric's face. "I'm sorry, old friend. I should have come sooner."
+She touches Aldric's face. "I'm sorry, old friend. I should have come sooner."
 
 Aldric's eyes focus. For the first time in thirty years, he sees someone he recognizes — not a face but a presence. The god who started everything. His lips move. One word, barely audible: "Finally."
 
@@ -219,9 +219,9 @@ Everything is ready. The conduit is set. The prisoners are disconnected from Var
 
 Laine takes position by the door. Her Guide-sight is still damaged, but she can feel the trajectory of this moment. Everything — every thread of every life in this room — is converging on a single point. A single note.
 
-She closes her eyes and prays to gods she doesn't believe in. Sereth hears the prayer and thinks: *I believe in you instead. That's always been enough.*
+She closes her eyes and prays to gods she doesn't believe in. Sereth hears the prayer and thinks: _I believe in you instead. That's always been enough._
 
-**Establishes:** Sereth's final sacrifice (becoming the conduit), the prisoners freed from Varas's drain, Aldric and Vero reconnected to the network, the mechanics of the Sing prepared, Sereth's full arc completed — from god who gave the gift to mortal who gives the last of themselves.
+**Establishes:** Sereth's final sacrifice (becoming the conduit), the prisoners freed from Varas's drain, Aldric and Vero reconnected to the network, the mechanics of the Sing prepared, Sereth's full arc completed — from god who gave the gift to mortal who gives the last of herself.
 
 ---
 
@@ -260,7 +260,7 @@ Seven notes. The Sing.
 
 The sound that comes out of him is not a sound. It is a feeling. It is the feeling of being remembered. Of mattering. Of being part of something so vast and so beautiful that individual identity becomes irrelevant — not destroyed, but transcended. Like a drop of water joining the ocean and discovering that it was always the ocean, it had just forgotten.
 
-The Song pours through Sereth — who screams, not in pain but in recognition. They hear it. After centuries of waiting, they hear a human Sing. And it is more beautiful than anything the gods ever created. Their divinity burns away like paper in a flame, and they don't care, because the sound is worth it. Everything was worth it.
+The Song pours through Sereth — who screams, not in pain but in recognition. She hears it. After centuries of waiting, she hears a human Sing. And it is more beautiful than anything the gods ever created. Her divinity burns away like paper in a flame, and she doesn't care, because the sound is worth it. Everything was worth it.
 
 The Song reaches the prisoners. Their single memories ignite — not destroyed but multiplied. The first kiss becomes every kiss. The child's laugh becomes every child. The bread becomes every meal shared with love. The rain becomes every storm that ever cleaned the world. Their memories GROW. The Song doesn't replace what was taken — it reminds them of what memory MEANS. And from that seed, new memories can grow.
 
@@ -280,7 +280,7 @@ He closes his eyes. A tear runs down bark-textured skin.
 
 Then the stolen magic unravels. Every memory Varas consumed is released — pulled from him and returned to the world through Sereth's conduit. He diminishes. The enormous, inhuman figure shrinks. The bark-skin softens. The stone-eyes clear. He becomes small. Old. Ordinary. A man sitting in a chair that's too big for him, in a room that's too empty, hearing the last echo of a sound he waited his entire life to hear.
 
-He dies in silence. The same silence he was born into. But this time, the silence comes after the music. And even silence sounds different when you know what it's silent *after*.
+He dies in silence. The same silence he was born into. But this time, the silence comes after the music. And even silence sounds different when you know what it's silent _after_.
 
 **Establishes:** The Sing — the climax of the entire novel. Every thread pays off: the disciplines, the prisoners, Aldric, Vero, Sereth, the Elder Stones, the Song, Varas's moment of hearing, Maera's lullaby as the seventh note, Aelo's sacrifice. This chapter should be the goosebumps chapter. This is the reason the book exists.
 
@@ -302,7 +302,7 @@ He doesn't remember the Canopy at dawn. The Ming lake. The first time he saw the
 
 He is still Aelo. He knows who he is. He knows what he did and why. But the fine details of his life — the textures, the colors, the small specific joys that make a life feel lived — are thinned. Not gone. Thinned. Like a painting left in the sun. The shapes are there. The vibrancy is muted.
 
-He sits in the quiet Chamber and takes stock of what he has left. Some memories survived — the ones that were deepest, the ones he held tightest. The bird in his hands that died. The feeling of Jalo's love (not the face, the *feeling*). The sound of the Elder Stone singing in the ceremony square. The wind catching him on the ledge.
+He sits in the quiet Chamber and takes stock of what he has left. Some memories survived — the ones that were deepest, the ones he held tightest. The bird in his hands that died. The feeling of Jalo's love (not the face, the _feeling_). The sound of the Elder Stone singing in the ceremony square. The wind catching him on the ledge.
 
 And one more: the lullaby. His mother's note. The seventh note. It lives in him still — not as a memory but as part of his blood. It's in his bones now. It will never leave.
 
@@ -330,13 +330,13 @@ The memory is back. Complete. Vivid. The color of the sky. The smell of the air.
 
 He picks up the river stone. He remembers: a river crossing in Bahar. He stopped to rest and put his hand in the water and pulled out this stone, and it fit his palm perfectly, and he thought — the word he didn't have for beautiful, he found it here. The stone felt like it was made for his hand.
 
-The sea glass: a beach near the Volcano coast. He was fifteen. He'd just killed a man — his first. He walked the shore afterward, numb, hollow. He found the glass. Green as springtime. He picked it up and thought: *the world makes beautiful things out of broken ones.* It was the most sophisticated thought he'd ever had, and he carried the glass to remember it.
+The sea glass: a beach near the Volcano coast. He was fifteen. He'd just killed a man — his first. He walked the shore afterward, numb, hollow. He found the glass. Green as springtime. He picked it up and thought: _the world makes beautiful things out of broken ones._ It was the most sophisticated thought he'd ever had, and he carried the glass to remember it.
 
-The dried flower: growing through a crack in the prison floor. Life where there shouldn't be. He took it not because it was beautiful but because it was *stubborn*. Because it refused to accept that the floor was stone and not soil. He admired it.
+The dried flower: growing through a crack in the prison floor. Life where there shouldn't be. He took it not because it was beautiful but because it was _stubborn_. Because it refused to accept that the floor was stone and not soil. He admired it.
 
-The cloth: a woman. A prisoner. She was being led to the Chamber. She saw him standing guard and she smiled. Not a pleading smile, not a terrified smile. A real one. As if to say: *I see you. I know what you are. And I'm not afraid of you.* He'd never been unafraid of. The cloth was all that was left after she was drained.
+The cloth: a woman. A prisoner. She was being led to the Chamber. She saw him standing guard and she smiled. Not a pleading smile, not a terrified smile. A real one. As if to say: _I see you. I know what you are. And I'm not afraid of you._ He'd never been unafraid of. The cloth was all that was left after she was drained.
 
-He holds each object and weeps. Not because of grief. Because of *return*. The things that were taken are back. The beautiful things exist again.
+He holds each object and weeps. Not because of grief. Because of _return_. The things that were taken are back. The beautiful things exist again.
 
 He closes the box. He puts it in his coat. He walks out of the throne room, past his father's body, through the castle that is slowly reverting to Fletcher's clean stone.
 
@@ -346,4 +346,4 @@ He does not look back.
 
 ---
 
-*End of Part IV. Continues in 09_OUTLINE_PART_5.md*
+_End of Part IV. Continues in 09_OUTLINE_PART_5.md_
