@@ -26,8 +26,7 @@ He closed them. The darkness was not dark — his Know filled it with the emotio
 
 He felt it.
 
-Not the throw — the _trajectory_. Before the stone left her hand, before the muscles fired, before the wrist snapped and the fingers released. The trajectory existed before the action that created it. The stone was going somewhere, and the going was already present in the world's momentum — encoded in the angle of Laine's shoulder, in the tension of her wrist, in the direction her body was facing and the speed of the wind and the height of the tide and the ten thousand small factors that the world was already processing, the calculation happening not in a mind but in the fabric of reality itself, the same fabric that carried the ocean's memory and the stone's memory and the memory of every throw that had ever been thrown on every shore in the history of the world.
-
+Not the throw — the _trajectory_. Before the stone left her hand, before the muscles fired, before the wrist snapped and the fingers released. The trajectory existed before the action that created it. The stone was going somewhere, and the going was already present in the world's momentum — encoded in the angle of Laine's shoulder, in the tension of her wrist, in the direction her body was facing and the speed of the wind and the height of the tide and the ten thousand small factors that the world was already processing, the calculation happening not in a mind but in the fabric of reality itself,
 The stone left her hand. He felt the arc — not as sight but as momentum, as the physical sensation of a thing in flight, the world's memory of the throw updating in real time as the stone crossed the air and the air parted and the gravity pulled and the trajectory completed itself the way a sentence completes itself when the grammar is correct and the words are in the right order.
 
 "Twenty-two feet," he said. "Slightly left of center. Three skips."
@@ -42,7 +41,7 @@ He opened his eyes. Laine was looking at him. The restless eyes had settled agai
 
 "I know. I can read it in your momentum — the Guide sense opened early in you, without training, which means it was already there. Already part of whatever you are." She paused. The wind caught her hair. "The disciplines don't open early in normal people. They require training, practice, the slow accumulation of skill. Yours are opening because something underneath them is waking up, and the waking is activating the disciplines the way a tuning fork activates the strings that share its frequency."
 
-She did not say _the Song_. She did not need to. The word hung between them — unspoken, understood, carrying the specific weight of a thing that everyone around him knew and that Aelo was approaching from the inside, feeling its shape the way a blind man feels a room, moving toward a center he could not yet see but could feel pulling.
+The word hung between them — unspoken, understood, carrying the specific weight of a thing that everyone around him knew and that Aelo was approaching from the inside, feeling its shape the way a blind man feels a room, moving toward a center he could not yet see but could feel pulling.
 
 ---
 
@@ -64,7 +63,7 @@ He felt Jalo first. The guardian's trajectory was a straight line — direct, un
 
 "I don't want to feel it."
 
-"The Guide doesn't care what you want to feel. The Guide shows you where things are going. Your job is not to accept or reject. Your job is to see." She stopped walking. The wind pressed her jacket against her frame and she stood in it — small, angular, immovable in the way that certain people are immovable not because they are large but because they have decided where they are standing and the deciding is complete. "I have been seeing grief at the end of every trajectory for ten years. Every person I guide, every future I read — grief. The grief is always there. The question is not whether the grief comes. The question is what the grief buys."
+"The Guide doesn't care what you want to feel. The Guide shows you where things are going. Your job is not to accept or reject. Your job is to see." She stopped walking. The wind pressed her jacket against her frame and she stood in it — small, angular, immovable in the way that certain people are immovable not because they are large but because they have decided where they are standing and the deciding is complete. "I have been seeing grief at the end of every trajectory for ten years. The grief is always there. The question is not whether the grief comes. The question is what the grief buys."
 
 They walked. Aelo did not reach for Jalo's trajectory again. But it was there — a line in the air beside him, straight and short and ending at a point that he could feel the way you feel the edge of a cliff when you're standing near it with your eyes closed. Present. Undeniable. The momentum of a man walking toward a wall with full knowledge and full acceptance and the specific, impossible courage of a person who has decided that the wall is worth reaching.
 
@@ -124,13 +123,13 @@ Laine looked at him. The restless eyes — which had stilled for the reading and
 
 "You haven't even asked what happens to you."
 
-"I know what happens to me. I heard it in your silence. You couldn't say it because saying it would make it real and the real is the grief and the grief is the cost." He looked at her. The Know — still learning, still raw, still flooding him with every emotion in the vicinity — carried her surprise and beneath the surprise her fear and beneath the fear her respect and beneath the respect, buried so deep that she probably did not know it was there, a fragile, terrified, desperately-held hope that had been waiting for exactly this: not a boy who needed to be convinced but a boy who had already decided. "The first two futures aren't futures. They're refusals. The third one is the only one where I'm actually alive."
+"I know what happens to me. I heard it in your silence. " He looked at her. The Know — still learning, still raw, still flooding him with every emotion in the vicinity — carried her surprise and beneath the surprise her fear and beneath the fear her respect and beneath the respect, buried so deep that she probably did not know it was there, a fragile, terrified, desperately-held hope that had been waiting for exactly this: not a boy who needed to be convinced but a boy who had already decided. "The first two futures aren't futures. They're refusals. The third one is the only one where I'm actually alive."
 
 "That's not how the Guide works. You're supposed to deliberate. To weigh. To process the trajectories before—"
 
 "I'm not a trajectory. I'm a person. And the person is choosing."
 
-The words landed on the beach between them with a weight that was not the weight of bravado or the weight of ignorance. It was the weight of a boy who had spent fifteen years being carried — by herbs, by lies, by a guardian who loved him too much to let him be what he was — and who had decided, on a beach, under stars, with the ocean breathing and the trajectories converging and a woman who saw three futures looking at him as if he had just done something she had never seen a Chosen One do before: choose before he was cornered.
+The words landed on the beach between them with a weight that was not the weight of bravado or the weight of ignorance. It was the weight of a boy who had just done something Laine had never seen a Chosen One do before: choose before he was cornered.
 
 Laine was quiet for a long time. The ocean breathed. The stars carried their ancient light.
 
@@ -154,7 +153,7 @@ He was terrified. The terror was not new — it had been with him since the herb
 
 Purpose.
 
-Not the purpose of prophecy — not the external assignment, the hero's mandate, the chosen-one's obligation. An internal purpose. The specific, private, unreplicable conviction of a boy who had spent fifteen years being nothing and who had, over the course of four regions and four teachers and four disciplines, discovered that the nothing was not absence but potential. That the silence he had lived in was not emptiness but preparation. That the listening he had been doing all his life — to Jalo's stories, to the herbs' hum, to the world's noise — had been training. Training for a Song he could not yet sing but could feel building in him, note by note, discipline by discipline, cost by cost, the way a cathedral is built — stone by stone, arch by arch, each piece supporting every other piece, the whole becoming larger than the sum of its parts because the parts were not added but harmonized.
+Not the purpose of prophecy — not the external assignment, the hero's mandate, the chosen-one's obligation. An internal purpose. The specific, private, unreplicable conviction of a boy who had spent fifteen years being nothing and who had, over the course of four regions and four teachers and four disciplines, discovered that the nothing was not absence but potential. Training for a Song he could not yet sing but could feel building in him, note by note, discipline by discipline, cost by cost, the way a cathedral is built — stone by stone, arch by arch, each piece supporting every other piece, the whole becoming larger than the sum of its parts because the parts were not added but harmonized.
 
 He held the lake stone. He could not feel it. He could hear it. He could hear everything — the ocean, the stone, the sleeping bodies on the beach, the hunting party moving south, the orbit circling inward, the pull from the center. The world was a web of trajectories, and he was the point where the web converged, and the convergence was not a destination but a beginning.
 

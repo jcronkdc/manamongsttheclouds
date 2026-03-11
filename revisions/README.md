@@ -42,6 +42,18 @@ Snapshot taken before the Part I editorial pass began. Represents the manuscript
 - Ch1 subtle polish pass (9 sensory/rhythm upgrades)
 - All per-part DOCX, full manuscript DOCX, print copy, and Part I EPUB rebuilt
 
+### rev02 — Part II editorial pass (Mar 10, 2025)
+
+- ~50 "one beat too far" prose trims across Ch11-22
+- Motif threading: iron taste (Ch13, Ch16, Ch18, Ch19, Ch22), coal (Ch14, Ch22), filing system (Ch13)
+- Ch13: iron taste when Aelo sees normal childhood he was denied; filing system after Oren's consent lesson (reframes Jalo's herbs and Sereth's observation as violations)
+- Ch14: coal stirs when Aelo watches warm Jalo — "the warmth was the cruelest part"
+- Ch16: iron taste on day-two anger; wanting-vs-listening acknowledged in pebble success
+- Ch18: iron taste when numbness first hits
+- Ch19: full iron taste when blade's trajectory enters flesh — "the taste of a world that made beautiful things and pointed them at people"
+- Ch22: coal transforms into conviction at "We can't keep running" — "Something the anger had become after being carried long enough: conviction"
+- All per-part DOCX, full manuscript, print copy, and Part I EPUB rebuilt
+
 ## Workflow
 
 1. When starting a new editing pass, copy the latest rev and increment the number:

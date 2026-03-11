@@ -22,7 +22,7 @@ Oren studied him. The flat black eyes — depthless, volumetric, the eyes of a p
 
 "Give me your hands," Oren said.
 
-Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused in the specific pattern of a man who spent hours each day with his palms pressed to stone floors. The physical contact amplified the Know immediately — Oren's heartbeat went from background data to foreground texture, the pulse no longer a number but a landscape, each beat carrying a cargo of memory and intention and the accumulated experience of twenty years of living inside a mind that had been taught to curate itself.
+Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused in the specific pattern of a man who spent hours each day with his palms pressed to stone floors. The physical contact amplified the Know immediately — Oren's heartbeat went from background data to foreground texture, the pulse no longer a number but a landscape, each beat carrying a cargo of memory and intention.
 
 "Close your eyes," Oren said. "Listen through your hands. Not for emotion — for structure. The shape of my memory. The architecture. Follow it in."
 
@@ -48,7 +48,7 @@ The woman was his mother. Aelo knew this not because the memory contained a labe
 
 Aelo watched. The memory was complete — not a fragment, not a highlight, but a full, unedited morning. The light on the wall. The smell of the moss. The sound of the woman humming — a Ming tune, pentatonic, the notes descending in the pattern that the monastery used for morning meditation. The feel of the comb in the boy's scalp. The slight pull when the braid caught a tangle. The mother's fingers, gentle and sure, working the tangle free without breaking the strand.
 
-It was ordinary. It was the most ordinary thing Aelo had ever witnessed. And it was devastating, because the ordinariness was the point. This was what memory looked like when it was allowed to exist unmolested — not compressed by herbs, not shattered by Elder Stones, not stolen by Blood Vine. Just a morning. Just a mother. Just hair being braided in a room where the light was good.
+It was ordinary. And it was devastating, because the ordinariness was the point. This was what memory looked like when it was allowed to exist unmolested. The iron taste flickered at the back of his throat — brief, familiar, the shadow-anger that surfaced whenever he glimpsed the shape of what had been taken from him — not compressed by herbs, not shattered by Elder Stones, not stolen by Blood Vine. Just a morning. Just a mother. Just hair being braided in a room where the light was good.
 
 The door closed. Aelo was back in the corridor.
 
@@ -62,7 +62,7 @@ A boy — Oren, older now, fourteen or fifteen — standing at the edge of the l
 
 The boy had had a brother. The brother had died.
 
-The memory was organized but not diminished — this was the lesson. Aelo could feel the grief in the room: vast, tidal, the kind of loss that reshapes the landscape of a life the way a flood reshapes a valley. But it was not drowning. It was not the chaotic, suffocating grief that Aelo had felt pouring from Jalo every night for fifteen years — the unprocessed, uncompartmentalized deluge of a man who had never been taught to organize his pain and had used alcohol and silence as substitutes for architecture.
+The memory was organized but not diminished — this was the lesson. Aelo could feel the grief in the room: vast, tidal, the kind of loss that reshapes the landscape of a life the way a flood reshapes a valley. But it was not drowning. It was not the chaotic, suffocating grief that Aelo had felt pouring from Jalo every night for fifteen years — the uncompartmentalized deluge of a man who had never been taught to organize his pain and had used alcohol and silence as substitutes for architecture.
 
 Oren's grief was in a room. The room was visited deliberately. The door was opened on the boy's terms — not flung open by nightmares, not pried open by triggers, not left ajar by the failure of chemical suppression. Opened. Entered. Inhabited for a period. Then exited, and the door closed, and the grief remained inside, honored and contained and always accessible but never permitted to flood the corridors.
 
@@ -88,15 +88,17 @@ The door opened on a garden. Not a physical garden — a memory-garden, a constr
 
 A sunset over the lake — not one sunset but dozens, layered, each one contributing a different quality of light to a composite image that was more vivid than any single memory could be. The sound of rain on stone — years of rain, the pattern slightly different each time, the percussion evolving as Oren's ears grew more sophisticated and his capacity to hear the distinctions between one raindrop and another expanded from crude to subtle to exquisite. The taste of a plum — a specific plum, eaten once, at thirteen, on a morning when the boy had been grief-sick and homesick and a fellow monk had pressed the fruit into his hand without a word, and the sweetness had been so unexpected and so precise that it had broken through the grief like a crack in a dam, and the boy had wept into a plum and been grateful.
 
-This was the room that mattered. Not the organized corridors or the curated grief. The wild garden. The place where memory was not filed but _felt_. Where the monk who appeared expressionless and composed and perfect in his architecture allowed himself to be the thing that architecture was designed to protect: a person. Messy, overwhelmed, full of too many sunsets and not enough plums, carrying a brother's name in a room he visited deliberately and a garden he visited when the deliberation was too much and he needed, simply, to remember what it felt like to be alive.
+This was the room that mattered. Not the organized corridors or the curated grief. The wild garden. The place where memory was not filed but _felt_. Where the monk who appeared expressionless and composed and perfect in his architecture allowed himself to be the thing that architecture was designed to protect: a person. Full of too many sunsets and not enough plums.
 
 "This is what a trained mind looks like," Oren said. "Not the corridors. This. The corridors are the structure. The garden is the reason you build it."
 
 Aelo opened his eyes. He was back in the chamber. Oren's hands in his. The moss-light steady on the walls. His face was wet — he had been crying inside the Know, and the tears had translated to the body.
 
-And there were shadows. Not visual — emotional. The ghost of a comb pulling through hair, a phantom tug at his scalp that was not his memory. A flicker of grief for a brother he had never had, settling into his chest like sediment in still water. The taste of a plum he had never eaten, sweet and startling, fading even as he noticed it. The Know's cost — every truth pulled from another person leaves a shadow in the reader. Oren's memories were retreating back behind their doors, but the echoes lingered, thin and strange, someone else's life pressed briefly into the shape of his own.
+And there were shadows. Not visual — emotional. The ghost of a comb pulling through hair, a phantom tug at his scalp that was not his memory. A flicker of grief for a brother he had never had, settling into his chest like sediment in still water. The taste of a plum he had never eaten, sweet and startling, fading even as he noticed it. Oren's memories were retreating back behind their doors, but the echoes lingered, thin and strange, someone else's life pressed briefly into the shape of his own.
 
 "You saw what I chose to show you," Oren said. "A Knower who enters without permission sees what the mind chooses to defend. The corridors. The locks. The walls." He released Aelo's hands. "Remember this: a mind that shows you its garden is a mind that trusts you. Do not enter where you are not invited. The gardens are sacred."
+
+Aelo filed this. Not in the room with Jalo's lies — this was not deception. Not in the room with Sereth's violations — this was not control. A third room, then. A room for lessons that changed the shape of the ones that came before. Because the monk's words reframed everything: Jalo's herbs had not just silenced Aelo's voice. They had locked every door in his mind without asking. And Sereth's clinical observation in the clearing — _I needed to see what you felt without the warning_ — had been a Knower entering without permission, reading what his mind chose to defend.
 
 ---
 
@@ -122,8 +124,8 @@ The teacher paused. The pause had weight — the weight of a man choosing his ne
 
 "But you heard it on your first day. That is either a gift or a death sentence." He paused again. "Perhaps both."
 
-Aelo surfaced. The noise returned. The pocket reformed. He sat on the wooden platform above the water that remembered being the beginning, and the teacher stood on the surface beside him, and neither of them spoke for a long time, because the thing that needed to be said had been said, and the thing that needed to be understood could only be understood in silence.
+Aelo surfaced. The noise returned. The pocket reformed. He sat on the wooden platform above the water that remembered being the beginning, and the teacher stood on the surface beside him, and neither of them spoke for a long time.
 
-The lake held them both. The stone sang beneath. And somewhere, in the wild garden of Aelo's untrained, unarchitected, storm-battered mind, a new room was forming — not organized, not curated, but real. A room for the tone. A room for the Song. A room that would grow as he grew, and that would, eventually, be large enough to hold what he was becoming.
+The lake held them both. The stone sang beneath. And somewhere, in the wild garden of Aelo's untrained, unarchitected, storm-battered mind, a new room was forming — not organized, not curated, but real. A room for the tone. A room for the Song.
 
 He did not know this yet. The teacher did. The teacher's expressionless face held the knowledge the way the lake held the stone: deep, hidden, sustained by the particular endurance of people who had been listening to the world for three hundred years and had never stopped being afraid of what they heard.
