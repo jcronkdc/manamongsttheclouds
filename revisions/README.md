@@ -42,6 +42,14 @@ Snapshot taken before the Part I editorial pass began. Represents the manuscript
 - Ch1 subtle polish pass (9 sensory/rhythm upgrades)
 - All per-part DOCX, full manuscript DOCX, print copy, and Part I EPUB rebuilt
 
+### rev03 — AI-pattern fixes (Mar 11, 2025)
+
+- Rewrote 8 instances of "Not X. Not Y." mirrored negation across Ch1, Ch4, Ch7, Ch9, Ch13, Ch14, Ch22
+- Varied sentence structures to avoid detectable AI rhetorical patterning
+- Restored Ch9 kneeling scene accidentally overwritten in previous edit
+- Cut self-explaining foreshadowing in Ch4 coal passage
+- All builds rebuilt, website synced, 154,219 total words
+
 ### rev02 — Part II editorial pass (Mar 10, 2025)
 
 - ~50 "one beat too far" prose trims across Ch11-22
