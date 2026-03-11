@@ -110,7 +110,8 @@ He opened his mouth. Closed it. The mechanism of confession — which had been r
 
 Jalo's face — both sides, the scarred and the smooth — produced an expression that Aelo had never seen on it: the expression of a man being seen, fully, by the person he had spent fifteen years hiding from. The expression was not pain. It was the end of pain.
 
-"Not yet," he said again. But the voice was different. The _please_ was gone. What remained was not refusal but confession — the acknowledgment that the truth existed, that the truth was owed, that the delay was not protection but cowardice,
+"Not yet," he said again. But the voice was different. The _please_ was gone. What remained was not refusal but confession — the acknowledgment that the truth existed, that the truth was owed, that the delay was not protection but cowardice.
+
 Aelo held the man's gaze. He held it the way the stone held the riverbed — without force, without aggression, with the patient, immovable, structurally certain pressure of a person who was not going to look away because looking away was what the old Aelo would have done, and the old Aelo had swallowed the herbs every morning and accepted the silence every night and never once said _no_ to the man who loved him, and the never-once was over.
 
 "Okay," Aelo said. Not surrender — a choice. The specific, deliberate, eyes-open choice of a person who could push harder and was choosing not to, not because the pushing was wrong but because the man in front of him had said _please_ and the _please_ was new and the newness meant the wall was coming down on its own and the pushing would only slow the falling. "But soon."
