@@ -83,6 +83,7 @@ Laine stood beside him. Her Guide-sight was reassembling — the shattered piece
 He almost smiled. Almost. The muscles for it were still learning — the face that had been compressed for fifteen years and then stretched by growth and then thinned by the Song's cost was still discovering which expressions it could produce and which it could not. The smile was possible. The smile was close. The smile was a work in progress.
 
 The ceremony continued. Children and Knowers and parents and the specific, ancient, beautiful, restored act of the world discovering what its children carried in their blood. Not an extraction. Not a taking. A finding. A celebrating.
+
 Aelo watched. The lake stone was in his numb left hand. The mark on his wrist pulsed — single, steady, alone. The lullaby hummed in his bones — quiet, sustained, the seventh note, his mother's note, the contribution he would carry for the rest of his life.
 
 He was not a hero. He was not a chosen one. He was a man who had listened and who had Sung and who had lost some things and who was learning, one morning at a time, what came after the Song.
