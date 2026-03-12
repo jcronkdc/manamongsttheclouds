@@ -16,6 +16,8 @@ And at the base of the nearest petrified tree, pushing through the damp, dark, n
 
 Single. Thin. Pale green — not the vivid, breathing green of the Canopy but the tentative, fragile, newly-born green of a thing that had not existed yesterday and that was here today because the Song had reached the soil and the soil had remembered and the remembering had produced, from the seed that had been dormant in the dead earth for decades, a single blade of grass.
 
+And beside it, almost too small to notice: Armored Ants. A column of them, emerging from a crack in the petrified root — their plated bodies catching the grey dawn light as they carried grains of dark soil to the surface. They had survived down there. Decades of the Murkr's silence, decades of the draining pulling every living memory from the land above, and the ants had endured beneath it — armored, patient, waiting in their deep galleries for the earth to remember how to hold them. The earth had remembered. The ants were answering.
+
 The Desert elder's words: _Some days a flower grows where there shouldn't be one. Those are the days we celebrate._
 
 Aelo looked at the grass and felt — something. Not the full, devastating, overwhelming flood of emotion that the Know had once carried. A quieter version. The Song's cost had thinned his sensitivity — the emotional weather arriving through the pane of glass that now separated him from the world's full vividness. But the something was there. The something was: hope. The specific, fragile, newly-born hope that matched the grass — thin, pale, tentative, pushing through soil that had been dead and was not dead anymore.
