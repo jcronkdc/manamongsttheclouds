@@ -6,7 +6,7 @@
 
 Before there were kings, before there were borders drawn in blood and magic hoarded like grain before winter, the world sang to itself.
 
-It was not a sound that men would recognize as song — not melody, not rhythm, not the lilt of a mother's voice over a cradle. It was deeper than that. Older. It was the sound of stone remembering the mountain it had been. The sound of water remembering the glacier that bore it. The sound of fire remembering the first spark that ever split the dark, and the dark remembering what it was before the spark came. Everything remembered. The soil remembered the roots that had passed through it. The wind remembered the cliff faces it had broken against. The rain remembered being sea, and the sea remembered being rain. And between them the air hummed with the accumulated memory of every drop that had ever fallen and risen and fallen again since the world was young.
+It was not a sound that men would recognize as song — not melody, not rhythm, not the lilt of a mother's voice over a cradle. It was deeper than that. Older. It was the sound of stone remembering the mountain it had been. The sound of water remembering the glacier that bore it. Fire recalling the first spark that ever split the dark, and the dark holding fast to what it was before the spark came. Everything remembered. The soil knew the roots that had passed through it. The wind carried the shape of every cliff face it had broken against. The rain remembered being sea, and the sea remembered being rain. And between them the air hummed with the accumulated memory of every drop that had ever fallen and risen and fallen again since the world was young.
 
 This was magic. Not a force to be wielded or a power to be taken. A conversation. The world speaking to itself in a language older than words, and all living things — from the Armored Ants marching their slow columns through the loam to the vast and silent Hollow Whales that moved through the deep ocean like slow thunder — all of them listening. All of them part of the song.
 
@@ -114,7 +114,7 @@ The man ran. The baby screamed. And then the baby stopped screaming and breathed
 
 _A breath of remembering._
 
-The man looked down at the child in his arms. He was weeping. His ruined face was wet with tears and blood and soot, and his knee was failing, and behind him the nursery was collapsing into flame, and the woman he had sworn to protect was gone, and the order he served was ash, and the world he knew was ending.
+The man looked down at the child in his arms. He was weeping. His ruined face was wet with tears and blood and soot, his knee failing. Behind him the nursery was collapsing into flame. The woman he had sworn to protect was gone. The order he served was ash. The world he knew was ending.
 
 But the child breathed. And the air remembered.
 

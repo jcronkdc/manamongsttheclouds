@@ -36,6 +36,7 @@ export default function Footer() {
                 { href: "/world", label: "World Guide" },
                 { href: "/the-magic-system", label: "The Magic System" },
                 { href: "/characters", label: "Characters" },
+                { href: "/short-stories", label: "Short Stories" },
                 { href: "/about-the-author", label: "The Author" },
                 { href: "#excerpt", label: "Read an Excerpt" },
                 { href: "#read", label: "Buy Part I" },

@@ -26,7 +26,7 @@ Another silence. Longer. The stone in The Knife's hand passed from warm to hot a
 
 It was not a question. The Knife looked across the village square to where the Elder Stone sat on its platform, two guards flanking it, the residual hum pressing against the edge of hearing like a sound remembered rather than produced. He had not included this in his report. He had not decided how to include it. The singing stone was a fact that belonged to the category of things his father would want to know and that The Knife, for reasons he had not examined and did not intend to examine, was reluctant to surrender.
 
-"Yes," he said. Because lying to his father was not a skill he possessed. Withholding was possible — the difference between offering and being asked — but direct deception required a kind of freedom that The Knife had never been granted. His father could Know. Not powerfully — the stolen Know that Varas operated was degraded, a blurred copy of a copy — but enough to detect the specific cardiac signature of a son telling a lie. The Knife had tested this once, at fourteen, with a minor falsehood about a training exercise. He had not tested it again.
+"Yes," he said. Because lying to his father was not a skill he possessed. Withholding was possible — the difference between offering and being asked — but direct deception required a kind of freedom that The Knife had never been granted. His father could Know. Not powerfully — the stolen Know that Varas operated was degraded, a blurred copy of a copy — but enough to detect the cardiac signature of a son telling a lie. The Knife had tested this once, at fourteen, with a minor falsehood about a training exercise. He had not tested it again.
 
 "Describe the singing."
 
@@ -148,7 +148,7 @@ A stone that fit his hand. In a life where nothing fit. He had carried it ever s
 
 The sea glass. Green. The green of deep water, of light filtered through fathoms, of a color that existed only when the sun and the sea collaborated on something neither could produce alone. He did not remember where he had found it. He knew that he had known, once. He knew that the knowing had been taken. The sea glass sat in his palm and it was beautiful and it was his and the memory of why was a room with the furniture removed.
 
-The dried flower. Papery petals, still holding a ghost of scent — something sweet, something that tasted like morning when he pressed it close to his face, though the taste was fainter than the last time, and the last time had been fainter than the time before. It had been growing through a crack in a stone floor. A prison floor. He remembered the crack and the stone and the impossibility of a living thing choosing to grow in a place designed to end living things, and he remembered thinking — with the specific, startled clarity of a man encountering an idea for the first time — that beauty did not require permission.
+The dried flower. Papery petals, still holding a ghost of scent — something sweet, something that tasted like morning when he pressed it close to his face, though the taste was fainter than the last time, and the last time had been fainter than the time before. It had been growing through a crack in a stone floor. A prison floor. He remembered the crack and the stone and the impossibility of a living thing choosing to grow in a place designed to end living things, and he remembered thinking — with the startled clarity of a man encountering an idea for the first time — that beauty did not require permission.
 
 The scrap of cloth. Fine-woven. The kind used for infant swaddling, with a stitch pattern he did not recognize — not Canopy, not Core, not Volcano. Cloud work, perhaps, though he had no basis for this thought beyond the texture and the feeling it produced in his chest, which was not the hollow's usual ache but something warmer, something that reached across the gap and almost — _almost_ — touched the other side.
 
@@ -158,7 +158,7 @@ She had smiled at him anyway. And he had torn the cloth from her garment after s
 
 _Evidence that I can feel something. Evidence that the hollow is not everything. Evidence that there is a part of me that my father has not found and has not taken and that is mine._
 
-He held the cloth in one hand and pressed the other to his chest, over the hollow, and the hollow pulsed — not with the sharp, specific warmth of the Elder Stone, but with the duller, persistent ache of a wound that has been open so long the body has stopped trying to close it and has simply built itself around the absence.
+He held the cloth in one hand and pressed the other to his chest, over the hollow, and the hollow pulsed — not with the sharp warmth of the Elder Stone, but with the duller, persistent ache of a wound that has been open so long the body has stopped trying to close it and has simply built itself around the absence.
 
 _You have been draining me since I was twelve._
 

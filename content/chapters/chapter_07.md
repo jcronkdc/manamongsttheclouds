@@ -22,7 +22,7 @@ Love. Jalo's love tasted like pressure. Like being held too tightly by someone w
 
 "Breathe."
 
-Jalo's voice, from somewhere to his left. Aelo could not see him — his eyes were squeezed shut, his hands clamped over ears that were not the source of the problem — but he could feel him. Every tremor in the old man's hands. Every stitch of pain in the ruined knee. The particular, specific guilt of watching a boy suffer something you caused.
+Jalo's voice, from somewhere to his left. Aelo could not see him — his eyes were squeezed shut, his hands clamped over ears that were not the source of the problem — but he could feel him. Every tremor in the old man's hands. Every stitch of pain in the ruined knee. The guilt of watching a boy suffer something you caused.
 
 "I can't—"
 
@@ -92,7 +92,7 @@ The wanting frightened him. It tasted like something that did not belong to the 
 
 "There it is," Sereth said. Her voice was quiet — the tone of someone checking an item off a list. "The hunger. Fletcher had it too. Your mother had it. Every Singer who has ever carried more than one discipline has felt that exact impulse — the need to take rather than receive. It is the first thing the Song teaches you about yourself."
 
-Aelo looked at her. Through the Know — through the overwhelmed, battered, barely-functioning pocket that was all he had — he felt something in Sereth's emotional register that he had not felt before. Not grief. Not the salt-and-age that had become her default flavor. Something sharper. _Interest._ The focused, specific attention of a person observing a result they had predicted. She was not worried about the hunger. She was watching to see what he did with it.
+Aelo looked at her. Through the Know — through the overwhelmed, battered, barely-functioning pocket that was all he had — he felt something in Sereth's emotional register that he had not felt before. Not grief. Not the salt-and-age that had become her default flavor. Something sharper. _Interest._ The focused attention of a person observing a result they had predicted. She was not worried about the hunger. She was watching to see what he did with it.
 
 "You knew that would happen," Aelo said.
 
@@ -136,6 +136,6 @@ The birds returned to the branches. The insects resumed their frequencies. The e
 
 The forest was loud. Aelo was quiet. And somewhere, at the center of the quiet, the bell was still ringing — but now he could hear it for what it was.
 
-Not an alarm. Not a warning. Not the sound of something wrong.
+Not an alarm. Not a warning.
 
 A tuning fork. Waiting for the rest of the chord.

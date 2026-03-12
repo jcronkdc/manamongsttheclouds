@@ -14,7 +14,7 @@ But the Elder Stone remained.
 
 It sat in the center of the square like a wound that would not close — a rough pillar of grey crystal, three feet tall, veined with the dark thread-marks of Blood Vine that had been torn away in the chaos. The Mrak captain — a competent man named Drell, narwhal horn on his helmet, the kind of officer who followed orders with the minimum required thought — had posted two guards on it. Not because anyone had told him to. Because the stone was still warm.
 
-The Knife walked to it. The square was empty — the villagers confined to their homes, shutters drawn, the universal posture of a community that has learned the specific geometry of making itself small. He could feel their eyes through the cracks. He did not care.
+The Knife walked to it. The square was empty — the villagers confined to their homes, shutters drawn, the universal posture of a community that has learned the geometry of making itself small. He could feel their eyes through the cracks. He did not care.
 
 The stone was unremarkable. Standard survey-grade Elder Stone, installed decades ago for the annual Knowing, maintained by the local Knower, connected to the regional network by Blood Vine that ran underground to the nearest hub. It should have been inert between ceremonies. It should have been cold. It should have been what it was designed to be: a container. A vessel. An empty jar waiting to be filled.
 
@@ -30,7 +30,7 @@ Then the hum deepened.
 
 It did not get louder. It got _wider_. As if the frequency were expanding, filling a space in his chest that he had not known was empty — a cavity, a hollow, a place where something should have been and was not and had not been for as long as he could remember, which was not as long as it should have been, because The Knife could not remember anything before the age of twelve and had trained himself not to think about why.
 
-For half a second, he felt warmth. Not physical warmth — the stone was cool under his hand — but the warmth of _belonging_. Of being part of something. The specific, precise, unbearable warmth of a thing returning to the place it was taken from. As if the hollow in his chest were a socket and the hum were the missing piece and for half a second they were reconnected and he was — he was —
+For half a second, he felt warmth. Not physical warmth — the stone was cool under his hand — but the warmth of _belonging_. Of being part of something. The precise, unbearable warmth of a thing returning to the place it was taken from. As if the hollow in his chest were a socket and the hum were the missing piece and for half a second they were reconnected and he was — he was —
 
 He pulled his hand away.
 
@@ -44,7 +44,7 @@ He did not report the note to his father. The thought of reporting it surfaced a
 
 The Knower was in the schoolhouse. They had put him there after the ceremony — the villagers, not the soldiers — because the schoolhouse was the sturdiest building and because the Knower had collapsed after whispering "Run" and had not fully recovered and there was, among the villagers, a residual respect for the office if not the man, a cultural memory of what Knowers had been before Varas turned them into instruments.
 
-He was gaunt. The Knife had seen gaunt — he maintained forty-seven individuals in the Chamber, each at a different stage of depletion, and he could read the body the way a forester reads tree rings, calculating remaining capacity from skin tone and eye clarity and the specific quality of tremor in the hands. This man was past half-life. He had been drained slowly over years, his Know stripped in increments, and what remained was a scaffold — bone and tendon and the minimum viable quantity of self.
+He was gaunt. The Knife had seen gaunt — he maintained forty-seven individuals in the Chamber, each at a different stage of depletion, and he could read the body the way a forester reads tree rings, calculating remaining capacity from skin tone and eye clarity and the quality of tremor in the hands. This man was past half-life. He had been drained slowly over years, his Know stripped in increments, and what remained was a scaffold — bone and tendon and the minimum viable quantity of self.
 
 "Tell me about the boy."
 

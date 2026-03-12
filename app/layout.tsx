@@ -9,6 +9,7 @@ import {
   buildWebsiteJsonLd,
   buildOrganizationJsonLd,
 } from "@/app/lib/canonical-data";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 const serif = Cormorant_Garamond({
@@ -115,6 +116,7 @@ export default function RootLayout({
           Skip to content
         </a>
         <main id="main-content">{children}</main>
+        <Analytics />
       </body>
     </html>
   );

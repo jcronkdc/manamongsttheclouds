@@ -7,6 +7,7 @@ const links = [
   { href: "/world", label: "World Guide" },
   { href: "/the-magic-system", label: "Magic System" },
   { href: "/characters", label: "Characters" },
+  { href: "/short-stories", label: "Short Stories" },
   { href: "/about-the-author", label: "The Author" },
   { href: "https://stillfirepress.com/read/matc", label: "Read Free" },
 ];

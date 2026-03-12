@@ -15,6 +15,7 @@ const ROOT = join(__dirname, "..");
 const CHAPTERS_DIR = join(ROOT, "content", "chapters");
 const OUTPUT = join(ROOT, "public", "matc-part-one.epub");
 const COVER_SRC = join(ROOT, "public", "cover-part-one.jpg");
+const GLOSSARY_SRC = join(ROOT, "content", "glossary.md");
 
 const CHAPTER_META = [
   { title: "The Herbs", pov: "Aelo" },
@@ -60,6 +61,100 @@ function mdToXhtml(md) {
     .join("\n");
 
   return html;
+}
+
+function mdToGlossaryXhtml(md) {
+  const lines = md.split("\n");
+  const out = [];
+  let inTable = false;
+  let tableRows = [];
+
+  function flushTable() {
+    if (tableRows.length < 2) {
+      inTable = false;
+      tableRows = [];
+      return;
+    }
+    const headers = tableRows[0];
+    const dataRows = tableRows.slice(2); // skip separator row
+    let t =
+      '<table style="width:100%;border-collapse:collapse;margin:1em 0;font-size:0.9em;">';
+    t += "<thead><tr>";
+    for (const h of headers)
+      t += `<th style="text-align:left;border-bottom:1px solid #ccc;padding:0.4em 0.6em;">${inline(h.trim())}</th>`;
+    t += "</tr></thead><tbody>";
+    for (const row of dataRows) {
+      t += "<tr>";
+      for (const cell of row)
+        t += `<td style="border-bottom:1px solid #eee;padding:0.4em 0.6em;vertical-align:top;">${inline(cell.trim())}</td>`;
+      t += "</tr>";
+    }
+    t += "</tbody></table>";
+    out.push(t);
+    inTable = false;
+    tableRows = [];
+  }
+
+  function inline(s) {
+    return s
+      .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+      .replace(/(?<!\w)_([^_]+)_(?!\w)/g, "<em>$1</em>")
+      .replace(/\*([^*]+)\*/g, "<em>$1</em>");
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const trimmed = line.trim();
+
+    // Table detection
+    if (trimmed.startsWith("|") && trimmed.endsWith("|")) {
+      if (!inTable) inTable = true;
+      const cells = trimmed.split("|").slice(1, -1);
+      tableRows.push(cells);
+      continue;
+    } else if (inTable) {
+      flushTable();
+    }
+
+    if (!trimmed) continue;
+    if (trimmed === "---") {
+      out.push("<hr/>");
+      continue;
+    }
+    if (trimmed.startsWith("# ")) {
+      out.push(`<h1>${inline(trimmed.slice(2))}</h1>`);
+      continue;
+    }
+    if (trimmed.startsWith("## ")) {
+      out.push(`<h2>${inline(trimmed.slice(3))}</h2>`);
+      continue;
+    }
+    if (trimmed.startsWith("### ")) {
+      out.push(`<h3>${inline(trimmed.slice(4))}</h3>`);
+      continue;
+    }
+    if (trimmed.startsWith("- **")) {
+      out.push(
+        `<p style="text-indent:0;margin:0.5em 0;">${inline(trimmed.slice(2))}</p>`,
+      );
+      continue;
+    }
+    if (trimmed.startsWith("- ")) {
+      out.push(
+        `<p style="text-indent:0;margin:0.3em 0 0.3em 1.5em;">${inline(trimmed.slice(2))}</p>`,
+      );
+      continue;
+    }
+    if (/^\d+\.\s/.test(trimmed)) {
+      out.push(
+        `<p style="text-indent:0;margin:0.3em 0 0.3em 1.5em;">${inline(trimmed)}</p>`,
+      );
+      continue;
+    }
+    out.push(`<p style="text-indent:0">${inline(trimmed)}</p>`);
+  }
+  if (inTable) flushTable();
+  return out.join("\n");
 }
 
 function buildPrologueXhtml(title, bodyHtml) {
@@ -164,6 +259,10 @@ ${chapters
     </navPoint>`,
   )
   .join("\n")}
+    <navPoint id="glossary" playOrder="${chapters.length + 3}">
+      <navLabel><text>Reader's Glossary</text></navLabel>
+      <content src="glossary.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>`;
 
@@ -176,7 +275,7 @@ const contentOpf = (chapters) => `<?xml version="1.0" encoding="UTF-8"?>
     <dc:language>en</dc:language>
     <dc:publisher>Stillfire Press</dc:publisher>
     <dc:rights>© 2026 Justin Cronk. All rights reserved.</dc:rights>
-    <meta property="dcterms:modified">2026-03-10T00:00:00Z</meta>
+    <meta property="dcterms:modified">${new Date().toISOString().split("T")[0]}T00:00:00Z</meta>
     <meta name="cover" content="cover-image"/>
   </metadata>
   <manifest>
@@ -191,11 +290,13 @@ ${chapters
       `    <item id="ch${i + 1}" href="chapter_${String(i + 1).padStart(2, "0")}.xhtml" media-type="application/xhtml+xml"/>`,
   )
   .join("\n")}
+    <item id="glossary" href="glossary.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="title-page"/>
     <itemref idref="prologue"/>
 ${chapters.map((_, i) => `    <itemref idref="ch${i + 1}"/>`).join("\n")}
+    <itemref idref="glossary"/>
   </spine>
 </package>`;
 
@@ -251,6 +352,23 @@ for (let i = 0; i < 10; i++) {
     name: `OEBPS/chapter_${String(i + 1).padStart(2, "0")}.xhtml`,
   });
 }
+
+// Glossary
+const glossaryMd = readFileSync(GLOSSARY_SRC, "utf-8");
+const glossaryHtml = mdToGlossaryXhtml(glossaryMd);
+const glossaryXhtml = `<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Reader's Glossary</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+  ${glossaryHtml}
+</body>
+</html>`;
+archive.append(glossaryXhtml, { name: "OEBPS/glossary.xhtml" });
 
 // toc.ncx
 archive.append(tocNcx(CHAPTER_META), { name: "OEBPS/toc.ncx" });

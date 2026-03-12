@@ -106,20 +106,242 @@ body {
   animation-delay: 1.2s;
 }
 
-/* Chapter prose styles for /read/part-one */
+/* ================================================================== */
+/*  Reader Theme Variables                                             */
+/* ================================================================== */
+
+/* Dark (default) */
+[data-reader-theme="dark"] {
+  --rt-bg: #0a0a0a;
+  --rt-bg-secondary: #111111;
+  --rt-header-bg: rgba(10, 10, 10, 0.92);
+  --rt-toc-bg: #0e0e0e;
+  --rt-text-heading: #ededed;
+  --rt-text-body: #c8c8c8;
+  --rt-text-muted: #999999;
+  --rt-text-faint: #555555;
+  --rt-accent: #c9a84c;
+  --rt-accent-dim: #a08535;
+  --rt-accent-bg: rgba(201, 168, 76, 0.08);
+  --rt-border: #1e1e1e;
+  --rt-border-light: #2a2a2a;
+  --rt-hr: #333333;
+  --rt-input-bg: #111111;
+  --rt-progress-track: rgba(255, 255, 255, 0.06);
+  --rt-scene-break: #666666;
+  background: var(--rt-bg);
+  color: var(--rt-text-body);
+}
+
+/* Light */
+[data-reader-theme="light"] {
+  --rt-bg: #ffffff;
+  --rt-bg-secondary: #f5f5f5;
+  --rt-header-bg: rgba(255, 255, 255, 0.92);
+  --rt-toc-bg: #fafafa;
+  --rt-text-heading: #1a1a1a;
+  --rt-text-body: #333333;
+  --rt-text-muted: #666666;
+  --rt-text-faint: #aaaaaa;
+  --rt-accent: #8b6914;
+  --rt-accent-dim: #6b510f;
+  --rt-accent-bg: rgba(139, 105, 20, 0.06);
+  --rt-border: #e5e5e5;
+  --rt-border-light: #d4d4d4;
+  --rt-hr: #cccccc;
+  --rt-input-bg: #f5f5f5;
+  --rt-progress-track: rgba(0, 0, 0, 0.06);
+  --rt-scene-break: #999999;
+  background: var(--rt-bg);
+  color: var(--rt-text-body);
+}
+
+/* Kindle (warm sepia) */
+[data-reader-theme="kindle"] {
+  --rt-bg: #f4ecd8;
+  --rt-bg-secondary: #ebe3cc;
+  --rt-header-bg: rgba(244, 236, 216, 0.92);
+  --rt-toc-bg: #efe7d2;
+  --rt-text-heading: #2c2416;
+  --rt-text-body: #3d3224;
+  --rt-text-muted: #6b5d4a;
+  --rt-text-faint: #a09580;
+  --rt-accent: #8b6914;
+  --rt-accent-dim: #6b510f;
+  --rt-accent-bg: rgba(139, 105, 20, 0.08);
+  --rt-border: #d6cab0;
+  --rt-border-light: #c4b898;
+  --rt-hr: #b8a882;
+  --rt-input-bg: #ebe3cc;
+  --rt-progress-track: rgba(0, 0, 0, 0.06);
+  --rt-scene-break: #8b7d65;
+  background: var(--rt-bg);
+  color: var(--rt-text-body);
+}
+
+/* Fresh Ink */
+[data-reader-theme="ink"] {
+  --rt-bg: #faf9f6;
+  --rt-bg-secondary: #f0eeea;
+  --rt-header-bg: rgba(250, 249, 246, 0.92);
+  --rt-toc-bg: #f5f4f0;
+  --rt-text-heading: #111111;
+  --rt-text-body: #2a2a2a;
+  --rt-text-muted: #555555;
+  --rt-text-faint: #999999;
+  --rt-accent: #8b6914;
+  --rt-accent-dim: #6b510f;
+  --rt-accent-bg: rgba(139, 105, 20, 0.06);
+  --rt-border: #e0ddd6;
+  --rt-border-light: #d0cdc5;
+  --rt-hr: #c0bdb5;
+  --rt-input-bg: #f0eeea;
+  --rt-progress-track: rgba(0, 0, 0, 0.05);
+  --rt-scene-break: #888888;
+  background: var(--rt-bg);
+  color: var(--rt-text-body);
+}
+
+/* Reader header text crispness */
+[data-reader-theme] {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* ================================================================== */
+/*  Chapter Prose — Book-like typography                               */
+/* ================================================================== */
+
 .chapter-prose p {
   font-family: var(--font-serif);
-  color: #ccc;
-  font-size: 1.05rem;
-  line-height: 1.85;
-  margin-bottom: 1.5rem;
+  color: var(--rt-text-body, #c8c8c8);
+  font-size: 1.1rem;
+  line-height: 1.9;
+  margin-bottom: 1.25em;
+  text-indent: 1.5em;
 }
+
+.chapter-prose p:first-child {
+  text-indent: 0;
+}
+
+.chapter-prose p:first-child::first-letter {
+  font-size: 1.05em;
+}
+
+/* Paragraphs immediately after a scene break don't indent */
+.chapter-prose hr + p {
+  text-indent: 0;
+}
+
 .chapter-prose em {
+  color: var(--rt-accent, #c9a84c);
+  font-style: italic;
+}
+
+/* Scene breaks — * * * with generous breathing room */
+.chapter-prose hr {
+  border: none;
+  height: auto;
+  margin: 3rem auto;
+  text-align: center;
+  overflow: visible;
+  background: none;
+}
+
+.chapter-prose hr::after {
+  content: "*   *   *";
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 0.85rem;
+  letter-spacing: 0.35em;
+  color: var(--rt-scene-break, #666666);
+}
+
+/* Highlights */
+.reader-highlight {
+  background: rgba(201, 168, 76, 0.2);
+  border-bottom: 1px solid rgba(201, 168, 76, 0.5);
+  padding: 0 2px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.reader-highlight:hover {
+  background: rgba(201, 168, 76, 0.35);
+}
+
+/* ================================================================== */
+/*  Reader Animations                                                  */
+/* ================================================================== */
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-8px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Short story prose styles */
+.story-prose p {
+  font-family: var(--font-serif);
+  color: #ccc;
+  font-size: 1.1rem;
+  line-height: 1.9;
+  margin-bottom: 1.6rem;
+}
+.story-prose p:first-child::first-letter {
+  font-size: 3.2em;
+  float: left;
+  line-height: 0.8;
+  margin-right: 0.08em;
+  margin-top: 0.1em;
+  color: #c9a84c;
+  font-family: var(--font-serif);
+}
+.story-prose em {
   color: #c9a84c;
   font-style: italic;
 }
-.chapter-prose hr {
+.story-prose strong {
+  color: #ededed;
+  font-weight: 600;
+}
+.story-prose hr {
   border: none;
-  border-top: 1px solid #333;
-  margin: 2.5rem 0;
+  border-top: 1px solid #222;
+  margin: 2.5rem auto;
+  max-width: 4rem;
+}
+.story-prose blockquote {
+  border-left: 2px solid #c9a84c33;
+  padding-left: 1.25rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: #999;
+}
+.story-prose h2 {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  color: #ededed;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  font-weight: 300;
 }
