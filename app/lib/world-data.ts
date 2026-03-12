@@ -73,7 +73,7 @@ export const entries: WorldEntry[] = [
     summary:
       "A figure from the oldest stories. An information broker who appears in every region under a different name and a different face. She sells information to everyone and loyalty to no one.",
     detail:
-      "She has no fixed appearance \u2014 dozens of faces, each complete, each native. Beneath them, her eyes are the constant: a depth that does not belong to the body around them, as if the person behind the eyes has been watching the world for longer than the world has been watching itself. She is aging \u2014 actually aging, from the inside. She has lost two teeth in the last century. She bruises easily. She gets cold. She fell in love once, centuries ago, with a mortal woman named Essa \u2014 a Healer of the Sea People. They lived together for forty years. She has not loved since.",
+      "She has no fixed appearance \u2014 dozens of faces, each complete, each native. Beneath them, her eyes are the constant: a depth that does not belong to the body around them, as if the person behind the eyes has been watching the world for longer than the world has been watching itself. She is aging \u2014 actually aging, from the inside. She has lost two teeth in the last century. She bruises easily. She gets cold. She fell in love once, centuries ago, with a mortal woman named Essa \u2014 a Guide of the Sea People. They lived together for forty years. She has not loved since.",
   },
   {
     name: "Queen Maera",
@@ -133,7 +133,8 @@ export const entries: WorldEntry[] = [
     name: "Essa",
     category: "characters",
     subtitle: "A Name From the Oldest Stories",
-    summary: "A Healer of the Sea People, remembered as one who was deeply loved.",
+    summary:
+      "A Guide of the Sea People, remembered as one who was deeply loved.",
     detail:
       "Dark-skinned, with hands that moved through water the way music moves through air. She could hold a bowl of seawater and ask it to remember being rain, and the salt would separate from the fresh. She lived for eighty-one years. Her death taught someone what memory meant to mortals: finite, fragile, unbearably precious.",
   },
@@ -363,7 +364,8 @@ export const entries: WorldEntry[] = [
   {
     name: "Hopper",
     category: "creatures",
-    summary: "A small, common brown bird of the Canopy with a bright black eye.",
+    summary:
+      "A small, common brown bird of the Canopy with a bright black eye.",
   },
 
   // ─── ORGANIZATIONS ─────────────────────────────────────
@@ -400,7 +402,8 @@ export const entries: WorldEntry[] = [
   {
     name: "Breedlebuck",
     category: "herbs",
-    summary: "For inflammation. Reminds the body\u2019s tissue that swelling is not its natural state.",
+    summary:
+      "For inflammation. Reminds the body\u2019s tissue that swelling is not its natural state.",
   },
   {
     name: "Fiddleroot",

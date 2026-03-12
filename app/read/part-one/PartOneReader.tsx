@@ -281,32 +281,34 @@ export default function PartOneReader({ chapters }: { chapters: Chapter[] }) {
                 </button>
               ))}
             </div>
-            <div className="flex gap-3">
+            <div className="flex flex-col sm:flex-row gap-3">
               <input
                 type="text"
                 placeholder="Your name (optional)"
                 value={commentName}
                 onChange={(e) => setCommentName(e.target.value)}
-                className="w-40 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors"
+                className="w-full sm:w-40 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors"
               />
-              <input
-                type="text"
-                placeholder="Your comment, suggestion, or question&hellip;"
-                value={commentBody}
-                onChange={(e) => setCommentBody(e.target.value)}
-                onKeyDown={(e) => {
-                  if (e.key === "Enter" && commentBody.trim())
-                    submitComment(key, chapter);
-                }}
-                className="flex-1 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors"
-              />
-              <button
-                onClick={() => submitComment(key, chapter)}
-                disabled={!commentBody.trim() || submittingComment === key}
-                className="px-4 py-2.5 bg-[#c9a84c] text-[#0a0a0a] text-xs disabled:opacity-40 hover:bg-[#e8c85a] transition-colors"
-              >
-                <Send className="w-3.5 h-3.5" />
-              </button>
+              <div className="flex gap-3">
+                <input
+                  type="text"
+                  placeholder="Your comment, suggestion, or question&hellip;"
+                  value={commentBody}
+                  onChange={(e) => setCommentBody(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter" && commentBody.trim())
+                      submitComment(key, chapter);
+                  }}
+                  className="flex-1 min-w-0 px-3 py-2.5 bg-[#111] border border-[#333] text-[#ededed] font-[family-name:var(--font-sans)] text-xs placeholder:text-[#888] focus:border-[#c9a84c] focus:outline-none transition-colors"
+                />
+                <button
+                  onClick={() => submitComment(key, chapter)}
+                  disabled={!commentBody.trim() || submittingComment === key}
+                  className="px-4 py-2.5 bg-[#c9a84c] text-[#0a0a0a] text-xs disabled:opacity-40 hover:bg-[#e8c85a] transition-colors flex-shrink-0"
+                >
+                  <Send className="w-3.5 h-3.5" />
+                </button>
+              </div>
             </div>
           </div>
         )}
