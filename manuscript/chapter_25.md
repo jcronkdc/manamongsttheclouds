@@ -86,7 +86,7 @@ The fear of three hundred people, concentrated by proximity and helplessness and
 
 The dog died. The assassin did not — not immediately. Not for a long time.
 
-Varas felt the room's sound. He felt it the way you feel the vibration of thunder through glass: muted, distorted, recognizable but diminished. A ghost. The fossil of an emotion, compressed by the geological pressure of his condition into something that was shaped like the thing and occupied the space where the thing should have been.
+Varas felt the room's sound. Muted, distorted, recognizable but diminished. A ghost. The fossil of an emotion, compressed by the geological pressure of his condition into something that was shaped like the thing and occupied the space where the thing should have been.
 
 He did not stop. He could not stop. The sensation was the most alive he had been in months, and stopping would mean returning to the empty room, to the silence, to the sixty-two-degree crystal surface that was all the world's magic had ever given him.
 

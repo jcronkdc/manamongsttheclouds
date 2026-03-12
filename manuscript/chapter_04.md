@@ -134,7 +134,7 @@ The locked door. The warm stone. The breathing. The words on a loop, spoken at a
 
 The forest was loud. The whispering had become a conversation — not between the trees and Aelo, not yet, but among the trees themselves, as if the Canopy were discussing the two men in the hollow the way a village discusses a fire: urgently, with concern, with the particular quality of attention that living things give to events that affect them directly.
 
-Aelo sat in the amber light and felt the world he had known — the cottage, the porridge, the lies, the routine, the bell and the herbs and the careful distance between himself and everything — come apart. Not violently. Not the way the ceremony square had come apart, with singing and light and the earth rearranging itself. Quietly. The way a held breath ends.
+Aelo sat in the amber light and felt the world he had known — the cottage, the porridge, the lies, the routine, the bell and the herbs and the careful distance between himself and everything — come apart. Not violently. Not the way the ceremony square had come apart, with singing and light and the earth rearranging itself. Quietly. Like a knot untying itself.
 
 He thought of the Hopper in his hands. The dispersal. The memory going home.
 

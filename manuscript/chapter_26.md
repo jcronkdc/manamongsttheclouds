@@ -46,7 +46,7 @@ Four notes. The pressure in his chest doubled. The strain was significant now �
 
 The Move. The Cloud People's discipline — the rising phrase, the frequency of displacement. He had never been trained in it. He had no connection to it. The Move was the sky's language and Aelo had spent his life on the ground, and the reaching was like trying to speak a language he had never heard by assembling sounds from languages he knew. He reached. He strained. The five notes wobbled — the chord destabilizing, the emotional pressure in his chest becoming a physical sensation, the tightening migrating from his sternum to his throat to his skull.
 
-Five notes. He held them for three seconds. The chamber vibrated. The skystone veins pulsed. The rope bridges outside hummed. The air in the room changed — not in temperature but in density, the atmosphere compressing around him the way the atmosphere compresses before a storm, the world's memory responding to the five-note chord the way a body responds to a held breath: by tightening, by waiting, by preparing for whatever comes next.
+Five notes. He held them for three seconds. The chamber vibrated. The skystone veins pulsed. The rope bridges outside hummed. The air in the room changed — not in temperature but in density, the atmosphere compressing around him the way the atmosphere compresses before a storm, the world's memory responding to the five-note chord by tightening, by waiting, by preparing for whatever comes next.
 
 He reached for six.
 
@@ -64,7 +64,7 @@ Aelo lay on the floor and breathed. Each breath was an effort — the lungs prot
 
 ---
 
-Cael came to him that evening. He was sitting on the edge of the formation — legs dangling over the gap, the fog below, the sky above, the thin cold air carrying the Song's frequency the way it always carried it, the sustained hum that had been Aelo's companion since the ascent. His nose had stopped bleeding. His chest still ached.
+Cael came to him that evening. He was sitting on the edge of the formation — legs dangling over the gap, the fog below, the sky above, the thin cold air carrying the Song's frequency as it always did, the sustained hum that had been Aelo's companion since the ascent. His nose had stopped bleeding. His chest still ached.
 
 She sat beside him. The old woman moved with the care of a person whose body was mostly finished with the act of living and who was maintaining the residual functions out of habit and necessity rather than enthusiasm. Her milky eyes turned toward the sky. Her skeletal hands folded in her lap.
 
@@ -118,7 +118,7 @@ He could not hold seven notes. He could hold five. And beneath the five — unna
 
 He did not need to hold all seven. He needed to remind the world that all seven were already held. That they had always been held. That the holding was not a performance but a memory, and the memory was not lost but buried.
 
-He stood. He walked back to the chamber. Cael followed — slowly, the old body maintaining itself through habit, the milky eyes fixed on the boy who was walking with the quiet certainty of a person who has understood something and is now carrying the understanding the way the lake stone carried the riverbed: compressed, portable, always accessible.
+He stood. He walked back to the chamber. Cael followed — slowly, the old body maintaining itself through habit, the milky eyes fixed on the boy who was walking with the quiet certainty of a person who has understood something and is now carrying the understanding like a stone in his hand: compressed, portable, always accessible.
 
 "I know what my Song is," he said.
 
@@ -138,7 +138,7 @@ Cael smiled. The smile was thin — the muscles too old, the face too weathered,
 
 Aelo listened. The sky hummed. The Song was there — not beneath, not above, but everywhere. In the stone and the air and the fog and the wind and the bridges and the birds and the old woman's thin smile and the stars that were appearing, one by one, in the darkening sky above the Clouds.
 
-He was not ready. But he knew what his Song was. And the knowing was the beginning of the readiness, the way the riverbed was the beginning of the listening, the way the morning was the beginning of the day.
+He was not ready. But he knew what his Song was. And the knowing was the beginning of the readiness, the way the riverbed was the beginning of the listening, the way morning begins the day.
 
 Tomorrow, he would descend. Tomorrow, the last leg. Tomorrow, the Murkr.
 

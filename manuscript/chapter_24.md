@@ -44,7 +44,7 @@ Her face changed. The milky eyes opened. The opacity seemed, for a moment, to th
 
 She began to cry.
 
-The tears were slow — the thin, precise tears of a very old person, tracking down the translucent skin, following the lines of the face the way water follows the grain of stone. They were not tears of sadness. They were not tears of joy. They were the tears of recognition — the overwhelming emotion of a person who has been listening for a sound for so long that the listening has become a form of prayer, and the sound has arrived, and the prayer has been answered, and the answering is too large for the body that receives it.
+The tears were slow — the thin, precise tears of a very old person, tracking down the translucent skin, following the lines of the face the way water follows the grain of stone. They were not tears of sadness or joy. They were the tears of recognition — the overwhelming emotion of a person who has been listening for a sound for so long that the listening has become a form of prayer, and the sound has arrived, and the prayer has been answered, and the answering is too large for the body that receives it.
 
 "You have Maera's hands," she whispered.
 
@@ -72,13 +72,13 @@ She bore a son. The son had his mother's hands and his father's eyes and a frequ
 
 And then Varas came.
 
-The old Seer's voice did not change when she described the purge. The thinness held. The altitude-softness held. The words arrived with the devastating power of terrible events described in a quiet voice — the horror amplified by the refusal to match it with volume, the way a whisper in a silent room is louder than a shout in a crowd.
+The old Seer's voice did not change when she described the purge. The thinness held. The altitude-softness held. The words arrived with the devastating power of terrible events described in a quiet voice — the horror amplified by the refusal to match it with volume.
 
 Varas seized the throne. He killed the king. He killed the princes. He reached the nursery — the nursery where Maera's son slept in a crib that the Cloud woodworkers had built from skystone-inlaid wood, the crib singing the same lullaby that Maera had been singing to the child since before he was born.
 
 Maera stayed. The Vael Guard told her to run. The other women ran. Maera stayed. She stood in the nursery doorway and she opened her mouth and she Sang.
 
-Not the full Sing. Not all seven. Five notes — five disciplines, harmonizing, the chord that was the limit of her ability and that was, in that moment, enough. She Sang a shield. A wall of sound that the soldiers could not pass — not because the sound was loud but because the sound was _true_. The Song remembered the nursery. The Song remembered the child. The Song told the soldiers' blood that the nursery was sacred and that the child was precious and that the passing-through was forbidden, and the soldiers' blood listened, because blood remembers the Song even when the mind has forgotten it, and the remembering is involuntary, and the involuntary is the only thing that a king's orders cannot override.
+Not the full Sing. Not all seven. Five notes — five disciplines, harmonizing, the chord that was the limit of her ability and that was, in that moment, enough. She Sang a shield. A wall of sound that the soldiers could not pass, not because it was loud but because it was _true_. The Song remembered the nursery. The Song remembered the child. The Song told the soldiers' blood that the nursery was sacred and that the child was precious and that the passing-through was forbidden, and the soldiers' blood listened, because blood remembers the Song even when the mind has forgotten it, and the remembering is involuntary, and the involuntary is the only thing that a king's orders cannot override.
 
 The shield held. Maera held it. The note she sustained was not a weapon — it was a memory, projected outward, a lullaby made architectural, a mother's voice built into a wall. She poured herself into it. Maera poured her memories into the note. Her childhood in the Clouds. Her years of training. Her joy. Her love for the husband they had already killed. One by one, the memories went into the Song and the Song used them as fuel and the shield held.
 
@@ -94,11 +94,11 @@ She died holding a note that sounded like a lullaby.
 
 The silence in the chamber was not silence. It was the aftermath of a story that had taken everything in the room — the air, the light, the Seers' composure, Aelo's breath — and used it.
 
-Aelo's face was wet. He had been crying without knowing he was crying — the tears falling on living skin, the only warm thing he could still feel, the water returning the way the Desert elder's sand returned to the earth: simply, by gravity, because the body knew what to do with grief even when the mind did not.
+Aelo's face was wet. He had been crying without knowing he was crying — the tears falling on living skin, the only warm thing he could still feel, the water returning simply, by gravity, because the body knew what to do with grief even when the mind did not.
 
 "What did she sound like?" he asked. The words came out broken — the voice of a boy who had just been given a mother and had her taken in the same breath.
 
-The old Seer hummed. One note. Thin, wavering, the note sustained by a throat that had been singing for decades and that held, in its tissue and its muscle memory and its cellular structure, the ghost of a voice it had heard once and had never forgotten. The note was not the Song. It was the memory of the Song — a single frequency, isolated, extracted from the chord that Maera had held in the nursery fifteen years ago, carried in the old woman's body the way the lake stone carried the riverbed: compressed, portable, always accessible.
+The old Seer hummed. One note. Thin, wavering, the note sustained by a throat that had been singing for decades and that held, in its tissue and its muscle memory and its cellular structure, the ghost of a voice it had heard once and had never forgotten. The note was not the Song. It was the memory of the Song, a single frequency, isolated, extracted from the chord that Maera had held in the nursery fifteen years ago, carried in the old woman's body the way the lake stone carried the riverbed: compressed, portable, always accessible.
 
 Aelo closed his eyes. He heard the hum. He heard beneath the hum. The way the Ming had taught him to hear beneath the noise — the settling, the descent through layers, the riverbed. He sank past the old woman's voice. Past the chamber. Past the formation and the sky and the wind and the altitude and the thin, cold light.
 
@@ -106,7 +106,7 @@ He heard his mother.
 
 Not the hum. Not the memory. _Her._ Her voice, embedded in the air of the Clouds, still resonating after fifteen years. The note she had died on — the lullaby, the shield, the last sound she had made with a body that was being consumed by its own Song — was still here. Still vibrating. Still singing. Not as sound — as memory. The sky remembered her. The stone of the formations remembered her. The air that she had poured her self into remembered her, and the remembering was not an echo but a presence, a living vibration sustained by the quality of a sacrifice that had been so total and so loving that the world's memory could not let it fade.
 
-He opened his mouth. He did not understand what he was doing. He did not decide. The body decided — the blood decided, the bone decided, the cells that carried Maera's frequency in their structure decided, the way a tuning fork decides to vibrate when the matching frequency is sounded nearby. Involuntary. Inevitable. The resonance of a son hearing his mother's voice for the first time and responding the way that all living things respond to the sound of their origin: by joining it.
+He opened his mouth. He did not understand what he was doing. He did not decide. The body decided — the blood decided, the bone decided, the cells that carried Maera's frequency in their structure decided. Involuntary. Inevitable. The resonance of a son hearing his mother's voice for the first time and responding the way that all living things respond to the sound of their origin: by joining it.
 
 He sang.
 

@@ -4,15 +4,15 @@
 
 ---
 
-The Ming border announced itself not with a wall or a gate or any of the architectural declarations that Aelo had learned to associate with the boundaries between one place and another, but with silence. Not the silence of absence — not the dead quiet of the Murkr that he would come to know later, the airless void where memory had been suffocated — but the silence of _density_. A fullness so complete that it registered as quiet because no single sound could distinguish itself from the mass.
+The Ming border announced itself not with a wall or a gate or any of the architectural declarations that Aelo had learned to associate with the boundaries between one place and another, but with silence. Not absence. _Density_. A fullness so complete that it registered as quiet because no single sound could distinguish itself from the mass.
 
 They had been walking south for three days since the Remembering. The Sea was still far — weeks of travel, Sereth said, and the boy was not ready for the Guide. Not yet. The Ming came first. "Before you can speak to the water," Sereth had told him on the first morning, "you must learn to hear what is already speaking. The Ming will teach you to listen without drowning. If you skip this step, the Sea will kill you." Aelo had not asked how a body of water could kill someone. He had felt the Canopy's whispers nearly break him.
 
-The road had taken them through the Canopy's thinning edge — the trees growing shorter, the undergrowth less aggressive, the whispers in the wood fading from conversation to murmur to the faint, intermittent sighing of trees that were old but not ancient, experienced but not wise. Jalo walked between Aelo and Sereth with the careful, measured gait of a man rationing his remaining capacity — each step placed with the deliberate economy of someone who knew exactly how many steps his knee had left and was spending them like coins from a purse he could not refill. His grip on the staff was looser than it had been before the ceremony square, the fingers uncertain, the wood sliding in a palm that could no longer feel its texture — the Mold's price, still collecting. Sereth walked ahead, wearing the old Canopy woman's face, her broad shoulders bent slightly against a weight that was not the pack on her back but the three hundred years inside it.
+The road had taken them through the Canopy's thinning edge — the trees growing shorter, the undergrowth less aggressive, the whispers in the wood fading from conversation to murmur to the faint, intermittent sighing of trees that were old but not ancient, experienced but not wise. Jalo walked between Aelo and Sereth with the careful, measured gait of a man rationing his remaining capacity — each step placed with the deliberate economy of someone who knew exactly how many steps his knee had left. His grip on the staff was looser than before the ceremony square, the fingers uncertain, the wood sliding in a palm that could no longer feel its texture. Sereth walked ahead, wearing the old Canopy woman's face, her broad shoulders bent slightly against a weight that was not the pack on her back but the three hundred years inside it.
 
 The road ended at a lake.
 
-Aelo felt it before he saw it — a pressure in the air, a thickening, as if the atmosphere itself had gained mass. The pocket of silence he had found in the Canopy — the small, fragile, entirely-his space inside the sound — trembled. Not from an external force but from internal overload, the way a cup trembles when filled to the absolute brim and the surface tension is the only thing between containment and catastrophe.
+Aelo felt it before he saw it — a pressure in the air, a thickening, as if the atmosphere itself had gained mass. The pocket of silence he had found in the Canopy — the small, fragile, entirely-his space inside the sound — trembled. Not from an external force but from internal overload.
 
 Then the trees parted and the lake was there, and Aelo's legs stopped working.
 
@@ -38,9 +38,9 @@ Third attempt. He found it — the pocket. Smaller than before. Barely a breath'
 
 He opened his eyes. The lake stretched before him — vast, grey-green, impossibly still. No wind disturbed its surface. No current marked its edges. It lay in a shallow valley between low hills like a mirror placed face-up in a depression, reflecting the overcast sky with such fidelity that the boundary between water and air was indistinguishable, and Aelo had the disorienting sensation of looking not at a lake but at a hole in the world through which the sky continued downward into the earth.
 
-Mist clung to the surface. Not the ragged, wind-torn mist of the Canopy mornings but a deliberate, architectural mist — banked and shaped and held, as if someone had taken the fog and _organized_ it. Through the mist, at the far shore: structures. Low, stone, emerging from the waterline like extensions of the bedrock. A monastery built not beside the lake but _into_ it, the walls rising from the shallows, the foundations submerged, the architecture designed to keep the water close the way a hand cups a flame — not to contain it but to stay near the warmth.
+Mist clung to the surface. Not the ragged, wind-torn mist of the Canopy mornings but a deliberate, architectural mist — banked and shaped and held, as if someone had taken the fog and _organized_ it. Through the mist, at the far shore: structures. Low, stone, emerging from the waterline like extensions of the bedrock. A monastery built not beside the lake but _into_ it, the walls rising from the shallows, the foundations submerged, the architecture designed to stay near the water.
 
-Figures stood at the shore. Three of them. Small, dark-haired, motionless. They had the particular stillness of people who have been waiting long enough that the waiting has become a posture rather than an activity — not tense, not relaxed, simply _present_, the way the lake was present, the way the mist was present.
+Figures stood at the shore. Three of them. Small, dark-haired, motionless. They had the particular stillness of people who have been waiting long enough that the waiting has become a posture rather than an activity — not tense, not relaxed, simply _present_, as the lake was present, as the mist was present.
 
 "They knew we were coming," Sereth said. Not a question.
 
@@ -68,9 +68,9 @@ Jalo's jaw tightened. The tremor in his hands intensified — a vibration that A
 
 "I said no."
 
-She waited. The lake waited. The mist held its shape. Aelo stood beside the man who had raised him and watched the refusal move through Jalo's body like a wave through water — the initial rigidity, the crest, and then the slow, exhausted settling that follows when a wave has spent its energy and has nothing left to do but recede.
+She waited. The lake waited. The mist held its shape. Aelo stood beside the man who had raised him and watched the refusal move through Jalo's body. The initial rigidity. The crest. Then the slow, exhausted settling.
 
-"What will you do?" Jalo asked. His voice was rough. The roughness of a man who has not allowed anyone to touch him in fifteen years and is terrified of what will happen when the seal breaks.
+"What will you do?" Jalo asked. His voice was rough.
 
 "Hold some of it. Not take — hold. Distribute the weight across the practitioners here, so that each of us carries a fraction and you carry less. It will not remove the pain. It will make it bearable."
 
@@ -84,7 +84,7 @@ Jalo's face collapsed. The way a held breath ends. The muscles around his eyes r
 
 He knelt. The bad knee screamed — Aelo felt it, the dark-red pulse of a joint that had been abused past every reasonable limit — and Jalo knelt on the shore of the Ming lake and bowed his head and the woman placed her palm on his temple.
 
-Aelo watched. He could feel it through the Know — the transfer. Not a draining, not a taking. A _distributing_. The Ming woman opened a channel between Jalo's pain and the wider network of practitioners who stood behind her, and the accumulated phantom suffering of fifteen years of Healing — every wound he had mended in the village, every broken bone and fever and laceration whose memory he had absorbed because a Healer cannot mend without carrying the echo — flowed outward. Not away. Outward. Into hands that had been trained to hold exactly this, to cradle another person's suffering the way a cup cradles water: carefully, without judgment, without spilling.
+Aelo watched. He could feel it through the Know — the transfer. Not a draining, not a taking. A _distributing_. The woman's palm on Jalo's temple, and behind her the practitioners with their hands raised, and the accumulated suffering flowing outward. Not away. Outward. Into hands that had been trained to hold exactly this, to cradle another person's suffering the way a cup cradles water: carefully, without judgment, without spilling.
 
 Jalo wept.
 
@@ -98,13 +98,13 @@ Not the pain. The _loneliness_. Fifteen years of pain, borne alone, because he b
 
 ---
 
-The monastery was a quiet place. Not quiet in the way the Canopy was quiet — layered, murmuring, full of whispered memory — but quiet in the way a library is quiet. Intentionally. Architecturally. The stone walls absorbed sound. The water that lapped at the submerged foundations produced a rhythm so regular and so soft that it became inaudible within minutes, the way a heartbeat becomes inaudible to the body that produces it.
+The monastery was a quiet place. Not the Canopy's layered, murmuring quiet. This was a library's quiet. Intentionally. Architecturally. The stone walls absorbed sound. The water that lapped at the submerged foundations produced a rhythm so regular and so soft that it became inaudible within minutes.
 
 Aelo was given a room. Small, clean, the walls bare except for a single shelf holding a clay bowl of water. The water was from the lake. He could feel it — the hum, attenuated by distance and stone but still present, a vibration in the bowl that made the surface tremble with a frequency too low to see and too persistent to ignore.
 
 His training began the next morning.
 
-The teacher was an old man — old in the Ming way, which was to say that his age had become a quality rather than a number, a characteristic of his presence the way density is a characteristic of stone. His face held no expression. Not blankness — _stillness_. The absence of expression that comes not from suppression but from having processed so many emotions over so many years that the face has achieved a kind of equilibrium.
+The teacher was an old man — old in the Ming way, which was to say that his age had become a quality rather than a number. His face held no expression. Not blankness — _stillness_.
 
 He led Aelo to the lake's edge. They sat. Cross-legged. Facing the water. The mist curled around them — cool, damp, smelling of minerals and the faint vegetable sweetness of algae.
 
@@ -138,7 +138,7 @@ On the second day he broke through for half a second and heard something — a t
 
 On the third day he tried not trying. He sat and breathed and did not reach and the noise settled around him like water settling in a glass — layers stratifying, the heaviest memories sinking, the lightest floating, the middle frequencies organizing themselves into a structure he could almost perceive. Almost. The architecture was there. The blueprint was visible. But the building was too large to see from inside, and he was very much inside.
 
-On the fourth day Jalo came to the shore. He looked different — rested, for the first time in Aelo's memory, the grey beneath his eyes faded, the tremor in his hands reduced from a vibration to a flutter. The Ming had been sharing his pain every evening — twenty minutes, the elder woman and three practitioners, their palms on his temples and his wrists and the base of his skull, drawing the phantom archive outward the way you draw poison from a wound. Not removing it. Redistributing it. Jalo still carried the pain. He just carried less of it alone.
+On the fourth day Jalo came to the shore. He looked different — rested, for the first time in Aelo's memory, the grey beneath his eyes faded, the tremor in his hands reduced from a vibration to a flutter. The Ming had been sharing his pain every evening — twenty minutes, the elder woman and three practitioners, their palms on his temples and his wrists and the base of his skull, drawing the phantom archive outward. Not removing it. Redistributing it. Jalo still carried the pain. He just carried less of it alone.
 
 He sat beside Aelo. He did not speak. He placed his hand on the earth between them and Aelo could feel the change — the guilt was still there, the fear was still there, the love was still there. But the ratios had shifted. The pressure was lighter. The hand on his chest was gentler. And beneath the familiar emotional frequencies, something new: a warmth that Aelo had never felt from Jalo before. Not love — he had always felt Jalo's love. Something else.
 
@@ -154,7 +154,7 @@ He was not trying. He was not not-trying. He was sitting at the lake's edge in t
 
 He sank.
 
-Past the pocket of silence. Past the silence between voices. Past the surface layer of the world's memory — the recent, the vivid, the accessible — into a stratum he had not known existed. A depth where the noise was not absent but _resolved_. Where every voice in the world was still speaking but the speaking had organized itself into a structure so vast and so coherent that the individual voices were no longer distinguishable from the whole, the way individual waves are no longer distinguishable from the ocean when you are deep enough beneath the surface.
+Past the pocket of silence. Past the silence between voices. Past the surface layer of the world's memory — the recent, the vivid, the accessible — into a stratum he had not known existed. A depth where the noise was not absent but _resolved_. Where every voice in the world was still speaking but the speaking had organized itself into a structure so vast and so coherent that the individual voices were no longer distinguishable from the whole, the way waves become indistinguishable from the ocean at depth.
 
 And at the bottom: a tone.
 
@@ -162,7 +162,7 @@ Not the hum. Not the whisper. Not the murmur or the chord or any of the sounds h
 
 The Elder Stone beneath the lake. Singing. As it had sung since Fletcher walked the earth.
 
-Aelo held the riverbed. He held it for three breaths. The tone filled him — not the way the Canopy's voices filled him, with chaos and overload and the desperate scramble of a mind trying to process a thousand inputs simultaneously. This filled him the way warmth fills a cold room. Gently. Completely. Leaving no corner untouched.
+Aelo held the riverbed. He held it for three breaths. The tone filled him — gently. Not the Canopy's chaos. This was warmth filling a cold room. Completely. Leaving no corner untouched.
 
 Then his body pulled him back — the need to breathe, the need to blink, the biological insistence of a system that was not designed for this depth — and he surfaced, and the noise returned, and the pocket reformed, and he was sitting at the lake's edge with tears on his face and the mist curling around him and the teacher standing behind him.
 

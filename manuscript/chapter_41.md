@@ -24,9 +24,9 @@ Jalo's face. He reached for it — the scarred face, the clear eye and the lidde
 
 The Canopy at dawn. Gone. He knew it had been green. He knew the light had been beautiful. He could not feel the green or the beauty. The memory was a label — _beautiful forest at dawn_ — without the sensory content that the label described.
 
-The Ming lake. Gone. He knew it had been vast and grey-green and still. He knew the hum had come from beneath the bedrock. The knowing was a fact, not an experience. The lake was a word, not a place.
+The Ming lake — vast and grey-green and still, or so he knew. He could not feel it. The hum beneath the bedrock was a fact now, not an experience. The lake was a word, not a place.
 
-The first time he saw the ocean. Gone. He knew he had wept. He could not feel why.
+The first time he saw the ocean. He knew he had wept. He could not feel why.
 
 His mother's name. He reached for it and the reaching found — not the name but the knowledge that a name existed. A name he had been told. A name that mattered. The name itself was a blank. The syllables were gone.
 
@@ -36,11 +36,11 @@ Some memories survived. The deepest ones — the ones he had held tightest, the 
 
 The bird. The dead bird in the yard. He could still feel it — the weight of the small body in his hands, the warmth fading, the physical, whole-body grief of a child holding a dead thing and understanding, for the first time, that alive was not permanent. The bird survived because the bird had been the first grief, and first griefs are stored in the body, and the body does not forget its firsts.
 
-The feeling of Jalo's love. Not the face — the _feeling_. The warm, pressure-like, always-present emotional signature of being loved by someone who never said the word but produced the feeling every morning through the relentless, unremarkable act of showing up. The feeling survived because the feeling was not a memory but a condition, and conditions survive the loss of the events that produced them.
+The feeling of Jalo's love. Not the face — the _feeling_. The warm, pressure-like, always-present emotional signature of being loved by someone who never said the word but produced the feeling every morning through the relentless, unremarkable act of showing up. The feeling survived. It was not a memory but a condition — and conditions outlast the events that produce them.
 
-The sound of the Elder Stone singing in the ceremony square. The first time the Song had entered his blood. The moment the world had changed — the herbs failing, the Know opening, the boy becoming something else. The sound survived because the sound was not a memory but an identity, and identities survive the loss of the experiences that shaped them.
+The sound of the Elder Stone singing in the ceremony square. The first time the Song had entered his blood. The moment the world had changed — the herbs failing, the Know opening, the boy becoming something else. The sound survived — not as memory but as identity. The experiences that shaped him could be lost. What they made him could not.
 
-The wind catching him on the ledge. His mother's presence in the air. The devastating, impossible feeling of being held by someone who was dead and who was holding him anyway. The wind survived because the wind was not a memory but a promise, and promises survive everything.
+The wind catching him on the ledge. His mother's presence in the air. The devastating, impossible feeling of being held by someone who was dead and who was holding him anyway. The wind survived. Promises do.
 
 And one more. The lullaby. His mother's note. The seventh note. The note that had been in the air since her death and that had been in his blood since his birth and that the Song had used as its final, completing frequency. The lullaby lived in him still — not as a memory but as part of his blood. It was in his bones now. It was in the vibrational, molecular structure of a body that had been built to carry the Song and that would carry, from this moment forward, the echo of the Song in its cellular architecture. The lullaby would never leave. The lullaby was him.
 

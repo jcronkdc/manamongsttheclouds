@@ -6,7 +6,7 @@
 
 Jalo fought the castle for eleven minutes.
 
-He counted. The counting was the discipline — the Vael Guard practice of measuring time under duress, because time under duress was the only currency a guardian possessed. Eleven minutes was an eternity. Eleven minutes was a life. Eleven minutes was enough for a boy to reach the interior, to find the corridors, to move deep enough into the beast that the beast's attention would shift from the gate to the intruder inside it, and the shift would give the guardian the only thing the guardian needed: the knowledge that the wall had held long enough.
+He counted. The counting was the discipline — the Vael Guard practice of measuring time under duress, because time under duress was the only currency a guardian possessed. Eleven minutes. An eternity. A life. Enough for a boy to reach the interior, to find the corridors, to move deep enough into the beast that the beast's attention would shift from the gate to the intruder inside it, and the shift would give the guardian the only thing the guardian needed: the knowledge that the wall had held long enough.
 
 The Vine came in waves. Not strategically — organically. The Blood Vine was not a general commanding troops. It was an immune system fighting an infection, and the fighting was automatic, relentless, escalating with each failure. The first wave was tendrils — thin, fast, reaching from the ground and the walls and the grey air. Jalo's staff shattered them. The Mold commands came easier than they had in years — the discipline sharpened by the Ming's redistribution, by the Core's training, by the desperate clarity that comes when the body knows it is spending its last reserves and the spending eliminates the hesitation that conservation produces.
 
@@ -32,7 +32,7 @@ Nine minutes.
 
 The Knife arrived on the tenth minute.
 
-Not with his army. Alone. He had followed them — from the camp, through the foothills, across the dead zone. He had told his soldiers the boy went south. Then he had gone north. He did not know why. The function said south. Something beneath the function — something that had cracked when the boy took his hand and showed him the label and the number — said north. The cracked thing did not have a voice. The cracked thing was not the function. The cracked thing was the person inside the function, and the person was following the boy because the boy had done something that no one had ever done: he had looked into the empty room and seen someone standing in it.
+Not with his army. Alone. He had followed them — from the camp, through the foothills, across the dead zone. He had told his soldiers the boy went south. Then he had gone north. He did not know why. The function said south. Something beneath the function — something that had cracked when the boy took his hand and showed him the label and the number — said north. The cracked thing had no voice, was not the function — it was the person inside the function, and the person was following the boy because the boy had done something that no one had ever done: he had looked into the empty room and seen someone standing in it.
 
 He came through the grey air like a blade — fast, clean, efficient. The stone weapon in his hand. His coat buttoned. The box in the interior pocket, over his heart. The blue feather and the green glass, the last two lights in the ruin, pressed against his chest by the leather.
 
@@ -76,7 +76,7 @@ The Knife stood in the grey air with the stone blade in his hand and the box on 
 
 He raised the blade.
 
-Jalo did not raise the staff. The staff continued to hold the Vine — the amber blazing, the Mold and the Heal working in tandem to keep the organic mass from advancing. But the staff was not pointed at The Knife. The staff was pointed at the Vine. The guardian's weapon was committed to the guardian's purpose: holding the wall. The Knife was not the wall. The Knife was something else. The Knife was a man standing in a dead zone with a weapon in his hand and a choice in his chest and the choice was the crack and the crack was the person and the person did not know what to do.
+Jalo did not raise the staff. The staff continued to hold the Vine — the amber blazing, the Mold and the Heal working in tandem to keep the organic mass from advancing. But the staff was not pointed at The Knife. The staff was pointed at the Vine. The guardian's weapon was committed to the guardian's purpose: holding the wall. The Knife was something else entirely — a man in a dead zone with a weapon in his hand and a choice in his chest. The crack. The person. Neither knew what to do.
 
 "I am not your enemy," Jalo said.
 
@@ -112,7 +112,7 @@ The Knife froze.
 
 The words hit harder than the blade. The words entered the crack and the crack widened and the widening was not structural failure but structural _opening_ — the weapon's architecture expanding to accommodate a truth that the architecture had been built to exclude. The box. The feather. The glass. The small, beautiful, dying things that The Knife carried against his chest every night and held for eleven seconds because the holding was the one act that was not function but choice.
 
-Jalo was carrying Aelo the way The Knife carried the box. The analogy was not metaphorical. It was structural. Both men had been reduced to a single purpose — one by oath, one by conditioning — and the purpose had consumed everything except the one thing the purpose was designed to protect: the beautiful thing. The fragile thing. The thing that mattered.
+Jalo was carrying Aelo the way The Knife carried the box. The analogy was not metaphorical. It was structural. Both men had been reduced to a single purpose — one by oath, one by conditioning — and the purpose had consumed everything except what it was designed to protect: something beautiful. Fragile. Worth carrying.
 
 The Knife looked at the blade in his hand. The stone weapon. The draining edge. The function's instrument. He looked at the man on his knees — the man who would not fall, who would not fight, who was taking blows and bleeding and healing and taking more blows and bleeding more and not falling.
 
@@ -124,19 +124,19 @@ Even then, he did not fall. On both knees, bleeding, the staff dimming in his ha
 
 The Knife drove the stone through Jalo's chest.
 
-The blade entered between the ribs. The draining edge severed the connection between the flesh and the world's memory — the ultimate wound, the one the Heal could not mend, because the Heal required the connection and the connection was what the blade destroyed. The stone passed through the guardian's body and the guardian's body accepted it the way the guardian had accepted everything: without refusal, without resistance, with the devastating, transcendent acceptance of a man who had been walking toward this wall for fifteen years and who had reached it.
+The blade entered between the ribs. The draining edge severed the connection between the flesh and the world's memory — the ultimate wound, the one the Heal could not mend, because the Heal required the connection and the connection was what the blade destroyed. The stone passed through the guardian's body and the body accepted it the way the guardian had accepted everything: completely. The devastating acceptance of a man who had been walking toward this moment for fifteen years.
 
 Jalo fell.
 
 Not immediately. The wall held for one more breath. The guardian knelt on the grey stone with the blade in his chest and the blood on his face and the staff dark in his hand and both eyes — the clear one and the lidded one — open.
 
-He turned his head. Toward the castle. Toward the corridor where Aelo had vanished. Toward the boy who was inside the beast, walking through dark corridors, moving toward the Chamber, moving toward the Song. The guardian turned toward the charge. The last orientation. The final act of a compass finding north.
+He turned his head. Toward the castle. The corridor where Aelo had vanished. The boy inside the beast, walking through dark corridors toward the Chamber, toward the Song. A compass finding north.
 
-He spoke. Loud. Clear. His last breath carrying the words with a force that magic alone could not explain — that the Murkr's dead zone should have swallowed, that the grey air should have absorbed, that the silence should have killed. But the words were not sound. The words were memory. And memory, in this world, was the thing that did not die.
+He spoke. Loud. Clear. His last breath carrying the words with a force that the Murkr should have swallowed and the silence should have killed. But the words were not sound. They were memory. And memory, in this world, was the thing that did not die.
 
 "You were never nothing. You are the Song."
 
-The words left him. The breath left him. The amber mark on his wrist — the Vael bond, the thread that had connected him to Aelo since the night of the burning — pulsed once. Bright. Warm. The color of a sunrise seen from the Clouds, the color of the inside of a bell, the color of a morning.
+The words left him. The breath left him. The amber mark on his wrist — the Vael bond, the thread that had connected him to Aelo since the night of the burning — pulsed once. Bright. Warm. The color of a sunrise seen from the Clouds. The inside of a bell. A morning.
 
 Then it dimmed. And Halvar Eld, Guardian of the Vael, fell.
 
@@ -146,11 +146,11 @@ Inside the castle, Aelo felt it.
 
 Not the moment of death — the death was a fact, and facts arrived through the Know as data, and the data was: the amber mark on his wrist, which had pulsed in rhythm with Jalo's heartbeat since the night of his birth, stuttered. Missed a beat. Missed another. And then the rhythm changed — from the synchronized, dual-heartbeat pattern that had been Aelo's lifelong companion to a single beat. His beat. Alone.
 
-The bond did not sever. The bond changed. The pulsing did not stop — it continued, but the second rhythm was gone, and the absence of the second rhythm was the loudest silence Aelo had ever felt, louder than the Murkr's dead zone, louder than the Canopy's overwhelm, louder than the Ming lake's first devastating flood.
+The bond did not sever. The bond changed. The pulsing did not stop — it continued, but the second rhythm was gone, and the absence of the second rhythm was the loudest silence Aelo had ever felt, louder than the Murkr's dead zone, than the Canopy's overwhelm, than anything he had ever felt.
 
 He stopped walking. He placed his numb hand on the castle wall. The stone was dead — the Blood Vine's corruption having consumed every trace of the original building's memory. But Aelo was not reaching for the stone. He was reaching through it. Through the dead walls, through the dark corridors, through the hundred yards of organic, appetite-driven architecture that separated him from the gate where the guardian had stood.
 
-He felt Jalo's death. Not the moment but the _texture_ — the emotional residue that the dying had left in the dead air. Exhaustion. The complete, terminal exhaustion of a body that had spent everything it had in eleven minutes and a lifetime. Relief. The particular, devastating relief of a person who has been carrying a weight for so long that the setting-down feels like falling and the falling feels like flying. And then love. A love so vast it filled every corridor of the castle — pouring through the dead stone like water through sand, finding every crack, every seam, every passage between one surface and another. The love was not directed. The love was not contained. The love was the dam breaking, the reservoir emptying, the fifteen years of held and managed and architecturally defended feeling releasing at once into the world, and the world — even this dead world, even the Murkr, even the place where memory went to die — received it.
+He felt Jalo's death. Not the moment but the _texture_ — the emotional residue that the dying had left in the dead air. Exhaustion first — the terminal kind, a body that had spent everything in eleven minutes and a lifetime. Then relief, the setting-down of a weight carried so long the setting-down felt like falling and the falling felt like flying. And then love. A love so vast it filled every corridor of the castle — pouring through the dead stone like water through sand, finding every crack, every seam. Fifteen years of held feeling releasing at once into the world, and the world — even this dead world, even the Murkr — received it.
 
 And inside the love: a memory. The last memory Jalo released as he died. The one he had carried longest. Protected most. The memory that had been the deepest item in the reservoir, the one beneath the herbs and the lies and the village and the mornings, the one that everything else had been built on and built to protect.
 
@@ -158,17 +158,17 @@ The sound of Maera singing a lullaby in the nursery. The night everything burned
 
 It poured through Aelo like light through a window. Not the dimmed, muffled, Murkr-attenuated light that filtered through the dead air outside. Full light. Golden. The light of the Core's crystal veins and the lake stone's stillness and the Blue Sun's annual remembering and the sky above the Clouds where the Song lived in the air. Maera's voice — clear, warm, the lullaby that she had been singing to him since before he was born — filled him. Not as sound. As memory. Carried through death and fifteen years of a guardian's stubborn protection, arriving now, in this corridor, in this castle, at the moment when the boy needed it most.
 
-For the first time in his life, Aelo heard the Song clearly. Not as a distant note. Not as a harmonic beneath other disciplines. Not as the faint, buried, suffocated frequency that he had been following since the herbs stopped. As a complete, whole, devastating piece of music — all seven voices, all seven disciplines, the full chord that Fletcher had Sung and that Maera had held and that the world had been waiting to hear again for centuries.
+For the first time in his life, Aelo heard the Song clearly. Not the faint, buried frequency he had been chasing since the herbs stopped. The full chord — all seven voices, all seven disciplines — the music that Fletcher had Sung and that Maera had held and that the world had been waiting three centuries to hear again.
 
 His mother's voice. And beneath it, all the voices of the world.
 
-He fell to his knees in a dark corridor of the monster's castle and he heard everything. He heard the stone remembering being a home. He heard the Blood Vine remembering being a plant. He heard the dead zone remembering being the brightest place in the world. He heard the prisoners in the Chamber below — dozens of them, their memories being drained, their voices muffled but present, the human chorus that Varas's machine was consuming one life at a time. He heard the Great Elder Stone — above, in the Clouds, in the sky, Fletcher's original note sustained for centuries, the first Singer's sacrifice singing to the last Singer's blood.
+He fell to his knees in a dark corridor of the monster's castle and he heard everything. He heard the stone remembering being a home. The Blood Vine remembering being a plant. The dead zone — the brightest place in the world, buried under decades of grey. Below him, prisoners in the Chamber, dozens of them, their memories being drained, their voices muffled but present. And above — in the Clouds, in the sky — the Great Elder Stone, Fletcher's original note sustained for centuries, the first Singer's sacrifice singing to the last Singer's blood.
 
 He heard Jalo. The last echo. The words, still resonating in the dead air, still carrying through the stone: _You were never nothing. You are the Song._
 
 The tears came. He knelt in the dark and he wept and the weeping was not the ocean's recognition or the Cloud elders' response. The weeping was a boy who had just lost the only father he had ever known and who had received, in the losing, the only gift the father had left to give: the memory of a mother's voice, singing.
 
-The castle held him. The dark held him. The Song held him — vast, complete, devastating, the full chord ringing in his blood, in his bones, in every cell of a body that had been built to carry this frequency and that was, at last, carrying it.
+The castle held him. The dark. The Song — vast, complete, devastating, the full chord ringing in his blood, in his bones, in every cell of a body that had been built to carry this frequency and that was, at last, carrying it.
 
 He knelt in the dark and he heard the Song and the Song was everything and the everything included the grief.
 

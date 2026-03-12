@@ -14,7 +14,7 @@ The note.
 
 The same note. The Elder Stone note — the frequency that had sounded during the ceremony when the boy screamed and the Stone opened and The Knife had, for half a second, been part of something larger than himself. The same note, but different. Not produced by a Stone. Produced by _absence_. By the memory of a person's presence, left behind in the earth the way a handprint is left in clay, and the memory was singing because the person who had left it was the kind of person whose presence left music in the ground.
 
-The Knife held his palms against the sand and listened. The note filled him — not the half-second of the ceremony but a sustained tone, quieter, less overwhelming, but _continuous_. For as long as his hands were on the ground, the note was there. The completeness was there. The feeling of being part of something — not the sharp, total immersion of the Elder Stone but a softer version, a whisper where the Stone had been a shout, carrying the same message at lower volume: _you are not separate. You are not alone. The world remembers you being part of it._
+The Knife held his palms against the sand and listened. The note filled him — not the half-second of the ceremony but a sustained tone, quieter, less overwhelming, but _continuous_. For as long as his hands were on the ground, the note was there. A softer version of the Elder Stone — a whisper where the Stone had been a shout. _You are not separate. The world remembers you being part of it._
 
 He kept his hands on the sand for eleven seconds. The discipline held. He lifted them.
 
@@ -42,7 +42,7 @@ The stone. Smooth. Grey. A river. He could not remember which river. The choosin
 
 The glass. Green. The sea. A beach. The sky above the beach — gone. The mission that brought him there — gone. The green meant _outside_, and outside was a concept that was losing its content the way a room loses its furniture, the walls still standing but the habitation gone.
 
-Three. Three items with stories, and the stories were losing sentences with each telling, and the tellings were the only thing keeping the stories alive, and the tellings were happening in a mind that was being emptied from beneath, and the emptying was accelerating, and the acceleration was his father's appetite, and his father's appetite was a hole that had no bottom because the hole was not hunger but architecture — the structural absence at the center of a man who had been born deaf to the Song and who had spent his life consuming other people's music to fill a silence that could not be filled .
+Three. Three items with stories, and the stories were losing sentences with each telling, and the tellings were the only thing keeping the stories alive, and the tellings were happening in a mind that was being emptied from beneath, and the emptying was accelerating, and the acceleration was his father's appetite, and his father's appetite was a hole that had no bottom.
 
 He closed the box. He pressed it to his chest. The box was lighter. Not physically — the objects weighed the same. But the stories weighed less, and the stories were the real weight, and the real weight was leaving.
 
@@ -50,7 +50,7 @@ Outside, the Flash Rat whined. The surf hissed. The tracker's eyes opened in the
 
 "South," she said. "Along the coast. Hours ahead. Moving fast."
 
-The Knife stood. He gave the order. The camp broke with the practiced efficiency of men who had been moving for weeks and who had learned that the breaking was not a task but a rhythm, and the rhythm was the only thing that kept the mission from becoming a question, and the question — _why are we hunting a boy who leaves music in the sand_ — was the one question that no one in the party was willing to ask because the asking would require a framework for refusal that the King's service did not provide.
+The Knife stood. He gave the order. The camp broke with the practiced efficiency of men who had been moving for weeks and who had learned that the breaking was not a task but a rhythm, and the rhythm was the only thing that kept the mission from becoming the question no one was willing to ask: _why are we hunting a boy who leaves music in the sand?_
 
 They moved south. The moon was high. The coast stretched ahead — silver sand, dark water, the smell of salt and the memory of a note that The Knife could still feel in his palms, fading, the way all things faded now — slowly, by degrees, the warmth leaving the room, the music leaving the air, the light leaving the glass.
 
@@ -92,7 +92,7 @@ Jalo looked at the boy who was not a boy. He looked at him for a long time — l
 
 "One more stop," Jalo said. His voice was rough. Not with emotion — with the physical effort of a man reshaping a fifteen-year structure around a new reality. "The Clouds. Your mother's people. Then we go to the Murkr."
 
-The words arrived in Aelo's chest with a weight that was not the weight of information but the weight of _identity_. Your mother's people. The Clouds. He had known — abstractly, in the way you know facts that have been told to you but that have not yet been felt — that his mother had come from somewhere. That the woman whose lullaby Jalo could not finish, whose magic had been the Sing, whose death was a silence that Jalo carried the way the lake stone carried the riverbed — that woman had been a person with a people. A people with a place. A place that was in the sky.
+The words arrived in Aelo's chest with a weight that was not the weight of information but the weight of _identity_. Your mother's people. The Clouds. He had known — abstractly, in the way you know facts that have been told to you but that have not yet been felt — that his mother had come from somewhere. That the woman whose lullaby Jalo could not finish, whose magic had been the Sing, whose death was a silence Jalo had carried for fifteen years — that woman had been a person with a people. A people with a place. A place that was in the sky.
 
 The Clouds. His mother's people. Cloud People. The people who lived on floating stones held aloft by ancient Move magic, who spoke softly, who saw from heights that others could not reach, who had produced the last Singers and who had been the first target of Varas's storms because a man who cannot hear the Song will destroy the sky to stop anyone else from singing it.
 
@@ -104,7 +104,7 @@ He had a people. He had a heritage. He was not nothing. He had never been nothin
 
 The ocean breathed. The trajectories converged. The hunting party moved south. The orbit tightened. The pull from the Murkr sustained its note — constant, patient, the Great Elder Stone singing to the blood of a boy who was standing on a coastal road learning his mother's name and deciding, for the first time in his life, where he was going.
 
-Laine stood apart. Her restless eyes were still — focused on the two of them, on the trajectory-shift that was happening in real time, the boy's momentum resolving from preparation to purpose. She had seen this before. Twice. Both times, the Chosen One had died. But neither of the dead ones had done what this one had just done — neither had chosen the trajectory. Neither had stopped running before they were cornered. Neither had turned toward the destination rather than being pushed toward it. The choosing mattered. The choosing was the variable. The choosing was the difference between a trajectory imposed and a trajectory owned, and owned trajectories were the only ones that survived the convergence.
+Laine stood apart. Her restless eyes were still — focused on the two of them, on the trajectory-shift that was happening in real time, the boy's momentum resolving from preparation to purpose. She had seen this before. Twice. Both times, the Chosen One had died. But neither of the dead ones had done what this one had just done — neither had chosen the trajectory. Neither had stopped running before they were cornered. Neither had turned toward the destination rather than being pushed toward it. The choosing mattered. Owned trajectories were the only ones that survived the convergence.
 
 "North, then," Laine said. "Through the Desert. Over the Remembering. Into the sky."
 

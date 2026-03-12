@@ -90,9 +90,9 @@ It was small. Three inches tall. The stem thin, pale from the absence of sunligh
 
 He had taken it. Not picked — taken. Carefully, with the almost religious care of a man encountering a miracle. He had pressed it between two smooth stones — a preservation technique he had learned from — the memory provided: a prisoner. An old woman. A Healer. She had been in the cell for years. She had taught him the pressing technique — not because she was kind, though she was, but because she had seen the flower too and she had understood that the flower mattered and she had wanted the mattering to survive.
 
-The flower was stubbornness. The flower was refusal. The flower was the living world saying: _you can build the prison and you can seal the floor and you can design every condition to prevent me, and I will grow anyway, because growing is what I am and what I am cannot be prevented by what you build._
+The flower was stubbornness. Refusal. The living world saying: _you can build the prison and you can seal the floor and you can design every condition to prevent me, and I will grow anyway, because growing is what I am and what I am cannot be prevented by what you build._
 
-He had carried the flower because he admired it. Because the stubbornness was the thing he recognized in himself — the thing that kept the box, that checked the objects, that held the beautiful things for eleven seconds when the function said they were unnecessary. The flower was the proof that growing through stone was possible. The flower was the proof that he was alive.
+He had carried the flower because he admired it. Because the stubbornness was the thing he recognized in himself — the thing that kept the box, that checked the objects, that held the beautiful things for eleven seconds when the function said they were unnecessary. The flower was the proof that growing through stone was possible. That he was alive.
 
 ---
 
@@ -104,7 +104,7 @@ A woman. A prisoner. She was being led to the Chamber — the corridor, the guar
 
 She had seen him. She had been walking between two guards, her hands bound, her face carrying the resigned, enormous calm of a person who has accepted what is coming and has decided to spend the remaining moments not in fear but in attention — in the act of seeing, really seeing, the last things she would see. The walls. The stone. The light. And him.
 
-She had smiled. Not a pleading smile. Not a terrified smile. Not the performative smile of a person trying to influence the checkpoint officer. A real smile. The smile of a woman who was looking at a man in armor and seeing, beneath the armor, beneath the function, beneath the stone blade and the operational posture and the flat eyes — a person. A human being. A boy who had once seen a bird and who was now standing at a checkpoint with the bird's feather in a box in his coat and who was, in the woman's smile, being seen not as a weapon but as a person who carried beautiful things.
+She had smiled. Not pleading or terrified or performative. A real smile. The smile of a woman who was looking at a man in armor and seeing, beneath the armor, beneath the function, beneath the stone blade and the operational posture and the flat eyes — a person. A human being. A boy who had once seen a bird and who was now standing at a checkpoint with the bird's feather in a box in his coat and who was, in the woman's smile, being seen not as a weapon but as a person who carried beautiful things.
 
 _I see you,_ the smile said. _I know what you are. And I am not afraid of you._
 
@@ -116,11 +116,11 @@ He had carried the cloth because the smile was the only time in his life that an
 
 He held each object and wept.
 
-The weeping was not the eleven-second discipline. The weeping was not the function's contained, operational, protocol-compliant emotional release. The weeping was a man holding a box of objects that had been dead for weeks and that were alive again — every story returned, every color restored, every sensory detail that the drain had consumed now flowing back through the reversed Blood Vine network, through the conduit that a dying god had built, through the Song that a boy had Sung.
+The weeping was not the eleven-second discipline or the function's protocol-compliant release. It was a man holding a box of objects that had been dead for weeks and that were alive again — every story returned, every color restored, every sensory detail that the drain had consumed now flowing back through the reversed Blood Vine network, through the conduit that a dying god had built, through the Song that a boy had Sung.
 
 The feather was blue. The stone was a river. The glass was a thought. The flower was stubbornness. The cloth was a smile.
 
-Five objects. Five stories. Five pieces of a humanity that had been stolen and returned and that were, in this moment, in this room, in this man's hands — the most precious things in the world. Not because they were rare or powerful or magical. Because they were _his_. Because they were the proof that a man who had been designed as a weapon and labeled as a supply and consumed as a resource was none of those things. Was a person. Was Baara. Was the boy who caught the feather and the man who held the stone and the soldier who saved the flower and the checkpoint officer who kept the cloth.
+Five objects. Five stories. Five pieces of a humanity that had been stolen and returned and that were, in this moment, in this room, in this man's hands — the most precious things in the world. Not because they were rare or powerful or magical. Because they were _his_. Because they were the proof that a man who had been designed as a weapon and labeled as a supply and consumed as a resource was none of those things. Was a person. Was Baara. The boy who caught the feather, the man who held the stone, the soldier who saved the flower, the checkpoint officer who kept the cloth.
 
 Was a person who found the world beautiful and who had been punished for the finding by a father who could not feel beauty and who had consumed his son's capacity for it the way a man dying of thirst drinks saltwater — desperately, futilely.
 
@@ -150,7 +150,7 @@ In his coat: four objects. The river stone. The sea glass. The dried flower. The
 
 On the guardian's chest: one. The blue feather. The most beautiful thing. Given freely. The first gift the Knife had ever made.
 
-He walked. The grey thinned. The light grew. And behind him, on the grey stone, a dead man held a blue feather on his chest, and the feather caught the light, and the light was the beginning, and the beginning was the Song, and the Song was the sound the world made when it remembered being whole.
+He walked. The grey thinned. The light grew. And behind him, on the grey stone, a dead man held a blue feather on his chest, and the feather caught the light. The light was the beginning. The beginning was the Song — the sound the world made when it remembered being whole.
 
 ---
 

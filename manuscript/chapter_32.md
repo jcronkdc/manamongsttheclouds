@@ -10,17 +10,17 @@ They were within a hundred yards of the outer wall — close enough for Aelo to 
 
 The ground Molded beneath them.
 
-Not slowly — not the patient, conversation-based reshaping that Torvus had taught. Violently. The grey dust erupted. The dead earth split along lines that were not geological but intentional, the stone beneath the surface cracking and rising and reconfiguring with the speed and force of a trap sprung by a mechanism that had been coiled for decades. Blood Vine burst from the fissures — thick, ropy, the tendrils darker than the ones in the walls, the older growth, the roots of the network that ran from the castle to the dead zone's perimeter, the arterial system of Varas's parasitic empire.
+Violently — nothing like the patient, conversation-based reshaping that Torvus had taught. The grey dust erupted. The dead earth split along lines that were not geological but intentional, the stone beneath the surface cracking and rising and reconfiguring with the speed and force of a trap sprung by a mechanism that had been coiled for decades. Blood Vine burst from the fissures — thick, ropy, the tendrils darker than the ones in the walls, the older growth, the roots of the network that ran from the castle to the dead zone's perimeter, the arterial system of Varas's parasitic empire.
 
 Laine was caught first. The Vine wrapped her ankle — fast, a whip-crack of organic material coiling around the joint — and pulled. She went down. The ground swallowed her to the knees, the dead earth liquefying around her legs, the Vine threading upward from ankle to shin to thigh with the relentless, impersonal efficiency of a system that had been catching people for forty years. She screamed — not in pain but in the involuntary sound of a person whose Guide sense had been blind and who had not felt the trajectory of the trap because the Murkr's dead zone scrambled trajectories and the trap had no trajectory because the trap was not going anywhere. The trap was already here.
 
 Jalo moved.
 
-Not the rationed, careful, knee-managed movement that had been his gait for twenty years. Not the defender's posture, the guardian's caution, the healer's measured response. Jalo moved the way a wall moves when the wall decides it is not a wall but a weapon — the full, unrestricted, catastrophic deployment of everything the man had been suppressing since the burning nursery and the running and the fifteen years of hiding and the herbs and the village and the meticulous, obsessive, self-destroying discipline of a man who had been holding back the tide with his body for half his life.
+He dropped everything — the rationed gait, the defender's posture, the guardian's caution. All of it gone. Jalo moved the way a wall moves when it decides it is a weapon — the full, unrestricted, catastrophic deployment of everything the man had been suppressing since the burning nursery and the running and the fifteen years of hiding and the herbs and the village and the meticulous, obsessive, self-destroying discipline of a man who had been holding back the tide with his body for half his life.
 
 His staff blazed. The amber glow that had been a lantern in the Core became a torch — the wood's embedded memory ignited, the Heal and the Mold and whatever fragments of other disciplines Jalo carried in his blood combining into a single, devastating output. He swung the staff at the Vine holding Laine. The impact was not a strike — it was a Mold command, the staff's memory speaking to the Vine's organic structure, telling it to remember being separate, being unconnected, being individual strands rather than a coordinated system. The Vine shattered. Not cut — _disassembled_. The tendrils fell away from Laine's legs in pieces, each piece curling and dying the moment it was severed from the network.
 
-More Vine came. From every direction — from the ground, from the walls, from the air where the tendrils had grown thin enough to float on the Murkr's dead wind. The Vine was not attacking. The Vine was responding. The castle had felt the intrusion — three warm bodies in the dead zone, three sources of living memory in a place that had been drained of memory — and the response was automatic, systemic, the organism's immune system activating against the infection of life.
+More Vine came. From every direction — from the ground, from the walls, from the air where the tendrils had grown thin enough to float on the Murkr's dead wind. The Vine was responding, not attacking. The castle had felt the intrusion — three warm bodies in the dead zone, three sources of living memory in a place that had been drained of memory — and the response was automatic, systemic, the organism's immune system activating against the infection of life.
 
 Jalo fought it. He Molded the ground — the staff slamming into the dead earth, the stone beneath responding to his command, rising in walls that blocked the Vine's advance, creating barriers that the tendrils could not penetrate because the stone remembered being whole and the wholeness was, for the moment, stronger than the appetite. He Moved the air — a discipline Aelo had not known Jalo possessed, a fragment, a whisper of the Cloud People's magic carried in the blood of a man who had served in the Cloud Palace and who had spent years in the altitude and who had absorbed, through proximity, a trace of the sky's discipline. The air pushed. Not much — not the practiced, precise manipulation of a trained Mover. A shove. A gust. Enough to deflect the floating tendrils, to clear the air around them, to buy seconds.
 
@@ -30,13 +30,13 @@ He healed the burns as fast as they appeared. The Vine advanced. He Molded walls
 
 "Go," Jalo said.
 
-He was not looking at Aelo. He was looking at the Vine — at the wave of tendrils that was reforming after each disruption, reorganizing, adapting, the organic intelligence of a system that learned from every encounter and that would, given time, find the approach that Jalo could not counter. He was looking at the tide. He was measuring it. And the measurement was clear: the tide was winning.
+He was watching the Vine — the wave of tendrils reforming after each disruption, reorganizing, adapting. A system that learned from every encounter and would, given time, find the approach Jalo could not counter. He was measuring the tide. The measurement was clear: the tide was winning.
 
 "Find the Chamber. Find the Great Stone. I'll hold them."
 
 "I'm not leaving you."
 
-Jalo turned. The scarred face — both sides, the smooth and the ridged — held something that Aelo's dimmed Know could read only because the something was so vast that even the Murkr's dead zone could not mute it. Love. Not the compressed, managed, architecturally contained love of the village years. Not the released, undefended love of the Ming terrace. Something beyond both. The love of a man who has arrived at the moment his entire life was built for and who is standing in the moment with the terrible, transcendent clarity of a person who knows what comes next and has accepted it.
+Jalo turned. The scarred face — both sides, the smooth and the ridged — held something that Aelo's dimmed Know could read only because the something was so vast that even the Murkr's dead zone could not mute it. Love. Something beyond the compressed version of the village years or the released love of the Ming terrace. The love of a man who has arrived at the moment his entire life was built for, standing in it with the terrible clarity of a person who knows what comes next.
 
 "You are," Jalo said. "Because I am the wall between the fire and the Song. I have always been the wall. That is what the Vael Guard swore. That is what the mark means. The guardian stands between the threat and the charge, and the standing is not a strategy. It is an identity. Go."
 
@@ -48,7 +48,7 @@ A Vine tendril struck. Jalo caught it with the staff — the amber blazing, the 
 
 "GO."
 
-The word was not a request. It was not an order. It was the last act of a guardian fulfilling an oath, and the act was the hardest thing the guardian had ever done because the act required sending the thing he loved most into the place he feared most, and the sending was the oath's final demand, and the demand was absolute.
+The word was the last act of a guardian fulfilling an oath — the hardest thing he had ever done, because it required sending the thing he loved most into the place he feared most. The demand was absolute.
 
 Aelo ran. Toward the castle. Toward a doorway that the Vine had not yet sealed — an opening in the outer wall, the original gate, the entrance that Fletcher's builders had cut and that Varas's Molding had twisted but not closed. The Vine reached for him as he ran — tendrils from the walls, from the ground, the castle's immune response targeting the brightest source of living memory. But Jalo was behind him, and Jalo's staff was blazing, and the Vine that reached for Aelo was met by a wall of Molded stone and Moved air and the unstoppable, five-discipline fury of a man who was spending everything he had ever saved in a single, sustained, incandescent act of protection.
 
@@ -56,12 +56,12 @@ Aelo reached the doorway. He passed through. The corridor sealed behind him — 
 
 He could hear Jalo. Through the stone. Through the dead walls. The sound of the staff striking. The sound of the Mold commands. The sound of a man fighting a castle. Not the sounds of combat — the sounds of endurance. A Healer fighting a fortress. Absorbing every blow. Healing others. Unable to heal himself.
 
-The sounds continued as Aelo walked deeper into the beast. The sounds continued as the corridors twisted and the Blood Vine pulsed in the walls and the darkness grew and the castle's appetite pressed against him from every surface. The sounds continued because Jalo was still standing. Because the wall had not fallen. Because the guardian was doing what the guardian had always done: holding the line so that the Song could continue.
+The sounds continued as Aelo walked deeper into the beast — through twisting corridors, through Blood Vine pulsing in the walls, through darkness and the castle's appetite pressing from every surface. Jalo was still standing. The wall had not fallen. The guardian was doing what the guardian had always done: holding the line so that the Song could continue.
 
-Aelo walked. The castle swallowed him. The sounds of the guardian's fight grew fainter — not because the fight was ending but because the distance was growing, the corridors carrying him deeper into the structure, farther from the gate, farther from the light, farther from the man who had raised him.
+Aelo walked. The castle swallowed him. The sounds of the guardian's fight grew fainter — not because the fight was ending but because the distance was growing, the corridors carrying him deeper into the structure, away from the gate and the light and the man who had raised him.
 
-He held the lake stone. He held the riverbed. He held the Song.
+He held the lake stone. The riverbed. The Song.
 
-And beneath the Song, beneath the riverbed, beneath every discipline and every cost and every lesson: he held the sound of a staff striking stone in the dark, and the sound was not diminishing but sustaining, and the sustaining was love, and the love was the wall, and the wall was holding.
+And beneath all of it — Song, riverbed, every cost and lesson — he held the sound of a staff striking stone in the dark. The sound held steady. It was love. And the love was holding.
 
 For now.

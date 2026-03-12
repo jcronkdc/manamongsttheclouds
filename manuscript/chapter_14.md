@@ -30,7 +30,7 @@ Aelo watched this and the coal stirred. The iron taste — faint, familiar — f
 
 The anger passed. It always passed. But it left its residue, and the residue was this: something rearranged in his chest. Deeper than the pocket or the riverbed or any of the structures the Ming had been teaching him to build. Something older. Something that had been forming since before the herbs, since before the ceremony, since the first morning he had watched Jalo eat porridge and exhale and not understood what the exhale meant.
 
-The rearrangement was this: the man he had grown up with was not the man sitting on the terrace. The man on the terrace was who Jalo had been _before_. Before the purge. Before the blade. Before the bottle and the herbs and the fifteen years of mornings. The trapper, the drunk, the half-faced guardian who rationed words and drank to quiet the ghosts — that man was a construction. A shelter built to survive a storm. And now the storm was easing, and the shelter was coming apart, and what was emerging from inside it was warm and funny and full of stories and had been in love with a woman on a branch for four seconds twenty years ago and still remembered the sound of the forest drumming for her.
+The rearrangement was this: the trapper, the drunk, the half-faced guardian who rationed words and drank to quiet the ghosts — that man was a construction. A shelter built to survive a storm. And now the storm was easing, and the shelter was coming apart, and what was emerging from inside it was warm and funny and full of stories and had been in love with a woman on a branch for four seconds twenty years ago and still remembered the sound of the forest drumming for her.
 
 This was the man his mother had trusted with her son.
 
@@ -38,7 +38,7 @@ This was the man his mother had trusted with her son.
 
 On the eighth evening, Jalo taught Aelo to make a tincture.
 
-Not the herbs. Not the black wax and the unmarked jar and the chalk-and-copper taste that had been the architecture of Aelo's captivity. A real tincture — a Healer's preparation, made for mending rather than suppression.
+Not the herbs or the black wax or the chalk-and-copper captivity. A real tincture — a Healer's preparation, made for mending rather than suppression.
 
 They sat in the monastery's workroom — a small chamber off the central hall, lined with shelves of clay jars and dried plants and the accumulated pharmacological knowledge of three centuries of Ming practitioners. The light was the same blue-green bioluminescence that lit the rest of the monastery, and in its cool glow the herbs looked like specimens in a museum: preserved, categorized, each one a word in a language that Jalo spoke fluently and that Aelo was hearing for the first time without the filter of deception.
 
@@ -66,7 +66,7 @@ Aelo turned the bark in his fingers. It was warm — a faint, internal warmth, a
 
 "It hears the knee. The knee appreciates being heard. Whether the pain diminishes is..." Jalo paused, searching for the honest word. "Secondary. The point is not the absence of pain. The point is that the pain is not alone."
 
-They worked together. Jalo showed him the proportions — Breedlebuck to Fiddleroot to Ironbark, ground in a stone mortar, mixed with water from the lake (the water remembered health; all water did, at some depth, because water had been the first living medium and the memory of life was in its structure). The tincture was simple. The making of it was not — each step required attention, intention, the Healer's quality of listening that Aelo could feel through the Know. Jalo's hands moved over the mortar with the practiced certainty of a man who had made this preparation thousands of times, and even through the numbness in his fingertips, the hands knew where to go. Muscle memory. The body remembering what the fingers could no longer feel.
+They worked together. Jalo showed him the proportions — Breedlebuck to Fiddleroot to Ironbark, ground in a stone mortar, mixed with water from the lake. The tincture was simple. The making of it was not — each step required attention, intention, the Healer's quality of listening that Aelo could feel through the Know. Jalo's hands moved over the mortar with the practiced certainty of a man who had made this preparation thousands of times, and even through the numbness in his fingertips, the hands knew where to go. Muscle memory. The body remembering what the fingers could no longer feel.
 
 This was the first time Jalo had taught Aelo something without hiding half the lesson. This was the truth: a man showing a boy how to listen to the body the way the body listens to itself, with patience and attention and the unhurried love that healing requires.
 
@@ -76,7 +76,7 @@ The feeling between them shifted. Not forgiveness — not yet. But the beginning
 
 Later, after the tincture was bottled and shelved and the workroom cleaned, Jalo told Aelo about the Vael Guard.
 
-Not his role in it — not the nursery, not the fire, not the blade. Aelo knew those stories. They had been delivered in the hollow tree and at the Remembering gate with the surgical precision of a man who understood that truth, once released, could not be managed, only survived.
+Not the nursery or the fire or the blade. Aelo knew those stories. They had been delivered in the hollow tree and at the Remembering gate with the surgical precision of a man who understood that truth, once released, could not be managed, only survived.
 
 This was different. This was history — not the propaganda version that Halla had recited in the schoolroom with her quickening heartbeat and her flinching composure, but the real history, told by a man who had lived inside it.
 
@@ -84,13 +84,11 @@ This was different. This was history — not the propaganda version that Halla h
 
 "Boundaries of what?"
 
-"Of everything. The boundary between the forest and the field. The boundary between the mountain and the plain. The boundary between the living and the dead." Jalo's voice had settled into the register that Aelo was learning to recognize as the teaching register — not the clipped evasion of the trapper or the raw confession of the guardian, but a third voice. The voice of a man who had once been part of something larger than himself and who carried that belonging in the shape of his sentences. "The Guard believed that the world's memory was strongest at boundaries — at the places where one thing ended and another began. We stood there so that the memories would not be lost in the crossing."
+"Of everything. The boundary between the forest and the field. The boundary between the mountain and the plain. The boundary between the living and the dead." Jalo's voice had settled into the register that Aelo was learning to recognize as the teaching register — a third voice. The voice of a man who had once been part of something larger than himself and who carried that belonging in the shape of his sentences. "The Guard believed that the world's memory was strongest at boundaries — at the places where one thing ended and another began. We stood there so that the memories would not be lost in the crossing."
 
 "And when Fletcher came?"
 
-"When Fletcher was given the Song, the Guard swore to protect the bloodline. Not the king. Not the crown. The _blood_. The memory in the blood. Because the Song was the most important thing in the world — more important than any kingdom, any throne, any man who sat on it."
-
-"More important than any one life?"
+"When Fletcher was given the Song, the Guard swore to protect the bloodline. The _blood_. The memory in the blood. Because the Song was the most important thing in the world — more important than any kingdom, any throne, any man who sat on it."
 
 Jalo was quiet. The lake reflected. The moss glowed.
 
@@ -102,7 +100,7 @@ Aelo looked at the mark on his wrist. The amber pulse, faint in the blue-green l
 
 Jalo looked at his own wrist. The matching amber, pulsing in the same rhythm, two hearts beating to a frequency that neither of them had chosen and neither of them could sever.
 
-He opened his mouth. Closed it. The mechanism of confession — which had been running so freely this week, stories and laughter pouring from the man like water from an overfull vessel — seized. The muscles around his jaw tightened. The scars pulled. The shelter, which had been coming apart all week, reassembled itself around this one room, this one door, this one truth that was not ready to be spoken.
+He opened his mouth. Closed it. The mechanism of confession seized. The stories and laughter that had been pouring from the man all week stopped. The muscles around his jaw tightened. The scars pulled. The shelter, which had been coming apart all week, reassembled itself around this one room, this one door, this one truth that was not ready to be spoken.
 
 "Not yet," he said. "Please. Not yet."
 
@@ -112,7 +110,7 @@ Jalo's face — both sides, the scarred and the smooth — produced an expressio
 
 "Not yet," he said again. But the voice was different. The _please_ was gone. What remained was not refusal but confession — the acknowledgment that the truth existed, that the truth was owed, that the delay was not protection but cowardice.
 
-Aelo held the man's gaze. He held it the way the stone held the riverbed — without force, without aggression, with the patient, immovable, structurally certain pressure of a person who was not going to look away because looking away was what the old Aelo would have done, and the old Aelo had swallowed the herbs every morning and accepted the silence every night and never once said _no_ to the man who loved him, and the never-once was over.
+Aelo held the man's gaze. He held it without force, without aggression, with the patient, immovable pressure of a person who was not going to look away because looking away was what the old Aelo would have done, and the old Aelo had swallowed the herbs every morning and accepted the silence every night and never once said _no_ to the man who loved him, and the never-once was over.
 
 "Okay," Aelo said. Not surrender — a choice. The deliberate, eyes-open choice of a person who could push harder and was choosing not to, not because the pushing was wrong but because the man in front of him had said _please_ and the _please_ was new and the newness meant the wall was coming down on its own and the pushing would only slow the falling. "But soon."
 

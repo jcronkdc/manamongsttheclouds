@@ -6,11 +6,11 @@
 
 The monk's name was Oren, and his mind was the most beautiful place Aelo had ever been.
 
-He was young — twenty, perhaps, though the Ming aged in ways that made estimation difficult, their faces settling into composure early and holding it long, the way lake water settles and holds. Dark-haired, slight, with the expanded pupils and the quiet hands of a man who had been trained since childhood to listen to the world's memory and who had, through years of discipline, learned to organize what he heard the way other people organized shelves.
+He was young — twenty, perhaps, though the Ming aged in ways that made estimation difficult, their faces settling into composure early and holding it long. Dark-haired, slight, with the expanded pupils and the quiet hands of a man who had been trained since childhood to organize what he heard.
 
 He sat across from Aelo in the monastery's central chamber — a low-ceilinged room of polished stone, lit by bioluminescent moss that grew in carefully tended strips along the walls, producing a blue-green light that was not warm but was not cold either. It was the light of attention. The light of a place designed for one purpose: to see what was inside.
 
-"I will open my memory to you," Oren said. His voice was calm, his heartbeat steady — Aelo could feel it through the Know, a resting pulse of forty-eight beats per minute, the cardiac signature of a man who had meditated so consistently that his body had forgotten how to hurry. "You will enter. You will see what I choose to show you. This is the first exercise of the deep Know — walking through recollection, not as emotion but as architecture."
+"I will open my memory to you," Oren said. His voice was calm, his heartbeat steady — forty-eight beats per minute, the resting pulse of a man whose body had forgotten how to hurry. "You will enter. You will see what I choose to show you. This is the first exercise of the deep Know — walking through recollection, not as emotion but as architecture."
 
 "What if I see something you don't want me to see?"
 
@@ -22,7 +22,7 @@ Oren studied him. The flat black eyes — depthless, volumetric, the eyes of a p
 
 "Give me your hands," Oren said.
 
-Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused in the pattern of a man who spent hours each day with his palms pressed to stone floors. The physical contact amplified the Know immediately — Oren's heartbeat went from background data to foreground texture, the pulse no longer a number but a landscape, each beat carrying a cargo of memory and intention.
+Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused from years of palms pressed to stone. The physical contact amplified the Know immediately.
 
 "Close your eyes," Oren said. "Listen through your hands. Not for emotion — for structure. The shape of my memory. The architecture. Follow it in."
 
@@ -32,11 +32,11 @@ Aelo closed his eyes. He listened.
 
 The first thing he noticed was the order.
 
-His own mind, when he turned the Know inward — which he had done only twice, both times accidentally, both times terrifying — was a storm. Memories overlapping, emotions bleeding into each other, sensory data from the present tangled with echoes from the past, the entire apparatus of selfhood operating in a state of permanent, barely managed chaos. This was, he understood now, the result of fifteen years of suppression followed by a catastrophic decompression. His mind had not had time to organize. It had simply opened, and everything had poured in, and the best he could manage was the pocket — a small cleared space in the center of the flood.
+His own mind, when he turned the Know inward — which he had done only twice, both times accidentally, both times terrifying — was a storm. Memories overlapping, emotions bleeding into each other, sensory data tangled with echoes from the past. Fifteen years of suppression followed by catastrophic decompression. His mind had simply opened, and everything had poured in, and the best he could manage was the pocket.
 
 Oren's mind was not a flood. Oren's mind was a library.
 
-Aelo stood — not physically, but in the metaphorical space that the Know created when two minds connected through contact, a shared interior that was neither his nor Oren's but a collaborative architecture produced by the meeting — and looked around. The space presented itself as a series of corridors, clean and lit, branching from a central hall. Each corridor was lined with doors. Each door was closed but not locked — the difference between privacy and secrecy, between a boundary that says _not yet_ and a wall that says _never_.
+Aelo stood — not physically, but in the shared interior that the Know created when two minds connected — and looked around. Corridors, clean and lit, branching from a central hall. Each corridor was lined with doors. Each door was closed but not locked — the difference between privacy and secrecy, between a boundary that says _not yet_ and a wall that says _never_.
 
 "This way," Oren's voice said. Not from outside — from within the architecture. He was here too, a presence in his own memory, a guide walking beside Aelo through the organized record of his own life. "I'll show you three rooms. The first is simple. A day. Nothing important. This is how memory looks when it is cared for."
 
@@ -44,7 +44,7 @@ A door opened. Aelo stepped through.
 
 Morning. A room in the monastery — Oren's room, recognizable by the shelf and the bowl and the particular quality of moss-light on the eastern wall. Oren was young in this memory — twelve, perhaps, the face not yet settled into its adult composure, the eyes still carrying a child's capacity for surprise. He was sitting on his bed, cross-legged, and a woman was braiding his hair.
 
-The woman was his mother. Aelo knew this not because the memory contained a label — _mother_ — but because the emotional signature was unmistakable. It was the feeling of being tended by someone for whom the tending was not a task but a language. Each pass of the braid carried a sentence. Each tug carried a paragraph. The mother's hands spoke fluently in the grammar of hair and patience and the daily, unremarkable love that accumulates not through grand gestures but through repetition — the same braid, every morning, for years, until the act of braiding becomes indistinguishable from the act of loving.
+The woman was his mother. Aelo knew this not because the memory contained a label — _mother_ — but because the emotional signature was unmistakable. It was the feeling of being tended by someone for whom the tending was not a task but a language — the same braid, every morning, for years, until the act of braiding became indistinguishable from the act of loving.
 
 Aelo watched. The memory was complete — not a fragment, not a highlight, but a full, unedited morning. The light on the wall. The smell of the moss. The sound of the woman humming — a Ming tune, pentatonic, the notes descending in the pattern that the monastery used for morning meditation. The feel of the comb in the boy's scalp. The slight pull when the braid caught a tangle. The mother's fingers, gentle and sure, working the tangle free without breaking the strand.
 
@@ -66,7 +66,7 @@ The memory was organized but not diminished — this was the lesson. Aelo could 
 
 Oren's grief was in a room. The room was visited deliberately. The door was opened on the boy's terms — not flung open by nightmares, not pried open by triggers, not left ajar by the failure of chemical suppression. Opened. Entered. Inhabited for a period. Then exited, and the door closed, and the grief remained inside, honored and contained and always accessible but never permitted to flood the corridors.
 
-"This is what the Ming teach," Oren's voice said. "Not suppression. Curation. The memory exists. The grief exists. They are real and they are yours and they will never diminish. But they do not have to fill every room. They can have a room of their own."
+"This is what the Ming teach," Oren's voice said. "Not suppression. Curation. The grief does not have to fill every room. It can have a room of its own."
 
 Aelo stood at the threshold and looked at the boy by the lake and the stone with the brother's name and the vast, organized, deliberately housed sorrow, and he thought of Jalo. He thought of the bottle and the nightmares and the linen wrapping and the fifteen years of unvisited rooms flooding every night because the man had never been given a door to close.
 
@@ -128,4 +128,4 @@ Aelo surfaced. The noise returned. The pocket reformed. He sat on the wooden pla
 
 The lake held them both. The stone sang beneath. And somewhere, in the wild garden of Aelo's untrained, unarchitected, storm-battered mind, a new room was forming — not organized, not curated, but real. A room for the tone. A room for the Song.
 
-He did not know this yet. The teacher did. The teacher's expressionless face held the knowledge the way the lake held the stone: deep, hidden, sustained by the particular endurance of people who had been listening to the world for three hundred years and had never stopped being afraid of what they heard.
+The teacher knew. The expressionless face held the knowledge the way the lake held the stone: deep, hidden, sustained by the particular endurance of people who had been listening to the world for three hundred years and had never stopped being afraid of what they heard.

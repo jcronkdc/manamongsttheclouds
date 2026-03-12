@@ -22,17 +22,15 @@ Jalo walked past her. His stride was steady — the rationed, deliberate stride 
 
 He paused. The staff struck the grey ground with a sound that was not the sound of wood on earth but the sound of wood on dust — dry, flat, carrying no resonance, the ground too dead to return the vibration. "Now it sounds like this."
 
-They walked. The deterioration continued — each hundred yards producing a new iteration of loss. The air lost its moisture. The wind lost its direction. The light lost its warmth — not the temperature but the quality, the subtle warmth that sunlight carries when it passes through an atmosphere that remembers being alive. The Murkr's light was flat. Grey.
+They walked. The deterioration continued — each hundred yards producing a new iteration of loss. The air dried out. The wind turned aimless. The light lost its warmth — not temperature but quality, the subtle warmth that sunlight carries through an atmosphere that remembers being alive. Flat. Grey.
 
-Aelo's disciplines dimmed. The Know — which had been his constant companion since the herbs, the sense that had carried him through every region and every teacher and every cost — faded. Not disappeared — faded. The voices that the Know carried — the emotional weather of the people around him, the memory embedded in the materials he touched, the vast, layered, world-wide conversation of things that remembered — grew quieter. As if the volume were being turned down. As if the Murkr were a room that absorbed sound, and every step deeper reduced the signal, and the signal was the world's memory, and the world's memory was being consumed faster than it could be produced.
+Aelo's disciplines dimmed. The Know — which had been his constant companion since the herbs, the sense that had carried him through every region and every teacher and every cost — faded. The voices it carried — emotional weather, memory in materials, the world's conversation — grew quieter with each step, as if the Murkr absorbed sound and returned nothing.
 
-The Mold dimmed. The stone beneath his feet, which he had been able to feel — through the Know, since the numbness took his hands — since the Core, the mineral voice, the geological presence of a material that communicated through density and patience, went silent. Not absent. Silent. The stone was there. The stone was still stone. But the stone had stopped speaking, the way a person stops speaking when they are too tired or too afraid or too thoroughly beaten.
+The Mold followed. The stone beneath his feet — which he had been able to feel since the Core, the mineral voice, the geological patience — was there but had gone mute. It had stopped speaking the way a person stops speaking when they are too tired or too afraid or too thoroughly beaten.
 
-The Guide dimmed. The trajectories that had been Aelo's map of the world's momentum — the lines, the convergences, the web of going-somewhere that the Guide perceived as clearly as the eye perceived light — blurred. The lines became dotted. The dots became gaps. The gaps became nothing. The Murkr did not have trajectories. The Murkr did not go anywhere. The Murkr was the place where going stopped.
+And the Guide — the trajectories that had been his map of the world's momentum — dissolved. Lines to dots, dots to gaps, gaps to blankness. The Murkr was where going stopped.
 
-Only the lake stone held. The three centuries of compressed stillness, the Ming's gift, the portable riverbed that had been Aelo's anchor since the departure. He gripped it — the weight in his numb hand, the only confirmation that the stone was still there — and the riverbed opened, and the Song was beneath it. Faint. Buried. Suffocated by decades of draining. But present.
-
-The Song was still alive at the center of the world. The Song was buried under the Murkr the way the sealed people had been buried under the Core's collapsed tunnels — not dead but trapped, not silent but muffled, the voice still speaking beneath the weight that had been placed on it.
+Only the lake stone held. The three centuries of compressed stillness, the Ming's gift, the portable riverbed that had been Aelo's anchor since the departure. He gripped it — the weight in his numb hand, the only confirmation that the stone was still there — and the riverbed opened, and the Song was beneath it. Faint. Buried. But there.
 
 "It's here," Aelo said. "The Song. Under everything. Varas has been draining the memory from the land, but the Song isn't memory. The Song is what memory is made of. He can drain the contents but he can't drain the container. The riverbed is still here."
 
@@ -54,13 +52,13 @@ The noise stopped. For the first time since the herbs wore off — since the mor
 
 Silence.
 
-Dead silence. The silence of a room where someone has screamed until there is no air left. The silence that is not the absence of sound but the aftermath of its removal — the echoing, horrifying quiet of a place where something should be singing and is not.
+Dead silence. The kind that follows screaming — the echoing, horrifying quiet of a place where something should be singing and is not.
 
 Aelo's chest tightened. The lake stone pulsed — the riverbed holding, the three centuries of compressed stillness resisting the Murkr's dead weight the way a flame resists the wind. He held the stone. He held the riverbed. He held the Song — faint, buried, suffocated, but there.
 
 He walked toward the castle.
 
-Jalo walked beside him. The guardian's face was the face of a man who had been here before — twenty years ago, on the worst night of his life, running through these same dead streets with a baby in his arms and a fire behind him and a woman's lullaby fading in the air. The face carried the memory. The body carried the memory. The knee, which had been injured on these stones, in this grey air, on this dead ground, remembered.
+Jalo walked beside him. The guardian's face was the face of a man who had been here before — twenty years ago, on the worst night of his life, running through these same dead streets with a baby in his arms and a fire behind him and a woman's lullaby fading in the air. His face carried it. The knee — injured on these same stones, in this same grey air — remembered.
 
 "I ran this route," Jalo said. His voice was quiet — not the volume-managed quiet of the Clouds but the reduced quiet of a man speaking in a place that did not deserve the sound of human speech. "The night of the purge. Through the dead zone. Through the gate. Into the Canopy. I ran for three hours without stopping. Your mother's note was still in my ears. The whole Murkr was ringing with it — her shield, her lullaby, the Song she poured into the air to give me time to run. I could hear it all the way to the tree line."
 
@@ -70,13 +68,13 @@ He paused. The staff struck the grey dust. The sound was nothing.
 
 Aelo looked at the castle. The silhouette grew as they approached — the organic architecture resolving into detail, the curved towers, the pulsing walls, the grotesque evidence of a building that had been Molded not by an artist but by an appetite. The castle was not a building. The castle was a body — Varas's extended body, the Blood Vine threaded through every surface, every stone connected to the throne, the entire structure functioning as a single, vast, parasitic organism that drew memory from the earth and the air and the people inside it and channeled it to the center, where a man sat and consumed and felt nothing.
 
-They walked toward it. The dead zone pressed against them — the silence, the absence, the anti-memory that erased the world's song one step at a time. Aelo's disciplines flickered. The Know dimmed and surged and dimmed. The Mold was a whisper. The Guide was blind. Only the Song — buried, suffocated, but alive — remained. Only the riverbed. Only the one thing that Varas's decades of draining had not been able to reach, because the riverbed was not a memory. It was the place where memory lived. And the place could not be drained, because the place was not a thing but a condition, and conditions survived the loss of the things they contained, the way a room survives the removal of its furniture.
+They walked toward it. The dead zone pressed against them, erasing the world's song one step at a time. His disciplines flickered — the Know surging and fading, the Mold a whisper, the Guide blind. Only the Song remained. The riverbed held. Varas's decades of draining could not reach it, because the riverbed was not a memory but the place where memory lived.
 
 The castle loomed. The grey air thickened. The Blood Vine's glow intensified — the dark, red-brown luminescence growing brighter as they approached, the hunger becoming visible, the appetite becoming architectural.
 
-Aelo held the lake stone. He held the riverbed. He held the Song.
+Aelo gripped the lake stone and kept walking.
 
-They walked toward the castle. The silence walked with them. And somewhere beneath the silence, beneath the grey and the dead and the consumed — beneath decades of draining and centuries of waiting and the long, patient, geological endurance of a world that had been suffocated but had not stopped breathing — the Song held too.
+They walked toward the castle. The silence walked with them. And somewhere under all of it — the grey, the draining, the decades of weight — the Song held.
 
 It was waiting. It had always been waiting.
 

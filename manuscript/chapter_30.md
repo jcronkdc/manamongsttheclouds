@@ -80,7 +80,7 @@ Varas. The throne. The obsidian chair. The bark-textured hands on the armrests. 
 
 **Reserve Supply 7.**
 
-Aelo held this. He held it the way the lake stone held the riverbed — compressed, undeniable, the fact made portable. He turned. He carried the fact back through the thread, back through the ruin, back to the place where the Knife's consciousness waited in the dark surrounded by dying lights and empty rooms.
+Aelo held this. He held it. Compressed, undeniable, the fact made portable. He turned. He carried the fact back through the thread, back through the ruin, back to the place where the Knife's consciousness waited in the dark surrounded by dying lights and empty rooms.
 
 He showed him.
 

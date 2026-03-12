@@ -47,11 +47,11 @@ The word hung between them — unspoken, understood, carrying the weight of a th
 
 They trained for three days. Walking the coast, reading the world's momentum.
 
-Laine taught him to feel the tide — not as water but as trajectory. The tide was going somewhere. Always. The ocean was in constant motion, every wave a trajectory completing itself against the shore, every current a line drawn from one depth to another, the entire system a vast, interlocking web of momentums that a Guide could read the way a Know-walker could read a person's emotional architecture. The tide was the world's largest trajectory — the moon pulling the water, the water following, the following creating a rhythm that was older than life and that life had organized itself around because the rhythm was reliable and reliable things become foundations.
+Laine taught him to feel the tide — not as water but as trajectory. The tide was going somewhere. Always. The ocean was in constant motion, every wave a trajectory completing itself against the shore, every current a line drawn from one depth to another, the entire system a vast, interlocking web of momentums, readable to a trained Guide. The tide was the world's largest trajectory — the moon pulling the water, the water following, the following creating a rhythm that was older than life and that life had organized itself around because the rhythm was reliable and reliable things become foundations.
 
 He learned to feel the wind. The wind was fast — its trajectories short, its momentum shifting with the temperature and the terrain and the ten thousand factors that made weather weather. Feeling the wind was like trying to read a person who was lying: the surface said one thing, the trajectory said another, and the truth was in the gap between what the wind was doing and where the wind was going.
 
-He learned to feel the birds. The gulls that circled the shore, riding the thermals, their trajectories clean and simple — rise, turn, dive, rise. Each bird a line in the air, each line readable, each trajectory completing itself with the mechanical precision of creatures that had been flying the same patterns for so long that the patterns were not decisions but memories, the birds' bodies remembering the flight the way the stone had remembered being round.
+He learned to feel the birds. The gulls that circled the shore, riding the thermals, their trajectories clean and simple — rise, turn, dive, rise. Each bird a line in the air, each line readable, each trajectory completing itself with the mechanical precision of creatures that had been flying the same patterns for so long that the patterns were not decisions but memories, the birds' bodies remembering the flight.
 
 And then, on the second day, he learned to feel people.
 
@@ -71,7 +71,7 @@ They walked. Aelo did not reach for Jalo's trajectory again. But it was there �
 
 On the third night, the trajectories converged.
 
-Aelo was sitting on the shore alone. Jalo slept by the fire — deeper sleep than usual, the body storing rest the way it had stored the Ming's peace, in the deep reservoirs, against the drought ahead. Laine sat farther up the beach, her back against a rock, her eyes open, her attention on the horizon — not looking but feeling, the Guide's perpetual orientation toward the world's momentum.
+Aelo was sitting on the shore alone. Jalo slept by the fire — deeper sleep than usual, the body storing rest as it had stored the Ming's peace, in the deep reservoirs, against the drought ahead. Laine sat farther up the beach, her back against a rock, her eyes open, her attention on the horizon — not looking but feeling, the Guide's perpetual orientation toward the world's momentum.
 
 Aelo held the lake stone and listened to the ocean. The Song was there — beneath the waves, beneath the sand, beneath the bedrock that the shore was built on. Louder than it had been at the Ming. Louder than it had been at the Core. The frequency growing with each region, each discipline, each cost he paid, as if the Song were responding to his learning the way an echo responds to a shout — returning it, amplified, the world's memory of the original sound bouncing back from depths that no other sound could reach.
 
@@ -149,13 +149,11 @@ That night, after Laine and Jalo were asleep, Aelo sat at the water's edge and l
 
 The ocean. The Song beneath it. The frequency that the blood remembered and the disciplines had been uncovering, layer by layer, region by region — the Know hearing it, the Mold feeling it in stone, the Guide tracking its momentum through the world. Four disciplines. Four ways of perceiving the same thing. And beneath all four, deeper than any one of them, the harmonic that made them resonate together — the not-yet-Sing, the almost-Song, the frequency that was building in him the way a wave builds before it breaks, gathering mass and speed and the terrifying momentum of a thing that cannot be stopped once it begins.
 
-He was terrified. The terror was not new — it had been with him since the herbs stopped, since the Know opened, since the first morning he woke in a body that was growing and a world that was listening and a future that was bearing down on him with the inevitability of a tide. But the terror had a companion now. Something that had not been there before the Ming, before the Core, before the Volcano and the Sea. Something that had arrived in stages, accumulating the way the disciplines had accumulated, building with each teacher and each cost and each act of listening.
+He was terrified. But the terror had a companion now — something that had arrived in stages, building with each teacher and each cost and each act of listening.
 
 Purpose.
 
-Not the purpose of prophecy — not the external assignment, the hero's mandate, the chosen-one's obligation. An internal purpose. The private, unreplicable conviction of a boy who had spent fifteen years being nothing and who had, over the course of four regions and four teachers and four disciplines, discovered that the nothing was not absence but potential. Training for a Song he could not yet sing but could feel building in him, note by note, discipline by discipline, cost by cost, the way a cathedral is built — stone by stone, arch by arch, each piece supporting every other piece, the whole becoming larger than the sum of its parts because the parts were not added but harmonized.
-
-He held the lake stone. He could not feel it. He could hear it. He could hear everything — the ocean, the stone, the sleeping bodies on the beach, the hunting party moving south, the orbit circling inward, the pull from the center. The world was a web of trajectories, and he was the point where the web converged, and the convergence was not a destination but a beginning.
+He held the lake stone. He could not feel it. He could hear it. He could hear everything — the ocean, the stone, the sleeping bodies on the beach, the hunting party moving south, the orbit circling inward, the pull from the center.
 
 He was terrified. He was ready. The two were not contradictions.
 

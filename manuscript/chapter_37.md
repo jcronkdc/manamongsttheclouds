@@ -6,7 +6,7 @@
 
 The throne room was the silence made architectural.
 
-Aelo entered through a corridor that had straightened as he walked — the Song's resonance peeling back decades of Varas's organic Molding, the stone remembering Fletcher's original design, the clean lines and honest angles of a room that had been built for governance and had been converted into a feeding apparatus. The corridor opened onto the great hall, and the great hall was vast, and the vastness was not the vastness of space but the vastness of absence.
+Aelo entered through a corridor that had straightened as he walked — the Song's resonance peeling back decades of Varas's organic Molding, the stone remembering Fletcher's original design, the clean lines and honest angles of a room that had been built for governance and had been converted into a feeding apparatus. The corridor opened onto the great hall, and the great hall was vast, and the vastness was not spatial but existential — the vastness of absence.
 
 The walls were covered in Blood Vine — the roots thicker here than anywhere else in the castle, the arterial network converging on a single point the way rivers converge on a delta. The Vine ran in organized channels from every surface to the center of the room, where the channels met and merged and descended into the floor and from the floor into the Chamber below, the circulatory system connecting the king on the throne to the prisoners in the dark.
 
@@ -70,7 +70,7 @@ The words landed in the empty hall with a weight that Aelo had not expected — 
 
 Aelo looked at the king. And for the first time, he did what his magic was born to do. He did not read Varas's emotions — there were none to read. He did not enter Varas's memories — the memories were stolen, not his. He _felt_ Varas. The void. The hollow where a soul should be. The structural, architectural absence that was not the result of damage or choice but of design — the building built without a door, the room without an exit, the life lived inside a silence so total that the silence had become the identity and the identity had consumed the world in a futile, desperate, seventy-year attempt to hear the one thing the identity could not produce.
 
-Varas was not evil. Varas was in pain. A pain so absolute and so primal — the pain of being excluded from existence itself — that it had warped him into the thing he was. The Chamber. The draining. The Dog Scene. The purge. The Kingdom of nothing — all of it was not cruelty but _reaching_. The four-year-old boy in Aldric's memory, hands up, wanting to be held. Still reaching. Still wanting. Still unable to close the gap between himself and the world that everyone else inhabited and that he had been locked out of since birth.
+Varas was not evil. Varas was in pain. A pain so absolute and so primal — the pain of being excluded from existence itself — that it had warped him into the thing he was. The Chamber. The draining. The Dog Scene. The purge. The Kingdom of nothing — all of it was not cruelty but _reaching_. The four-year-old boy in Aldric's memory, hands up, wanting to be held. Reaching. Wanting. Unable to close the gap between himself and the world that everyone else inhabited and that he had been locked out of since birth.
 
 "I'm sorry," Aelo said.
 
@@ -98,13 +98,13 @@ In seventy years of rule, through executions and drainings and the feast and the
 
 "But then I'd never hear it," Varas said.
 
-The words sat in the empty hall. The Blood Vine pulsed. The Elder Stones hummed. The silence held — the charged, unbreakable silence of a man who had spent his life consuming the world and who was now, in the final moment, choosing to be consumed instead. Not because he was redeemed. Not because the sorry had reached him. Not because the boy's compassion had pierced the void and produced a transformation.
+The words sat in the empty hall. The Blood Vine pulsed. The Elder Stones hummed. The silence held — the charged, unbreakable silence of a man who had spent his life consuming the world and who was now, in the final moment, choosing to be consumed instead. Not because the sorry had reached him or the boy's compassion had pierced the void.
 
 Because the void was so vast and so cold that even the man who had caused all of this would rather hear one note of the Song and die than live another day in silence.
 
 "Sing," Varas said. "Let me hear it. One note. One real note. Not the ghost. Not the almost. The thing itself. Let me hear what the world sounds like to everyone except me."
 
-He closed his stone eyes. His bark-textured hands relaxed on the armrests. The Blood Vine stilled — the network standing down, the immune system disengaging, the castle ceasing its defense. The king surrendered. Not to the boy. Not to the Song. To the need. The first need. The only need. The need that had been the engine of every horror and every atrocity and every consumed life: the need to hear.
+He closed his stone eyes. His bark-textured hands relaxed on the armrests. The Blood Vine stilled — the network standing down, the immune system disengaging, the castle ceasing its defense. The king surrendered. Not to the boy or the Song. To the need. The first need. The only need. The need that had been the engine of every horror and every atrocity and every consumed life: the need to hear.
 
 Aelo looked at the king who had destroyed the world to fill a silence that could not be filled. He looked at the stone eyes, closed now, the bark-textured face tilted slightly upward, the posture of a man waiting for a sound that he had waited for his entire life.
 

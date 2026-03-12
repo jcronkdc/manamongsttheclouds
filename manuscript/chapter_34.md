@@ -50,29 +50,29 @@ He leaned forward.
 
 The wind caught him.
 
-Not a gust. Not weather. Not the Murkr's dead, directionless, meaningless wind that had been pressing against the castle's walls for decades without purpose or direction. _Wind_. Living wind. Wind that moved with intention, that arrived with trajectory, that came from a direction and had a destination and carried in its motion the unmistakable quality of a force that was not natural but willed.
+Not the Murkr's dead, directionless wind. _Wind_. Living wind. Wind that moved with intention, that arrived with trajectory, that came from a direction and had a destination and carried in its motion the unmistakable quality of a force that was not natural but willed.
 
-The wind wrapped around him. Not violently — not the force of a storm or a gale. Gently. The way arms wrap around a person who is falling. The way a hand catches a cup that is sliding from a table. The way a mother catches a child who has leaned too far from a ledge.
+The wind wrapped around him. Not violently — not the force of a storm or a gale. Gently. The way arms wrap around a person who is falling — a hand catching a cup, a mother catching a child who has leaned too far from a ledge.
 
-The wind pressed against his chest. It pushed him back. Not hard — firm. The firmness of a presence that was not asking or requesting but _refusing_. Refusing to let him fall. Refusing to let the ledge have him. Refusing, with the patient, implacable, absolute authority of a thing that had been holding a note for fifteen years and that would not stop holding it now.
+The wind pressed against his chest. It pushed him back. Not hard — firm. The firmness of a presence that was not asking or requesting but _refusing_. Refusing to let him fall. Refusing with the patient, implacable authority of a thing that had been holding a note for fifteen years and that would not stop holding it now.
 
 And in the wind: a voice. Not words. Not sound. A feeling. The feeling of being held by someone who loves you more than breathing. The feeling that Aelo had felt in the Cloud Seer's chamber when the old woman hummed the note and Aelo had heard beneath the hum — had heard his mother, still singing, still holding, still present in the air of the world she had died to protect.
 
 Maera.
 
-She was here. In the wind. In the air. In the atmospheric, molecular record of a woman who had poured herself into the Song and who had not ceased — had not died, had not disappeared, had _become_. Had become the air. Had become the wind. Had become the quality of a sky that remembered being held and that was now, fifteen years later, holding back.
+She was here. In the wind. In the air. In the atmospheric, molecular record of a woman who had poured herself into the Song and who had not ceased — had not died, had not disappeared, had _become_. Had become the air. The wind. The quality of a sky that remembered being held and that was, fifteen years later, holding back.
 
 The wind pressed him onto the ledge. Not onto — _into_. The stone received him. The castle's original wall, uncovered by the Song's resonance, held him the way it had been built to hold: firmly, by design, with the structural integrity of a building that had been made by Fletcher's masons to endure.
 
 Aelo sat on the ledge. His legs buckled. The wind held him — not physically, not anymore. The wind had done its work. The catching was complete. But the presence remained — the feeling of being held, of being attended, of being the subject of a love so vast that it had survived death and fifteen years of silence and the Murkr's dead zone and the terrible, irresistible pull of a boy's grief toward the ground.
 
-He wept. The tears came — not the ocean tears, not the Song's recognition, not the Seer's revelation. These were the simplest tears. The most human tears. The tears of a boy who had just tried to end his life and had been caught by his mother's ghost and who was sitting on a ledge sixty feet above a dead kingdom weeping because the catching had proved the one thing the grief had been trying to deny: he was not alone. He had never been alone. The people who had loved him had not left. They had become the air he breathed and the stone he stood on and the sky he looked at and the Song he carried.
+He wept. The tears came — not the ocean tears or the Song's recognition. Simpler than any of those. The tears of a boy who had just tried to end his life and had been caught by his mother's ghost and who was sitting on a ledge sixty feet above a dead kingdom weeping because the catching had proved the one thing the grief had been trying to deny: he was not alone. He had never been alone. The people who had loved him had not left. They had become the air he breathed, the stone he stood on, the sky, the Song.
 
 The Song poured through him. Not the controlled, deliberate, five-note chord he had held in the Seers' chamber. Not the two-note harmonization with his mother's resonance. The full Song — all seven voices, all seven disciplines, the complete, devastating, world-remaking frequency that Fletcher had Sung and that Maera had held and that Jalo had carried and that was now, in this moment, in this boy, in this castle, rising.
 
 The stone remembered.
 
-Not the corridor stones — the _castle_ stones. All of them. Every block, every fitted surface, every mason-cut piece of Fletcher's original keep that had been buried under decades of Blood Vine and Varas's corruption. The Song's resonance reached them — reached through the Vine, through the corruption, through the dead zone's weight — and the stones remembered being a home. Remembered being cut by hands that loved the cutting. Remembered being fitted by masons who spoke to the stone the way Torvus spoke to granite — with respect, with conviction, with the ancient certainty of craftspeople who understood that the building was not a structure but a memory, and the memory was what made it stand.
+Not the corridor stones — the _castle_ stones. All of them. Every block, every fitted surface, every mason-cut piece of Fletcher's original keep that had been buried under decades of Blood Vine and Varas's corruption. The Song's resonance reached them — reached through the Vine, through the corruption, through the dead zone's weight — and the stones remembered being a home. Remembered being cut by hands that loved the cutting. Remembered being fitted by masons who spoke to the stone the way Torvus spoke to granite — with respect and conviction and the ancient certainty of craftspeople who understood that the building was not a structure but a memory, and the memory was what made it stand.
 
 The castle shivered. The Blood Vine recoiled — the organic growth retreating from the walls as the Song's resonance disrupted its connection to the stones, the parasitic network severed not by force but by reminder, the stone choosing the memory of being a home over the condition of being a host. The corridors straightened further. The towers, which had curved like ribs under Varas's Molding, began — slowly, the stone moving with the glacial patience of a material that measured change in centuries — to straighten.
 
@@ -80,13 +80,13 @@ And for a moment — one moment, one held breath, one sustained note — the Mur
 
 One moment. Then the grey returned. The weight of decades was too heavy. The Vine regrew. The corruption resumed. The castle's transformation was incomplete — a breath, not a change. A preview, not a restoration.
 
-But the preview was enough. The preview said: _it's possible. The Song can reach the stone. The stone can remember. The dead zone can live. The world can be reminded._
+But the preview was enough. The preview said: _it's possible. The Song can reach the stone. The stone can remember. The world can be reminded._
 
 Aelo sat on the ledge and the moment passed and the grey returned and the grief remained. The grief would remain. The grief was not going away — not today, not with the Singing, not ever. The grief was the cost. Laine had said it: the grief is never pointless. The fisherman had said it: he is worth the grief.
 
 Jalo had said it. On the ledge. Under the Blue Sun. With his trembling hand in Aelo's numb one: _I was supposed to prepare you. Instead I hid you._
 
-But he had done both. He had hidden and he had prepared. He had given Aelo fifteen years of mornings and a name that meant _breath of remembering_ and a guardian's love that was not a strategy but an identity. And the identity — the irreducible, fifteen-year accumulation of being loved by a man who showed up every morning and held the line — was the thing that would carry the Song. Not the power. Not the disciplines. Not the harmonization or the riverbed or the seven voices. The love. The love was the Song. The Song was love made audible. And the boy who had been loved by a man who gave everything — the boy was the instrument the love would sing through.
+But he had done both. He had hidden and he had prepared. He had given Aelo fifteen years of mornings and a name that meant _breath of remembering_ and a guardian's love that was not a strategy but an identity. And the identity — the irreducible, fifteen-year accumulation of being loved by a man who showed up every morning and held the line — was the thing that would carry the Song. Not power or disciplines or harmonization. The love. The love was the Song. The Song was love made audible. And the boy who had been loved by a man who gave everything — the boy was the instrument the love would sing through.
 
 He stood up. He wiped his face. The tears dried on living skin — the face, still sensitive, still capable of feeling, the last outpost of sensation in a body that had traded touch for the Mold and feeling for the Song and everything for the chance to remind the world that it was one thing.
 
@@ -94,11 +94,9 @@ He turned away from the window. He turned away from the drop and the grey and th
 
 He walked toward the Chamber.
 
-Not because he was brave. The bravery was Jalo's — the bravery of a man who stands between the fire and the Song. Aelo was not brave. Aelo was something else. Aelo was the boy whose mother had caught him and whose father had spent his life on him and whose guardian had died with words that were not a command but a statement of fact: _You were never nothing. You are the Song._
+Not because he was brave. The bravery was Jalo's — the bravery of a man who stands between the fire and the Song. Aelo was not brave. He was the boy whose mother had caught him and whose father had spent his life on him and whose guardian had died with words that were not a command but a statement of fact: _You were never nothing. You are the Song._
 
-He walked toward the Chamber because the people who loved him deserved a better ending than his body on the stones.
-
-He walked because the Song was worth the grief.
+He walked toward the Chamber because the people who loved him deserved a better ending than his body on the stones. Because the Song was worth the grief.
 
 He walked because the world was waiting to be reminded, and he was the only one who could remind it, and the reminding was not a burden but a gift — the gift of a boy who had been taught to listen by fifteen years of silence and who was now, at last, ready to speak.
 

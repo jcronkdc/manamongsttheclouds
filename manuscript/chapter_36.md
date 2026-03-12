@@ -16,9 +16,9 @@ The dead zone was designed — by Varas, unknowingly, through decades of drainin
 
 The color of the sky the day she gave Fletcher the gift — gone. A pale blue, lighter than the Cloud People's formations, carrying the luminosity of a world that was about to change forever. Gone. The step took it and the taking was not violent but patient, the Murkr absorbing the memory the way sand absorbs water, the divine color sinking into the grey and vanishing.
 
-The sound of the other gods' voices — gone. Six voices, each one carrying the frequency of an element, the collective chorus that had been the universe's first council and that had debated, for longer than humanity had existed, the question of whether the creatures below deserved the gift. Gone. The step took it and the silence where the voices had been was the silence of a room that had been full and was now empty and that would never be full again.
+The sound of the other gods' voices — six voices, each one carrying the frequency of an element, the collective chorus that had debated whether the creatures below deserved the gift. The step took that too, and the silence where the voices had been was the silence of a room that had been full and was now empty and that would never be full again.
 
-The feeling of being infinite — gone. Not the infinity of power but the infinity of perspective, the divine quality of seeing everything at once, every moment simultaneous, every life a note in a chord that was the universe. Gone. The step took it and what remained was the mortal's perspective: linear, limited, moving through time rather than containing it.
+The feeling of being infinite. Not the infinity of power but the infinity of perspective, the divine quality of seeing everything at once, every moment simultaneous, every life a note in a chord that was the universe. That went next, and what remained was the mortal's perspective: linear, limited, moving through time rather than containing it.
 
 She did not care. This was the truth that the stories would never capture: Sereth walked into the Murkr and lost the last pieces of her divinity and did not care, because the caring had been the first thing the mortality had given her and the caring was worth more than the infinity had ever been. The infinity had been beautiful. The caring had taught her to see the boy.
 
