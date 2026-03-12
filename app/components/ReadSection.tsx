@@ -34,7 +34,7 @@ export default function ReadSection() {
         {/* Free reading card */}
         <div className="max-w-lg mx-auto mb-6">
           <a
-            href="/read/part-one"
+            href="https://stillfirepress.com/read/matc"
             className="block border border-[#c9a84c]/30 bg-[#c9a84c]/5 hover:bg-[#c9a84c]/10 transition-all duration-300 relative overflow-hidden group"
           >
             <div className="p-8 sm:p-10 text-center">

@@ -110,20 +110,30 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Book",
   name: "Man Amongst the Clouds",
+  alternateName: "MATC",
   author: {
     "@type": "Person",
     name: "Justin Cronk",
-    url,
+    url: `${url}/about-the-author`,
+    jobTitle: "Author",
+    sameAs: [
+      `${url}/about-the-author`,
+      "https://stillfirepress.com",
+      "https://www.facebook.com/profile.php?id=61583731204411",
+    ],
   },
   bookFormat: "EBook",
+  bookEdition: "First Edition",
   numberOfPages: 480,
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
   description,
   url,
+  datePublished: "2026",
   publisher: {
     "@type": "Organization",
     name: "Stillfire Press",
+    url: "https://stillfirepress.com",
     parentOrganization: {
       "@type": "Organization",
       name: "Cronk Companies, LLC",
@@ -142,7 +152,8 @@ const jsonLd = {
     "https://www.facebook.com/profile.php?id=61583731204411",
   ],
   keywords:
-    "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published",
+    "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published, magic is memory, fantasy books where magic has a cost, books like Name of the Wind",
+  mainEntityOfPage: `${url}/the-book`,
 };
 
 const websiteJsonLd = {

@@ -13,11 +13,8 @@ export async function GET(req: NextRequest) {
     );
   }
 
-  const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.manamongsttheclouds.com";
-
   if (!process.env.STRIPE_SECRET_KEY) {
-    return NextResponse.redirect(`${siteUrl}/read/part-one`, 303);
+    return NextResponse.redirect(`https://stillfirepress.com/read/matc`, 303);
   }
 
   const stripe = getStripe();
@@ -29,7 +26,7 @@ export async function GET(req: NextRequest) {
     const parsed = parseInt(amountParam || "10", 10);
     const amount = isCustom ? 15 : parsed;
     if (isNaN(amount) || amount < 1 || amount > 999) {
-      return NextResponse.redirect(`${siteUrl}/read/part-one`, 303);
+      return NextResponse.redirect(`https://stillfirepress.com/read/matc`, 303);
     }
 
     const session = await stripe.checkout.sessions.create({
@@ -52,13 +49,13 @@ export async function GET(req: NextRequest) {
             : undefined,
         },
       ],
-      success_url: `${siteUrl}/read/part-one?donated=true`,
-      cancel_url: `${siteUrl}/read/part-one`,
+      success_url: `https://stillfirepress.com/read/matc`,
+      cancel_url: `https://stillfirepress.com/read/matc`,
     });
 
     return NextResponse.redirect(session.url!, 303);
   } catch (err) {
     console.error("Stripe session error:", err);
-    return NextResponse.redirect(`${siteUrl}/read/part-one`, 303);
+    return NextResponse.redirect(`https://stillfirepress.com/read/matc`, 303);
   }
 }

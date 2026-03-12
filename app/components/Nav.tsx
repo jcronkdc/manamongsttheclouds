@@ -3,14 +3,11 @@
 import { useState, useEffect } from "react";
 
 const links = [
-  { href: "#story", label: "The Story" },
-  { href: "#world", label: "The World" },
-  { href: "#characters", label: "Characters" },
-  { href: "#excerpt", label: "Read an Excerpt" },
-  { href: "#journey", label: "The Author" },
-  { href: "#origins", label: "Origins" },
-  { href: "/read/part-one", label: "Read Free" },
-  { href: "#proof", label: "Proof" },
+  { href: "/the-book", label: "The Book" },
+  { href: "/the-magic-system", label: "Magic System" },
+  { href: "/characters", label: "Characters" },
+  { href: "/about-the-author", label: "The Author" },
+  { href: "https://stillfirepress.com/read/matc", label: "Read Free" },
 ];
 
 export default function Nav() {
@@ -48,7 +45,7 @@ export default function Nav() {
               key={l.href}
               href={l.href}
               className={`font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 ${
-                l.href === "/read/part-one"
+                l.href === "https://stillfirepress.com/read/matc"
                   ? "text-[#c9a84c] hover:text-[#e8c85a]"
                   : "text-[#666] hover:text-[#ededed]"
               }`}
@@ -85,7 +82,9 @@ export default function Nav() {
               href={l.href}
               onClick={() => setOpen(false)}
               className={`font-[family-name:var(--font-sans)] text-xs tracking-[0.2em] uppercase ${
-                l.href === "/read/part-one" ? "text-[#c9a84c]" : "text-[#888]"
+                l.href === "https://stillfirepress.com/read/matc"
+                  ? "text-[#c9a84c]"
+                  : "text-[#888]"
               }`}
             >
               {l.label}

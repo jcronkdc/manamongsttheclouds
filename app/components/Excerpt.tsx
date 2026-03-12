@@ -66,7 +66,7 @@ export default function Excerpt() {
           <div className="h-32 bg-gradient-to-b from-transparent to-[#080808]" />
           <div className="text-center -mt-8">
             <a
-              href="/read/part-one"
+              href="https://stillfirepress.com/read/matc"
               className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
             >
               Keep Reading Free

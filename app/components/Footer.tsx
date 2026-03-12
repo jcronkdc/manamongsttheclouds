@@ -19,11 +19,11 @@ export default function Footer() {
             </p>
             <div className="flex flex-col gap-2">
               {[
-                { href: "#story", label: "The Story" },
-                { href: "#world", label: "The World" },
-                { href: "#characters", label: "Characters" },
+                { href: "/the-book", label: "The Book" },
+                { href: "/the-magic-system", label: "The Magic System" },
+                { href: "/characters", label: "Characters" },
+                { href: "/about-the-author", label: "The Author" },
                 { href: "#excerpt", label: "Read an Excerpt" },
-                { href: "#journey", label: "The Author" },
                 { href: "#read", label: "Buy Part I" },
               ].map((l) => (
                 <a

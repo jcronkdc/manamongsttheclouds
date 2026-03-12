@@ -138,7 +138,7 @@ export default function ThankYouContent() {
         )}
         <div className="flex gap-4 justify-center mt-8">
           <Link
-            href="/read/part-one"
+            href="https://stillfirepress.com/read/matc"
             className="text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:text-[#e8c85a] transition-colors"
           >
             Read Part One Free

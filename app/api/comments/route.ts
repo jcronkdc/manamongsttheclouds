@@ -4,6 +4,27 @@ import { rateLimit } from "@/app/lib/rate-limit";
 
 export const dynamic = "force-dynamic";
 
+const ALLOWED_ORIGINS = [
+  "https://stillfirepress.com",
+  "https://www.stillfirepress.com",
+];
+
+function corsHeaders(req: NextRequest) {
+  const origin = req.headers.get("origin") || "";
+  const headers: Record<string, string> = {
+    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type",
+  };
+  if (ALLOWED_ORIGINS.includes(origin)) {
+    headers["Access-Control-Allow-Origin"] = origin;
+  }
+  return headers;
+}
+
+export async function OPTIONS(req: NextRequest) {
+  return new NextResponse(null, { status: 204, headers: corsHeaders(req) });
+}
+
 const VALID_KEYS = new Set([
   "general",
   "chapter-0",
@@ -29,17 +50,21 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ comments: [] });
   }
 
-  return NextResponse.json({ comments: data || [] });
+  return NextResponse.json(
+    { comments: data || [] },
+    { headers: corsHeaders(req) },
+  );
 }
 
 export async function POST(req: NextRequest) {
+  const cors = corsHeaders(req);
   const ip =
     req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
   const { allowed, retryAfter } = rateLimit(`comments:${ip}`, 10, 60_000);
   if (!allowed) {
     return NextResponse.json(
       { error: "Too many requests. Please try again later." },
-      { status: 429, headers: { "Retry-After": String(retryAfter) } },
+      { status: 429, headers: { ...cors, "Retry-After": String(retryAfter) } },
     );
   }
 
@@ -75,15 +100,15 @@ export async function POST(req: NextRequest) {
       console.error("Supabase insert error:", error);
       return NextResponse.json(
         { error: "Failed to save comment" },
-        { status: 500 },
+        { status: 500, headers: cors },
       );
     }
 
-    return NextResponse.json({ success: true });
+    return NextResponse.json({ success: true }, { headers: cors });
   } catch {
     return NextResponse.json(
       { error: "Internal server error" },
-      { status: 500 },
+      { status: 500, headers: cors },
     );
   }
 }

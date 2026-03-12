@@ -143,7 +143,7 @@ export async function POST(req: NextRequest) {
       <ul style="font-size:14px;color:#c4beb4;line-height:2;padding-left:20px;margin-bottom:16px;">
         <li>All 5 parts delivered digitally (EPUB) as each one releases</li>
         <li>A signed physical copy of the complete novel (targeting August 2026)</li>
-        <li>Part I is already free to read &mdash; <a href="${siteUrl}/read/part-one" style="color:#c9a84c;text-decoration:none;">start here</a></li>
+        <li>Part I is already free to read &mdash; <a href="https://stillfirepress.com/read/matc" style="color:#c9a84c;text-decoration:none;">start here</a></li>
       </ul>
     </div>
 
@@ -259,7 +259,7 @@ export async function POST(req: NextRequest) {
       In the meantime, if you haven&rsquo;t read Part I yet, the entire first part is free to read online:
     </p>
     <p style="text-align:center;margin-bottom:32px;">
-      <a href="${siteUrl}/read/part-one" style="display:inline-block;padding:12px 28px;border:1px solid rgba(201,168,76,0.3);color:#c9a84c;font-size:13px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none;font-family:sans-serif;">
+      <a href="https://stillfirepress.com/read/matc" style="display:inline-block;padding:12px 28px;border:1px solid rgba(201,168,76,0.3);color:#c9a84c;font-size:13px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none;font-family:sans-serif;">
         Read Part One Free
       </a>
     </p>

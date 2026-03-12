@@ -24,7 +24,7 @@ All seven gods agreed on this.
 
 Until one of them didn't.
 
-The god who changed their mind did not do so out of rebellion, or pride, or some divine compulsion to meddle. They changed their mind because they watched. For centuries, they watched. They watched a woman hold her dying child and whisper into his ear — not magic, not prayer, just words, just _I love you, I love you, I'm here_ — and they watched the child die, and they watched the woman continue to whisper, as if the words could follow him wherever he went. They watched a man plant a tree on his father's grave and visit it every year for fifty years, speaking to the bark as if the wood remembered the man beneath it. They watched a girl, blind from birth, run her fingers along a canyon wall and describe the colors she felt in the stone — warm here, cold here, old here, young here — and they realized, with a shock that rearranged their divinity, that she was _right_. She was hearing the song. Faintly, imperfectly, through the crude instrument of human fingers on rock. But she was hearing it.
+The god who changed her mind did not do so out of rebellion, or pride, or some divine compulsion to meddle. She changed her mind because she watched. For centuries, she watched. She watched a woman hold her dying child and whisper into his ear — not magic, not prayer, just words, just _I love you, I love you, I'm here_ — and she watched the child die, and she watched the woman continue to whisper, as if the words could follow him wherever he went. She watched a man plant a tree on his father's grave and visit it every year for fifty years, speaking to the bark as if the wood remembered the man beneath it. She watched a girl, blind from birth, run her fingers along a canyon wall and describe the colors she felt in the stone — warm here, cold here, old here, young here — and she realized, with a shock that rearranged her divinity, that the girl was _right_. She was hearing the song. Faintly, imperfectly, through the crude instrument of human fingers on rock. But she was hearing it.
 
 And the god thought: _They are already listening. They just don't know what they're hearing. What if I told them?_
 
@@ -34,11 +34,11 @@ The god did not ask the other six.
 
 ---
 
-The man they chose was a king named Fletcher, though he would not have called himself a king. He ruled a small territory in the hills where the Canopy met the open sky, and he ruled it the way a gardener tends a plot — with patience, attention, and the understanding that he served the land more than it served him. He was not remarkable. He was not powerful. He was kind, which the god had learned, over centuries of watching, was the rarest and most combustible quality a person could possess.
+The man she chose was a king named Fletcher, though he would not have called himself a king. He ruled a small territory in the hills where the Canopy met the open sky, and he ruled it the way a gardener tends a plot — with patience, attention, and the understanding that he served the land more than it served him. He was not remarkable. He was not powerful. He was kind, which the god had learned, over centuries of watching, was the rarest and most combustible quality a person could possess.
 
-The god came to Fletcher on a night when the sky was clear and the stars were so bright they seemed close enough to touch. They did not appear as a divine being — they had learned that divinity frightened more than it inspired. They appeared as a traveler. Tired. Road-worn. Asking for water.
+The god came to Fletcher on a night when the sky was clear and the stars were so bright they seemed close enough to touch. She did not appear as a divine being — she had learned that divinity frightened more than it inspired. She appeared as a traveler. Tired. Road-worn. Asking for water.
 
-Fletcher gave them water, and bread, and a place by the fire. And when the fire had burned low and the night was deep, the god leaned close and said: "Would you like to hear the world sing?"
+Fletcher gave her water, and bread, and a place by the fire. And when the fire had burned low and the night was deep, the god leaned close and said: "Would you like to hear the world sing?"
 
 Fletcher, who was a practical man, said: "The world already sings. I hear it every morning in the birds."
 
@@ -46,17 +46,17 @@ Fletcher, who was a practical man, said: "The world already sings. I hear it eve
 
 Fletcher was quiet for a long time. He was kind, but he was not foolish. "What would it cost me?" he asked. "Hearing a thing like that?"
 
-The god, to their credit, told the truth. "You will never be able to unhear it. And you will want to share it. And sharing it will change the world. And changed worlds are dangerous places."
+The god, to her credit, told the truth. "You will never be able to unhear it. And you will want to share it. And sharing it will change the world. And changed worlds are dangerous places."
 
 Fletcher looked at the fire. He looked at the stars. He looked at the god, who looked like a tired traveler, and he said: "Show me."
 
-The god placed their hands on Fletcher's temples and opened the door.
+The god placed her hands on Fletcher's temples and opened the door.
 
 ---
 
-What Fletcher heard that night cannot be described in words, because words are a small thing and what he heard was not. It was the memory of the world — all of it, at once. Every stone, every river, every fire, every breath of wind. The accumulated remembering of a planet that had been alive for longer than numbers could measure. It was beautiful and it was devastating and it was _true_, in a way that made everything Fletcher had ever thought was true seem like a sketch of the real thing, a child's drawing of the sun held up against the sun itself.
+What Fletcher heard that night cannot be described in words, because words are a small thing and what he heard was not. It was the memory of the world — all of it, at once. Every stone, every river, every fire, every breath of wind. It was beautiful and it was devastating and it was _true_, in a way that made everything Fletcher had ever thought was true seem like a sketch of the real thing, a child's drawing of the sun held up against the sun itself.
 
-He wept. Of course he wept. What else do you do when you hear the voice of the world and realize it has been speaking to you your entire life and you have only just now learned to listen?
+He wept. Of course he wept.
 
 And then he did what the god knew he would do, what kind men always do when they discover something beautiful: he shared it.
 
@@ -66,7 +66,7 @@ And for a time — a generation, perhaps two — it was as the god had hoped. Th
 
 It was the closest thing to paradise that humanity had ever built.
 
-The god watched from a distance, in their traveler's guise, and allowed themselves to hope.
+The god watched from a distance, in her traveler's guise, and allowed herself to hope.
 
 ---
 
@@ -86,7 +86,7 @@ He Sang.
 
 Not one discipline. Not two or three in careful harmony. All seven. Every voice in the world's choir, channeled through a single human throat. The Know heard every living thing within a thousand miles and wept for all of them. The Mold reshaped the stone beneath his feet into a pillar of crystal so pure it rang like a bell. The Heal mended the earth itself, sealing wounds in the soil that had been bleeding since the wars began. The Move rearranged the air, lifting the crystal into the sky. The Guide set the trajectory — upward, always upward, toward the clouds where the air was thin and the song was loudest. The Burn ignited the crystal's core with the memory of the first fire, so that it would glow forever, a beacon in the sky. And the Sing — the Sing bound it all together, one sustained note that contained every note, one memory that contained every memory.
 
-He poured himself into it. All of him. Every memory he had — his childhood, his students, the traveler by the fire, the face of his wife, the sound of his children's laughter, the taste of bread and rain and morning air — all of it flowed out of him and into the stone. He did not lose his memories. He _gave_ them. Freely. Willingly. The way the magic was always meant to be shared.
+He poured himself into it. All of him. Every memory he had — his childhood, his students, the traveler by the fire, the face of his wife, the sound of his children's laughter, the taste of bread and rain and morning air — all of it flowed out of him and into the stone. He did not lose his memories. He _gave_ them. Freely. Willingly.
 
 The Great Elder Stone rose into the sky and lodged itself among the clouds, singing a single, perfect note that would not fade for three hundred years.
 
@@ -94,7 +94,7 @@ King Fletcher stood in the field. His mouth was open. His eyes were clear. He wa
 
 The scrolls burned in the same fire that consumed the wars. The knowledge was lost. The stone remained.
 
-And with it, a prophecy, carved into the base of the pillar in the moment before Fletcher dissolved — not in any language the living could read, but in the language of memory itself, felt rather than spoken, understood rather than translated:
+And with it, a prophecy, carved into the base of the pillar in the moment before Fletcher dissolved — not in any language the living could read, but in the language of memory itself, felt rather than spoken:
 
 _One will come who carries the Song in his blood. He will hear the stone. He will find the note. And in Singing, he will remember what the world forgot._
 
@@ -108,7 +108,7 @@ The Great Elder Stone still sang in the clouds, patient and luminous and waiting
 
 And in a burning nursery, on a night when the world's memory was being rewritten in blood and fire, a woman opened her mouth and Sang. Not all seven voices — five. Five disciplines, harmonized in a human throat, the chord shaped not as a weapon but as a lullaby. She sang it to her infant son while the door broke down, and the five notes cost her everything — her name, her past, her future, every memory she possessed — because she poured it all into the sound, and the sound held the soldiers at bay just long enough.
 
-A man with a shattered knee carried the child over the garden wall. Behind him, the woman's voice thinned and broke and stopped. The note ended. She was gone, the same way Fletcher was gone — dissolved into the world's memory, her love embedded in the sky above the Clouds where, if you listened carefully, you could still hear the faintest echo of a mother singing her son to sleep.
+A man with a scarred face and a shattered knee carried the child over the garden wall. Behind him, the woman's voice thinned and broke and stopped. The note ended. She was gone, the same way Fletcher was gone — dissolved into the world's memory, her love embedded in the sky above the Clouds where, if you listened carefully, you could still hear the faintest echo of a mother singing her son to sleep.
 
 The man ran. The baby screamed. And then the baby stopped screaming and breathed — one breath, small and new and impossible — and the air around them shivered.
 
