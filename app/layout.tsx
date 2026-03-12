@@ -1,5 +1,14 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Inter } from "next/font/google";
+import {
+  sites,
+  books,
+  authors,
+  organization,
+  buildBookJsonLd,
+  buildWebsiteJsonLd,
+  buildOrganizationJsonLd,
+} from "@/app/lib/canonical-data";
 import "./globals.css";
 
 const serif = Cormorant_Garamond({
@@ -14,64 +23,28 @@ const sans = Inter({
   subsets: ["latin"],
 });
 
-const title =
-  "Man Amongst the Clouds — A Literary Fantasy Novel by Justin Cronk";
-const description =
-  "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 153,000-word literary fantasy debut nine years in the making. Part I available now. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.";
-const url = "https://www.manamongsttheclouds.com";
+const matc = books.manAmongstTheClouds;
+const site = sites.matc;
+const title = `${matc.title} — A Literary Fantasy Novel by ${matc.author.name}`;
+const description = `${site.description} Part I available now. For fans of ${matc.comparables}.`;
 
 export const metadata: Metadata = {
-  metadataBase: new URL(url),
+  metadataBase: new URL(site.url),
   title: {
     default: title,
-    template: "%s | Man Amongst the Clouds",
+    template: `%s | ${matc.title}`,
   },
   description,
-  keywords: [
-    "Man Amongst the Clouds",
-    "Justin Cronk",
-    "literary fantasy novel",
-    "fantasy book 2026",
-    "magic is memory",
-    "epic fantasy debut",
-    "indie fantasy novel",
-    "self-published fantasy",
-    "new fantasy books 2026",
-    "fantasy novel about memory",
-    "Patrick Rothfuss comparable",
-    "Robin Hobb comparable",
-    "Guy Gavriel Kay comparable",
-    "Ursula K. Le Guin comparable",
-    "fantasy magic system",
-    "dark fantasy novel",
-    "literary fiction fantasy",
-    "best new fantasy novels",
-    "indie author fantasy",
-    "fantasy ebook",
-    "buy fantasy ebook",
-    "adult fantasy novel",
-    "fantasy world building",
-    "fantasy debut novel",
-    "epic literary fantasy",
-    "memory magic system",
-    "sacrifice magic system",
-    "Song magic fantasy",
-    "seven disciplines magic",
-    "fantasy novel about loss",
-    "fantasy novel about grief",
-    "blockchain verified novel",
-    "human written fantasy novel",
-    "AI transparency publishing",
-  ],
-  authors: [{ name: "Justin Cronk", url }],
-  creator: "Justin Cronk",
-  publisher: "Stillfire Press",
-  alternates: { canonical: url },
+  keywords: matc.seoKeywords as unknown as string[],
+  authors: [{ name: authors.justinCronk.name, url: site.url }],
+  creator: authors.justinCronk.name,
+  publisher: organization.name,
+  alternates: { canonical: site.url },
   openGraph: {
     title,
     description,
-    url,
-    siteName: "Man Amongst the Clouds",
+    url: site.url,
+    siteName: matc.title,
     type: "website",
     locale: "en_US",
     images: [
@@ -79,15 +52,14 @@ export const metadata: Metadata = {
         url: "/opengraph-image",
         width: 1200,
         height: 630,
-        alt: "Man Amongst the Clouds — A Literary Fantasy Novel by Justin Cronk",
+        alt: title,
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Man Amongst the Clouds — Literary Fantasy Novel",
-    description:
-      "Magic is memory. The Song is love made audible. The cost is everything. A 153,000-word literary fantasy debut. Part I available now — $2.99.",
+    title: `${matc.title} — Literary Fantasy Novel`,
+    description: matc.twitterDescription,
     images: ["/opengraph-image"],
   },
   robots: {
@@ -106,187 +78,9 @@ export const metadata: Metadata = {
   },
 };
 
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Book",
-  name: "Man Amongst the Clouds",
-  alternateName: "MATC",
-  author: {
-    "@type": "Person",
-    name: "Justin Cronk",
-    url: `${url}/about-the-author`,
-    jobTitle: "Author",
-    description:
-      "First-time novelist, military veteran, and co-founder of Stillfire Press. Nine years writing a literary fantasy debut rooted in real research, real places, and a magic system based on memory.",
-    sameAs: [
-      `${url}/about-the-author`,
-      "https://stillfirepress.com",
-      "https://www.facebook.com/profile.php?id=61583731204411",
-    ],
-  },
-  bookFormat: "EBook",
-  bookEdition: "First Edition",
-  numberOfPages: 480,
-  genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
-  inLanguage: "en",
-  description,
-  url,
-  datePublished: "2026",
-  copyrightYear: 2026,
-  isFamilyFriendly: true,
-  typicalAgeRange: "16+",
-  audience: {
-    "@type": "PeopleAudience",
-    suggestedMinAge: 16,
-    audienceType:
-      "Readers of literary fantasy, epic fantasy, and character-driven fantasy. Fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, Ursula K. Le Guin, and Tad Williams.",
-  },
-  wordCount: 153000,
-  about: [
-    { "@type": "Thing", name: "Memory" },
-    { "@type": "Thing", name: "Magic systems" },
-    { "@type": "Thing", name: "Sacrifice" },
-    { "@type": "Thing", name: "Loss and grief" },
-    { "@type": "Thing", name: "Found family" },
-    { "@type": "Thing", name: "Coming of age" },
-    { "@type": "Thing", name: "Power and its cost" },
-    { "@type": "Thing", name: "World building" },
-  ],
-  publisher: {
-    "@type": "Organization",
-    name: "Stillfire Press",
-    url: "https://stillfirepress.com",
-    description:
-      "Independent fantasy press founded by father-son duo Justin and Carter Cronk. Blockchain-verified authorship. Buy direct from the authors.",
-    parentOrganization: {
-      "@type": "Organization",
-      name: "Cronk Companies, LLC",
-    },
-  },
-  offers: {
-    "@type": "Offer",
-    price: "2.99",
-    priceCurrency: "USD",
-    availability: "https://schema.org/InStock",
-    url: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
-  },
-  workExample: [
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part I — The Still Water",
-      bookEdition: "Part I",
-      bookFormat: "EBook",
-      description:
-        "Prologue and Chapters 1–10. Aelo has lived in silence for fifteen years, raised by a scarred old man in a village too small to have a name. When the herbs fail and the silence breaks, he discovers magic is memory — and he can hear all of it.",
-      offers: {
-        "@type": "Offer",
-        price: "2.99",
-        priceCurrency: "USD",
-        availability: "https://schema.org/InStock",
-      },
-    },
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part II — The Waking",
-      bookEdition: "Part II",
-      bookFormat: "EBook",
-      description:
-        "The journey out of silence and into the larger world. Aelo begins to learn what magic costs — and what it means to be heard.",
-      offers: {
-        "@type": "Offer",
-        availability: "https://schema.org/PreOrder",
-      },
-    },
-  ],
-  sameAs: [
-    "https://stillfirepress.com",
-    "https://ashtofury.com",
-    "https://www.facebook.com/profile.php?id=61583731204411",
-  ],
-  keywords:
-    "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published, magic is memory, fantasy books where magic has a cost, books like Name of the Wind, books like Assassin's Apprentice, books like Tigana, books like A Wizard of Earthsea, best fantasy books 2026, new fantasy novels 2026, fantasy novels about memory, fantasy novels about sacrifice, fantasy novels with unique magic systems, character-driven fantasy, literary fiction meets fantasy, dark fantasy with heart, fantasy debut novels, indie fantasy books, buy fantasy books direct from author",
-  mainEntityOfPage: `${url}/the-book`,
-};
-
-const websiteJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "Man Amongst the Clouds",
-  alternateName: "MATC",
-  url,
-  description,
-  inLanguage: "en",
-  author: {
-    "@type": "Person",
-    name: "Justin Cronk",
-  },
-  publisher: {
-    "@type": "Organization",
-    name: "Stillfire Press",
-    url: "https://stillfirepress.com",
-  },
-  potentialAction: [
-    {
-      "@type": "SearchAction",
-      target: {
-        "@type": "EntryPoint",
-        urlTemplate: `${url}/chapters/{search_term}`,
-      },
-      "query-input": "required name=search_term",
-    },
-    {
-      "@type": "ReadAction",
-      target: `${url}/read/part-one`,
-    },
-  ],
-};
-
-const organizationJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  name: "Stillfire Press",
-  alternateName: "Stillfire",
-  url: "https://stillfirepress.com",
-  description:
-    "Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network. Readers buy direct from the authors — 97% of every sale goes to the writer. No middlemen, no distributors, no algorithms.",
-  foundingDate: "2026",
-  founder: [
-    {
-      "@type": "Person",
-      name: "Justin Cronk",
-      jobTitle: "Co-Founder & Author",
-      url: `${url}/about-the-author`,
-    },
-    {
-      "@type": "Person",
-      name: "Carter Cronk",
-      jobTitle: "Co-Founder & Author",
-      url: "https://ashtofury.com",
-    },
-  ],
-  parentOrganization: {
-    "@type": "Organization",
-    name: "Cronk Companies, LLC",
-  },
-  sameAs: [
-    "https://stillfirepress.com",
-    "https://www.manamongsttheclouds.com",
-    "https://ashtofury.com",
-    "https://www.facebook.com/profile.php?id=61583731204411",
-  ],
-  knowsAbout: [
-    "Literary Fantasy",
-    "Dark Fantasy",
-    "Independent Publishing",
-    "Blockchain-Verified Authorship",
-    "Direct-to-Reader Publishing",
-  ],
-  contactPoint: {
-    "@type": "ContactPoint",
-    contactType: "customer service",
-    url: "https://stillfirepress.com/contact",
-  },
-};
+const jsonLd = buildBookJsonLd("manAmongstTheClouds");
+const websiteJsonLd = buildWebsiteJsonLd("matc");
+const organizationJsonLd = buildOrganizationJsonLd();
 
 export default function RootLayout({
   children,

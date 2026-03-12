@@ -1,6 +1,19 @@
 import Link from "next/link";
+import {
+  sites,
+  books,
+  authors,
+  organization,
+  social,
+  ecosystemLinks,
+} from "@/app/lib/canonical-data";
 
 export default function Footer() {
+  const currentSiteUrl = sites.matc.url;
+  const otherSites = ecosystemLinks.filter(
+    (l: { url: string }) => l.url !== currentSiteUrl,
+  );
+
   return (
     <footer className="py-16 sm:py-20 px-5 sm:px-6 border-t border-[#1a1a1a] relative">
       <div className="max-w-4xl mx-auto">
@@ -65,27 +78,22 @@ export default function Footer() {
 
           <div>
             <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.3em] uppercase text-[#c9a84c]/40 mb-4">
-              Stillfire Press
+              {organization.name}
             </p>
             <div className="flex flex-col gap-2">
+              {otherSites.map((s: { url: string; label: string }) => (
+                <a
+                  key={s.url}
+                  href={s.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-[family-name:var(--font-sans)] text-xs text-[#999] hover:text-[#ededed] transition-colors"
+                >
+                  {s.label}
+                </a>
+              ))}
               <a
-                href="https://stillfirepress.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-[family-name:var(--font-sans)] text-xs text-[#999] hover:text-[#ededed] transition-colors"
-              >
-                stillfirepress.com
-              </a>
-              <a
-                href="https://ashtofury.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-[family-name:var(--font-sans)] text-xs text-[#999] hover:text-[#ededed] transition-colors"
-              >
-                Ash to Fury &mdash; Carter Cronk
-              </a>
-              <a
-                href="https://www.facebook.com/profile.php?id=61583731204411"
+                href={social.facebookStillfirePress.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-[family-name:var(--font-sans)] text-xs text-[#999] hover:text-[#ededed] transition-colors"
@@ -93,9 +101,7 @@ export default function Footer() {
                 Facebook
               </a>
               <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] leading-relaxed mt-1">
-                An independent publishing house
-                <br />
-                founded by Justin &amp; Carter Cronk
+                {organization.shortDescription}
               </p>
             </div>
           </div>
@@ -104,11 +110,12 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-[#1a1a1a] pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#8a8a8a]">
-            Man Amongst the Clouds
+            {books.manAmongstTheClouds.title}
           </p>
           <p className="font-[family-name:var(--font-sans)] text-[10px] text-[#8a8a8a]">
-            &copy; 2026 Justin Cronk &bull; Stillfire Press &bull; A Cronk
-            Companies, LLC Project &bull; All rights reserved
+            &copy; {new Date().getFullYear()} {authors.justinCronk.name} &bull;{" "}
+            {organization.name} &bull; A {organization.legalName} Project &bull;
+            All rights reserved
           </p>
         </div>
       </div>
