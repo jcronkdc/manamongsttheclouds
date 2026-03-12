@@ -12,7 +12,7 @@ His hands shook. Not the manageable tremor that Aelo mixed the Fiddleroot for �
 
 Because the bottle was not part of the plan. The bottle was part of the man, and the man was supposed to be disposable.
 
-But the safehouse was part of the plan, and Halvar had stocked the safehouse, and the man who stocked it had known — with the specific, unflinching honesty that comes from fifteen years of living inside your own failure — that the man who arrived would need what the man who planned could not admit to wanting. There was a bottle in the supply cache. Root wine. He had placed it there years ago, wrapped in cloth, tucked behind the dried rations and the emergency herbs, and he had told himself it was medicinal. For the pain. For the phantom wounds. Mold magic ran through the body like current through wire — every wall he'd raised, every stone he'd shaped, every desperate act of force he'd pushed through the staff had traveled his nervous system first, and the nerves remembered. They remembered the way a bruise remembers: dully, persistently, flaring without warning. Fifteen years of disuse hadn't quieted them. It had left them stranded, firing into nothing, a system built for heavy labor running idle and tearing itself apart. The wine didn't fix this. The wine made the signals distant, gave him a few hours where his hands belonged to him instead of to every wall he'd ever built. That was enough. That had to be enough.
+But the safehouse was part of the plan, and Halvar had stocked the safehouse, and the man who stocked it had known — with the unflinching honesty that comes from fifteen years of living inside your own failure — that the man who arrived would need what the man who planned could not admit to wanting. There was a bottle in the supply cache. Root wine. He had placed it there years ago, wrapped in cloth, tucked behind the dried rations and the emergency herbs, and he had told himself it was medicinal. For the pain. For the phantom wounds. Mold magic ran through the body like current through wire — every wall he'd raised, every stone he'd shaped, every desperate act of force he'd pushed through the staff had traveled his nervous system first, and the nerves remembered. They remembered the way a bruise remembers: dully, persistently, flaring without warning. Fifteen years of disuse hadn't quieted them. It had left them stranded, firing into nothing, a system built for heavy labor running idle and tearing itself apart. The wine didn't fix this. The wine made the signals distant, gave him a few hours where his hands belonged to him instead of to every wall he'd ever built. That was enough. That had to be enough.
 
 Aelo slept against the far wall of the hollow, curled on his side, his face slack and young and twitching with dreams that were, for the first time in his life, his own. Not Jalo's nightmares bleeding through the wall. Not the secondhand smoke and splintered doors and the voice cut short. These were Aelo's dreams — raw, unfiltered, the accumulated sensory data of a world that had been pouring into him since the herbs failed, now being processed by a sleeping brain that had no framework for what it was receiving. His hands moved in his sleep. His lips parted. Once, he murmured something that sounded like a word in no language Halvar recognized, and the elm above them creaked in response.
 
@@ -142,7 +142,7 @@ Almost the last man.
 
 _The oath._
 
-Twenty-three years old. The day he became Vael Guard. A stone chamber in the Cloud Palace, lit by amber torches, smelling of cedar and iron and the particular quality of ancient air that accumulates in rooms where important things happen. Twelve men in a line. Halvar third from the left. All of them young, all of them whole, all of them believing with the specific, unbreakable conviction of youth that the words they were about to speak would matter.
+Twenty-three years old. The day he became Vael Guard. A stone chamber in the Cloud Palace, lit by amber torches, smelling of cedar and iron and the particular quality of ancient air that accumulates in rooms where important things happen. Twelve men in a line. Halvar third from the left. All of them young, all of them whole, all of them believing with the unbreakable conviction of youth that the words they were about to speak would matter.
 
 The Captain — a woman named Sera, silver-haired, who had held the post for thirty years and who moved with the economy of someone for whom every gesture was a statement and no statement was wasted — stood before them.
 
@@ -170,13 +170,13 @@ Halvar pressed his forehead to his knees. The shaking intensified. His body want
 
 He reached for the supply cache without looking. His hand found the cloth. Found the neck of the bottle underneath. Root wine. He pulled it out.
 
-He held it. The weight was familiar — the specific, calibrated heft of a full bottle. He could feel the liquid shift inside, patient, waiting, offering the same bargain it had offered every night for fifteen years: drink, and the ghosts go quiet; drink, and the boy sleeps undisturbed; drink, and the crack in the foundation fills, temporarily, with something that is not love but occupies the same space.
+He held it. The weight was familiar — the calibrated heft of a full bottle. He could feel the liquid shift inside, patient, waiting, offering the same bargain it had offered every night for fifteen years: drink, and the ghosts go quiet; drink, and the boy sleeps undisturbed; drink, and the crack in the foundation fills, temporarily, with something that is not love but occupies the same space.
 
 He put it down.
 
 He picked it up.
 
-He drank. One long pull. The burn was immediate — not the gentle warmth of a social drink but the specific, medicinal scorch of a man self-administering the only anesthetic available. It hit his stomach and radiated outward and the shaking diminished by half, and the ghosts in his bones lowered their voices, and the crack in the foundation filled with its familiar, temporary sealant.
+He drank. One long pull. The burn was immediate — not the gentle warmth of a social drink but the medicinal scorch of a man self-administering the only anesthetic available. It hit his stomach and radiated outward and the shaking diminished by half, and the ghosts in his bones lowered their voices, and the crack in the foundation filled with its familiar, temporary sealant.
 
 He put the bottle down. Wiped his mouth with the back of his hand. Looked at Aelo sleeping. The boy's face was peaceful. The herbs were gone and the dreams were his own and the world was pouring into him and he did not yet know what any of it meant, and the man who was supposed to teach him was sitting in the dark drinking root wine from a cache he had packed for exactly this purpose.
 
@@ -212,7 +212,7 @@ Halvar stood. The staff came up — not a threat, not yet, but the promise of on
 
 He had never met a god. But he had served a king who could Know, and Aldric had once described what the divine felt like — not a presence but an _absence_. A hole in the world's memory shaped like something too large to fit. You couldn't see it. You could feel the edges.
 
-Halvar couldn't feel the edges. Not with his senses dulled, not through the withdrawal and the fifteen years of rust. But he could feel _something_ — an irregularity, a wrongness, the specific discomfort of standing near a person whose surface and interior did not match.
+Halvar couldn't feel the edges. Not with his senses dulled, not through the withdrawal and the fifteen years of rust. But he could feel _something_ — an irregularity, a wrongness, the discomfort of standing near a person whose surface and interior did not match.
 
 "Who are you?" The question was quiet. Dangerous-quiet.
 

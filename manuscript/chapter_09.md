@@ -16,7 +16,7 @@ He was getting better at the pocket. The silence he had found — the small, fra
 
 He chose the trees. The trees were the easiest — their memories were slow, long, measured in seasons rather than seconds. Listening to a tree was like reading a book written in very large print: the information was vast but the pace was gentle. He could follow the elm's memory of a storm three decades ago, the way the wind had bent its highest branches to the breaking point and the branches had held, had _chosen_ to hold, bending rather than snapping because the elm remembered the last time it had lost a limb and the memory of that loss had taught it flexibility.
 
-The trees remembered everything. They remembered the rain from fifty years ago and the fire from a hundred years before that and the specific quality of sunlight that had filtered through the canopy on a morning in spring when a deer had stood beneath them and breathed and the breath had condensed on the bark and the condensation had fed the moss and the moss had fed the beetle and the beetle had fed the bird and the bird had sung and the song had entered the wood and the wood remembered it, all of it, every link in the chain, every moment connected to every other moment in an unbroken continuity of being alive.
+The trees remembered everything. They remembered the rain from fifty years ago and the fire from a hundred years before that and the quality of sunlight that had filtered through the canopy on a morning in spring when a deer had stood beneath them and breathed. The breath had condensed on the bark. The condensation had fed the moss, and the moss had fed the beetle, and the beetle had fed the bird, and the bird had sung, and the song had entered the wood. The wood remembered it, all of it, every link in the chain, every moment connected to every other moment in an unbroken continuity of being alive.
 
 "You're listening too deep."
 
@@ -54,11 +54,11 @@ The information settled into Aelo with the weight of a stone sinking into still 
 
 "Will I have to?"
 
-"Burn?" Sereth looked at him. The depth in her eyes was not coldness — Aelo could feel it now, could taste the specific quality of Sereth's attention: salt and age and the grief of someone who has watched this question asked before. "I don't know. I don't know what your limits are. I don't know which of the seven you'll reach and which will resist you. That's what we're going to find out."
+"Burn?" Sereth looked at him. The depth in her eyes was not coldness — Aelo could feel it now, could taste the quality of Sereth’s attention: salt and age and the grief of someone who has watched this question asked before. "I don't know. I don't know what your limits are. I don't know which of the seven you'll reach and which will resist you. That's what we're going to find out."
 
 They walked in silence for a while. The trees whispered. Aelo's pocket held. And in the holding, he noticed something he had not noticed before — a flavor in Sereth's emotional signature that did not fit the profile of grief. Grief tasted like salt. This tasted like ash. It was buried deep, beneath the patience and the age and the carefully maintained surface of a woman who had been managing her own interior for three centuries. But it was there. And it was not sadness.
 
-It was guilt. Specific, structural, load-bearing guilt — the kind that does not respond to time because it is not a feeling but a fact.
+It was guilt. Structural, load-bearing guilt — the kind that does not respond to time because it is not a feeling but a fact.
 
 "You're not just sad about my mother," Aelo said. The words came out sharper than he intended. The iron taste was there again, faintly, behind his teeth. "You feel responsible."
 
@@ -88,7 +88,7 @@ It was the oldest thing he had ever felt. The memory in the wood went down so fa
 
 Jalo limped forward. His face — both sides — was drawn with pain. The walk had cost him, and the cost was visible in the way his body held itself: tilted, compensating, every muscle engaged in the project of remaining upright despite the knee's insistence that upright was no longer a viable configuration.
 
-He placed his palm on the wall. He spoke — not in the common tongue but in something older, something that lived in the shape of the consonants and the length of the vowels and the specific quality of vibration that the words produced in the wood. The old language. The language of the Vael Guard, passed down from the Cloud Kingdom's founding, preserved in oaths and ceremonies and the memories of men who had sworn to protect what it meant.
+He placed his palm on the wall. He spoke — not in the common tongue but in something older, something that lived in the shape of the consonants and the length of the vowels and the vibration that the words produced in the wood. The old language. The language of the Vael Guard, passed down from the Cloud Kingdom's founding, preserved in oaths and ceremonies and the memories of men who had sworn to protect what it meant.
 
 The wall remembered him.
 
@@ -116,7 +116,7 @@ He pressed his forehead to his folded hands. The tremor shook his entire body.
 
 "That's not an apology. That's worse than an apology. That's the truth."
 
-Aelo stood in the threshold and felt the world on both sides of him — the Canopy behind, dense and layered and full of memory, and the open sky ahead, grey and vast and holding nothing but possibility — and he felt, for the first time, the specific weight of being loved by someone who had given everything they had and lost most of it and would give it all again without hesitation.
+Aelo stood in the threshold and felt the world on both sides of him — the Canopy behind, dense and layered and full of memory, and the open sky ahead, grey and vast and holding nothing but possibility — and he felt, for the first time, the weight of being loved by someone who had given everything they had and lost most of it and would give it all again without hesitation.
 
 He walked to Jalo. He knelt across from him — his new, longer legs folding easily, his new, broader body settling into a posture that felt natural in a way the old body never had. He placed his hand on Jalo's shoulder. The tremor came through his palm.
 

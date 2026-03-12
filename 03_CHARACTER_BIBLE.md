@@ -249,7 +249,7 @@ Sereth accepted the punishment. Not with grace — with exhaustion. She had been
 
 ### The Wound
 
-She fell in love. Centuries ago, with a mortal woman named Essa, a Healer from the Sea People. They lived together for forty years. Sereth watched her age while she did not. She watched her forget things — not from magic, but from time. She watched her die.
+She fell in love. Centuries ago, with a mortal woman named Essa, a Guide of the Sea People. They lived together for forty years. Sereth watched her age while she did not. She watched her forget things — not from magic, but from time. She watched her die.
 
 This was the first time Sereth understood what memory meant to mortals. For gods, memory is infinite and weightless. For humans, it is everything — finite, fragile, and unbearably precious. Essa's death taught Sereth that the gift she gave humanity wasn't just power. It was the ability to _matter_ — to make a mark on the world's memory that outlasts a single life.
 

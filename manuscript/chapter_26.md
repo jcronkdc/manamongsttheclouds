@@ -10,13 +10,13 @@ Not literally — though the physical sensation was close enough that the metaph
 
 The training was musical. Literally.
 
-The five Seers sat in a circle on the chamber floor. Each one hummed a note. Not randomly — each note corresponded to a discipline, the frequency matched to the specific vibrational signature that the discipline produced in the world's memory. The eldest Seer — the woman with the milky eyes, whose name Aelo learned was Cael — hummed the Know: a low, sustained drone that lived in the bass register, the frequency of deep listening, of attention, of the specific vibration that the world produced when it was being heard. To her left, a man whose face was all angles and weathered bone hummed the Mold: a percussive, rhythmic beat that was not truly humming but a series of short, sharp exhalations that mimicked the pulse of stone, the heartbeat of the earth, the geological percussion of a material that communicated through pressure rather than pitch. A woman with her eyes closed hummed the Heal: a descending phrase, falling like water, the frequency of mending, of return, of the body's memory of wholeness being called back from the place where injury had sent it. A man so thin he seemed to be made of wind hummed the Move: a rising phrase, ascending, the frequency of displacement, of lift, of the specific vibration that air produced when it remembered being asked to carry weight. And the last Seer — young, the youngest of the five, her voice clear and strong — hummed the Guide: a sustained middle tone, steady, directional, the frequency of momentum, of trajectory, of the world's memory of where things were going.
+The five Seers sat in a circle on the chamber floor. Each one hummed a note. Not randomly — each note corresponded to a discipline, the frequency matched to the vibrational signature that the discipline produced in the world's memory. The eldest Seer — the woman with the milky eyes, whose name Aelo learned was Cael — hummed the Know: a low, sustained drone that lived in the bass register, the frequency of deep listening, of attention, of the vibration that the world produced when it was being heard. To her left, a man whose face was all angles and weathered bone hummed the Mold: a percussive, rhythmic beat that was not truly humming but a series of short, sharp exhalations that mimicked the pulse of stone, the heartbeat of the earth, the geological percussion of a material that communicated through pressure rather than pitch. A woman with her eyes closed hummed the Heal: a descending phrase, falling like water, the frequency of mending, of return, of the body's memory of wholeness being called back from the place where injury had sent it. A man so thin he seemed to be made of wind hummed the Move: a rising phrase, ascending, the frequency of displacement, of lift, of the vibration that air produced when it remembered being asked to carry weight. And the last Seer — young, the youngest of the five, her voice clear and strong — hummed the Guide: a sustained middle tone, steady, directional, the frequency of momentum, of trajectory, of the world's memory of where things were going.
 
 Five notes. Five disciplines. The chamber filled with them — not as sound but as _architecture_. Each note occupied a different register, a different emotional territory, and the combination produced not a chord but a _space_ — an acoustic room in which each voice was distinct and each voice was essential and the absence of any one voice would collapse the structure the way the removal of a single stone collapses an arch.
 
 "Listen," Cael said. She did not stop humming — the word came out layered over the drone, the Know's frequency carrying the instruction as a vibration within a vibration. "Not to the notes. To the space between them."
 
-Aelo listened. The riverbed came — the descent, the settling, the resolved depth that the Ming had taught him. He sank through the five notes the way he had sunk through the lake's memory, past the surface, past the individual voices, into the structure beneath. And there, in the space between the five frequencies, he found it: a gap. A silence. Not the silence of absence but the silence of potential — the specific, charged quiet of a space that was shaped exactly right for a voice that had not yet spoken. The notes were the architecture. The silence was the room the architecture was built to contain.
+Aelo listened. The riverbed came — the descent, the settling, the resolved depth that the Ming had taught him. He sank through the five notes the way he had sunk through the lake's memory, past the surface, past the individual voices, into the structure beneath. And there, in the space between the five frequencies, he found it: a gap. A silence. Not the silence of absence but the silence of potential — the charged quiet of a space that was shaped exactly right for a voice that had not yet spoken. The notes were the architecture. The silence was the room the architecture was built to contain.
 
 Two voices were missing. The Burn — the crackling, volatile frequency of fire and transformation, the discipline that the Cloud People did not carry in their blood because the Burn belonged to the Volcano and the Volcano's heat was antithetical to the Cloud's altitude. And the Sing — the voice that lived beneath all the others, the harmonic that was not a discipline but the thing the disciplines were made of.
 
@@ -26,7 +26,7 @@ He reached for the Know. The low drone was familiar — the riverbed, the Ming's
 
 "Hold two."
 
-He reached for the Mold. The percussive beat was harder — requiring a different part of his attention, a different register, the specific, conviction-based awareness that Torvus had taught him in the Core. He held it. The two frequencies overlapped — the drone and the beat, the listening and the speaking, the Know and the Mold operating simultaneously in his consciousness the way two hands operate simultaneously on a keyboard, each doing something different, the coordination requiring not thought but surrender.
+He reached for the Mold. The percussive beat was harder — requiring a different part of his attention, a different register, the conviction-based awareness that Torvus had taught him in the Core. He held it. The two frequencies overlapped — the drone and the beat, the listening and the speaking, the Know and the Mold operating simultaneously in his consciousness the way two hands operate simultaneously on a keyboard, each doing something different, the coordination requiring not thought but surrender.
 
 Two notes. He had done this before — at the sealed passage, without training, the Know and the Mold harmonizing to produce something that Torvus had said was not Molding but something else. Now he was doing it deliberately. The two notes held. The space between them hummed.
 
@@ -60,13 +60,13 @@ He collapsed. The chamber floor caught him — the stone warm from the Move's em
 
 The blood dripped. The room settled. The Seers lowered their hands.
 
-Aelo lay on the floor and breathed. Each breath was an effort — the lungs protesting, the chest tight, the body communicating in the specific, unambiguous language of a system that had been pushed past its design parameters and was requesting, firmly, that the pushing stop.
+Aelo lay on the floor and breathed. Each breath was an effort — the lungs protesting, the chest tight, the body communicating in the unambiguous language of a system that had been pushed past its design parameters and was requesting, firmly, that the pushing stop.
 
 ---
 
 Cael came to him that evening. He was sitting on the edge of the formation — legs dangling over the gap, the fog below, the sky above, the thin cold air carrying the Song's frequency the way it always carried it, the sustained hum that had been Aelo's companion since the ascent. His nose had stopped bleeding. His chest still ached.
 
-She sat beside him. The old woman moved with the specific care of a person whose body was mostly finished with the act of living and who was maintaining the residual functions out of habit and necessity rather than enthusiasm. Her milky eyes turned toward the sky. Her skeletal hands folded in her lap.
+She sat beside him. The old woman moved with the care of a person whose body was mostly finished with the act of living and who was maintaining the residual functions out of habit and necessity rather than enthusiasm. Her milky eyes turned toward the sky. Her skeletal hands folded in her lap.
 
 "Fletcher held all seven," she said.
 
@@ -90,7 +90,7 @@ Cael was quiet for a long time. The wind moved. The fog shifted below them, the 
 
 "Fletcher divided," Cael said. "He took the silence and he broke it into seven voices. That was necessary. The world needed the voices. But the breaking had a cost — the voices forgot they were one. Each discipline became separate. Each region became distinct. The world was given seven languages and forgot that they were all dialects of the same tongue."
 
-She looked at him. The milky eyes, for a moment, seemed to clear — the opacity thinning, the dark irises emerging, the depth behind them enormous and ancient and carrying the specific, accumulated wisdom of a woman who had been listening to the Song for longer than Aelo had been alive.
+She looked at him. The milky eyes, for a moment, seemed to clear — the opacity thinning, the dark irises emerging, the depth behind them enormous and ancient and carrying the accumulated wisdom of a woman who had been listening to the Song for longer than Aelo had been alive.
 
 "Your Song will not divide. Your Song will _remind_. The way you reminded the pebble of its round shape. The way you reminded the sealed passage of its openness. The way you reminded the sky of your mother's voice. You don't break. You restore. You don't create new voices. You remind the existing voices that they are one."
 
@@ -102,7 +102,7 @@ She looked at him. The milky eyes, for a moment, seemed to clear — the opacity
 
 The question was the question he had been carrying since the elder woman at the Ming had said _gift or death sentence_. Since Laine had refused to describe the third future. Since the first morning the Song had arrived in his blood and the blood had recognized it and the recognition had been both the most beautiful and the most terrifying thing he had ever felt.
 
-Cael paused. The pause was not hesitation. It was the specific, weighted pause of a person choosing between the merciful lie and the devastating truth and deciding, as the Ming had decided, as Jalo had decided, as every person who had ever loved Aelo had decided: the truth.
+Cael paused. The pause was not hesitation. It was the weighted pause of a person choosing between the merciful lie and the devastating truth and deciding, as the Ming had decided, as Jalo had decided, as every person who had ever loved Aelo had decided: the truth.
 
 "Fletcher did not die," she said. "He became the Song. Whether that is death depends on what you believe death is."
 
@@ -110,15 +110,15 @@ Cael paused. The pause was not hesitation. It was the specific, weighted pause o
 
 "I believe that your mother has been singing in this sky for fifteen years." The milky eyes held him. "Draw your own conclusions."
 
-Aelo sat on the edge of the formation and looked at the sky and thought about his mother singing in the air and Fletcher singing in the stone and the Desert elder singing to the sand and the Weave-Roads singing beneath the feet of people who had learned to braid weakness into strength. He thought about Torvus singing to rock with numb hands. About the Ming teacher singing to silence with an expressionless face. About Jalo singing to a boy every morning for fifteen years with a bottle of herbs and a bowl of porridge and the specific, devastating, inarticulable music of showing up.
+Aelo sat on the edge of the formation and looked at the sky and thought about his mother singing in the air and Fletcher singing in the stone and the Desert elder singing to the sand and the Weave-Roads singing beneath the feet of people who had learned to braid weakness into strength. He thought about Torvus singing to rock with numb hands. About the Ming teacher singing to silence with an expressionless face. About Jalo singing to a boy every morning for fifteen years with a bottle of herbs and a bowl of porridge and the devastating, inarticulable music of showing up.
 
 The Song was not seven notes. The Song was not a chord or a harmonization or a surrender. The Song was the act of reminding the world that it was one thing — that the seven voices were one voice, that the seven elements were one element, that the silence and the sound were not opposites but aspects of the same presence, the way the ocean and the rain and the tears on a boy's face were all, at some depth, the same water.
 
-He could not hold seven notes. He could hold five. And beneath the five — unnamed, untrained, growing — the sixth and the seventh were not absent. They were waiting. The Burn was in the blade he had felt in the Volcano, the transformation of ore into weapon, the fire's memory of change. The Sing was in everything — in the sky, in the stone, in the blood, in the specific frequency that his mother had left in the air and that his father had left in his eyes and that Jalo had left in every morning of his life.
+He could not hold seven notes. He could hold five. And beneath the five — unnamed, untrained, growing — the sixth and the seventh were not absent. They were waiting. The Burn was in the blade he had felt in the Volcano, the transformation of ore into weapon, the fire's memory of change. The Sing was in everything — in the sky, in the stone, in the blood, in the frequency that his mother had left in the air and that his father had left in his eyes and that Jalo had left in every morning of his life.
 
 He did not need to hold all seven. He needed to remind the world that all seven were already held. That they had always been held. That the holding was not a performance but a memory, and the memory was not lost but buried.
 
-He stood. He walked back to the chamber. Cael followed — slowly, the old body maintaining itself through habit, the milky eyes fixed on the boy who was walking with the specific, quiet certainty of a person who has understood something and is now carrying the understanding the way the lake stone carried the riverbed: compressed, portable, always accessible.
+He stood. He walked back to the chamber. Cael followed — slowly, the old body maintaining itself through habit, the milky eyes fixed on the boy who was walking with the quiet certainty of a person who has understood something and is now carrying the understanding the way the lake stone carried the riverbed: compressed, portable, always accessible.
 
 "I know what my Song is," he said.
 
@@ -126,7 +126,7 @@ Cael waited. The wind waited. The Clouds waited.
 
 "I'm going to remind the world that it's one thing. Not by Singing louder. By listening deeper. The riverbed. The place where all the voices merge. I've been there. The Ming showed me. The riverbed is where the Song lives — not above the voices but _beneath_ them. If I can reach it — if I can hold the riverbed and let the voices come through me the way they come through the Elder Stones — I don't need to hold seven notes. I need to hold _one_. The one that all seven are made of."
 
-Cael's face changed. The milky eyes widened — a fractional adjustment, the muscles around the eyes contracting, the opacity seeming, for a moment, to vanish entirely. What emerged behind it was not vision but understanding — the specific, rare, irreplaceable understanding of a woman who has been waiting for an answer and has received one she did not expect and that is better than the one she hoped for.
+Cael's face changed. The milky eyes widened — a fractional adjustment, the muscles around the eyes contracting, the opacity seeming, for a moment, to vanish entirely. What emerged behind it was not vision but understanding — the rare, irreplaceable understanding of a woman who has been waiting for an answer and has received one she did not expect and that is better than the one she hoped for.
 
 "Fletcher divided the silence into seven voices," she said. "And you will remind the seven voices that they are silence."
 

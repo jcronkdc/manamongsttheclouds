@@ -12,13 +12,13 @@ The soldiers reacted. Twelve men, trained, disciplined, the camp breaking from r
 
 Drell was the first to find his voice. "On the ground. Now."
 
-Aelo did not get on the ground. He stood. He held his hands up — the numb hands, the Mold's cost, the fingers that could not feel the wind or the temperature or the specific tension that filled the air when twelve armed men were deciding whether to kill him. He stood and he looked at the soldiers and his Know read them in the fraction of a second that the reading took: fear. Not of him — of the decision. The decision that was coming. The decision that belonged to the man who was emerging from the command tent with a stone blade in one hand and a wooden box in the other.
+Aelo did not get on the ground. He stood. He held his hands up — the numb hands, the Mold's cost, the fingers that could not feel the wind or the temperature or the tension that filled the air when twelve armed men were deciding whether to kill him. He stood and he looked at the soldiers and his Know read them in the fraction of a second that the reading took: fear. Not of him — of the decision. The decision that was coming. The decision that belonged to the man who was emerging from the command tent with a stone blade in one hand and a wooden box in the other.
 
 The Knife.
 
-He was smaller than Aelo had imagined. Not in stature — the man was tall, lean, built with the specific efficiency of a body designed for pursuit. Smaller in presence. The void that Aelo had felt from two miles away was, at ten feet, not an absence but a thinness — the specific, devastating reduction of a person who had been stripped of so much content that the container was visible through the contents, the way a glass is visible through the water when the water level drops.
+He was smaller than Aelo had imagined. Not in stature — the man was tall, lean, built with the efficiency of a body designed for pursuit. Smaller in presence. The void that Aelo had felt from two miles away was, at ten feet, not an absence but a thinness — the devastating reduction of a person who had been stripped of so much content that the container was visible through the contents, the way a glass is visible through the water when the water level drops.
 
-His face was — Aelo's Know reached, and the reaching was like reaching into a room that had been emptied of furniture. The face was young. Mid-thirties, perhaps. The features were regular, precise, the kind of face that was assembled from components that were individually unremarkable. The eyes were the thing — dark, flat, carrying the specific quality of attention that Aelo had seen in the Flash Rat: not intelligence or suffering but function. Eyes that assessed. Eyes that calculated. Eyes that saw the world as a series of operational variables and processed each variable against a framework that had been installed by a father who called his son a supply number.
+His face was — Aelo's Know reached, and the reaching was like reaching into a room that had been emptied of furniture. The face was young. Mid-thirties, perhaps. The features were regular, precise, the kind of face that was assembled from components that were individually unremarkable. The eyes were the thing — dark, flat, carrying the quality of attention that Aelo had seen in the Flash Rat: not intelligence or suffering but function. Eyes that assessed. Eyes that calculated. Eyes that saw the world as a series of operational variables and processed each variable against a framework that had been installed by a father who called his son a supply number.
 
 The stone blade was drawn. It was not a Mrak Patrol sidearm — it was something else. Darker. Heavier. The blade's surface glinting with the faint, diseased luminescence of an Elder Stone fragment embedded in the hilt. A draining weapon. Designed not to kill but to extract — to cut the connection between a person and their magical signature, to sever the thread between the self and the world's memory.
 
@@ -32,19 +32,19 @@ The stone blade was drawn. It was not a Mrak Patrol sidearm — it was something
 
 "Your father is killing you."
 
-The words entered the camp the way a stone enters water — a single impact, and then the ripples. The soldiers shifted. The Volcano troops exchanged a glance — the specific, rapid, below-the-surface communication of men who have heard something they cannot unhear and whose training does not include a protocol for unhearing. Drell's face tightened. The Ming tracker — Sera, sitting at the perimeter with her flat black eyes open and her palms on the earth — did not react. She already knew.
+The words entered the camp the way a stone enters water — a single impact, and then the ripples. The soldiers shifted. The Volcano troops exchanged a glance — the rapid, below-the-surface communication of men who have heard something they cannot unhear and whose training does not include a protocol for unhearing. Drell's face tightened. The Ming tracker — Sera, sitting at the perimeter with her flat black eyes open and her palms on the earth — did not react. She already knew.
 
 The Knife's face did not change. The face was a wall. The wall was the function. The function did not respond to claims about the operator.
 
-"The mark on your neck," Aelo said. His voice was steady. Not performed — sustained by the riverbed, by the specific, settled, resolved depth that the Ming had taught him and that he was now holding the way he held the lake stone: constantly, as foundation rather than tool. "It's Blood Vine. Embedded when you were twelve. Your father has been draining you ever since — your memories, your feelings, the specific content of your experience that makes you a person rather than a function. The things you're losing — the cloth, the flower, the stone — that's not age. That's not fatigue. That's your father, feeding on you the same way he feeds on the prisoners in the Chamber."
+"The mark on your neck," Aelo said. His voice was steady. Not performed — sustained by the riverbed, by the settled, resolved depth that the Ming had taught him and that he was now holding the way he held the lake stone: constantly, as foundation rather than tool. "It's Blood Vine. Embedded when you were twelve. Your father has been draining you ever since — your memories, your feelings, the content of your experience that makes you a person rather than a function. The things you're losing — the cloth, the flower, the stone — that's not age. That's not fatigue. That's your father, feeding on you the same way he feeds on the prisoners in the Chamber."
 
 The wall held. The Knife's face remained a wall. But the blade — the draining stone, the weapon designed for extraction — trembled. A fraction of a degree. A vibration so small that only a person standing ten feet away with a Know trained by the Ming and a Guide sense trained by the Sea and a Mold awareness trained by the Core could detect it.
 
-The trembling was the crack. The crack that Laine had read from the coast. The fracture in the weapon's design that the Ming tracker's two sentences had created and that Aelo's words were now pressing against with the specific, gentle, devastating pressure of truth spoken to a person who already knows the truth and is hearing it spoken aloud for the first time.
+The trembling was the crack. The crack that Laine had read from the coast. The fracture in the weapon's design that the Ming tracker's two sentences had created and that Aelo's words were now pressing against with the gentle, devastating pressure of truth spoken to a person who already knows the truth and is hearing it spoken aloud for the first time.
 
 "Prove it," The Knife said.
 
-Aelo stepped forward. The soldiers tensed. Drell's hand went to his blade. The Volcano troops shifted their weight — the specific preparatory movement of men calibrating for a strike.
+Aelo stepped forward. The soldiers tensed. Drell's hand went to his blade. The Volcano troops shifted their weight — the preparatory movement of men calibrating for a strike.
 
 "Let me show you." Aelo extended his hand. Palm up. Open. The numb hand that could not feel the wind or the stone or the warmth of another person's skin but that could, through the Know, feel everything that mattered. "Take my hand. I'll enter your memory — not to read it, not to take anything. To show you the thread. The Blood Vine. The drain. You'll see it. You'll feel it. And then you'll know."
 
@@ -64,19 +64,19 @@ Not the organized architecture that Oren's mind had been — not the corridors, 
 
 Aelo stood in the ruin and felt it.
 
-The vast, dark space that Sera had flinched from. The emptiness that was not the Murkr's dead silence or the Desert's scrambled static but the specific, terrible quiet of a place that had been occupied and was no longer. Rooms that had held childhood. Rooms that had held friendship. All gone. The rooms empty. The doors open onto nothing. The architecture standing because the architecture was the function, and the function was what the father needed, and the father did not need the memories. The father needed the shape.
+The vast, dark space that Sera had flinched from. The emptiness that was not the Murkr's dead silence or the Desert's scrambled static but the terrible quiet of a place that had been occupied and was no longer. Rooms that had held childhood. Rooms that had held friendship. All gone. The rooms empty. The doors open onto nothing. The architecture standing because the architecture was the function, and the function was what the father needed, and the father did not need the memories. The father needed the shape.
 
 And in the ruin: points of light. Small, fading, scattered across the darkness like stars in a sky that was going out. Each point was a memory — and each one was attached to an object in the box. The feather's light: blue, faint, carrying the ghost of a boy looking up at a branch. The glass's light: green, dimmer, carrying the word _outside_ but not the feeling of outside. Both fading. Both being pulled — slowly, steadily, by a force that ran from each point of light through the dark space to a single thread.
 
 The thread.
 
-Aelo followed it. His Know carried him through the ruin, through the empty rooms, through the dismantled corridors, to the back of the Knife's consciousness — the deepest part, the foundation, the place where the self began and the function was built on top of the self. The thread was there. Thin, nearly invisible, running from the base of the Knife's awareness to somewhere else — somewhere far away, somewhere that the thread connected to with the specific, parasitic precision of a Blood Vine that had been growing for twenty-three years.
+Aelo followed it. His Know carried him through the ruin, through the empty rooms, through the dismantled corridors, to the back of the Knife's consciousness — the deepest part, the foundation, the place where the self began and the function was built on top of the self. The thread was there. Thin, nearly invisible, running from the base of the Knife's awareness to somewhere else — somewhere far away, somewhere that the thread connected to with the parasitic precision of a Blood Vine that had been growing for twenty-three years.
 
 He followed the thread outward. The Know carried him — not into the Knife's memories but along the connection, the way a hand follows a rope in the dark. The thread ran through the Knife's consciousness and out — through the mark on his neck, through the Blood Vine that had been embedded in his skin at twelve, through the physical connection that ran from the man's body through the earth and the stone and the Vine-threaded architecture of the Murkr to the castle at the center.
 
 He reached the other end.
 
-Varas. The throne. The obsidian chair. The bark-textured hands on the armrests. The web of connections — dozens of them, hundreds, each one a thread running from a source to the throne, each one pulling memory in a slow, constant trickle. Prisoners. Soldiers. Servants. Elder Stones. And among them — filed, labeled, categorized in the specific, clinical taxonomy that Varas used to organize his empire of consumption — one thread, labeled not by name, not by relationship, not by any designation that acknowledged the humanity of the source:
+Varas. The throne. The obsidian chair. The bark-textured hands on the armrests. The web of connections — dozens of them, hundreds, each one a thread running from a source to the throne, each one pulling memory in a slow, constant trickle. Prisoners. Soldiers. Servants. Elder Stones. And among them — filed, labeled, categorized in the clinical taxonomy that Varas used to organize his empire of consumption — one thread, labeled not by name, not by relationship, not by any designation that acknowledged the humanity of the source:
 
 **Reserve Supply 7.**
 
@@ -84,7 +84,7 @@ Aelo held this. He held it the way the lake stone held the riverbed — compress
 
 He showed him.
 
-Not with words. Not with explanation. With the Know's direct, unmediated, impossible-to-deny transmission of raw truth. The label. The number. The specific, clinical, devastating evidence that the man who had made him — who had trained him, who had sent him on missions, who had sat on the obsidian throne and said _bring me the boy_ — did not think of him as a son. Did not think of him as Baara. Did not think of him as a person. Thought of him as a supply. A reserve. A number in a ledger. A resource to be consumed at whatever rate the consumer deemed efficient.
+Not with words. Not with explanation. With the Know's direct, unmediated, impossible-to-deny transmission of raw truth. The label. The number. The clinical, devastating evidence that the man who had made him — who had trained him, who had sent him on missions, who had sat on the obsidian throne and said _bring me the boy_ — did not think of him as a son. Did not think of him as Baara. Did not think of him as a person. Thought of him as a supply. A reserve. A number in a ledger. A resource to be consumed at whatever rate the consumer deemed efficient.
 
 Reserve Supply 7.
 
@@ -92,7 +92,7 @@ Reserve Supply 7.
 
 The Knife pulled his hand away.
 
-The contact broke. The Know connection severed. Aelo staggered — the disorientation of exiting another person's mind was always a wrench, the return to the body's single perspective after the expansive, multi-layered awareness of the Know — and caught himself. The soldiers watched. The camp was silent. The Flash Rat had stopped screaming. Even the animal, whose neural architecture was too simple for empathy, could feel the change in the camp's emotional weather: a shift, a breaking, the specific atmospheric disturbance that occurs when a truth enters a space and the space can never return to the configuration it held before the truth arrived.
+The contact broke. The Know connection severed. Aelo staggered — the disorientation of exiting another person's mind was always a wrench, the return to the body's single perspective after the expansive, multi-layered awareness of the Know — and caught himself. The soldiers watched. The camp was silent. The Flash Rat had stopped screaming. Even the animal, whose neural architecture was too simple for empathy, could feel the change in the camp's emotional weather: a shift, a breaking, the atmospheric disturbance that occurs when a truth enters a space and the space can never return to the configuration it held before the truth arrived.
 
 The Knife was shaking.
 
@@ -100,7 +100,7 @@ Not the controlled, operational tremor of a man managing adrenaline. Not the pha
 
 He said nothing for a long time. The shaking continued. The blade in his hand — the draining stone, the weapon — hung at his side, the arm's strength insufficient to hold it at ready, the muscles that had been trained for decades to maintain the blade's position overridden by a body that was processing a truth it could not metabolize.
 
-"I am not going to help you," The Knife said. The voice was not flat. The voice was the specific, ravaged, barely audible sound of a man speaking through the wreckage of the only structure he had ever lived in. "I cannot — the function — I am not —"
+"I am not going to help you," The Knife said. The voice was not flat. The voice was the ravaged, barely audible sound of a man speaking through the wreckage of the only structure he had ever lived in. "I cannot — the function — I am not —"
 
 He stopped. He breathed. The breathing was ragged — not the controlled, efficient respiration of an operational commander but the irregular, desperate breathing of a person who has just discovered that the room he has been living in has no door and has never had a door and was designed, from the beginning, to be a container rather than a home.
 
@@ -110,15 +110,15 @@ The Knife looked at him. The flat eyes — which were not flat, which were not o
 
 "I am not going to stop you either," The Knife said.
 
-He lowered the blade. He turned to his soldiers. The soldiers waited — twelve men, watching their commanding officer with the specific, held-breath attention of men who were witnessing a decision that would define their lives and who did not yet know which definition had been chosen.
+He lowered the blade. He turned to his soldiers. The soldiers waited — twelve men, watching their commanding officer with the held-breath attention of men who were witnessing a decision that would define their lives and who did not yet know which definition had been chosen.
 
 "The boy escaped south," The Knife said. His voice found its flatness — not the function's flatness but the flatness of a man who is performing the function one last time, deliberately, with the full awareness that the performance is a lie and the lie is a mercy and the mercy is directed not at the boy but at the soldiers, who needed the lie to survive the truth. "We pursue at dawn. Tonight, we rest."
 
-The soldiers exchanged glances. They knew. The knowing was in the glances — the rapid, below-the-surface communication of men who had been following a hunt for weeks and who had watched the target walk into their camp and walk out again and whose commanding officer had just ordered a pursuit in the wrong direction. They knew. They said nothing. The saying-nothing was the specific, professional silence of men who had decided, collectively, without a word, that the function no longer applied and the silence was the only language available for the decision.
+The soldiers exchanged glances. They knew. The knowing was in the glances — the rapid, below-the-surface communication of men who had been following a hunt for weeks and who had watched the target walk into their camp and walk out again and whose commanding officer had just ordered a pursuit in the wrong direction. They knew. They said nothing. The saying-nothing was the professional silence of men who had decided, collectively, without a word, that the function no longer applied and the silence was the only language available for the decision.
 
 Sera — the Ming tracker, the woman who had Known him and flinched and said two sentences — looked at The Knife with an expression that Aelo's Know could read from twenty feet away. Respect. Not the deference that fear produces. Not the loyalty that service requires. Respect — the earned, voluntary, irreversible acknowledgment of a person who has done something human in conditions that were designed to prevent humanity.
 
-Aelo walked south. Through the camp. Past the soldiers. Past the tent, where the wooden box sat open on the bedroll and the blue feather caught the firelight — small, iridescent, the physical evidence of a memory that was fading but was not yet gone, that was dying but was not yet dead, that was being consumed but was being held, eleven seconds at a time, by a man who had just learned the name his father had given him and who was, in the specific, private, unreportable silence of his own dismantled interior, beginning to refuse it.
+Aelo walked south. Through the camp. Past the soldiers. Past the tent, where the wooden box sat open on the bedroll and the blue feather caught the firelight — small, iridescent, the physical evidence of a memory that was fading but was not yet gone, that was dying but was not yet dead, that was being consumed but was being held, eleven seconds at a time, by a man who had just learned the name his father had given him and who was, in the private, unreportable silence of his own dismantled interior, beginning to refuse it.
 
 The Flash Rat watched him go. The animal's screaming had stopped. In its place: a sound that none of the soldiers had heard the animal make before. A low, sustained, almost musical tone — the Flash Rat's approximation of the frequency it had been tracking for weeks, the Song's residue in the earth reproduced by a creature whose brain was too small for music but whose body remembered, because all bodies remembered, and the remembering was involuntary, and the involuntary was the closest thing to the Song that a Flash Rat could produce.
 

@@ -24,7 +24,7 @@ He reached the bottom. The Elder Stone's tone was there — sustained, luminous,
 
 "Days. Perhaps less. The creature that hunts you — the animal with the stone fused to its skull — is in the Canopy still. But it is moving fast, and what it follows is not scent. It follows the memory of your magic in the earth and the air and the water. Every time you practice, every time you reach the riverbed, you leave a mark in the world's memory. The marks are growing brighter."
 
-The information arrived with a weight that settled in Aelo's chest — not panic, not exactly, but the specific heaviness of a boy who has just been told that the thing that makes him extraordinary is also the thing that will bring the hunters to his door.
+The information arrived with a weight that settled in Aelo's chest — not panic, not exactly, but the heaviness of a boy who has just been told that the thing that makes him extraordinary is also the thing that will bring the hunters to his door.
 "You must leave the Ming," the teacher said.
 
 ---
@@ -35,7 +35,7 @@ He found Jalo on the southern terrace. The man who had spent seven days being un
 
 "The teacher says days."
 
-"The teacher has never been hunted by the Mrak Patrol." Jalo took a sip of the tea. His hands — the fingers still numb from the Mold, the grip compensated by habit, the cup held between palms rather than pinched by fingertips — were steady. Steadier than Aelo had ever seen them. The tremor that had been Jalo's constant companion for fifteen years was not gone, but it had diminished from a vibration to a whisper, the phantom pain redistributed across a dozen Ming practitioners who carried fractions of it in their own bodies and who would, the elder woman had told him, continue to carry those fractions indefinitely, because the Ming did not consider the bearing of another person's suffering to be a burden but a practice. An exercise in the specific discipline of compassion that required weight the way strength requires resistance.
+"The teacher has never been hunted by the Mrak Patrol." Jalo took a sip of the tea. His hands — the fingers still numb from the Mold, the grip compensated by habit, the cup held between palms rather than pinched by fingertips — were steady. Steadier than Aelo had ever seen them. The tremor that had been Jalo's constant companion for fifteen years was not gone, but it had diminished from a vibration to a whisper, the phantom pain redistributed across a dozen Ming practitioners who carried fractions of it in their own bodies and who would, the elder woman had told him, continue to carry those fractions indefinitely, because the Ming did not consider the bearing of another person's suffering to be a burden but a practice. An exercise in the discipline of compassion that required weight the way strength requires resistance.
 
 "Where do we go?" Aelo asked.
 
@@ -49,7 +49,7 @@ The elder woman came to them at the shore. Behind her, two monks carrying a wood
 
 She opened the case. Inside, resting on a bed of grey silk: a stone. Small — small enough to fit in a closed fist — and polished to a smoothness that was not manufactured but earned, the surface worn by the patient, ceaseless attention of water that had been remembering for three hundred years. It was dark — the grey-green of the lake's deepest water — and when Aelo looked at it, his Know registered a density that should not have been possible in an object that size. As if the stone were heavier on the inside than on the outside. As if it contained more than it displaced.
 
-"From the lake bottom," the teacher said. He stood behind the elder woman, his expressionless face holding the particular stillness that Aelo had learned to read as significance — the absence of expression that paradoxically conveyed more than expression could. "It has rested above the Elder Stone since before the monastery was built. The lake's memory is in it — three hundred years of listening, of stillness, of the specific quiet that exists at the bottom of deep water."
+"From the lake bottom," the teacher said. He stood behind the elder woman, his expressionless face holding the particular stillness that Aelo had learned to read as significance — the absence of expression that paradoxically conveyed more than expression could. "It has rested above the Elder Stone since before the monastery was built. The lake's memory is in it — three hundred years of listening, of stillness, of the quiet that exists at the bottom of deep water."
 
 Aelo took the stone. The moment his fingers closed around it, the riverbed came to him — not the effortful descent of the training sessions, not the settling through layers of noise, but an instant arrival, as if the stone were a door and his hand on it was the key. The resolved depth. The luminous tone. The silence that was not absence but structure. It filled him the way warmth fills a cold room, and the noise of the world — the lake, the mist, the monks' heartbeats, Jalo's complex emotional weather, the distant agitated wake of the hunting creature — moved to the far side of a boundary and stayed there, held at bay by three centuries of accumulated stillness compressed into a piece of stone the size of a plum.
 
@@ -79,7 +79,7 @@ Something happened on Jalo's face — the scarred side pulled, the muscles rearr
 
 They walked south. The monastery receded behind them — the stone walls descending into the mist, the blue-green glow of the moss fading, the lake's vast memory diminishing with distance from a choir to a chorus to a hymn to, eventually, a single sustained note that Aelo could hold in his chest the way the stone held the riverbed: compressed, portable, always accessible.
 
-He did not look back. He was learning this from Jalo — the discipline of forward motion, the specific courage required to leave a place that has been good to you without turning to measure the size of the leaving.
+He did not look back. He was learning this from Jalo — the discipline of forward motion, the courage required to leave a place that has been good to you without turning to measure the size of the leaving.
 
 ---
 
@@ -117,7 +117,7 @@ Sereth turned south.
 
 The Sea was far. Laine was there — Essa's great-great-granddaughter, though the lineage had twisted through enough generations that the blood connection was more memory than biology. Laine did not know about the connection. She did not know about Sereth. She knew only that she was a Guide who could see the trajectory of the future and that every trajectory she followed ended in grief, and that this had made her bitter and funny and sharp and unwilling to believe in prophecies because prophecies, in her experience, were just grief with better marketing.
 
-Sereth needed to reach her first. Needed to prepare the ground. Not with explanations — Laine would not accept explanations. With a letter. A single sentence, left in a place Laine would find it, written in a hand she would not recognize but in a tone she would trust because the tone carried the specific quality of someone who understood grief and was asking her to carry more of it anyway.
+Sereth needed to reach her first. Needed to prepare the ground. Not with explanations — Laine would not accept explanations. With a letter. A single sentence, left in a place Laine would find it, written in a hand she would not recognize but in a tone she would trust because the tone carried the quality of someone who understood grief and was asking her to carry more of it anyway.
 
 _He is worth the grief._
 

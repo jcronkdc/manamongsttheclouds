@@ -22,7 +22,7 @@ Oren studied him. The flat black eyes — depthless, volumetric, the eyes of a p
 
 "Give me your hands," Oren said.
 
-Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused in the specific pattern of a man who spent hours each day with his palms pressed to stone floors. The physical contact amplified the Know immediately — Oren's heartbeat went from background data to foreground texture, the pulse no longer a number but a landscape, each beat carrying a cargo of memory and intention.
+Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused in the pattern of a man who spent hours each day with his palms pressed to stone floors. The physical contact amplified the Know immediately — Oren's heartbeat went from background data to foreground texture, the pulse no longer a number but a landscape, each beat carrying a cargo of memory and intention.
 
 "Close your eyes," Oren said. "Listen through your hands. Not for emotion — for structure. The shape of my memory. The architecture. Follow it in."
 
@@ -44,7 +44,7 @@ A door opened. Aelo stepped through.
 
 Morning. A room in the monastery — Oren's room, recognizable by the shelf and the bowl and the particular quality of moss-light on the eastern wall. Oren was young in this memory — twelve, perhaps, the face not yet settled into its adult composure, the eyes still carrying a child's capacity for surprise. He was sitting on his bed, cross-legged, and a woman was braiding his hair.
 
-The woman was his mother. Aelo knew this not because the memory contained a label — _mother_ — but because the emotional signature was unmistakable. It was the feeling of being tended by someone for whom the tending was not a task but a language. Each pass of the braid carried a sentence. Each tug carried a paragraph. The mother's hands spoke fluently in the grammar of hair and patience and the specific, daily, unremarkable love that accumulates not through grand gestures but through repetition — the same braid, every morning, for years, until the act of braiding becomes indistinguishable from the act of loving.
+The woman was his mother. Aelo knew this not because the memory contained a label — _mother_ — but because the emotional signature was unmistakable. It was the feeling of being tended by someone for whom the tending was not a task but a language. Each pass of the braid carried a sentence. Each tug carried a paragraph. The mother's hands spoke fluently in the grammar of hair and patience and the daily, unremarkable love that accumulates not through grand gestures but through repetition — the same braid, every morning, for years, until the act of braiding becomes indistinguishable from the act of loving.
 
 Aelo watched. The memory was complete — not a fragment, not a highlight, but a full, unedited morning. The light on the wall. The smell of the moss. The sound of the woman humming — a Ming tune, pentatonic, the notes descending in the pattern that the monastery used for morning meditation. The feel of the comb in the boy's scalp. The slight pull when the braid caught a tangle. The mother's fingers, gentle and sure, working the tangle free without breaking the strand.
 

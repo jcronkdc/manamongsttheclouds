@@ -20,7 +20,7 @@ He kept his hands on the sand for eleven seconds. The discipline held. He lifted
 
 The note stopped.
 
-He knelt on the beach in the dusk and stared at his hands — the hands that had held blades and boxes and the fabric of a woman's dress and the five objects that were his entire identity — and he felt the silence where the note had been. The silence was not the same silence as before. Before, the silence had been absence — the default state of a man whose interior had been hollowed. Now the silence was aftermath — the specific, resonant quiet that follows a note that has been played and that the air still remembers.
+He knelt on the beach in the dusk and stared at his hands — the hands that had held blades and boxes and the fabric of a woman's dress and the five objects that were his entire identity — and he felt the silence where the note had been. The silence was not the same silence as before. Before, the silence had been absence — the default state of a man whose interior had been hollowed. Now the silence was aftermath — the resonant quiet that follows a note that has been played and that the air still remembers.
 
 ---
 
@@ -70,7 +70,7 @@ Aelo stopped walking.
 
 Jalo walked two more steps before the absence of the boy's footfall registered. He turned. The scarred face — both sides, the smooth and the ridged — held the expression of a man who has been walking beside a child for fifteen years and has just felt the child stop being a child.
 
-Laine stopped too. She did not turn. She had felt it before it happened — the shift in Aelo's trajectory, the moment the momentum changed, the line bending from south to north with the specific, irreversible quality of a decision that has been made in the blood before it has been made in the mind.
+Laine stopped too. She did not turn. She had felt it before it happened — the shift in Aelo's trajectory, the moment the momentum changed, the line bending from south to north with the irreversible quality of a decision that has been made in the blood before it has been made in the mind.
 
 "We can't keep running," Aelo said. The iron taste was there — in his mouth, behind his teeth, the old coal from the hollow tree finally finding its voice. The anger had changed. He had carried it long enough that it had become something else, something with edges and direction. Conviction.
 
@@ -86,7 +86,7 @@ The words came out steady. Not the voice of a boy who was scared — though he w
 
 The name sat in the air between them. Fletcher.
 
-Jalo stared at him. Something in the scarred face shifted — not the muscles, not the expression, something deeper. Something in the architecture beneath the face, in the structural foundation on which fifteen years of guardianship and sacrifice and the specific, total commitment of a man who had given up his name and his face and his sobriety to keep one small life burning had been built. The weight of a realization that the man had been expecting for fifteen years and dreading for fifteen years and hoping for fifteen years and that had arrived, finally, on a coastal road in the salt air with the ocean beside them and the hunters behind them and the Song ahead: the boy was becoming the man. And the man was starting to sound like the prophecy.
+Jalo stared at him. Something in the scarred face shifted — not the muscles, not the expression, something deeper. Something in the architecture beneath the face, in the structural foundation on which fifteen years of guardianship and sacrifice and the total commitment of a man who had given up his name and his face and his sobriety to keep one small life burning had been built. The weight of a realization that the man had been expecting for fifteen years and dreading for fifteen years and hoping for fifteen years and that had arrived, finally, on a coastal road in the salt air with the ocean beside them and the hunters behind them and the Song ahead: the boy was becoming the man. And the man was starting to sound like the prophecy.
 
 Jalo looked at the boy who was not a boy. He looked at him for a long time — long enough that the ocean breathed twice, the tide moving, the moon shifting, the world continuing its oldest rhythm around two people who were standing at the hinge of the world's newest change.
 
@@ -100,7 +100,7 @@ He had a people. He had a heritage. He was not nothing. He had never been nothin
 
 "My mother was a Cloud Singer," Aelo said. Not a question. A fact arriving — surfacing from the place where Jalo had kept it for fifteen years, rising through the layers of protection and secrecy and the guardian's meticulous rationing of truth, arriving at the surface the way the pebble's round shape had arrived when Aelo reminded it of what it had been.
 
-"Maera," Jalo said. The name came out with the specific quality of a word that has been held in the mouth for years and is being spoken for the first time in the air. "Her name was Maera. She was a Cloud Singer. The last one born with the full Sing in her blood. She died holding a lullaby she'd been singing to you since you were born. The lullaby was the Song — not the full Song, not the seven-harmonic, not the world-remaking frequency that Fletcher used. A fragment. A lullaby version. Enough to keep you safe. Enough to tell the world's memory: _this child matters. Remember him._"
+"Maera," Jalo said. The name came out with the quality of a word that has been held in the mouth for years and is being spoken for the first time in the air. "Her name was Maera. She was a Cloud Singer. The last one born with the full Sing in her blood. She died holding a lullaby she'd been singing to you since you were born. The lullaby was the Song — not the full Song, not the seven-harmonic, not the world-remaking frequency that Fletcher used. A fragment. A lullaby version. Enough to keep you safe. Enough to tell the world's memory: _this child matters. Remember him._"
 
 The ocean breathed. The trajectories converged. The hunting party moved south. The orbit tightened. The pull from the Murkr sustained its note — constant, patient, the Great Elder Stone singing to the blood of a boy who was standing on a coastal road learning his mother's name and deciding, for the first time in his life, where he was going.
 
@@ -112,7 +112,7 @@ Laine stood apart. Her restless eyes were still — focused on the two of them, 
 
 Jalo looked north. The coastal road stretched ahead, and beyond it the Desert, and beyond the Desert the Remembering walls, and beyond the walls the Clouds — floating, drifting, carrying in their ancient stone the memory of a people who had lived closer to the Song than anyone and who had paid for the proximity with storms and falling and the long, slow grief of watching the sky become a weapon.
 
-"Your mother would be proud," Jalo said. The words were quiet. The roughness was gone — replaced by something that Aelo's Know could feel but could not categorize because the feeling was new, was being felt by Jalo for the first time, was the specific, unprecedented emotional frequency of a man who has carried a child for fifteen years and is watching the child become the reason the carrying was worth it.
+"Your mother would be proud," Jalo said. The words were quiet. The roughness was gone — replaced by something that Aelo's Know could feel but could not categorize because the feeling was new, was being felt by Jalo for the first time, was the unprecedented emotional frequency of a man who has carried a child for fifteen years and is watching the child become the reason the carrying was worth it.
 
 They turned north.
 

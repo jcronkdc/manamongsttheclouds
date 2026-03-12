@@ -54,11 +54,11 @@ She looked at Aelo. She looked at him for a long time. Then she looked at Jalo, 
 
 "Guardian," she said. Her voice was quiet, unhurried, accented with the clipped vowels of the Ming tongue. "You carry so much pain."
 
-Jalo's jaw tightened. The tremor in his hands intensified — a vibration that Aelo could feel through the air between them, the specific frequency of a man who has been holding something for so long that the act of someone noticing it is more destabilizing than the weight itself.
+Jalo's jaw tightened. The tremor in his hands intensified — a vibration that Aelo could feel through the air between them, the frequency of a man who has been holding something for so long that the act of someone noticing it is more destabilizing than the weight itself.
 
 "I carry what needs carrying."
 
-"You carry what you refuse to set down. There is a difference." She stepped forward. She was shorter than Aelo had expected — small, compact, built for enclosed spaces and low ceilings, a body shaped by generations of living underground and close to the earth. She raised her hand. Her palm was calloused and warm — he could feel its warmth from a foot away, a radiant, specific heat that was not body temperature but something else, something that came from the Know, from decades of pressing palms against foreheads and reading the architecture of other people's suffering.
+"You carry what you refuse to set down. There is a difference." She stepped forward. She was shorter than Aelo had expected — small, compact, built for enclosed spaces and low ceilings, a body shaped by generations of living underground and close to the earth. She raised her hand. Her palm was calloused and warm — he could feel its warmth from a foot away, a radiant heat that was not body temperature but something else, something that came from the Know, from decades of pressing palms against foreheads and reading the architecture of other people's suffering.
 
 "May I?" she asked Jalo.
 
@@ -92,7 +92,7 @@ Not the mechanism that Aelo had heard through the wall — the shudder, the brea
 
 Aelo had never seen Jalo cry. Not sober. Not in the daylight. Not with his face exposed and his hands open and his body surrendered to the simple, devastating act of being helped.
 
-He looked away. Not because it was private — though it was — but because the sight of it was doing something to his chest that the pocket could not contain. Jalo's love had always tasted like pressure — like being held too tightly. Now, for the first time, it tasted like release. And the release was so enormous, so overdue, so saturated with the specific grief of a man who had chosen silence because he thought silence was what love required, that Aelo's eyes burned and his throat closed and he stood on the shore of the Ming lake and felt, for the first time, the full weight of what Jalo had been carrying.
+He looked away. Not because it was private — though it was — but because the sight of it was doing something to his chest that the pocket could not contain. Jalo's love had always tasted like pressure — like being held too tightly. Now, for the first time, it tasted like release. And the release was so enormous, so overdue, so saturated with the grief of a man who had chosen silence because he thought silence was what love required, that Aelo's eyes burned and his throat closed and he stood on the shore of the Ming lake and felt, for the first time, the full weight of what Jalo had been carrying.
 
 Not the pain. The _loneliness_. Fifteen years of pain, borne alone, because he believed that sharing it would endanger the boy.
 

@@ -122,7 +122,7 @@ The anger did not leave. It heard Jalo's reasons and acknowledged them and staye
 
 "My brother?"
 
-The crack widened. Jalo's hands, which had been still on his thighs, began to tremble — the same tremor that Aelo mixed the Fiddleroot for every morning, the tremor he had always attributed to age and cold and the general degradation of a body that had worked too hard for too long. It was not age. It was not cold. It was the specific, irreducible tremor of a man carrying a weight that his body was no longer strong enough to bear.
+The crack widened. Jalo's hands, which had been still on his thighs, began to tremble — the same tremor that Aelo mixed the Fiddleroot for every morning, the tremor he had always attributed to age and cold and the general degradation of a body that had worked too hard for too long. It was not age. It was not cold. It was the irreducible tremor of a man carrying a weight that his body was no longer strong enough to bear.
 
 "Prince Vero. Two years older than you. He was taken before I could reach him. Varas has him. Varas has your father. They are alive — I believe they are alive — imprisoned in the lowest level of the castle, behind a door that no magic can open."
 
@@ -148,7 +148,7 @@ Aelo had not slept. He had sat in the dark and listened to the world and the wor
 
 The whispering had evolved through the night — a slow, inexorable clarification, like eyes adjusting to darkness. What had been murmur was now texture. What had been texture was now detail. He could not understand the trees — not in words, not in any way he could translate — but he could feel them. Each one distinct. Each one _old_ in its own specific way, carrying its own particular accumulation of experience the way a person carries a face: uniquely, unrepeatable, the product of every wind and rain and season and root-push and branch-break that had ever happened to it. The elm they sheltered in was ancient — he could feel its depth the way you feel the depth of a well when you lean over the edge and the darkness goes down further than you expected. It had stood here for centuries. It remembered.
 
-Everything remembered. The soil remembered the roots that had passed through it. The air remembered the shapes of birds that had displaced it. The moss on the bark remembered the rain that had fed it and the sun that had dried it and the specific quality of light that filtered through the canopy at this angle on this morning at this time of year.
+Everything remembered. The soil knew the roots that had passed through it. The air held the shapes of birds that had displaced it. The moss on the bark remembered the rain that had fed it and the sun that had dried it and the quality of light that filtered through the canopy at this angle on this morning at this time of year.
 
 The world was not quiet. The world had never been quiet. The quiet had been him.
 
@@ -194,7 +194,7 @@ Aelo closed his eyes. He listened — not with effort, not with the straining co
 
 The world poured in.
 
-The elm spoke first — a deep, slow resonance that was less sound than vibration, the accumulated memory of three hundred years of standing in one place and witnessing everything that passed beneath its branches. Then the oaks to the north, their voices higher, younger, tinged with the specific quality of trees that had grown in the aftermath of a fire and knew, in their wood, what burning was. Then the undergrowth — ferns, moss, bramble — a chorus of smaller voices, layered and overlapping, each one distinct, each one carrying its own tiny archive of sunlight and water and the particular insects that had walked its leaves.
+The elm spoke first — a deep, slow resonance that was less sound than vibration, the accumulated memory of three hundred years of standing in one place and witnessing everything that passed beneath its branches. Then the oaks to the north, their voices higher, younger, tinged with the quality of trees that had grown in the aftermath of a fire and knew, in their wood, what burning was. Then the undergrowth — ferns, moss, bramble — a chorus of smaller voices, layered and overlapping, each one distinct, each one carrying its own tiny archive of sunlight and water and the particular insects that had walked its leaves.
 
 And beneath all of it, beneath the individual voices, the hum. The same hum he had heard through the wall of the cottage on the night the herbs almost held. But now it was not muffled. It was not distant. It was _here_ — vast, foundational, the sound of the world itself remembering everything at once. A memory so deep it held every moment.
 

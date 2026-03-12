@@ -41,7 +41,7 @@ He opened his eyes. Laine was looking at him. The restless eyes had settled agai
 
 "I know. I can read it in your momentum — the Guide sense opened early in you, without training, which means it was already there. Already part of whatever you are." She paused. The wind caught her hair. "The disciplines don't open early in normal people. They require training, practice, the slow accumulation of skill. Yours are opening because something underneath them is waking up, and the waking is activating the disciplines the way a tuning fork activates the strings that share its frequency."
 
-The word hung between them — unspoken, understood, carrying the specific weight of a thing that everyone around him knew and that Aelo was approaching from the inside, feeling its shape the way a blind man feels a room, moving toward a center he could not yet see but could feel pulling.
+The word hung between them — unspoken, understood, carrying the weight of a thing that everyone around him knew and that Aelo was approaching from the inside, feeling its shape the way a blind man feels a room, moving toward a center he could not yet see but could feel pulling.
 
 ---
 
@@ -57,7 +57,7 @@ And then, on the second day, he learned to feel people.
 
 Not their emotions — the Know carried those. Their trajectories. The direction a person was moving, not through physical space but through the larger space of consequence and choice. The momentum of a life. The direction it was already going, the speed it was traveling, the destination it was pointing toward — not with certainty, not with prophecy's false precision, but with the Guide's reading of momentum, which was not prediction but observation. The wave was already moving. The Guide simply felt which way it was breaking.
 
-He felt Jalo first. The guardian's trajectory was a straight line — direct, unwavering, pointing forward with the specific, terrifying clarity of a man who had chosen his destination fifteen years ago and had not deviated since. The line ended. Aelo could feel where it ended. The ending was not far. The ending was — he pulled back. He pulled back from Jalo's trajectory the way you pull your hand from a flame, not because the knowledge was wrong but because the knowledge was unbearable and the bearing was not his to do.
+He felt Jalo first. The guardian's trajectory was a straight line — direct, unwavering, pointing forward with the terrifying clarity of a man who had chosen his destination fifteen years ago and had not deviated since. The line ended. Aelo could feel where it ended. The ending was not far. The ending was — he pulled back. He pulled back from Jalo's trajectory the way you pull your hand from a flame, not because the knowledge was wrong but because the knowledge was unbearable and the bearing was not his to do.
 
 "You felt it," Laine said. She had been watching. She always watched — the restless eyes reading his trajectory, his momentum, the direction his attention was moving at every moment.
 
@@ -65,7 +65,7 @@ He felt Jalo first. The guardian's trajectory was a straight line — direct, un
 
 "The Guide doesn't care what you want to feel. The Guide shows you where things are going. Your job is not to accept or reject. Your job is to see." She stopped walking. The wind pressed her jacket against her frame and she stood in it — small, angular, immovable in the way that certain people are immovable not because they are large but because they have decided where they are standing and the deciding is complete. "I have been seeing grief at the end of every trajectory for ten years. The grief is always there. The question is not whether the grief comes. The question is what the grief buys."
 
-They walked. Aelo did not reach for Jalo's trajectory again. But it was there — a line in the air beside him, straight and short and ending at a point that he could feel the way you feel the edge of a cliff when you're standing near it with your eyes closed. Present. Undeniable. The momentum of a man walking toward a wall with full knowledge and full acceptance and the specific, impossible courage of a person who has decided that the wall is worth reaching.
+They walked. Aelo did not reach for Jalo's trajectory again. But it was there — a line in the air beside him, straight and short and ending at a point that he could feel the way you feel the edge of a cliff when you're standing near it with your eyes closed. Present. Undeniable. The momentum of a man walking toward a wall with full knowledge and full acceptance and the impossible courage of a person who has decided that the wall is worth reaching.
 
 ---
 
@@ -85,7 +85,7 @@ From the north: a hunting party. Moving fast, moving with the disciplined, relen
 
 From the west: an orbit. Not a line — a curve. Someone circling, keeping distance, the trajectory spiraling inward in gradual, deliberate increments, the momentum of a person who was not approaching but attending. Sereth. Aelo could not see the face — the Guide did not show faces — but the trajectory's character was unmistakable. Patient. Watchful. The orbit of a guardian who had been orbiting for longer than Aelo had been alive.
 
-And from the center — from the Murkr, from the convergence point, from the dead zone where all seven regions met and where the castle sat and where the stolen magic had created a void in the world's memory — a pull. Not a trajectory. A gravity. The Great Elder Stone, calling to Fletcher's blood the way the ocean called to the rivers — not with voice but with origin, with the specific, inescapable authority of a thing that had been the beginning and that the blood, no matter how diluted, no matter how many generations had passed, could not stop remembering.
+And from the center — from the Murkr, from the convergence point, from the dead zone where all seven regions met and where the castle sat and where the stolen magic had created a void in the world's memory — a pull. Not a trajectory. A gravity. The Great Elder Stone, calling to Fletcher's blood the way the ocean called to the rivers — not with voice but with origin, with the inescapable authority of a thing that had been the beginning and that the blood, no matter how diluted, no matter how many generations had passed, could not stop remembering.
 
 The pull was constant. It had been there since the herbs stopped — a low, background tug that he had attributed to the Know, to the Mold, to the growing sensitivity that each discipline had added to his perception. But it was not the disciplines. It was beneath the disciplines. The pull was the Song itself — the Great Elder Stone's frequency, resonating with the same frequency that had made him weep at the shore, the origin memory calling to the origin blood, the world's oldest sound calling to the last person who could sing it back.
 
@@ -99,7 +99,7 @@ She was already standing. Already walking toward him. She had felt it too — no
 
 "They've always been coming. You're only now feeling what I've been seeing since the fisherman's letter." She sat beside him. The ocean breathed against the shore. The stars were out — cold, distant, carrying the memory of light that had been traveling for years to reach this beach and this boy and this moment. "I see three futures for you."
 
-The words were quiet. Not the flat, tired tone of the woman who had greeted them with _another Chosen One_. Something older. Something that carried the specific weight of a Guide delivering the reading she had been avoiding since the moment she first felt his trajectory.
+The words were quiet. Not the flat, tired tone of the woman who had greeted them with _another Chosen One_. Something older. Something that carried the weight of a Guide delivering the reading she had been avoiding since the moment she first felt his trajectory.
 
 "In one, you run. You take the map Sereth left and the route through the Desert and you disappear. You live a long, quiet, meaningless life. The Song dies with you. The world continues. Varas continues. Nothing changes. You live to be old and the oldness is empty because the thing you were made to do was never done and the not-doing hollows you from the inside, slowly, the way the drain hollows The Knife — not with violence but with absence."
 
@@ -113,13 +113,13 @@ The ocean breathed.
 
 "What happens to me?"
 
-She did not answer. She did not have to. The answer was in the silence — in the Guide's refusal to describe a trajectory she could see but could not bear to speak, in the specific, eloquent absence of words that was louder than any word could be. The third future existed. She could see it. And the seeing was the grief the fisherman's letter had asked her to carry.
+She did not answer. She did not have to. The answer was in the silence — in the Guide's refusal to describe a trajectory she could see but could not bear to speak, in the eloquent absence of words that was louder than any word could be. The third future existed. She could see it. And the seeing was the grief the fisherman's letter had asked her to carry.
 
 Aelo sat with this. He sat with it the way Jalo had taught him to sit with pain — not accepting, not rejecting, but holding. Holding the weight of three futures and the knowledge that only one of them was worth the grief it would cause, and the worth was not measured in survival but in change.
 
 "The third one," he said.
 
-Laine looked at him. The restless eyes — which had stilled for the reading and which were now resuming their ceaseless, trajectory-scanning motion — stopped again. The stopping was not the Guide-sight focusing. It was surprise. The specific, visible, entirely-human surprise of a woman who had been preparing for a long, agonizing deliberation and who had instead received an answer in four syllables.
+Laine looked at him. The restless eyes — which had stilled for the reading and which were now resuming their ceaseless, trajectory-scanning motion — stopped again. The stopping was not the Guide-sight focusing. It was surprise. The visible, entirely-human surprise of a woman who had been preparing for a long, agonizing deliberation and who had instead received an answer in four syllables.
 
 "You haven't even asked what happens to you."
 
@@ -147,13 +147,13 @@ They walked south. The ocean sang beside them. The trajectories converged.
 
 That night, after Laine and Jalo were asleep, Aelo sat at the water's edge and listened.
 
-The ocean. The Song beneath it. The frequency that the blood remembered and the disciplines had been uncovering, layer by layer, region by region — the Know hearing it, the Mold feeling it in stone, the Guide tracking its momentum through the world. Four disciplines. Four ways of perceiving the same thing. And beneath all four, deeper than any one of them, the harmonic that made them resonate together — the not-yet-Sing, the almost-Song, the frequency that was building in him the way a wave builds before it breaks, gathering mass and speed and the specific, terrifying momentum of a thing that cannot be stopped once it begins.
+The ocean. The Song beneath it. The frequency that the blood remembered and the disciplines had been uncovering, layer by layer, region by region — the Know hearing it, the Mold feeling it in stone, the Guide tracking its momentum through the world. Four disciplines. Four ways of perceiving the same thing. And beneath all four, deeper than any one of them, the harmonic that made them resonate together — the not-yet-Sing, the almost-Song, the frequency that was building in him the way a wave builds before it breaks, gathering mass and speed and the terrifying momentum of a thing that cannot be stopped once it begins.
 
 He was terrified. The terror was not new — it had been with him since the herbs stopped, since the Know opened, since the first morning he woke in a body that was growing and a world that was listening and a future that was bearing down on him with the inevitability of a tide. But the terror had a companion now. Something that had not been there before the Ming, before the Core, before the Volcano and the Sea. Something that had arrived in stages, accumulating the way the disciplines had accumulated, building with each teacher and each cost and each act of listening.
 
 Purpose.
 
-Not the purpose of prophecy — not the external assignment, the hero's mandate, the chosen-one's obligation. An internal purpose. The specific, private, unreplicable conviction of a boy who had spent fifteen years being nothing and who had, over the course of four regions and four teachers and four disciplines, discovered that the nothing was not absence but potential. Training for a Song he could not yet sing but could feel building in him, note by note, discipline by discipline, cost by cost, the way a cathedral is built — stone by stone, arch by arch, each piece supporting every other piece, the whole becoming larger than the sum of its parts because the parts were not added but harmonized.
+Not the purpose of prophecy — not the external assignment, the hero's mandate, the chosen-one's obligation. An internal purpose. The private, unreplicable conviction of a boy who had spent fifteen years being nothing and who had, over the course of four regions and four teachers and four disciplines, discovered that the nothing was not absence but potential. Training for a Song he could not yet sing but could feel building in him, note by note, discipline by discipline, cost by cost, the way a cathedral is built — stone by stone, arch by arch, each piece supporting every other piece, the whole becoming larger than the sum of its parts because the parts were not added but harmonized.
 
 He held the lake stone. He could not feel it. He could hear it. He could hear everything — the ocean, the stone, the sleeping bodies on the beach, the hunting party moving south, the orbit circling inward, the pull from the center. The world was a web of trajectories, and he was the point where the web converged, and the convergence was not a destination but a beginning.
 

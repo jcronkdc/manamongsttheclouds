@@ -41,13 +41,13 @@ He should have stopped her. The operational protocols were clear: Know-practitio
 
 Sera flinched.
 
-The flinch was small — the Ming were trained to suppress involuntary responses the way other soldiers were trained to suppress panic, through discipline, through the architectural containment of reaction. But the flinch was there. A contraction of the muscles around the eyes. A slight withdrawal of the head. The specific, unmistakable body language of a person who has seen something inside another person that they did not expect and did not want to see and cannot unsee.
+The flinch was small — the Ming were trained to suppress involuntary responses the way other soldiers were trained to suppress panic, through discipline, through the architectural containment of reaction. But the flinch was there. A contraction of the muscles around the eyes. A slight withdrawal of the head. The unmistakable body language of a person who has seen something inside another person that they did not expect and did not want to see and cannot unsee.
 
 She looked away. She looked at the fire. The flat black eyes, which had been volumetric and depthless and attending, became surface — deflected, ordinary, the gaze of a woman staring at flames because the alternative was staring at the thing she had just read.
 
 The Knife watched her. He cataloged the flinch the way he cataloged all data: without emotional interpretation, without the contextual framework that would have told a normal person whether the flinch was pity or horror or recognition. The tracker had Known him. The tracker had seen something. The tracker had flinched. These were facts. The facts were filed.
 
-She did not speak for an hour. The fire burned. The soldiers rotated. The Flash Rat vibrated. The mountain held its silence — the specific, charged silence of a place that was close to the Clouds and that carried, in its stone and its air, the faint, high hum of a Song that The Knife could not hear but that the tracker, with her Know, could feel like a pressure in her temples.
+She did not speak for an hour. The fire burned. The soldiers rotated. The Flash Rat vibrated. The mountain held its silence — the charged silence of a place that was close to the Clouds and that carried, in its stone and its air, the faint, high hum of a Song that The Knife could not hear but that the tracker, with her Know, could feel like a pressure in her temples.
 
 Then she spoke.
 

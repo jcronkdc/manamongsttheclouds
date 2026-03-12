@@ -24,7 +24,7 @@ The smile was wrong. Not because it was cruel or mocking or villainous — becau
 
 "Finally," Varas said. His voice was soft. Not the softness of a whisper — the softness of a voice that had no reason to be loud because the room was empty and the emptiness was the only audience the voice had ever had. "I've been waiting for someone who could make the stone sing."
 
-Aelo stood in the doorway. The Song hummed in his blood — the full chord, all seven voices, sustained by Maera's lullaby and Jalo's last gift and the specific, accumulated resonance of every discipline and every cost and every act of listening that had brought him to this room. The humming was not deliberate. It was involuntary — the blood responding to the proximity of the Elder Stones and the Vine and the convergence point where the world's memory had been strongest and where the draining had made it weakest.
+Aelo stood in the doorway. The Song hummed in his blood — the full chord, all seven voices, sustained by Maera's lullaby and Jalo's last gift and the accumulated resonance of every discipline and every cost and every act of listening that had brought him to this room. The humming was not deliberate. It was involuntary — the blood responding to the proximity of the Elder Stones and the Vine and the convergence point where the world's memory had been strongest and where the draining had made it weakest.
 
 Varas could feel it. Aelo could see the feeling on the bark-textured face — the slight widening of the stone-colored eyes, the almost imperceptible tilt of the head, the body language of a man encountering a stimulus that his senses were not equipped to fully process but that produced, nonetheless, a response.
 
@@ -68,13 +68,13 @@ The words landed in the empty hall with a weight that Aelo had not expected — 
 
 "Almost. The way I almost feel everything. Enough to know it was there. Not enough to know what it was."
 
-Aelo looked at the king. And for the first time, he did what his magic was born to do. He did not read Varas's emotions — there were none to read. He did not enter Varas's memories — the memories were stolen, not his. He _felt_ Varas. The void. The hollow where a soul should be. The specific, structural, architectural absence that was not the result of damage or choice but of design — the building built without a door, the room without an exit, the life lived inside a silence so total that the silence had become the identity and the identity had consumed the world in a futile, desperate, seventy-year attempt to hear the one thing the identity could not produce.
+Aelo looked at the king. And for the first time, he did what his magic was born to do. He did not read Varas's emotions — there were none to read. He did not enter Varas's memories — the memories were stolen, not his. He _felt_ Varas. The void. The hollow where a soul should be. The structural, architectural absence that was not the result of damage or choice but of design — the building built without a door, the room without an exit, the life lived inside a silence so total that the silence had become the identity and the identity had consumed the world in a futile, desperate, seventy-year attempt to hear the one thing the identity could not produce.
 
 Varas was not evil. Varas was in pain. A pain so absolute and so primal — the pain of being excluded from existence itself — that it had warped him into the thing he was. The Chamber. The draining. The Dog Scene. The purge. The Kingdom of nothing — all of it was not cruelty but _reaching_. The four-year-old boy in Aldric's memory, hands up, wanting to be held. Still reaching. Still wanting. Still unable to close the gap between himself and the world that everyone else inhabited and that he had been locked out of since birth.
 
 "I'm sorry," Aelo said.
 
-Varas blinked. The stone eyes — which had not changed expression since Aelo entered the room — changed. Not dramatically. A fractional adjustment. The muscles around the eyes contracting by a millimeter. The specific, involuntary, uncontrollable response of a person who has been spoken to with a word they have never heard directed at them before.
+Varas blinked. The stone eyes — which had not changed expression since Aelo entered the room — changed. Not dramatically. A fractional adjustment. The muscles around the eyes contracting by a millimeter. The involuntary, uncontrollable response of a person who has been spoken to with a word they have never heard directed at them before.
 
 In seventy years of rule, through executions and drainings and the feast and the purge and the Chamber — no one had ever said that to him.
 
@@ -98,7 +98,7 @@ In seventy years of rule, through executions and drainings and the feast and the
 
 "But then I'd never hear it," Varas said.
 
-The words sat in the empty hall. The Blood Vine pulsed. The Elder Stones hummed. The silence held — the specific, charged, unbreakable silence of a man who had spent his life consuming the world and who was now, in the final moment, choosing to be consumed instead. Not because he was redeemed. Not because the sorry had reached him. Not because the boy's compassion had pierced the void and produced a transformation.
+The words sat in the empty hall. The Blood Vine pulsed. The Elder Stones hummed. The silence held — the charged, unbreakable silence of a man who had spent his life consuming the world and who was now, in the final moment, choosing to be consumed instead. Not because he was redeemed. Not because the sorry had reached him. Not because the boy's compassion had pierced the void and produced a transformation.
 
 Because the void was so vast and so cold that even the man who had caused all of this would rather hear one note of the Song and die than live another day in silence.
 

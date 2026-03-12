@@ -8,7 +8,7 @@ The world died in stages.
 
 They walked north — Aelo, Jalo, Laine — through a landscape that deteriorated the way a body deteriorates when the blood stops flowing to the extremities. The first sign was the grass. On the foothills it had been sparse but alive — thin blades pushing through rocky soil, the green tentative, the growth modest but real. Within a mile of the Murkr's edge, the grass turned grey. Not dead — grey. The color drained from it the way color drained from The Knife's memories: slowly, by degrees, the life not removed but attenuated, the green fading to silver to ash.
 
-The trees followed. They had been small on the plain — wind-stunted, adapted to the altitude and the open sky. As the party moved north, the trees stopped being stunted and started being _petrified_. The wood hardened. The bark cracked and fell away in grey flakes. The branches held their shape but lost their flexibility — frozen in the specific posture of a tree that had been reaching for sunlight and had been caught mid-reach, the motion arrested, the intention preserved in stone, the living wood converted to a mineral replica of itself that was accurate in every detail except the one that mattered: the life.
+The trees followed. They had been small on the plain — wind-stunted, adapted to the altitude and the open sky. As the party moved north, the trees stopped being stunted and started being _petrified_. The wood hardened. The bark cracked and fell away in grey flakes. The branches held their shape but lost their flexibility — frozen in the posture of a tree that had been reaching for sunlight and had been caught mid-reach, the motion arrested, the intention preserved in stone, the living wood converted to a mineral replica of itself that was accurate in every detail except the one that mattered: the life.
 
 The soil changed. From rocky to chalky to a dry, powdery grey substance that was not dirt but the residue of dirt — the organic content consumed, the mineral content preserved, the result a material that looked like soil and felt like dust and carried, in Aelo's Know, the emotional signature of absence. The same absence he had felt in the Core's abandoned galleries, but larger. Continental. A landscape-sized room that had been left.
 
@@ -16,13 +16,13 @@ The soil changed. From rocky to chalky to a dry, powdery grey substance that was
 
 "I can't see past it," Laine said. She had stopped walking. Her restless eyes were still — not the focused stillness of concentration but the blank stillness of a sense that had been turned off. "I can't see what happens inside. It's like trying to look through stone."
 
-Jalo walked past her. His stride was steady — the rationed, deliberate stride of a man who had been to this place before and who was not surprised by what it had become. His emotional weather, which Aelo read from five feet away, was not fear. It was recognition. The specific, grim, architectural recognition of a man returning to a place where the worst thing in his life had happened and finding it worse.
+Jalo walked past her. His stride was steady — the rationed, deliberate stride of a man who had been to this place before and who was not surprised by what it had become. His emotional weather, which Aelo read from five feet away, was not fear. It was recognition. The grim, architectural recognition of a man returning to a place where the worst thing in his life had happened and finding it worse.
 
 "It wasn't always like this," Jalo said. He was not looking at the grey landscape. He was looking through it — through the present to the past, through the dead land to the memory of the land before the dying. "When Aldric was king, this was the brightest place in the world. The convergence — where all seven regions met — was the place where the world's memory was strongest. The Elder Stones formed here naturally. The air sang. The grass was so green it hurt your eyes. I came here once, with the Vael Guard, for the last Knower Ceremony before Varas. The sky was — the sky was the color of the inside of a bell. If you could hear a color, that was the color."
 
 He paused. The staff struck the grey ground with a sound that was not the sound of wood on earth but the sound of wood on dust — dry, flat, carrying no resonance, the ground too dead to return the vibration. "Now it sounds like this."
 
-They walked. The deterioration continued — each hundred yards producing a new iteration of loss. The air lost its moisture. The wind lost its direction. The light lost its warmth — not the temperature but the quality, the specific, subtle warmth that sunlight carries when it passes through an atmosphere that remembers being alive. The Murkr's light was flat. Grey.
+They walked. The deterioration continued — each hundred yards producing a new iteration of loss. The air lost its moisture. The wind lost its direction. The light lost its warmth — not the temperature but the quality, the subtle warmth that sunlight carries when it passes through an atmosphere that remembers being alive. The Murkr's light was flat. Grey.
 
 Aelo's disciplines dimmed. The Know — which had been his constant companion since the herbs, the sense that had carried him through every region and every teacher and every cost — faded. Not disappeared — faded. The voices that the Know carried — the emotional weather of the people around him, the memory embedded in the materials he touched, the vast, layered, world-wide conversation of things that remembered — grew quieter. As if the volume were being turned down. As if the Murkr were a room that absorbed sound, and every step deeper reduced the signal, and the signal was the world's memory, and the world's memory was being consumed faster than it could be produced.
 
@@ -36,7 +36,7 @@ The Song was still alive at the center of the world. The Song was buried under t
 
 "It's here," Aelo said. "The Song. Under everything. Varas has been draining the memory from the land, but the Song isn't memory. The Song is what memory is made of. He can drain the contents but he can't drain the container. The riverbed is still here."
 
-Laine looked at him. Her eyes were still blind — the Guide dark, the trajectories invisible. But her face carried something that was not the Guide's reading but the human's reading: hope. The specific, fragile, almost unbearable hope of a woman who had been told by a fisherman that the grief was worth carrying and who was, in the grey heart of the dead zone, watching the boy confirm it.
+Laine looked at him. Her eyes were still blind — the Guide dark, the trajectories invisible. But her face carried something that was not the Guide's reading but the human's reading: hope. The fragile, almost unbearable hope of a woman who had been told by a fisherman that the grief was worth carrying and who was, in the grey heart of the dead zone, watching the boy confirm it.
 
 "Can you reach it?" she asked.
 
@@ -46,7 +46,7 @@ Laine looked at him. Her eyes were still blind — the Guide dark, the trajector
 
 "Yes."
 
-They stood at the edge of the visible Murkr — the place where the grey began in earnest, where the ground stopped being land and started being absence, where the line between the living world and the dead zone was as sharp and as visible as the line between water and shore. The castle was ahead — visible through the grey air as a shape, a silhouette, the organic, grotesque architecture of Varas's expanded fortress rising from the dead land like a growth from a wound. The towers curved like ribs. The walls pulsed — faintly, in the Know's diminished perception, with the specific luminescence of Blood Vine: a dark, red-brown glow that was not light but hunger, the Vine's constant, parasitic draw visible as a stain in the air around the stone.
+They stood at the edge of the visible Murkr — the place where the grey began in earnest, where the ground stopped being land and started being absence, where the line between the living world and the dead zone was as sharp and as visible as the line between water and shore. The castle was ahead — visible through the grey air as a shape, a silhouette, the organic, grotesque architecture of Varas's expanded fortress rising from the dead land like a growth from a wound. The towers curved like ribs. The walls pulsed — faintly, in the Know's diminished perception, with the luminescence of Blood Vine: a dark, red-brown glow that was not light but hunger, the Vine's constant, parasitic draw visible as a stain in the air around the stone.
 
 Aelo stepped across the line.
 
@@ -54,7 +54,7 @@ The noise stopped. For the first time since the herbs wore off — since the mor
 
 Silence.
 
-Dead silence. The silence of a room where someone has screamed until there is no air left. The silence that is not the absence of sound but the aftermath of its removal — the specific, echoing, horrifying quiet of a place where something should be singing and is not.
+Dead silence. The silence of a room where someone has screamed until there is no air left. The silence that is not the absence of sound but the aftermath of its removal — the echoing, horrifying quiet of a place where something should be singing and is not.
 
 Aelo's chest tightened. The lake stone pulsed — the riverbed holding, the three centuries of compressed stillness resisting the Murkr's dead weight the way a flame resists the wind. He held the stone. He held the riverbed. He held the Song — faint, buried, suffocated, but there.
 
@@ -68,7 +68,7 @@ He paused. The staff struck the grey dust. The sound was nothing.
 
 "I have not heard it since."
 
-Aelo looked at the castle. The silhouette grew as they approached — the organic architecture resolving into detail, the curved towers, the pulsing walls, the specific, grotesque evidence of a building that had been Molded not by an artist but by an appetite. The castle was not a building. The castle was a body — Varas's extended body, the Blood Vine threaded through every surface, every stone connected to the throne, the entire structure functioning as a single, vast, parasitic organism that drew memory from the earth and the air and the people inside it and channeled it to the center, where a man sat and consumed and felt nothing.
+Aelo looked at the castle. The silhouette grew as they approached — the organic architecture resolving into detail, the curved towers, the pulsing walls, the grotesque evidence of a building that had been Molded not by an artist but by an appetite. The castle was not a building. The castle was a body — Varas's extended body, the Blood Vine threaded through every surface, every stone connected to the throne, the entire structure functioning as a single, vast, parasitic organism that drew memory from the earth and the air and the people inside it and channeled it to the center, where a man sat and consumed and felt nothing.
 
 They walked toward it. The dead zone pressed against them — the silence, the absence, the anti-memory that erased the world's song one step at a time. Aelo's disciplines flickered. The Know dimmed and surged and dimmed. The Mold was a whisper. The Guide was blind. Only the Song — buried, suffocated, but alive — remained. Only the riverbed. Only the one thing that Varas's decades of draining had not been able to reach, because the riverbed was not a memory. It was the place where memory lived. And the place could not be drained, because the place was not a thing but a condition, and conditions survived the loss of the things they contained, the way a room survives the removal of its furniture.
 

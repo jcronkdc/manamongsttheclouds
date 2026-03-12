@@ -66,7 +66,7 @@ He watched her mouth move. He tried to read the word. It was not a word he recog
 
 He recorded the anomaly in the log. _Row 4, Alcove 6: Elevated awareness. Motor function. Monitor._
 
-He moved on. But the back of his neck prickled — the specific, involuntary response of a man being watched by something that should not be capable of watching — and it did not stop prickling until he reached the end of the row and turned the corner and put a wall of stone between himself and whatever was left inside the old woman's eyes.
+He moved on. But the back of his neck prickled — the involuntary response of a man being watched by something that should not be capable of watching — and it did not stop prickling until he reached the end of the row and turned the corner and put a wall of stone between himself and whatever was left inside the old woman's eyes.
 
 ---
 

@@ -6,7 +6,7 @@
 
 The Knife entered the castle through the gate where the guardian had fallen.
 
-The body was there. On the grey stone. The staff beside it — dark, the amber gone, the wood carrying only the memory of the light it had held. The blood had not dried — the Murkr's dead air did not process biological residue the way living air did, and the blood remained as it had fallen, liquid, red, the only color in the grey landscape. The scars on the face were visible — both sides, the smooth and the ridged, the eyes closed now, the expression on the dead face carrying the specific, impossible serenity of a man who had completed the only task that mattered.
+The body was there. On the grey stone. The staff beside it — dark, the amber gone, the wood carrying only the memory of the light it had held. The blood had not dried — the Murkr's dead air did not process biological residue the way living air did, and the blood remained as it had fallen, liquid, red, the only color in the grey landscape. The scars on the face were visible — both sides, the smooth and the ridged, the eyes closed now, the expression on the dead face carrying the impossible serenity of a man who had completed the only task that mattered.
 
 The Knife stepped over the body. He did not look down. Looking down was not part of the function. The function was: enter the castle. Find the boy. Bring him to the father.
 
@@ -54,7 +54,7 @@ Varas's eyes opened. The stone eyes found his son. The finding was not the asses
 
 "Enough."
 
-The word sat in the room. Enough. The word that was not a quantity but a confession — the acknowledgment that what had been taken was not measured in memories or years or the specific, inventoriable content of a human life but in the capacity to be human at all. Enough. The word that meant: everything that mattered. Everything that made you a person. Everything except the function, which I designed and which I needed and which I maintained because the function produced the only thing I could consume.
+The word sat in the room. Enough. The word that was not a quantity but a confession — the acknowledgment that what had been taken was not measured in memories or years or the inventoriable content of a human life but in the capacity to be human at all. Enough. The word that meant: everything that mattered. Everything that made you a person. Everything except the function, which I designed and which I needed and which I maintained because the function produced the only thing I could consume.
 
 The Knife reached into his coat. He took out the box. He placed it on the floor between them — on the stone that was remembering being Fletcher's floor, on the surface that was shedding the Blood Vine's corruption and returning to the clean, honest, mason-cut stone of the original keep.
 
@@ -76,7 +76,7 @@ Varas looked at the box. And for one moment — genuine, unperformable, the hair
 
 He had consumed his son's beauty and had not been able to feel it.
 
-The regret was not moral. It was practical. The specific, clinical, self-referential regret of a man who has realized that the strategy has failed — that the consuming was never going to work, that the beauty was not transferable, that the Bridge could not be built from stolen materials because the Bridge was not a thing you built but a thing you were born with.
+The regret was not moral. It was practical. The clinical, self-referential regret of a man who has realized that the strategy has failed — that the consuming was never going to work, that the beauty was not transferable, that the Bridge could not be built from stolen materials because the Bridge was not a thing you built but a thing you were born with.
 
 ---
 
@@ -88,7 +88,7 @@ The something was: _I am not this. I am not the function. I am not the supply. I
 
 He stepped back. He turned to the corridor — to the corridor that led down, to the Chamber, to the boy who was about to Sing. He did not look at his father. He did not speak.
 
-He simply stepped to the side. He stood between his father and the corridor — not blocking, not fighting. Standing. The specific, quiet, unremarkable act of a man positioning himself between the thing he was leaving and the thing he was choosing.
+He simply stepped to the side. He stood between his father and the corridor — not blocking, not fighting. Standing. The quiet, unremarkable act of a man positioning himself between the thing he was leaving and the thing he was choosing.
 
 "Do it," he said. Not to his father. To the corridor. To the boy who was somewhere below, preparing for an act that would unmake the kingdom and restore the memory and reverse the draining and return, perhaps, the stories to the objects in the box.
 
@@ -96,7 +96,7 @@ He simply stepped to the side. He stood between his father and the corridor — 
 
 "I don't care about getting them back. I care about him not having them."
 
-The words were not revenge. The words were ownership. The specific, quiet, final assertion of a person reclaiming the things that had been taken — not by demanding their return but by denying the thief the right to keep them. The feather was his. The stone was his. The glass and the flower and the cloth and the stories and the beauty and the wonder — all of it was his. And whether it came back or not, whether the Song restored what the drain had consumed, the ownership was established, and the establishing was the act, and the act was the first free act of his life.
+The words were not revenge. The words were ownership. The quiet, final assertion of a person reclaiming the things that had been taken — not by demanding their return but by denying the thief the right to keep them. The feather was his. The stone was his. The glass and the flower and the cloth and the stories and the beauty and the wonder — all of it was his. And whether it came back or not, whether the Song restored what the drain had consumed, the ownership was established, and the establishing was the act, and the act was the first free act of his life.
 
 He stood in the throne room with his box at his feet and his back to his father and he waited.
 

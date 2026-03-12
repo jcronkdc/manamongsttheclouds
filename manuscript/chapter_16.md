@@ -6,7 +6,7 @@
 
 The shaft opened like a mouth in the earth.
 
-They found it where the elder woman had said they would — at the Canopy's southern edge, where the trees thinned and the soil grew rocky and the whispers in the wood faded to a murmur and then to silence, the specific silence of a forest ending, of wood giving way to stone and the living memory of growth being replaced by the older, slower, infinitely more patient memory of mineral and pressure and the long geological conversation that stone conducts with itself across millennia. The entrance was concealed beneath a shelf of granite overgrown with Canopy creeper — thick, woody vines that had spent a century reclaiming the stonework, threading through mortar joints and prying apart the fitted blocks with the gentle, implacable persistence of living things.
+They found it where the elder woman had said they would — at the Canopy's southern edge, where the trees thinned and the soil grew rocky and the whispers in the wood faded to a murmur and then to silence, the silence of a forest ending, of wood giving way to stone and the living memory of growth being replaced by the older, slower, infinitely more patient memory of mineral and pressure and the long geological conversation that stone conducts with itself across millennia. The entrance was concealed beneath a shelf of granite overgrown with Canopy creeper — thick, woody vines that had spent a century reclaiming the stonework, threading through mortar joints and prying apart the fitted blocks with the gentle, implacable persistence of living things.
 
 Jalo found it by touch. Not by the Know — by memory, the mortal kind, the unremarkable human ability to recall a place you have been before and navigate back to it by the feel of the ground beneath your feet and the angle of the light through the trees and the particular quality of silence that distinguishes one stretch of forest from another. He placed his palm on the granite shelf and his fingers — numb at the tips, the Mold's price still collecting, the sensation ending at the second knuckle where the living nerve met the dead — found a groove in the stone that was not natural. A carved channel, thumb-width, running the length of the shelf and terminating at a seam that was invisible to the eye but legible to the hand.
 
@@ -66,9 +66,9 @@ And people. Hundreds of them, moving through the streets and across the bridges 
 
 Torvus found them before they found him.
 
-The sound came first — a laugh, enormous, echoing through the cavern with the resonance of a sound produced by a chest cavity the size of a barrel and amplified by stone walls that had been unconsciously Molded over decades to carry one man's specific frequency. The laugh bounced off the columns and the bridges and the crystal-veined ceiling and arrived at Aelo's ears from six directions simultaneously, surrounding him in the sonic evidence of a man who was delighted and wanted the entire underground to know it.
+The sound came first — a laugh, enormous, echoing through the cavern with the resonance of a sound produced by a chest cavity the size of a barrel and amplified by stone walls that had been unconsciously Molded over decades to carry one man's frequency. The laugh bounced off the columns and the bridges and the crystal-veined ceiling and arrived at Aelo's ears from six directions simultaneously, surrounding him in the sonic evidence of a man who was delighted and wanted the entire underground to know it.
 
-Then the man himself. Emerging from a side passage with the casual momentum of a boulder that has decided to roll — not fast, but unstoppable, the mass of him generating its own gravity. Torvus was the largest human being Aelo had ever seen. Not tall — not dramatically taller than Jalo — but _wide_. Wide the way a tree trunk is wide, the way a stone column is wide, the width of something that has been built to bear weight and has accepted the bearing as its defining characteristic. His shoulders were the width of a doorframe. His hands — and Aelo stared at the hands, because the hands were the story — were enormous, scarred, calloused, and held at his sides with the specific looseness of appendages that their owner could no longer feel.
+Then the man himself. Emerging from a side passage with the casual momentum of a boulder that has decided to roll — not fast, but unstoppable, the mass of him generating its own gravity. Torvus was the largest human being Aelo had ever seen. Not tall — not dramatically taller than Jalo — but _wide_. Wide the way a tree trunk is wide, the way a stone column is wide, the width of something that has been built to bear weight and has accepted the bearing as its defining characteristic. His shoulders were the width of a doorframe. His hands — and Aelo stared at the hands, because the hands were the story — were enormous, scarred, calloused, and held at his sides with the looseness of appendages that their owner could no longer feel.
 
 His face was a landscape of expression — broad, mobile, every feature in constant motion. Eyes that crinkled. Mouth that curved. Brows that rose and fell. In a world of people who guarded their expressions — the Ming's equilibrium, Jalo's defended stoicism, Sereth's layered performance — Torvus's face was an open field. Everything he felt was on it, immediately, unedited, produced by muscles that had never learned to suppress and a personality that considered suppression a waste of the face's potential.
 
@@ -124,7 +124,7 @@ He held out his palm. In it: a pebble. Grey, irregular, the size of Aelo's thumb
 
 "Make it round," Torvus said.
 
-Aelo took the pebble. He held it in his palm. He closed his eyes and reached for the stone the way the Ming had taught him to reach for a person's memory — with attention, with patience, with the specific quality of listening that the teacher at the lake had called the riverbed.
+Aelo took the pebble. He held it in his palm. He closed his eyes and reached for the stone the way the Ming had taught him to reach for a person's memory — with attention, with patience, with the quality of listening that the teacher at the lake had called the riverbed.
 
 Nothing happened.
 
@@ -142,7 +142,7 @@ Aelo failed for two days.
 
 He sat in Torvus's workshop with the pebble in his palm and he reached for the stone's memory and the stone's memory was there — vast, compressed, the record of millennia of pressure and stillness — and it did not respond. He tried knowing the shape. He tried seeing the sphere in his mind, clear and specific and undeniable. The pebble remained a pebble. The stone did not care what he saw. The stone cared only about what it remembered, and what it remembered was being this shape, this irregular, unremarkable shape that it had been for longer than Aelo had been alive, longer than his mother had been alive, longer than Fletcher had been alive.
 
-The Ming training did not help. The riverbed — the resolved depth, the luminous tone — was accessible, but it was a listener's skill, and listening was not what the Mold required. The Mold required speech. Command. The specific confidence of a mind that could look at a piece of the world and say: _I know what you should be_, and mean it with enough conviction that the world believed.
+The Ming training did not help. The riverbed — the resolved depth, the luminous tone — was accessible, but it was a listener's skill, and listening was not what the Mold required. The Mold required speech. Command. The confidence of a mind that could look at a piece of the world and say: _I know what you should be_, and mean it with enough conviction that the world believed.
 
 Aelo did not have that confidence. He had been small and quiet and uncertain for fifteen years. The herbs had compressed not just his body but his sense of himself — the capacity for assertion, for declaration, for the bold, unhedged conviction that the Mold demanded. He could listen with extraordinary depth. He could feel the stone's memory with a precision that made Torvus raise his eyebrows — "You can feel _that_? The glacial layer? Most apprentices don't find that for months" — but feeling was not shaping. Hearing was not speaking.
 
@@ -201,7 +201,7 @@ He looked at Aelo. The bright eyes — the last fully alive things in a body tha
 
 "Halvar," Torvus said, without looking away from Aelo. "What did you bring me?"
 
-Jalo stood in the passage behind them. He had been watching too — Aelo could feel the man's emotional weather from twenty feet away, the complex mixture of pride and fear and the specific, sharp-edged hope of a guardian who has just watched his charge do something that changes the shape of the possible.
+Jalo stood in the passage behind them. He had been watching too — Aelo could feel the man's emotional weather from twenty feet away, the complex mixture of pride and fear and the sharp-edged hope of a guardian who has just watched his charge do something that changes the shape of the possible.
 
 "What I told you I was bringing," Jalo said. "The last one."
 

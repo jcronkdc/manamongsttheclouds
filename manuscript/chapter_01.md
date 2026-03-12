@@ -106,7 +106,7 @@ Not gradually. Not the way a sound fades. It stopped the way a door closes: one 
 
 The bird's memory, going home.
 
-He didn't have words for it. He wouldn't have words for it for a long time. But he felt it — the specific, unrepeatable moment when a living thing's accumulated experience of being alive dissolved back into the world. A page turning. A breath released. And then silence — not Jalo's silence, not the stunned absence after a nightmare, but a clean silence. The silence of something finished.
+He didn't have words for it. He wouldn't have words for it for a long time. But he felt it — the unrepeatable moment when a living thing's accumulated experience of being alive dissolved back into the world. A page turning. A breath released. And then silence — nothing like Jalo's, nothing like the stunned absence after a nightmare. Clean. The silence of something finished.
 
 He sat in the roots of the elm with a dead bird in his hands and he cried. Not loudly. Not dramatically. The quiet, helpless crying of a boy who wanted to mend a thing and couldn't, who reached for a power he didn't have and found only the absence of it, and who understood — without knowing he understood — that the ache in his chest was not grief for the bird.
 
