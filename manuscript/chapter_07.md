@@ -56,7 +56,7 @@ Aelo was on his hands and knees. Tears on his face. Snot on his lip. Throat raw.
 
 "Good," said a voice that was not Jalo's.
 
-Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him. Through the shattered remnants of his pocket, her emotional signature came through — and it was wrong. He had expected the salt-grief, the patient sadness of the old woman she was pretending to be. What he felt instead was _attention_. Focused, layered, precise. She was comparing him against an internal record, checking his responses point by point. The feeling had no warmth in it. It was measurement.
+Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him. Through the shattered remnants of his pocket, her emotional signature came through — and it was wrong. The body she wore had no history of its own. No childhood memories, no accumulated years of muscle and habit. It was a shell shaped from will, the way a sculptor shapes clay — her features, her voice, her calloused hands, all of it built from the inside out, held together by an attention so old it had become automatic. He had expected the salt-grief, the patient sadness of the old woman she appeared to be. What he felt instead was _attention_. Focused, layered, precise. She was comparing him against an internal record, checking his responses point by point. The feeling had no warmth in it. It was measurement.
 
 "That was not good," Aelo said. His voice was different. Lower. Rougher. A voice that had aged a year overnight.
 

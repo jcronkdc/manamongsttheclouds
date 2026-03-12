@@ -27,20 +27,27 @@ All docx files follow this pattern:
 
 ## Revision History
 
-### rev00 — Pre-edit baseline (Mar 10, 2025)
+### rev07 — Reader critique fixes (Mar 11, 2026)
 
-Snapshot taken before the Part I editorial pass began. Represents the manuscript state prior to prose trims, character work, and polish.
+Five fixes addressing feedback from a Part I & II reader:
 
-### rev01 — Part I editorial pass (Mar 10, 2025)
+- **Ch. 10 (Baara continuity):** Added first use of "Baara" by Varas earlier in the conversation (line 59) so the narration "Twice in one conversation" is accurate. Adjusted second-use reaction to complement rather than duplicate the first.
+- **Ch. 6 (Jalo/Sereth reunion):** Added dawn reunion scene at end of chapter — Sereth returns, drops disguise, reveals identity, Halvar confronts her about fifteen years of watching. Bridges the gap between Sereth's departure as a mystery merchant and her accepted presence in Ch. 7.
+- **Ch. 2 (Murkr definition):** Expanded first Murkr reference to define it as drained lands where memory has been stripped from the earth to feed the throne.
+- **Ch. 7 (Sereth shape-shifting clarity):** Added sensory beat through Aelo's Know — her body has no history of its own, is a shell shaped from will, built from the inside out. Clarifies she constructs forms rather than possessing real bodies.
+- **Ch. 6 (Mold numbness):** Expanded Halvar's drinking passage to explain Mold magic's physical toll — magic runs through the nervous system, nerves remember every wall built, disuse leaves them firing into nothing. Wine numbs the Mold's residual echoes.
+- Website content synced for all four chapters (Ch. 2, 6, 7, 10)
+- Part I EPUB rebuilt and copied to website/public/
+- Part I DOCX, full manuscript DOCX, print copy DOCX rebuilt (~153,757 total words)
 
-- 48 "one beat too far" prose trims across Prologue + Ch1-10
-- 9 Ch11 exposition trims
-- Aelo character fixes: iron-taste anger (Ch1), unresolved betrayal coal (Ch4), the lunge/wanting (Ch7), guilt-sensing pushback on Sereth (Ch9)
-- Sereth dynamic fixes: measurement signature (Ch7), hunger cataloguing (Ch7), authority edge + tree pushback (Ch9)
-- Ch6 history section compressed (Prologue overlap removed)
-- Ch5 exposition stacking compressed
-- Ch1 subtle polish pass (9 sensory/rhythm upgrades)
-- All per-part DOCX, full manuscript DOCX, print copy, and Part I EPUB rebuilt
+### rev06 — Sereth pronoun fix (Mar 11, 2026)
+
+- Prologue: changed all they/them/their referring to the god (Sereth) to she/her/herself (7 edits across lines 27, 37, 39, 41, 49, 53, 69)
+- Disambiguated "she was _right_" → "the girl was _right_" on line 27 to avoid pronoun confusion
+- All plural "they" referring to the seven gods or to humans left untouched
+- Website content synced (website/content/chapters/prologue.md)
+- Part I EPUB rebuilt and copied to website/public/
+- Part I DOCX, full manuscript DOCX, print copy rebuilt
 
 ### rev05 — Parts IV & V editorial pass (Mar 11, 2025)
 
@@ -98,6 +105,21 @@ Snapshot taken before the Part I editorial pass began. Represents the manuscript
 - Ch19: full iron taste when blade's trajectory enters flesh — "the taste of a world that made beautiful things and pointed them at people"
 - Ch22: coal transforms into conviction at "We can't keep running" — "Something the anger had become after being carried long enough: conviction"
 - All per-part DOCX, full manuscript, print copy, and Part I EPUB rebuilt
+
+### rev01 — Part I editorial pass (Mar 10, 2025)
+
+- 48 "one beat too far" prose trims across Prologue + Ch1-10
+- 9 Ch11 exposition trims
+- Aelo character fixes: iron-taste anger (Ch1), unresolved betrayal coal (Ch4), the lunge/wanting (Ch7), guilt-sensing pushback on Sereth (Ch9)
+- Sereth dynamic fixes: measurement signature (Ch7), hunger cataloguing (Ch7), authority edge + tree pushback (Ch9)
+- Ch6 history section compressed (Prologue overlap removed)
+- Ch5 exposition stacking compressed
+- Ch1 subtle polish pass (9 sensory/rhythm upgrades)
+- All per-part DOCX, full manuscript DOCX, print copy, and Part I EPUB rebuilt
+
+### rev00 — Pre-edit baseline (Mar 10, 2025)
+
+Snapshot taken before the Part I editorial pass began. Represents the manuscript state prior to prose trims, character work, and polish.
 
 ## Workflow
 

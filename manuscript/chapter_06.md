@@ -12,7 +12,7 @@ His hands shook. Not the manageable tremor that Aelo mixed the Fiddleroot for �
 
 Because the bottle was not part of the plan. The bottle was part of the man, and the man was supposed to be disposable.
 
-But the safehouse was part of the plan, and Halvar had stocked the safehouse, and the man who stocked it had known — with the specific, unflinching honesty that comes from fifteen years of living inside your own failure — that the man who arrived would need what the man who planned could not admit to wanting. There was a bottle in the supply cache. Root wine. He had placed it there years ago, wrapped in cloth, tucked behind the dried rations and the emergency herbs, and he had told himself it was medicinal. For the pain. For the phantom wounds. For the nights when the ghosts of other people's injuries sang in his bones and the only silence available came in liquid form.
+But the safehouse was part of the plan, and Halvar had stocked the safehouse, and the man who stocked it had known — with the specific, unflinching honesty that comes from fifteen years of living inside your own failure — that the man who arrived would need what the man who planned could not admit to wanting. There was a bottle in the supply cache. Root wine. He had placed it there years ago, wrapped in cloth, tucked behind the dried rations and the emergency herbs, and he had told himself it was medicinal. For the pain. For the phantom wounds. Mold magic ran through the body like current through wire — every wall he'd raised, every stone he'd shaped, every desperate act of force he'd pushed through the staff had traveled his nervous system first, and the nerves remembered. They remembered the way a bruise remembers: dully, persistently, flaring without warning. Fifteen years of disuse hadn't quieted them. It had left them stranded, firing into nothing, a system built for heavy labor running idle and tearing itself apart. The wine didn't fix this. The wine made the signals distant, gave him a few hours where his hands belonged to him instead of to every wall he'd ever built. That was enough. That had to be enough.
 
 Aelo slept against the far wall of the hollow, curled on his side, his face slack and young and twitching with dreams that were, for the first time in his life, his own. Not Jalo's nightmares bleeding through the wall. Not the secondhand smoke and splintered doors and the voice cut short. These were Aelo's dreams — raw, unfiltered, the accumulated sensory data of a world that had been pouring into him since the herbs failed, now being processed by a sleeping brain that had no framework for what it was receiving. His hands moved in his sleep. His lips parted. Once, he murmured something that sounded like a word in no language Halvar recognized, and the elm above them creaked in response.
 
@@ -243,3 +243,49 @@ Outside, the sky began to lighten. Somewhere to the north, the Mrak Patrol was r
 Halvar did not know any of this. He knew only that a stranger had found them, that the stranger had looked at Aelo too long, and that the stranger's eyes had held something he could not name.
 
 He would not sleep again tonight. The wall does not sleep when the fire is near.
+
+---
+
+She came back at dawn.
+
+No tincture tray. No merchant's drawl. She walked out of the tree line the way a person walks into a room they own — without hesitation, without apology, carrying only the pack and a weariness that had settled into her bones the way weather settles into stone.
+
+Halvar was on his feet before she cleared the first root. The staff hummed. The amber light flared, catching her face, and in the new light she looked — different. The same body, the same grey hair, the same broad shoulders. But the performance was gone. The mask of the Canopy trader had been set down somewhere in the forest between midnight and dawn, and what remained was the thing underneath: old, vast, and too heavy for the frame carrying it.
+
+"I told you to move along."
+
+"You did." She sat on the root of the elm, three feet from where Aelo slept. She did not ask permission. "The boy's herbs are gone. The suppression is failing. In two days his body will begin to change — growth he should have had over years, compressed into weeks. In four days the Know will open fully, and he will hear everything within a mile radius, and without training he will not survive the noise." She looked at Halvar. "You cannot teach him. You are Mold. He needs all seven."
+
+The words landed one at a time, each one a weight added to a scale that was already tipping. Halvar's grip on the staff tightened until the wood creaked.
+
+"Who are you?"
+
+"You already know. You felt it last night — the edges of something too large. Your king described it to you once, in a garden, on a morning when the clouds were low."
+
+The staff trembled. Not from withdrawal. From the thing beneath it — the recognition surfacing through fifteen years of rust and root wine, assembling itself from fragments: Aldric's voice in the garden, describing what divinity felt like. The histories passed from captain to captain. The name that appeared in the oldest oaths, the one the Guard whispered but never spoke aloud, because speaking it meant acknowledging that the god who broke the world was still in it.
+
+"Sereth."
+
+"Yes."
+
+The word was a door opening onto a room he had spent fifteen years refusing to enter. Sereth. The god who gave Fletcher the Song. The god who watched humanity burn with it. The god who was punished, diminished, made mortal — and who had, apparently, been somewhere in the world this entire time while Halvar carried her mistake on his back.
+
+"Fifteen years." His voice was quiet. The dangerous kind of quiet — the kind that came before walls went up and men went through them. "Fifteen years I've kept him alive. Burned my face. Destroyed my knee. Fed him the herbs every morning and watched him shrink. And you were — what? Watching? From a distance? Selling tinctures?"
+
+"Yes."
+
+"You could have helped."
+
+"My help is what started this. Three hundred years ago I helped, and the world broke." She held his gaze. Her eyes were steady, ancient, carrying a weight that made his fifteen years feel like an afternoon. "I kept my distance because my distance was the only thing keeping him alive. Varas cannot sense me clearly — my signature is too degraded, too mortal. But if I had intervened, if I had touched the boy's training, my resonance would have marked him. Every Elder Stone in the kingdom would have lit up. Every tracker Varas owns would have felt it." She paused. "I watched. I misdirected patrols. I made sure the roads stayed clear. It was not enough. It was what I could do without killing him."
+
+Halvar stood in the entrance of the hollow with the dawn coming through the canopy and the boy sleeping behind him and the god sitting on a root three feet away, and the fury in him was a living thing — hot, structural, load-bearing. It held up the walls. It kept the ceiling from coming down. If he let it go, if he set it down for even a moment, the entire architecture of the last fifteen years would collapse, and what would be left was a man with a ruined face and a shaking body and a boy he could not protect alone.
+
+He could not protect him alone. That was the part that burned.
+
+"If you lie to me," he said. "If you withhold. If you treat him like an experiment or a prophecy or a debt you're repaying — I will find a way to hurt you. I don't care what you are."
+
+"I know." She said it simply. Without offense. The way you accept a condition that is fair.
+
+Halvar sat down. He did not put the staff away. He did not look at her. He looked at Aelo — the boy's face slack with sleep, the mark on his wrist pulsing amber, the body already longer than it had been yesterday, already becoming something the herbs could no longer contain.
+
+The wall does not choose who stands beside it. The wall holds.

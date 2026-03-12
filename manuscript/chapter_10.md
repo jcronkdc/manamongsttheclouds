@@ -56,7 +56,9 @@ The name arrived with the weight of something that had been waiting to be spoken
 
 The Knife waited. His father was not finished. Varas was never finished when he paused — he was selecting, choosing which piece of the architecture to reveal and which to leave in shadow, constructing the conversation the way an engineer constructs a load-bearing wall: every stone placed for maximum structural effect.
 
-"He has the boy. The boy made a stone sing. Stones have not sung in three hundred years." The heat in the communication stone intensified — not gradually but in a step, a discrete increase, as if Varas had leaned closer to his end of the connection. "Do you understand what that means?"
+"He has the boy. The boy made a stone sing. Stones have not sung in three hundred years." The heat in the communication stone intensified — not gradually but in a step, a discrete increase, as if Varas had leaned closer to his end of the connection. "Baara. Do you understand what that means?"
+
+The name landed like a hand on his shoulder. His father almost never used it — saved it for moments when the tool needed to remember it had once been a son. The muscles in The Knife's back tightened. He let them.
 
 "No, my lord."
 
@@ -74,7 +76,7 @@ Silence. The village square was empty. The guards by the stone stood motionless.
 
 "Baara."
 
-The name again. Twice in one conversation. The muscles in his back performed their trained response — the tightening, the almost-hope — and he permitted it for the half-second it took to recognize it and suppress it.
+Twice in one conversation. His father was not careless with names — not with anyone's, least of all his son's. Twice meant the boy mattered to him. Twice meant the leash was short.
 
 "My lord?"
 

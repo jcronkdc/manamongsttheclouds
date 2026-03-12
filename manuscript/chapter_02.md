@@ -86,7 +86,7 @@ He pulled his hand away. He did not record this in the log. Some observations we
 
 ---
 
-The throne room was above ground, at the castle's highest point, where Varas could look out across the Murkr and see the grey, flat, featureless landscape he had made. The Knife climbed seven flights of stairs — the castle had no lifts, no shortcuts, because Varas believed that anyone who wished to see the King should arrive winded and diminished — and entered through the eastern arch.
+The throne room was above ground, at the castle's highest point, where Varas could look out across the Murkr — the drained lands surrounding the castle, miles of grey soil and dead stone where nothing grew and nothing remembered growing, the memory stripped from the earth itself to feed the throne and the man fused to it. The Knife climbed seven flights of stairs — the castle had no lifts, no shortcuts, because Varas believed that anyone who wished to see the King should arrive winded and diminished — and entered through the eastern arch.
 
 His father was in the chair.
 
