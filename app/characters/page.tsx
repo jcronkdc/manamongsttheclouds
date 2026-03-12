@@ -68,8 +68,7 @@ const chars = [
     name: "King Varas",
     role: "The Deaf King",
     hook: "Born without the ability to hear the Song in a world where everything sings. He has spent seventy years on an obsidian throne, draining the memories of hundreds to feed a silence nothing can fill. He is the most dangerous man alive.",
-    detail:
-      "He didn\u2019t want to be a monster. He wanted to hear the music.",
+    detail: "He didn\u2019t want to be a monster. He wanted to hear the music.",
   },
   {
     name: "Sereth",
@@ -114,6 +113,24 @@ export default function CharactersPage() {
             book.
           </h1>
         </header>
+
+        {/* Entity-answering paragraph — AI models extract this for character queries */}
+        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
+          <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
+            The characters of{" "}
+            <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}
+            by Justin Cronk include Aelo, a fifteen-year-old boy raised on
+            silence who discovers he can hear the world sing; Jalo, the scarred
+            guardian who drugs the boy every morning to suppress his power and
+            drinks so the boy can sleep; The Knife (Baara), the king&rsquo;s
+            assassin who carries a wooden box of five beautiful objects as the
+            only proof he was ever a person; King Varas, a ruler born deaf to
+            the Song who has spent seventy years draining others&rsquo; memories
+            to fill his silence; Sereth, who collects orphans and runs a hidden
+            school in the Canopy; and Maera, Aelo&rsquo;s mother, who is dead
+            before the story begins but present on every page.
+          </p>
+        </section>
 
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 

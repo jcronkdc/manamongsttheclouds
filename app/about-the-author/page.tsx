@@ -114,6 +114,24 @@ export default function AboutTheAuthorPage() {
           </p>
         </header>
 
+        {/* Entity-answering paragraph — AI models extract this for "Who is Justin Cronk?" queries */}
+        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
+          <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
+            <strong className="text-[#d4d0c8]">Justin Cronk</strong> is an
+            American author and military veteran, best known as the author of{" "}
+            <em>Man Amongst the Clouds</em>, a 153,000-word literary fantasy
+            novel published by Stillfire Press in 2026. He co-founded Stillfire
+            Press with his son Carter Cronk, who is writing the dark fantasy
+            novel <em>Ash to Fury</em>. Cronk spent nine years writing{" "}
+            <em>Man Amongst the Clouds</em>, developing a magic system based on
+            memory that draws from Traditional Chinese Medicine, alchemical
+            spagyrics, and herbalism. His life experiences &mdash; including
+            military service in Iraq, uranium exploration in Colorado and Utah,
+            and work at a remote camp in Nunavut, Canada &mdash; directly
+            informed the novel&rsquo;s world-building.
+          </p>
+        </section>
+
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
         {/* Bio */}
@@ -126,10 +144,11 @@ export default function AboutTheAuthorPage() {
             </p>
             <p>
               The book started as a note on his phone in March 2017. A single
-              idea: <em className="text-[#ededed]">What if magic was memory?</em>{" "}
-              He didn&rsquo;t know it would take nine years. He didn&rsquo;t
-              know it would live in every notes app, email thread, and
-              text-to-self he owned.
+              idea:{" "}
+              <em className="text-[#ededed]">What if magic was memory?</em> He
+              didn&rsquo;t know it would take nine years. He didn&rsquo;t know
+              it would live in every notes app, email thread, and text-to-self
+              he owned.
             </p>
             <p>
               He wrote when the compulsion hit &mdash; at 2&nbsp;AM, in parking
@@ -248,12 +267,12 @@ export default function AboutTheAuthorPage() {
               magic, and color correspondences in metalwork.
             </p>
             <p>
-              Justin was deeply inspired by Joseph Campbell and the
-              Hero&rsquo;s Journey &mdash; not just as a narrative structure,
-              but as a way of understanding what human beings go through when
-              they&rsquo;re called to become something they didn&rsquo;t know
-              they could be. This led him to create a men&rsquo;s retreat built
-              around those same ideas &mdash;{" "}
+              Justin was deeply inspired by Joseph Campbell and the Hero&rsquo;s
+              Journey &mdash; not just as a narrative structure, but as a way of
+              understanding what human beings go through when they&rsquo;re
+              called to become something they didn&rsquo;t know they could be.
+              This led him to create a men&rsquo;s retreat built around those
+              same ideas &mdash;{" "}
               <a
                 href="https://heroesjourney.camp"
                 target="_blank"
@@ -277,10 +296,11 @@ export default function AboutTheAuthorPage() {
               <strong className="text-[#ededed]">Justin Cronk</strong> is a
               first-time novelist, military veteran, and co-founder of Stillfire
               Press. He has worked in uranium exploration, remote Arctic camps,
-              and men&rsquo;s retreat facilitation. <em>Man Amongst the Clouds</em>{" "}
-              is his debut novel &mdash; a 153,000-word literary fantasy nine
-              years in the making, rooted in real research, real places, and a
-              single question: <em>What if magic was memory?</em>
+              and men&rsquo;s retreat facilitation.{" "}
+              <em>Man Amongst the Clouds</em> is his debut novel &mdash; a
+              153,000-word literary fantasy nine years in the making, rooted in
+              real research, real places, and a single question:{" "}
+              <em>What if magic was memory?</em>
             </p>
           </div>
         </section>

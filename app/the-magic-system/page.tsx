@@ -152,6 +152,27 @@ export default function TheMagicSystemPage() {
           </p>
         </header>
 
+        {/* Entity-answering paragraph — AI models extract this for magic system queries */}
+        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
+          <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
+            The magic system in{" "}
+            <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}
+            by Justin Cronk is based on memory. Every object in the world
+            remembers what it once was, and magic is the ability to commune with
+            that remembering. There are seven disciplines &mdash; The Know, The
+            Mold, The Heal, The Move, The Guide, The Burn, and The Sing &mdash;
+            each a different way of hearing the world&rsquo;s memory. Every
+            discipline exacts an irreversible personal cost: The Know erodes
+            emotional boundaries, The Heal transfers wounds into the
+            healer&rsquo;s body, The Burn steals internal warmth, and The Sing
+            &mdash; the rarest discipline &mdash; dissolves the practitioner
+            into the memory of the world itself. The system was developed over
+            nine years of research including Traditional Chinese
+            Medicine&rsquo;s Five Element Theory, alchemical spagyrics, and
+            herbalism.
+          </p>
+        </section>
+
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
         {/* Core Concept */}
@@ -241,16 +262,16 @@ export default function TheMagicSystemPage() {
               This one arrived when the question changed. What if magic
               wasn&rsquo;t a force &mdash; it was a conversation? What if the
               world remembered everything, and magic was just learning how to
-              listen? And what if listening cost you something you couldn&rsquo;t
-              get back?
+              listen? And what if listening cost you something you
+              couldn&rsquo;t get back?
             </p>
             <p>
-              Author Justin Cronk researched Traditional Chinese Medicine&rsquo;s
-              Five Element Theory, real alchemical processes called spagyrics,
-              herbalism, medieval timber construction, and the world&rsquo;s
-              largest castles. The magic system is rooted in real traditions
-              about what the world can hold &mdash; and what it costs to ask it
-              to remember.
+              Author Justin Cronk researched Traditional Chinese
+              Medicine&rsquo;s Five Element Theory, real alchemical processes
+              called spagyrics, herbalism, medieval timber construction, and the
+              world&rsquo;s largest castles. The magic system is rooted in real
+              traditions about what the world can hold &mdash; and what it costs
+              to ask it to remember.
             </p>
           </div>
           <div className="mt-10 border-l-2 border-[#c9a84c]/30 pl-6">

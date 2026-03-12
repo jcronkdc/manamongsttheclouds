@@ -116,6 +116,8 @@ const jsonLd = {
     name: "Justin Cronk",
     url: `${url}/about-the-author`,
     jobTitle: "Author",
+    description:
+      "First-time novelist, military veteran, and co-founder of Stillfire Press. Nine years writing a literary fantasy debut rooted in real research, real places, and a magic system based on memory.",
     sameAs: [
       `${url}/about-the-author`,
       "https://stillfirepress.com",
@@ -130,10 +132,32 @@ const jsonLd = {
   description,
   url,
   datePublished: "2026",
+  copyrightYear: 2026,
+  isFamilyFriendly: true,
+  typicalAgeRange: "16+",
+  audience: {
+    "@type": "PeopleAudience",
+    suggestedMinAge: 16,
+    audienceType:
+      "Readers of literary fantasy, epic fantasy, and character-driven fantasy. Fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, Ursula K. Le Guin, and Tad Williams.",
+  },
+  wordCount: 153000,
+  about: [
+    { "@type": "Thing", name: "Memory" },
+    { "@type": "Thing", name: "Magic systems" },
+    { "@type": "Thing", name: "Sacrifice" },
+    { "@type": "Thing", name: "Loss and grief" },
+    { "@type": "Thing", name: "Found family" },
+    { "@type": "Thing", name: "Coming of age" },
+    { "@type": "Thing", name: "Power and its cost" },
+    { "@type": "Thing", name: "World building" },
+  ],
   publisher: {
     "@type": "Organization",
     name: "Stillfire Press",
     url: "https://stillfirepress.com",
+    description:
+      "Independent fantasy press founded by father-son duo Justin and Carter Cronk. Blockchain-verified authorship. Buy direct from the authors.",
     parentOrganization: {
       "@type": "Organization",
       name: "Cronk Companies, LLC",
@@ -146,13 +170,41 @@ const jsonLd = {
     availability: "https://schema.org/InStock",
     url: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
   },
+  workExample: [
+    {
+      "@type": "Book",
+      name: "Man Amongst the Clouds: Part I — The Still Water",
+      bookEdition: "Part I",
+      bookFormat: "EBook",
+      description:
+        "Prologue and Chapters 1–10. Aelo has lived in silence for fifteen years, raised by a scarred old man in a village too small to have a name. When the herbs fail and the silence breaks, he discovers magic is memory — and he can hear all of it.",
+      offers: {
+        "@type": "Offer",
+        price: "2.99",
+        priceCurrency: "USD",
+        availability: "https://schema.org/InStock",
+      },
+    },
+    {
+      "@type": "Book",
+      name: "Man Amongst the Clouds: Part II — The Waking",
+      bookEdition: "Part II",
+      bookFormat: "EBook",
+      description:
+        "The journey out of silence and into the larger world. Aelo begins to learn what magic costs — and what it means to be heard.",
+      offers: {
+        "@type": "Offer",
+        availability: "https://schema.org/PreOrder",
+      },
+    },
+  ],
   sameAs: [
     "https://stillfirepress.com",
     "https://ashtofury.com",
     "https://www.facebook.com/profile.php?id=61583731204411",
   ],
   keywords:
-    "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published, magic is memory, fantasy books where magic has a cost, books like Name of the Wind",
+    "literary fantasy, magic system, memory magic, epic fantasy, indie fantasy, debut novel, self-published, magic is memory, fantasy books where magic has a cost, books like Name of the Wind, books like Assassin's Apprentice, books like Tigana, books like A Wizard of Earthsea, best fantasy books 2026, new fantasy novels 2026, fantasy novels about memory, fantasy novels about sacrifice, fantasy novels with unique magic systems, character-driven fantasy, literary fiction meets fantasy, dark fantasy with heart, fantasy debut novels, indie fantasy books, buy fantasy books direct from author",
   mainEntityOfPage: `${url}/the-book`,
 };
 
@@ -160,15 +212,79 @@ const websiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Man Amongst the Clouds",
+  alternateName: "MATC",
   url,
   description,
+  inLanguage: "en",
   author: {
     "@type": "Person",
     name: "Justin Cronk",
   },
-  potentialAction: {
-    "@type": "ReadAction",
-    target: url,
+  publisher: {
+    "@type": "Organization",
+    name: "Stillfire Press",
+    url: "https://stillfirepress.com",
+  },
+  potentialAction: [
+    {
+      "@type": "SearchAction",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: `${url}/chapters/{search_term}`,
+      },
+      "query-input": "required name=search_term",
+    },
+    {
+      "@type": "ReadAction",
+      target: `${url}/read/part-one`,
+    },
+  ],
+};
+
+const organizationJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Stillfire Press",
+  alternateName: "Stillfire",
+  url: "https://stillfirepress.com",
+  description:
+    "Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network. Readers buy direct from the authors — 97% of every sale goes to the writer. No middlemen, no distributors, no algorithms.",
+  foundingDate: "2026",
+  founder: [
+    {
+      "@type": "Person",
+      name: "Justin Cronk",
+      jobTitle: "Co-Founder & Author",
+      url: `${url}/about-the-author`,
+    },
+    {
+      "@type": "Person",
+      name: "Carter Cronk",
+      jobTitle: "Co-Founder & Author",
+      url: "https://ashtofury.com",
+    },
+  ],
+  parentOrganization: {
+    "@type": "Organization",
+    name: "Cronk Companies, LLC",
+  },
+  sameAs: [
+    "https://stillfirepress.com",
+    "https://www.manamongsttheclouds.com",
+    "https://ashtofury.com",
+    "https://www.facebook.com/profile.php?id=61583731204411",
+  ],
+  knowsAbout: [
+    "Literary Fantasy",
+    "Dark Fantasy",
+    "Independent Publishing",
+    "Blockchain-Verified Authorship",
+    "Direct-to-Reader Publishing",
+  ],
+  contactPoint: {
+    "@type": "ContactPoint",
+    contactType: "customer service",
+    url: "https://stillfirepress.com/contact",
   },
 };
 
@@ -187,6 +303,12 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationJsonLd),
+          }}
         />
       </head>
       <body
