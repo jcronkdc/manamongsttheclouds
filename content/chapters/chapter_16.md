@@ -6,15 +6,15 @@
 
 The shaft opened like a mouth in the earth.
 
-They found it where the elder woman had said they would — at the Canopy's southern edge, where the trees thinned and the soil grew rocky and the whispers in the wood faded to a murmur and then to silence, the specific silence of a forest ending, of wood giving way to stone and the living memory of growth being replaced by the older, slower, infinitely more patient memory of mineral and pressure and the long geological conversation that stone conducts with itself across millennia. The entrance was concealed beneath a shelf of granite overgrown with Canopy creeper — thick, woody vines that had spent a century reclaiming the stonework, threading through mortar joints and prying apart the fitted blocks with the gentle, implacable persistence of living things.
+They found it where the elder woman had said they would — at the Canopy's southern edge, where the trees thinned and the soil grew rocky and the whispers in the wood faded to a murmur and then to silence, the silence of a forest ending, of wood giving way to stone and the living memory of growth being replaced by the older, slower, infinitely more patient memory of mineral and pressure and the long geological conversation that stone conducts with itself across millennia. The entrance was concealed beneath a shelf of granite overgrown with Canopy creeper — thick, woody vines that had spent a century reclaiming the stonework, threading through mortar joints and prying apart the fitted blocks with the gentle, implacable persistence of living things.
 
-Jalo found it by touch. Not by the Know — by memory, the mortal kind, the unremarkable human ability to recall a place you have been before and navigate back to it by the feel of the ground beneath your feet and the angle of the light through the trees and the particular quality of silence that distinguishes one stretch of forest from another. He placed his palm on the granite shelf and his fingers — numb at the tips, the Mold's price still collecting, the sensation ending at the second knuckle where the living nerve met the dead — found a groove in the stone that was not natural. A carved channel, thumb-width, running the length of the shelf and terminating at a seam that was invisible to the eye but legible to the hand.
+Jalo found it by touch. Not by the Know — by memory, the mortal kind, the unremarkable human ability to recall a place you have been before and navigate back to it by the feel of the ground beneath your feet and the angle of the light through the trees and the particular quality of silence that distinguishes one stretch of forest from another. He placed his palm on the granite shelf and his fingers, numb at the tips, the sensation ending at the second knuckle where the living nerve met the dead, found a groove in the stone that was not natural. A carved channel, thumb-width, running the length of the shelf and terminating at a seam that was invisible to the eye but legible to the hand.
 
-"Here," he said. He pressed. The seam widened — not mechanically but organically, the stone remembering a different configuration the way a muscle remembers a stretch, the fitted blocks separating along lines that had been established by a Molder decades ago and that the stone had maintained in its mineral memory ever since. The shelf split. Beneath it: darkness, and the smell of deep earth — wet stone, mineral dust, the cold exhalation of a space that had not breathed surface air in years.
+"Here," he said. He pressed. The seam widened — not mechanically but organically, the stone remembering a different configuration, the fitted blocks separating along lines that had been established by a Molder decades ago and that the stone had maintained in its mineral memory ever since. The shelf split. Beneath it: darkness, and the smell of deep earth — wet stone, mineral dust, the cold exhalation of a space that had not breathed surface air in years.
 
 Stairs descended. Cut from the bedrock, each step worn smooth by generations of feet, the treads dished in the center by the accumulated passage of people who had used this route when the routes between regions were open and the gates were maintained and travel was not a crime punishable by draining. The stairs were wide — wide enough for three abreast, wide enough for the Core people, who were large, who built everything to accommodate the bodies that generations of underground labor had made them.
 
-"How far down?" Aelo asked. The darkness below was absolute. Not the darkness of night, which carries the memory of the day that preceded it and the anticipation of the dawn that will follow. This was the darkness of depth — permanent, structural, the darkness of a place that has never known light and does not miss it.
+"How far down?" Aelo asked. The darkness below was absolute. Not the darkness of night. The darkness of depth: permanent, structural, a place that has never known light and does not miss it.
 
 "Far," Jalo said. "Hold the stone."
 
@@ -24,23 +24,21 @@ They descended.
 
 ---
 
-The transition happened in stages.
+The sky went first. The shaft narrowed above them as they descended, the circle of grey daylight shrinking from a window to a porthole to a coin to a pinprick to nothing, and then the darkness was complete and the only light was the faint amber pulse of Jalo's staff, held ahead of them like a lantern, the wood's embedded memory producing a warm, steady glow that illuminated three steps ahead and left everything else to the imagination.
 
-First: the disappearance of the sky. The shaft narrowed above them as they descended, the circle of grey daylight shrinking from a window to a porthole to a coin to a pinprick to nothing, and then the darkness was complete and the only light was the faint amber pulse of Jalo's staff, held ahead of them like a lantern, the wood's embedded memory producing a warm, steady glow that illuminated three steps ahead and left everything else to the imagination.
+Then the air changed. It was cool, constant, heavy with mineral content, tasting of iron and limestone and the faint, sweet alkalinity of water that had been filtering through rock for centuries. Aelo breathed it and felt the world above recede — not vanish, but attenuate, each layer of rock adding another filter between his Know and the noise above.
 
-Second: the change in the air. Surface air carries the memory of weather — sun and wind and the accumulated thermal signature of a sky that changes by the hour. Underground air carries the memory of stone. It was cool, constant, heavy with mineral content, tasting of iron and limestone and the faint, sweet alkalinity of water that had been filtering through rock for centuries. Aelo breathed it and felt the world above recede — not vanish, but attenuate, the way a sound attenuates with distance, the emotional weather of the surface thinning as the stone thickened around them, each layer of rock adding another filter between his Know and the noise above.
+Then the sound. Or rather, the absence of it, replaced by a presence. The Canopy had whispered, wood and wind and the vegetable conversation of living things. The Ming had hummed, the sustained tone of the Elder Stone beneath the lake. The Core was silent in the way that very large things are silent — the silence of mass, of density, of a material so compacted by time and pressure that the individual memories within it had been fused into a single, undifferentiated continuum. The stone did not whisper. The stone did not hum. The stone _was_. It existed with such totality, such absolute commitment to the fact of its own presence, that the existence itself was a kind of sound — a bass note too low to hear but too pervasive to ignore, felt in the bones rather than the ears, a vibration that said: _I am here. I have always been here._
 
-Third: the sound. Or rather, the absence of it, replaced by a presence. The Canopy had whispered — wood and wind and the vegetable conversation of living things. The Ming had hummed — the sustained, complex tone of the Elder Stone beneath the lake. The Core was silent in the way that very large things are silent — the silence of mass, of density, of a material so compacted by time and pressure that the individual memories within it had been fused into a single, undifferentiated continuum. The stone did not whisper. The stone did not hum. The stone _was_. It existed with such totality, such absolute commitment to the fact of its own presence, that the existence itself was a kind of sound — a bass note too low to hear but too pervasive to ignore, felt in the bones rather than the ears, a vibration that said: _I am here. I have always been here._
-
-Aelo held the lake stone tighter. The riverbed held. But the Core's mineral presence pressed against it from all sides — not aggressively, not the way the Ming lake had pressed, but with the patient, indifferent weight of something that did not care whether he was overwhelmed or not because it would continue to exist either way.
+Aelo held the lake stone tighter. The riverbed held. But the Core's mineral presence pressed against it from all sides — without aggression, with the patient, indifferent weight of something that did not care whether he was overwhelmed or not because it would continue to exist either way.
 
 "You feel it," Jalo said. Not a question.
 
 "The stone is — it's everywhere. It's not like the trees or the water. The trees wanted to talk. The water wanted to remember. The stone doesn't want anything. It just _is_."
 
-"That's why the Mold is the hardest discipline to learn. The Know works through empathy — you feel what the world feels. The Mold requires you to speak to something that doesn't feel at all. Stone has memory, but it has no desire. To reshape it, you have to convince it that the shape you're offering is something it already was."
+"That's why the Mold is the hardest discipline to learn. Stone has memory, but it has no desire. To reshape it, you have to convince it that the shape you're offering is something it already was."
 
-The stairs ended. The shaft opened into a passage — broader, higher, the ceiling lost in darkness above them. The amber staff-light caught the walls and Aelo saw: carvings. Not decorative — structural. The passage walls had been Molded, the raw bedrock reshaped into smooth, fitted surfaces that joined at precise angles, the craftsmanship so fine that the seams between reshaped sections were invisible, the stone flowing from one surface to the next with the continuity of a thing that had always been this shape and had merely been waiting for someone to reveal it.
+The stairs ended. The shaft opened into a passage — broader, higher, the ceiling lost in darkness above them. The amber staff-light caught the walls and Aelo saw: carvings. Not decorative. Structural. The passage walls had been Molded, the raw bedrock reshaped into smooth, fitted surfaces that joined at precise angles, the craftsmanship so fine that the seams between reshaped sections were invisible, the stone flowing from one surface to the next with the continuity of a thing that had always been this shape and had merely been waiting for someone to reveal it.
 
 "Core work," Jalo said. There was something in his voice — respect, the particular respect of a man who had been trained to fight and heal and who recognized in the Molders' craft a discipline as demanding and as beautiful as his own. "This passage is three hundred years old. The stone still holds. The Mold was so clean that the rock accepted the new shape as memory — it doesn't remember being anything else."
 
@@ -48,31 +46,31 @@ They walked. The passage branched — left, right, smaller tunnels splitting fro
 
 Then: light.
 
-Not the amber glow of Jalo's staff. Not the blue-green bioluminescence of the Ming. Something else — warmer, richer, pulsing with a slow rhythm that was not mechanical but organic. The walls ahead glowed. Veins of crystal ran through the bedrock — thin, branching, luminous — producing a light that was the color of honey and firelight combined, a golden warmth that seemed to come from inside the stone itself, as if the rock were remembering a sun it had never seen.
+Not Jalo's amber glow or the Ming's blue-green bioluminescence. Something warmer, richer, pulsing with a slow rhythm that was not mechanical but organic. The walls ahead glowed. Veins of crystal ran through the bedrock — thin, branching, luminous — producing a light that was the color of honey and firelight combined, a golden warmth that seemed to come from inside the stone itself, as if the rock were remembering a sun it had never seen.
 
 The passage opened. The ceiling rose. The walls fell away. And Aelo stopped walking, because the space that opened before him was not a room or a hall or a cavern but a _world_.
 
 The underground city of the Core.
 
-It stretched in every direction — vast, vertical, carved into the living rock over centuries of patient, extraordinary Molding. Buildings rose from the cavern floor and descended from the cavern ceiling, the architecture defying the surface world's assumption that structures must grow upward from a foundation. Here, buildings grew in all directions — columns of shaped stone connecting floor to ceiling, each one a dwelling or a workshop or a storehouse, the interiors visible through windows cut with geometric precision. Bridges spanned the gaps between columns — arched, elegant, the stone so thin it seemed impossible that it could hold weight, but it held, because the stone remembered being strong and the Molders who had shaped it had been specific in their asking.
+It stretched in every direction, vast, vertical, carved into the living rock over centuries of patient, extraordinary Molding. Buildings rose from the cavern floor and descended from the cavern ceiling, the architecture defying the surface world's assumption that structures must grow upward from a foundation. Here, buildings grew in all directions — columns of shaped stone connecting floor to ceiling, each one a dwelling or a workshop or a storehouse, the interiors visible through windows cut with geometric precision. Bridges spanned the gaps between columns, arched, elegant, the stone so thin it seemed impossible that it could hold weight, but it held, because the stone remembered being strong and the Molders who had shaped it had been specific in their asking.
 
-The crystal veins ran everywhere — through walls, across ceilings, down the faces of columns — producing the golden light that filled the cavern with a warmth that was not heat but memory. The light of the first fire, sustained by the earth's own recollection of the moment when the world was young and the first flame had burned and the stone had been close enough to remember the warmth of it.
+The crystal veins ran everywhere, through walls, across ceilings, down the faces of columns, producing the golden light that filled the cavern with a warmth that was not heat but memory. The light of the first fire, sustained by the earth's own recollection of the moment when the world was young and the first flame had burned and the stone had been close enough to remember the warmth of it.
 
 And people. Hundreds of them, moving through the streets and across the bridges and in and out of the column-dwellings with the unhurried confidence of people who had been living underground for so long that the underground was not a shelter but a home. They were large — Aelo had thought Jalo was big, but the Core people made Jalo look moderate. Broad-shouldered, thick-limbed, dense in the way that stone is dense, their bodies shaped by generations of labor in enclosed spaces. Their skin was pale — not the pallor of sickness but the paleness of people whose ancestors had not seen sunlight in centuries, a mineral paleness, the color of limestone, as if their bodies had begun to remember the stone they lived inside.
 
-"Welcome to the Deep," Jalo said. There was something in his voice that Aelo had never heard before — not quite joy, not quite nostalgia, but the specific emotional frequency of a man returning to a place where he had once been happy and finding it still standing.
+"Welcome to the Deep," Jalo said. There was something in his voice that Aelo had never heard before. Not quite joy, not quite nostalgia, but the specific emotional frequency of a man returning to a place where he had once been happy and finding it still standing.
 
 ---
 
 Torvus found them before they found him.
 
-The sound came first — a laugh, enormous, echoing through the cavern with the resonance of a sound produced by a chest cavity the size of a barrel and amplified by stone walls that had been unconsciously Molded over decades to carry one man's specific frequency. The laugh bounced off the columns and the bridges and the crystal-veined ceiling and arrived at Aelo's ears from six directions simultaneously, surrounding him in the sonic evidence of a man who was delighted and wanted the entire underground to know it.
+The sound came first — a laugh, enormous, echoing through the cavern with the resonance of a sound produced by a chest cavity the size of a barrel and amplified by stone walls that had been unconsciously Molded over decades to carry one man's frequency. The laugh bounced off the columns and the bridges and the crystal-veined ceiling and arrived at Aelo's ears from six directions simultaneously, surrounding him in the sonic evidence of a man who was delighted and wanted the entire underground to know it.
 
-Then the man himself. Emerging from a side passage with the casual momentum of a boulder that has decided to roll — not fast, but unstoppable, the mass of him generating its own gravity. Torvus was the largest human being Aelo had ever seen. Not tall — not dramatically taller than Jalo — but _wide_. Wide the way a tree trunk is wide, the way a stone column is wide, the width of something that has been built to bear weight and has accepted the bearing as its defining characteristic. His shoulders were the width of a doorframe. His hands — and Aelo stared at the hands, because the hands were the story — were enormous, scarred, calloused, and held at his sides with the specific looseness of appendages that their owner could no longer feel.
+Then the man himself. Emerging from a side passage with the casual momentum of a boulder that has decided to roll — not fast, but unstoppable, the mass of him generating its own gravity. Torvus was the largest human being Aelo had ever seen. Not dramatically taller than Jalo, but _wide_. Wide the way a tree trunk is wide, the way a stone column is wide, the width of something that has been built to bear weight and has accepted the bearing as its defining characteristic. His shoulders were the width of a doorframe. His hands, and Aelo stared at the hands because the hands were the story, were enormous, scarred, calloused, and held at his sides with the looseness of appendages that their owner could no longer feel.
 
-His face was a landscape of expression — broad, mobile, every feature in constant motion. Eyes that crinkled. Mouth that curved. Brows that rose and fell. In a world of people who guarded their expressions — the Ming's equilibrium, Jalo's defended stoicism, Sereth's layered performance — Torvus's face was an open field. Everything he felt was on it, immediately, unedited, produced by muscles that had never learned to suppress and a personality that considered suppression a waste of the face's potential.
+His face was a landscape of expression: broad, mobile, every feature in constant motion. Eyes that crinkled. Mouth that curved. Brows that rose and fell. In a world of people who guarded their expressions, the Ming's equilibrium, Jalo's defended stoicism, Sereth's layered performance, Torvus's face was an open field. Everything he felt was on it, immediately, unedited, produced by muscles that had never learned to suppress and a personality that considered suppression a waste of the face's potential.
 
-"Halvar!" The name — Jalo's real name, the name from before — came out of Torvus like a detonation, the consonants cracking off the stone walls, the vowels filling the passage. He crossed the remaining distance in three strides and seized Jalo in an embrace that lifted the smaller man off his feet — bad knee, staff, dignity, and all — and held him there, suspended, while the laugh continued and the cavern rang with it.
+"Halvar!" The name, Jalo's real name, the name from before, came out of Torvus like a detonation, the consonants cracking off the stone walls, the vowels filling the passage. He crossed the remaining distance in three strides and seized Jalo in an embrace that lifted the smaller man off his feet, bad knee, staff, dignity, and all, and held him there, suspended, while the laugh continued and the cavern rang with it.
 
 "Put me down," Jalo said. His voice was muffled by Torvus's chest.
 
@@ -80,11 +78,11 @@ His face was a landscape of expression — broad, mobile, every feature in const
 
 "My knee—"
 
-"Your knee has been complaining for twenty years. It can complain from up here." Torvus held him a moment longer — the embrace of a man who measured affection in pounds of pressure — and then set Jalo down with a gentleness that contradicted everything about his size. "You look terrible."
+"Your knee has been complaining for twenty years. It can complain from up here." Torvus held him a moment longer, the embrace of a man who measured affection in pounds of pressure, then set Jalo down with a gentleness that contradicted everything about his size. "You look terrible."
 
 "You look the same."
 
-"I _am_ the same. That's the beauty of living underground — no sun to age you, no wind to weather you, just stone and time and the slow, dignified process of becoming the thing you live inside." Torvus grinned. The grin was enormous. "Your face, though. The scars have settled. You look distinguished. Like a canyon."
+"I _am_ the same. That's the beauty of living underground. No sun to age you, no wind to weather you, just stone and time and the slow, dignified process of becoming the thing you live inside." Torvus grinned. The grin was enormous. "Your face, though. The scars have settled. You look distinguished. Like a canyon."
 
 "Like a canyon."
 
@@ -94,19 +92,19 @@ Jalo's face did the thing Aelo had been seeing more often since the Ming — the
 
 "I have. I've lost feeling in my elbows. Last year." He said it the way another man might report a haircut — factually, without grief, with the mild interest of someone cataloging a change that was expected and unsurprising. "Can't feel anything below the ears now. Shoulders went at forty. Chest at fifty. The elbows held out longer than I expected, honestly. Stubborn joints, elbows. Last to surrender."
 
-Then his eyes — small, bright, absurdly alive in a face that belonged to a body that was slowly going numb from the outside in — found Aelo.
+Then his eyes, small, bright, absurdly alive in a face that belonged to a body that was slowly going numb from the outside in, found Aelo.
 
-The assessment was not subtle. Torvus looked at Aelo the way a stonemason looks at a block of raw stone — measuring, weighing, evaluating the grain and the density and the structural potential with an attention that was professional rather than personal. He walked around Aelo. He walked around him completely, a full circuit, his enormous body moving with the careful, deliberate steps of a man who could not feel the floor beneath his feet and compensated with visual attention and decades of practice.
+The assessment was not subtle. Torvus looked at Aelo the way a stonemason looks at a block of raw stone, measuring, weighing, evaluating the grain and the density and the structural potential with an attention that was professional rather than personal. He walked around Aelo. He walked around him completely, a full circuit, his enormous body moving with the careful, deliberate steps of a man who could not feel the floor beneath his feet and compensated with visual attention and decades of practice.
 
 "Scrawny," Torvus said.
 
 "He's been on suppression herbs for fifteen years," Jalo said. "He's still growing."
 
-"Good bones, though." Torvus reached out and placed his hand on Aelo's shoulder. The hand was the size of a dinner plate. The weight of it was considerable, even with the gentleness that Torvus applied — and it was gentle, Aelo realized, not because Torvus was being careful but because Torvus had spent decades calibrating his strength to account for a body that could not feel how hard it was pressing. "The frame is there. Just needs filling." He looked at Aelo's face. The bright eyes held something that the assessment had not contained — a warmth, a welcome, the specific frequency of a man who had been told a boy was coming and had been looking forward to the arrival the way one looks forward to an interesting piece of stone. "Can you feel the rock?"
+"Good bones, though." Torvus reached out and placed his hand on Aelo's shoulder. The hand was the size of a dinner plate. The weight of it was considerable, even with the gentleness that Torvus applied, and it was gentle, Aelo realized, not because Torvus was being careful but because Torvus had spent decades calibrating his strength to account for a body that could not feel how hard it was pressing. "The frame is there. Just needs filling." He looked at Aelo's face. The bright eyes held something that the assessment had not contained — a warmth, a welcome, the specific frequency of a man who had been told a boy was coming and had been looking forward to the arrival the way one looks forward to an interesting piece of stone. "Can you feel the rock?"
 
 "I can feel... everything," Aelo said. "The stone is — it's very present."
 
-"Present! Ha!" Torvus's laugh filled the passage again. "Present. Yes. The stone is _present_. The stone is the most present thing in the world. Everything else is temporary — wood rots, water evaporates, fire goes out. Stone remains. Stone is the world's longest memory." He squeezed Aelo's shoulder — carefully, the pressure gauged by sight rather than touch. "Let's see what's in you."
+"Present! Ha!" Torvus's laugh filled the passage again. "Present. Yes. The stone is _present_. The stone is the most present thing in the world. Everything else is temporary: wood rots, water evaporates, fire goes out. Stone remains. Stone is the world's longest memory." He squeezed Aelo's shoulder, carefully, the pressure gauged by sight rather than touch. "Let's see what's in you."
 
 ---
 
@@ -116,21 +114,21 @@ Not by design — or not by deliberate design. It had been carved, over forty ye
 
 "My wife," Torvus said, noticing Aelo's attention. "She died twelve years ago. I carved this the day after. It is the only Mold I have ever done that cost me nothing — or rather, the only one whose cost I did not notice, because the grief was larger than the numbness and the numbness was, for one day, irrelevant." He picked up the figurine with his massive, unfeeling hands, holding it with the precision of a man who had learned to treat delicacy as a visual calculation rather than a tactile one. "Her name was Bren. She could Mold a wall thinner than paper and stronger than iron. She could feel the stone's memory from twenty feet away. When she died, I tried to Mold her likeness from memory, and I discovered that love makes the Mold easier — that the stone _wants_ to hold the shape of the people we love, as if the stone's memory and the heart's memory are, at some depth, the same thing."
 
-He set the figurine down. His face — that open, mobile, endlessly expressive face — held the grief the way the Core held its crystal light: visibly, without apology, without the architectural containment that the Ming would have applied or the defensive compression that Jalo would have used. Torvus grieved openly because openness was the Core's discipline, the way silence was the Ming's, and concealment would have been a failure of craft.
+He set the figurine down. His face, that open, mobile, endlessly expressive face, held the grief visibly, without apology. Torvus grieved openly because openness was the Core's discipline, and concealment would have been a failure of craft.
 
-"Now," he said. The grief did not vanish — it settled, redistributing across the terrain of his expression, finding its place among the other emotions the way a stone finds its place in a riverbed. "Let's teach you to speak to rock."
+"Now," he said. The grief did not vanish. It settled, redistributing across the terrain of his expression, finding its place among the other emotions the way a stone finds its place in a riverbed. "Let's teach you to speak to rock."
 
 He held out his palm. In it: a pebble. Grey, irregular, the size of Aelo's thumbnail. Unremarkable. The kind of stone you would step over without noticing, the kind of stone that existed by the millions in the walls and floors and foundations of the underground city, each one carrying a memory so long and so uneventful that it was, for most purposes, indistinguishable from silence.
 
 "Make it round," Torvus said.
 
-Aelo took the pebble. He held it in his palm. He closed his eyes and reached for the stone the way the Ming had taught him to reach for a person's memory — with attention, with patience, with the specific quality of listening that the teacher at the lake had called the riverbed.
+Aelo took the pebble. He held it in his palm. He closed his eyes and reached for the stone the way the Ming had taught him to reach for a person's memory — with attention, with patience, with the quality of listening that the teacher at the lake had called the riverbed.
 
 Nothing happened.
 
 "I can feel it," Aelo said. "The memory. It's — it's very old. Very compressed. But it's not responding."
 
-"Of course not. You're asking. Stone doesn't care about asking. Stone cares about _knowing_." Torvus took the pebble back, held it between his thumb and forefinger — the grip visual, gauged by pressure he could not feel — and the stone changed. Flowed. Not like water — like a memory being revised, the shape softening from irregular to spherical in the span of a breath, the stone's surface smoothing as if it had always been smooth and had merely been waiting for permission to show it. A perfect sphere. Torvus held it up. "I didn't ask. I knew the shape. I saw it so clearly that the stone had no choice but to remember it. You have to _know_ the shape."
+"Of course not. You're asking. Stone doesn't care about asking. Stone cares about _knowing_." Torvus took the pebble back, held it between his thumb and forefinger — the grip visual, gauged by pressure he could not feel. The stone changed. Flowed. Not like water — like a memory being revised, the shape softening from irregular to spherical in the span of a breath, the stone's surface smoothing as if it had always been smooth and had merely been waiting for permission to show it. A perfect sphere. Torvus held it up. "I didn't ask. I knew the shape. I saw it so clearly that the stone had no choice but to remember it. You have to _know_ the shape."
 
 He pressed the sphere between his palms and it returned to its original shape — irregular, grey, unremarkable. He handed it back.
 
@@ -142,7 +140,7 @@ Aelo failed for two days.
 
 He sat in Torvus's workshop with the pebble in his palm and he reached for the stone's memory and the stone's memory was there — vast, compressed, the record of millennia of pressure and stillness — and it did not respond. He tried knowing the shape. He tried seeing the sphere in his mind, clear and specific and undeniable. The pebble remained a pebble. The stone did not care what he saw. The stone cared only about what it remembered, and what it remembered was being this shape, this irregular, unremarkable shape that it had been for longer than Aelo had been alive, longer than his mother had been alive, longer than Fletcher had been alive.
 
-The Ming training did not help. The riverbed — the resolved depth, the luminous tone — was accessible, but it was a listener's skill, and listening was not what the Mold required. The Mold required speech. Command. The specific confidence of a mind that could look at a piece of the world and say: _I know what you should be_, and mean it with enough conviction that the world believed.
+The Ming training did not help. The riverbed — the resolved depth, the luminous tone — was accessible, but it was a listener's skill, and listening was not what the Mold required. The Mold required speech. Command. The confidence of a mind that could look at a piece of the world and say: _I know what you should be_, and mean it with enough conviction that the world believed.
 
 Aelo did not have that confidence. He had been small and quiet and uncertain for fifteen years. The herbs had compressed not just his body but his sense of himself — the capacity for assertion, for declaration, for the bold, unhedged conviction that the Mold demanded. He could listen with extraordinary depth. He could feel the stone's memory with a precision that made Torvus raise his eyebrows — "You can feel _that_? The glacial layer? Most apprentices don't find that for months" — but feeling was not shaping. Hearing was not speaking.
 
@@ -201,7 +199,7 @@ He looked at Aelo. The bright eyes — the last fully alive things in a body tha
 
 "Halvar," Torvus said, without looking away from Aelo. "What did you bring me?"
 
-Jalo stood in the passage behind them. He had been watching too — Aelo could feel the man's emotional weather from twenty feet away, the complex mixture of pride and fear and the specific, sharp-edged hope of a guardian who has just watched his charge do something that changes the shape of the possible.
+Jalo stood in the passage behind them. He had been watching too — Aelo could feel the man's emotional weather from twenty feet away, the complex mixture of pride and fear and the sharp-edged hope of a guardian who has just watched his charge do something that changes the shape of the possible.
 
 "What I told you I was bringing," Jalo said. "The last one."
 

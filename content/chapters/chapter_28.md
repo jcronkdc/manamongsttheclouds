@@ -6,15 +6,15 @@
 
 The night before they descended, Aelo could not sleep.
 
-The Refuge was quiet — the specific, high-altitude quiet of a community that spoke softly because the sky carried voices for miles and because the Cloud People had learned, over generations of hiding, that silence was not a sacrifice but a survival skill. The fog bank held its grey concealment. The rope bridges swayed in the steady wind. The skystone veins pulsed their cold, pale luminescence — starlight embedded in rock, the mineral memory of altitude and clarity and the thin, bright air that existed above the clouds where the Song lived and where, for a week, Aelo had been learning what his Song was.
+The Refuge was quiet, the high-altitude quiet of a community that spoke softly because the sky carried voices for miles and because the Cloud People had learned, over generations of hiding, that silence was not a sacrifice but a survival skill. The fog bank held its grey concealment. The rope bridges swayed in the steady wind. The skystone veins in the formation, the cold, sharp luminescence that usually colored the Refuge in shades of ice, were dimming.
 
-He sat on the edge of the central formation. His legs dangled over the gap — below him, nothing. Not the nothing of the Murkr, which was absence. This nothing was _space_. Air and distance and the fog that concealed the ground and that made the edge of the formation feel like the edge of the world, the place where the solid ended and the infinite began. The drop was not frightening. The drop was honest. The drop said: _this is how far you have come from the ground. This is the distance between who you were and who you are becoming._
+He sat on the edge of the central formation. His legs dangled over the gap, below him, nothing. Not the nothing of the Murkr, which was absence. This nothing was _space_. Air and distance and the fog that concealed the ground and that made the edge of the formation feel like the edge of the world, the place where the solid ended and the infinite began. The drop was not frightening. The drop was honest. The drop said: _this is how far you have come from the ground. This is the distance between who you were and who you are becoming._
 
-The lake stone was in his numb left hand. The amber mark on his wrist pulsed — faint, steady, the rhythm that had been his companion since birth, the blood-bond that connected him to the man who was, at this moment, walking across the rope bridge behind him with the specific, careful, rationed gait of a person whose bad knee did not appreciate swaying surfaces and whose stubbornness was the only thing keeping the knee from voting to stop entirely.
+The lake stone was in his numb left hand. The amber mark on his wrist pulsed, faint, steady, the rhythm that had been his companion since birth, the blood-bond that connected him to the man who was, at this moment, walking across the rope bridge behind him with the careful, rationed gait of a person whose bad knee did not appreciate swaying surfaces and whose stubbornness was the only thing keeping the knee from voting to stop entirely.
 
-Jalo sat beside him. Not gracefully — the knee protested, the body negotiated, the settling required the specific choreography of a large man lowering himself onto a narrow ledge while compensating for a joint that had been complaining for twenty years and that the Ming's pain-sharing had improved but not silenced. He settled. His legs extended over the edge beside Aelo's. His staff lay across his lap. His face — unwrapped since the Ming, the scars exposed to the sky, the ridged tissue catching the skystone's pale light — was turned upward.
+Jalo sat beside him. Not gracefully — the knee protested, the body negotiated, the settling required the choreography of a large man lowering himself onto a narrow ledge while compensating for a joint that had been complaining for twenty years and that the Ming's pain-sharing had improved but not silenced. He settled. His legs extended over the edge beside Aelo's. His staff lay across his lap. His face — unwrapped since the Ming, the scars exposed to the sky, the ridged tissue catching the skystone's pale light — was turned upward.
 
-Above them, the sky was doing something Aelo had never seen. The stars were present — cold, sharp, the specific high-altitude stars that appeared twice as bright from the Clouds as from the ground because the atmosphere between the viewer and the light was thinner. But among the stars, low on the eastern horizon, a new light was emerging. Not a star. Not the sun. Something else — a deep, electric blue, the color of a sky seen from inside itself. The Blue Sun. The annual event that the Cloud People had been tracking in their calendars since before Fletcher, the phenomenon that empowered the Knower Ceremony, the once-a-year moment when the world's memory was at its brightest and the Song was at its loudest and the sky remembered, for one full day, what it had sounded like before the silence came.
+Above them, the sky was doing something Aelo had never seen. The stars were present — cold, sharp, the high-altitude stars that appeared twice as bright from the Clouds as from the ground because the atmosphere between the viewer and the light was thinner. But among the stars, low on the eastern horizon, a new light was emerging. Not a star. Not the sun. Something else, a deep, electric blue, the color of a sky seen from inside itself. The Blue Sun. The annual event that the Cloud People had been tracking in their calendars since before Fletcher, the phenomenon that empowered the Knower Ceremony, the once-a-year moment when the world's memory was at its brightest and the Song was at its loudest and the sky remembered, for one full day, what it had sounded like before the silence came.
 
 From the Clouds, the Blue Sun was visible longer than anywhere else. It rose slowly — the blue light spreading across the eastern horizon like a stain, dyeing the fog bank beneath them, turning the white to azure, transforming the grey concealment into a luminous, depthless blue that made the Refuge look as if it were floating not above clouds but above the ocean of the sky's own memory.
 
@@ -24,9 +24,7 @@ They sat in the blue light and said nothing for a long time.
 
 ---
 
-"Your name," Jalo said. "Do you know what it means?"
-
-The words arrived in the silence between them the way the Blue Sun arrived in the sky — not suddenly but by accumulation, the light growing until it could no longer be ignored. Aelo turned. Jalo was not looking at him. Jalo was looking at the Blue Sun, at the azure fog, at the sky that was remembering itself, and his voice had the specific quality of a man who has been rehearsing a speech for fifteen years and is now delivering it to an audience that is not the sky but a boy, and the boy is the sky, and the distinction has never mattered less.
+The words arrived in the silence between them the way the Blue Sun arrived in the sky — not suddenly but by accumulation, the light growing until it could no longer be ignored. Aelo turned. Jalo was not looking at him. Jalo was looking at the Blue Sun, at the azure fog, at the sky that was remembering itself, and his voice had the quality of a man who has been rehearsing a speech for fifteen years and is now delivering it to an audience that is not the sky but a boy, and the boy is the sky, and the distinction has never mattered less.
 
 "You told me it was a family name," Aelo said.
 
@@ -48,7 +46,7 @@ He turned his head. He looked at Aelo. Both eyes — the clear one and the lidde
 
 ---
 
-The Blue Sun climbed. The blue light deepened — the azure becoming sapphire, the sapphire becoming indigo, the sky cycling through shades of its own memory the way a person cycles through layers of feeling when the feeling is too complex for a single expression. The Refuge floated in it — five formations of stone and rope and skystone luminescence, suspended in a sky that was remembering what it sounded like when the Song was whole.
+The Blue Sun climbed. The temperature shifted with it — the cold sharpening, the fog below them thinning at the edges, the air acquiring a hum that had not been there before, a vibration that lived just beneath hearing and that pressed against the skin the way altitude presses against the eardrums. The Refuge floated in it — five formations of stone and rope and skystone luminescence, suspended in a sky that was remembering what it sounded like when the Song was whole.
 
 "You were the Vael Guard," Aelo said. Not a question. The words were the capstone of a structure that had been building since the hollow tree — since the first confession, the first truth, the first crack in the wall between guardian and charge.
 
@@ -62,7 +60,7 @@ The Blue Sun climbed. The blue light deepened — the azure becoming sapphire, t
 
 "Because names are memories. And if the wrong person remembered mine, you'd be dead. The Vael Guard was hunted. Every member. Varas burned the order to ash on the night of the purge — the barracks, the records, the lists. He killed everyone who carried the name. If a single surviving Guardsman was identified, the Mrak Patrol would follow the connection from the Guard to the charge, and the charge was you. My name was the thread. I cut it."
 
-Aelo looked at his wrist. The mark — the amber pulse, steady, synchronized with Jalo's heartbeat and with a deeper rhythm beneath both, the rhythm of the Vael oath, the bond that connected guardian to charge through blood and magic and the specific, ancient, unbreakable commitment of an order that had existed before kingdoms. The mark had been there since birth. He had looked at it every morning. He had felt it pulse against his skin. He had asked about it once, when he was seven, and Jalo had said: _birthmark_.
+Aelo looked at his wrist. The mark — the amber pulse, steady, synchronized with Jalo's heartbeat and with a deeper rhythm beneath both, the rhythm of the Vael oath, the bond that connected guardian to charge through blood and magic and the ancient, unbreakable commitment of an order that had existed before kingdoms. The mark had been there since birth. He had looked at it every morning. He had felt it pulse against his skin. He had asked about it once, when he was seven, and Jalo had said: _birthmark_.
 
 Another lie. Another necessary lie. Another brick in the wall that had been built to protect the boy by keeping the boy ignorant, the wall that had been necessary and cruel and was now, in the blue light of the Blue Sun, coming down.
 
@@ -80,11 +78,11 @@ Aelo's eyes burned. The tears came — not the ocean tears, not the Song's recog
 
 "Tell me."
 
-Jalo looked at the Blue Sun. The light on his face — the scarred side and the smooth side, both illuminated by the same azure glow — produced a quality that Aelo had never seen on the man's features. Not peace. Not acceptance. Exhaustion. The specific, terminal exhaustion of a man who has been carrying a truth for fifteen years and is about to set it down and knows that the setting-down will be the heaviest act of the carrying.
+Jalo looked at the Blue Sun. The light on his face — the scarred side and the smooth side, both illuminated by the same azure glow — produced a quality that Aelo had never seen on the man's features. Not peace. Not acceptance. Exhaustion. The terminal exhaustion of a man who has been carrying a truth for fifteen years and is about to set it down and knows that the setting-down will be the heaviest act of the carrying.
 
 "The prophecy. You've heard pieces. From Sereth, from the Seers, from the way people look at you when they feel what you are. But you haven't heard the words. The actual words, as they were spoken by the last Cloud Seer who could read the trajectory of the Song."
 
-He was quiet for a moment. The Blue Sun climbed. The words, when they came, were recited — not remembered but inhabited, the syllables carrying the wear of fifteen years of nightly repetition, the specific patina of a sentence that has been spoken silently ten thousand times.
+He was quiet for a moment. The Blue Sun climbed. The words, when they came, were recited — not remembered but inhabited, the syllables carrying the wear of fifteen years of nightly repetition, the patina of a sentence that has been spoken silently ten thousand times.
 
 "'The one of Fletcher's blood will Sing, and in Singing, cease.'"
 
@@ -104,15 +102,15 @@ The words were out. The truth was out. The fifteen years were out — the herbs,
 
 Aelo took Jalo's hand.
 
-The hand — the hand that had mixed the herbs and carried the baby through fire. The hand was shaking. The fingers were trembling with the specific frequency of a man who has just set down a weight he was not sure he could survive without.
+The hand — the hand that had mixed the herbs and carried the baby through fire. The hand was shaking. The fingers were trembling with the frequency of a man who has just set down a weight he was not sure he could survive without.
 
 "You did both," Aelo said. "You hid me and you prepared me. I wasn't ready before. I am now. Because of you."
 
-The words were not adequate. No words were adequate for the thing that lived between them — the fifteen years, the herbs, the love that had been expressed as silence and porridge and a locked cabinet and the specific, devastating, unreplicable music of a man showing up every morning for a child who did not know what the showing up cost. But the words were true. And the truth, inadequate as it was, was the only thing that could reach Jalo now — the only bridge that could cross the gap between a man who believed he was a coward and a boy who knew he was not.
+The words were not adequate. No words were adequate for the thing that lived between them — the fifteen years, the herbs, the love that had been expressed as silence and porridge and a locked cabinet and the devastating, unreplicable music of a man showing up every morning for a child who did not know what the showing up cost. But the words were true. And the truth, inadequate as it was, was the only thing that could reach Jalo now — the only bridge that could cross the gap between a man who believed he was a coward and a boy who knew he was not.
 
 Jalo's hand tightened on Aelo's. The grip — the grip that Aelo could not feel because the Mold had taken his hands but that the Know could read as a frequency of pure, unarchitected, defenseless gratitude — tightened and held.
 
-They sat on the edge of the sky. The Blue Sun rose — the light deepening from indigo to a blue so bright it was almost white, the specific, annual blue that the Cloud People had been watching since before Fletcher, the light that meant: the world remembers. The world is remembering right now. The memory is at its brightest and the Song is at its loudest and the sky is the sky and the boy is the boy and the man is the man and the morning is coming.
+They sat on the edge of the sky. The Blue Sun rose — the light deepening from indigo to a blue so bright it was almost white, the annual blue that the Cloud People had been watching since before Fletcher, the light that meant: the world remembers. The world is remembering right now. The memory is at its brightest and the Song is at its loudest and the sky is the sky and the boy is the boy and the man is the man and the morning is coming.
 
 Neither of them spoke again until the Blue Sun cleared the horizon and the light changed from memory to day and the fog below burned off and the world was visible — all seven regions, spread beneath them like a map of everything that had been and everything that would be and everything that the Song, if it was sung, would remind.
 

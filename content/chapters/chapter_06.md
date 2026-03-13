@@ -6,9 +6,9 @@
 
 Halvar Eld had not been drunk in forty-seven hours, and his hands remembered every one of them.
 
-Two days in the hollow. Two days of watching the boy sleep and wake and sleep again, his body burning through the last of the herbs the way a furnace burns through kindling — fast, hot, leaving nothing but ash and the raw thing underneath. Two days of Halvar gripping the staff and listening to the forest and feeling the pursuit somewhere to the north, the Mrak Patrol reorganizing, the distance between them and the hunters shrinking by increments he could measure in his Molder's bones.
+Two days in the hollow. Two days of watching the boy sleep and wake and sleep again, his body burning through the last of the herbs the way a furnace burns through kindling, fast, hot, leaving nothing but ash and the raw thing underneath. Two days of Halvar gripping the staff and listening to the forest and feeling the pursuit somewhere to the north, the Mrak Patrol reorganizing, the distance between them and the hunters shrinking by increments he could measure in his Molder's bones.
 
-His hands shook. Not the manageable tremor that Aelo mixed the Fiddleroot for — not the morning flutter that could be steadied by gripping a cup or pressing palms flat against wood. This was withdrawal in full: a vibration that started in the fingers and ran up the forearms and settled in the shoulders until his entire body was a single, sustained note of need. The bottle from the cottage was gone — left on the table, beside the chair with the bad leg, in a life that no longer existed. He had not packed it. Fifteen years of contingency planning — the escape route memorized, the pack pre-loaded, the staff maintained, the safehouse stocked — and he had not packed the bottle.
+His hands shook. Not the manageable tremor that Aelo mixed the Fiddleroot for, not the morning flutter that could be steadied by gripping a cup or pressing palms flat against wood. This was withdrawal in full: a vibration that started in the fingers and ran up the forearms and settled in the shoulders until his entire body was a single, sustained note of need. The bottle from the cottage was gone — left on the table, beside the chair with the bad leg, in a life that no longer existed. He had not packed it. Fifteen years of contingency planning — the escape route memorized, the pack pre-loaded, the staff maintained, the safehouse stocked. And he had not packed the bottle.
 
 Because the bottle was not part of the plan. The bottle was part of the man, and the man was supposed to be disposable.
 
@@ -60,7 +60,7 @@ Three days after the nursery. A river in the deep Canopy, cold and clear, the cu
 
 Not dead yet. But dead soon, if the face remained. Halvar Eld was known. Captain of the Vael Guard. Broad jaw, grey-green eyes, the scar across the bridge of the nose where a training blade had caught him at seventeen. Every Mrak Patrol in the kingdom carried a description. Every bounty hunter, every informant, every frightened villager who might trade a stranger's identity for the promise of being left alone. The face was a death sentence — not for him, but for the baby sleeping in the sling on his chest.
 
-He had thought about it for three days. Had tried to find another way. Mold magic could reshape the bones — but Mold magic required a Molder, and every Molder he trusted was dead or imprisoned. Know magic could alter perception — but the Know was the discipline most thoroughly monitored by Varas's trackers, and any use of it would light a beacon that could be seen from the castle. Heal magic could repair tissue — but Heal could not unmake. It could mend what was broken; it could not break what was whole.
+He had thought about it for three days. Had tried to find another way. Mold magic could reshape the bones, but Mold magic required a Molder, and every Molder he trusted was dead or imprisoned. Know magic could alter perception, but the Know was the discipline most thoroughly monitored by Varas's trackers, and any use of it would light a beacon that could be seen from the castle. Heal magic could repair tissue, but Heal could not unmake. It could mend what was broken; it could not break what was whole.
 
 Fire could.
 
@@ -84,9 +84,9 @@ _The garden._
 
 Before the purge. Before the fire, before the blade, before the bottle and the herbs and the fifteen years of mornings. Before all of it — there was a garden.
 
-The Cloud Palace sat at the highest point of the Cloud Kingdom, on a floating stone so vast it carried its own weather — a mass of ancient rock held aloft by Move magic so old it had become self-sustaining. Above the permanent mist line, where the sky opened in every direction and you could see three regions at once on a clear day, the world reduced to a blue so deep and so unbroken that it stopped being a color and became a feeling. The air was thin. Sound carried strangely — voices arrived before you expected them, as if the altitude compressed the distance between speaking and hearing. Light behaved differently too; sunrises lasted for hours up here, the dawn stretching itself across the horizon like something unwilling to end, painting the stone in golds and ambers that deepened so slowly you could watch a single shadow move across the terrace for the length of a meal and still not see it reach the wall.
+The Cloud Palace sat at the highest point of the Cloud Kingdom, on a floating stone so vast it carried its own weather, a mass of ancient rock held aloft by Move magic so old it had become self-sustaining. Above the permanent mist line, where the sky opened in every direction and you could see three regions at once on a clear day, the world reduced to a blue so deep and so unbroken that it stopped being a color and became a feeling. The air was thin. Sound carried strangely — voices arrived before you expected them, as if the altitude compressed the distance between speaking and hearing. Light behaved differently too; sunrises lasted for hours up here, the dawn stretching itself across the horizon like something unwilling to end, painting the stone in golds and ambers that deepened so slowly you could watch a single shadow move across the terrace for the length of a meal and still not see it reach the wall.
 
-The garden was Maera's. She had grown it from that terrace — not with Mold magic, which would have been faster, but with the Sing, which was slower and stranger and produced results that no other discipline could replicate. The flowers did not merely grow. They _remembered growing_. Each petal carried the memory of every petal that had come before it, and the garden, over years, had become a kind of library — a living archive of blooming, encoded in color and scent and the particular way the stems bent toward the light. At this altitude, the blooms grew in colors that did not exist at ground level — blues that were almost violet, whites that held the faintest trace of gold, as if the flowers had learned the palette of the long Cloud sunrises and refused to use any other.
+The garden was Maera's. She had grown it from that terrace — not with Mold magic, which would have been faster, but with the Sing; slower, stranger, producing results that no other discipline could replicate. The flowers did not merely grow. They _remembered growing_. Each petal carried the memory of every petal that had come before it, and the garden, over years, had become a kind of library — a living archive of blooming, encoded in color and scent and the particular way the stems bent toward the light. At this altitude, the blooms grew in colors that did not exist at ground level — blues that were almost violet, whites that held the faintest trace of gold, as if the flowers had learned the palette of the long Cloud sunrises and refused to use any other.
 
 Halvar had stood guard in that garden a thousand times. It was his post — the morning shift, dawn to noon, watching the Queen of the Clouds sing to her flowers while the King watched from the balcony above and the infant prince toddled between the beds, trying to catch the wisps of cloud that Maera's voice pulled down from the sky.
 
@@ -98,7 +98,7 @@ Halvar remembered: a morning in the garden, early spring, the clouds low enough 
 
 Halvar had stood at the garden gate and felt the song move through him — through the stone beneath his feet, through the leather of his armor, through the bones of his chest — and he had thought: _This is what I am protecting. This morning. This family in this garden on this day when the clouds are low enough for a boy to reach._
 
-He could not have known, then, what the garden would cost. That Varas would come. That Aldric and Vero would be taken. That Maera — the Queen who Sang the flowers into memory, the last of the Cloud Singers, the woman who carried Fletcher's bloodline not through Aldric's distant, diluted echo but through the direct, unbroken line of Singers who had passed the Song from mother to daughter for three hundred years — would be left alone in a kingdom that no longer existed, carrying a second child she would not live to raise.
+He could not have known, then, what the garden would cost. That Varas would come. That Aldric and Vero would be taken. That Maera, the Queen who Sang the flowers into memory, the last of the Cloud Singers, the woman who carried Fletcher's bloodline through the direct, unbroken line of Singers who had passed the Song from mother to daughter for three hundred years, would be left alone in a kingdom that no longer existed, carrying a second child she would not live to raise.
 
 Aelo. Aldric's youngest son. Vero's brother. Born in the shadow of the coup, in a palace already falling, to a mother who had nothing left to give him except a lullaby and a pouch of herbs and a guard with a face he would have to destroy.
 
@@ -144,9 +144,11 @@ _The oath._
 
 Twenty-three years old. The day he became Vael Guard. A stone chamber in the Cloud Palace, lit by amber torches, smelling of cedar and iron and the particular quality of ancient air that accumulates in rooms where important things happen. Twelve men in a line. Halvar third from the left. All of them young, all of them whole, all of them believing with the unbreakable conviction of youth that the words they were about to speak would matter.
 
-The Captain — a woman named Sera, silver-haired, who had held the post for thirty years and who moved with the economy of someone for whom every gesture was a statement and no statement was wasted — stood before them.
+The Captain, a woman named Sera, silver-haired, who had held the post for thirty years and who moved with the economy of someone for whom every gesture was a statement and no statement was wasted, stood before them.
 
 "You are the wall," she said. "Between the fire and the song. You will burn before the song goes silent. You will forget your own names before you forget theirs. You will carry what cannot be carried and hold what cannot be held and stand where no one can stand, and when the fire comes — and the fire always comes — you will be the last thing it touches and the first thing the song remembers."
+
+The training had reflected the oath. The Vael Guard did not specialize. Specialization was a weakness: a wall built from one material breaks when that material fails. Sera had trained them in fragments of every discipline: enough Mold to raise a barrier, enough Move to deflect a blade, enough Heal to keep a charge breathing until the real Healers arrived. Halvar's primary was the Mold: the staff, the stone, the conviction-based magic that came naturally to a man whose stubbornness was structural. But Sera had drilled the others into his muscle memory with the relentless, unsentimental efficiency of a woman who understood that a Guardian who could only do one thing was a Guardian who would die the first time that one thing wasn't enough. The fragments were small. The fragments were survival.
 
 Halvar had spoken the oath. Twelve voices in unison:
 
@@ -166,17 +168,17 @@ And then: _But what did I steal from him to keep it?_
 
 Fifteen years of the world's voice. Fifteen years of hearing every tree and every stone and every living thing speak in the language that was his birthright. Fifteen years of silence, administered in half-pinches, swallowed with porridge, the cage built one spoonful at a time by the man who loved him most.
 
-Halvar pressed his forehead to his knees. The shaking intensified. His body wanted the bottle the way a drowning man wants air — not as a desire but as a biological imperative, a system-level demand that bypassed will and arrived in the muscles as a scream.
+Halvar pressed his forehead to his knees. The shaking intensified. His body wanted the bottle the way a drowning man wants air, not as a desire but as a biological imperative, a system-level demand that bypassed will and arrived in the muscles as a scream.
 
 He reached for the supply cache without looking. His hand found the cloth. Found the neck of the bottle underneath. Root wine. He pulled it out.
 
-He held it. The weight was familiar — the calibrated heft of a full bottle. He could feel the liquid shift inside, patient, waiting, offering the same bargain it had offered every night for fifteen years: drink, and the ghosts go quiet; drink, and the boy sleeps undisturbed; drink, and the crack in the foundation fills, temporarily, with something that is not love but occupies the same space.
+He held it. The weight was familiar: the calibrated heft of a full bottle. He could feel the liquid shift inside, patient, waiting, offering the same bargain it had offered every night for fifteen years: drink, and the ghosts go quiet; drink, and the boy sleeps undisturbed; drink, and the crack in the foundation fills, temporarily, with something that is not love but occupies the same space.
 
 He put it down.
 
 He picked it up.
 
-He drank. One long pull. The burn was immediate — not the gentle warmth of a social drink but the medicinal scorch of a man self-administering the only anesthetic available. It hit his stomach and radiated outward and the shaking diminished by half, and the ghosts in his bones lowered their voices, and the crack in the foundation filled with its familiar, temporary sealant.
+He drank. One long pull. The burn was immediate, not the gentle warmth of a social drink but the medicinal scorch of a man self-administering the only anesthetic available. It hit his stomach and radiated outward and the shaking diminished by half, and the ghosts in his bones lowered their voices, and the crack in the foundation filled with its familiar, temporary sealant.
 
 He put the bottle down. Wiped his mouth with the back of his hand. Looked at Aelo sleeping. The boy's face was peaceful. The herbs were gone and the dreams were his own and the world was pouring into him and he did not yet know what any of it meant, and the man who was supposed to teach him was sitting in the dark drinking root wine from a cache he had packed for exactly this purpose.
 
@@ -186,9 +188,9 @@ _I am the wall between the fire and the song. I will burn before the song goes s
 
 His hands steadied. Not much. Enough.
 
-A sound at the entrance of the hollow. Halvar's hand went to the staff — instinct, muscle memory, the old training surfacing through the withdrawal like a reef through receding water. He turned.
+A sound at the entrance of the hollow. Halvar's hand went to the staff. Instinct, muscle memory, the old training surfacing through the withdrawal like a reef through receding water. He turned.
 
-A woman stood at the edge of the amber light. Old. Canopy-born, by the look of her. Broad-shouldered, grey-haired, with the calloused hands of a woodworker and a merchant's pack slung over one shoulder. She carried a tray of tincture bottles on a leather strap — the kind the Canopy traders sold at village crossroads, worthless remedies for ailments that didn't exist.
+A woman stood at the edge of the amber light. Old. Canopy-born, by the look of her. Broad-shouldered, grey-haired, with the calloused hands of a woodworker and a merchant's pack slung over one shoulder. She carried a tray of tincture bottles on a leather strap, the kind the Canopy traders sold at village crossroads, worthless remedies for ailments that didn't exist.
 
 Halvar's grip tightened on the staff. His Mold magic, weakened by fifteen years of disuse and two days without alcohol to dull its edges, stirred in the wood.
 
@@ -210,7 +212,7 @@ She looked at the boy the way you look at something you have been waiting for.
 
 Halvar stood. The staff came up — not a threat, not yet, but the promise of one. The wood hummed. The amber light caught the woman's eyes, and in that light Halvar saw what he could not name but could not ignore: an expression that did not match the body. Too deep. Too weighted. Too _old_. The expression of something that had been watching the world for longer than the world had been watching itself.
 
-He had never met a god. But he had served a king who could Know, and Aldric had once described what the divine felt like — not a presence but an _absence_. A hole in the world's memory shaped like something too large to fit. You couldn't see it. You could feel the edges.
+He had never met a god. But he had served a king who could Know, and Aldric had once described what the divine felt like — not a presence but an _absence_; a hole in the world's memory shaped like something too large to fit. You couldn't see it. You could feel the edges.
 
 Halvar couldn't feel the edges. Not with his senses dulled, not through the withdrawal and the fifteen years of rust. But he could feel _something_ — an irregularity, a wrongness, the discomfort of standing near a person whose surface and interior did not match.
 
@@ -250,7 +252,7 @@ She came back at dawn.
 
 No tincture tray. No merchant's drawl. She walked out of the tree line the way a person walks into a room they own — without hesitation, without apology, carrying only the pack and a weariness that had settled into her bones the way weather settles into stone.
 
-Halvar was on his feet before she cleared the first root. The staff hummed. The amber light flared, catching her face, and in the new light she looked — different. The same body, the same grey hair, the same broad shoulders. But the performance was gone. The mask of the Canopy trader had been set down somewhere in the forest between midnight and dawn, and what remained was the thing underneath: old, vast, and too heavy for the frame carrying it.
+Halvar was on his feet before she cleared the first root. The staff hummed. The amber light flared, catching her face, and in the new light she looked different. The same body, the same grey hair, the same broad shoulders. But the performance was gone. The mask of the Canopy trader had been set down somewhere in the forest between midnight and dawn, and what remained was the thing underneath: old, vast, and too heavy for the frame carrying it.
 
 "I told you to move along."
 
@@ -278,7 +280,7 @@ The word was a door opening onto a room he had spent fifteen years refusing to e
 
 "My help is what started this. Three hundred years ago I helped, and the world broke." She held his gaze. Her eyes were steady, ancient, carrying a weight that made his fifteen years feel like an afternoon. "I kept my distance because my distance was the only thing keeping him alive. Varas cannot sense me clearly — my signature is too degraded, too mortal. But if I had intervened, if I had touched the boy's training, my resonance would have marked him. Every Elder Stone in the kingdom would have lit up. Every tracker Varas owns would have felt it." She paused. "I watched. I misdirected patrols. I made sure the roads stayed clear. It was not enough. It was what I could do without killing him."
 
-Halvar stood in the entrance of the hollow with the dawn coming through the canopy and the boy sleeping behind him and the god sitting on a root three feet away, and the fury in him was a living thing — hot, structural, load-bearing. It held up the walls. It kept the ceiling from coming down. If he let it go, if he set it down for even a moment, the entire architecture of the last fifteen years would collapse, and what would be left was a man with a ruined face and a shaking body and a boy he could not protect alone.
+Halvar stood in the entrance of the hollow with the dawn coming through the canopy and the boy sleeping behind him and the god sitting on a root three feet away, and the fury in him was a living thing. Hot, structural, load-bearing. It held up the walls. It kept the ceiling from coming down. If he let it go, if he set it down for even a moment, the entire architecture of the last fifteen years would collapse, and what would be left was a man with a ruined face and a shaking body and a boy he could not protect alone.
 
 He could not protect him alone. That was the part that burned.
 

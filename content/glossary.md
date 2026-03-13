@@ -76,13 +76,13 @@ The world is divided into seven regions, each defined by its primary elemental m
 
 ### 1. The Canopy (Lehti)
 
-**Element:** Wood / Life | **Magic:** The Know, The Greensong
+**Element:** Wood / Life | **Magic:** The Know, The Rootrun
 
 An ancient forest so vast that the floor has not seen sunlight in centuries. Trees with trunks wide enough to hold a village inside. Life is vertical — people live in the mid-canopy, connected by rope bridges and carved stairways. The forest floor is sacred: where the dead are laid, and where the oldest memories live.
 
 **The Pure Ones** — A society built on observation, philosophy, and restraint. Children are raised communally. At age twelve, children descend to the forest floor in a ceremony called **The Listening** — they sit in the dark among the roots and the dead and try to hear the Know for the first time.
 
-**The Greensong** — A form of trance-running where warriors synchronize their heartbeat with the forest's rhythm. A Greensinger can travel at extraordinary speed for days. When they stop, the debt hits all at once: a runner who goes a week will sleep for a month.
+**The Rootrun** — A form of trance-running where warriors synchronize their heartbeat with the forest's rhythm. A Rootrunner can travel at extraordinary speed for days. When they stop, the debt hits all at once: a runner who goes a week will sleep for a month.
 
 Under Varas, the Canopy has been the hardest region to subjugate. The forest itself resists intrusion — paths shift, markers vanish.
 
@@ -198,15 +198,15 @@ A small, common brown bird of the Canopy with a bright black eye.
 
 In this world, healing is a form of remembering. The herbs are just the language you use to speak to the body.
 
-| Herb | Use | How It Works |
-|------|-----|-------------|
-| **Breedlebuck** | Inflammation | Reminds tissue that swelling is not its natural state |
-| **Fiddleroot** | Fever, trembling | Offers the body a newer memory of being cool |
-| **Ironbark** | Bone pain | Honors the bone's record of endurance, so the pain stops rehearsing |
-| **Milkwillow** | Healing (general) | Stored among a Healer's standard supplies |
-| **Vigor Leaf** | Mental fog | Clears the haze after difficult nights |
-| **Blackthorn** | Nerve pain | Good for shaking and withdrawal |
-| **Root Wine** | — | A fermented drink. Not a remedy, though it is used as one. |
+| Herb            | Use               | How It Works                                                        |
+| --------------- | ----------------- | ------------------------------------------------------------------- |
+| **Breedlebuck** | Inflammation      | Reminds tissue that swelling is not its natural state               |
+| **Fiddleroot**  | Fever, trembling  | Offers the body a newer memory of being cool                        |
+| **Ironbark**    | Bone pain         | Honors the bone's record of endurance, so the pain stops rehearsing |
+| **Milkwillow**  | Healing (general) | Stored among a Healer's standard supplies                           |
+| **Vigor Leaf**  | Mental fog        | Clears the haze after difficult nights                              |
+| **Blackthorn**  | Nerve pain        | Good for shaking and withdrawal                                     |
+| **Root Wine**   | —                 | A fermented drink. Not a remedy, though it is used as one.          |
 
 ---
 
@@ -214,7 +214,7 @@ In this world, healing is a form of remembering. The herbs are just the language
 
 - **Saddle Birds** — Bonded avian mounts. Cloud People's primary transport.
 - **Flying Ships** — Vessels held aloft by Elder Stones and Move magic. Rare and expensive. Varas controls most of them.
-- **Greensong Running** — The Canopy's method of rapid land travel. A discipline, not a technology.
+- **Rootrunning** — The Canopy's method of rapid land travel. A discipline, not a technology.
 - **The Weave-Roads** — Invisible Desert trade routes. Always cool, always flat, always pointing toward water.
 - **Enchanted Communication Devices** — Paired Elder Stone fragments that transmit emotional memory over distance. Not words — feelings.
 
@@ -222,22 +222,22 @@ In this world, healing is a form of remembering. The herbs are just the language
 
 ## Names & Their Meanings
 
-| Name | Meaning | Origin |
-|------|---------|--------|
-| **Aelo** (ah-EH-lo) | "Breath of remembering" | Vael Guard tongue |
-| **Baara** | A sound without meaning in any language | — |
-| **Bahar** | The Sea region | — |
-| **Jalo** | "Noble" | Finnish |
-| **Kuiva** | "Dry" — the Desert | Finnish |
-| **Kuuma** | "Hot" — the Volcano | Finnish |
-| **Lehti** | "Leaf" — the Canopy | Finnish |
-| **Mieli** | "Mind" — the Ming | Finnish |
-| **Murkr** | "Darkness" — the convergence | Old Norse |
-| **Pilvi** | "Cloud" — the Clouds | Finnish |
-| **Soturi** | "Warrior" | Finnish |
-| **Syvä** | "Deep" — the Core | Finnish |
-| **Varas** | Evokes avarice, theft | Finnish/Slavic |
-| **Vero** | "Truth" | Finnish |
+| Name                | Meaning                                 | Origin            |
+| ------------------- | --------------------------------------- | ----------------- |
+| **Aelo** (ah-EH-lo) | "Breath of remembering"                 | Vael Guard tongue |
+| **Baara**           | A sound without meaning in any language | —                 |
+| **Bahar**           | The Sea region                          | —                 |
+| **Jalo**            | "Noble"                                 | Finnish           |
+| **Kuiva**           | "Dry" — the Desert                      | Finnish           |
+| **Kuuma**           | "Hot" — the Volcano                     | Finnish           |
+| **Lehti**           | "Leaf" — the Canopy                     | Finnish           |
+| **Mieli**           | "Mind" — the Ming                       | Finnish           |
+| **Murkr**           | "Darkness" — the convergence            | Old Norse         |
+| **Pilvi**           | "Cloud" — the Clouds                    | Finnish           |
+| **Soturi**          | "Warrior"                               | Finnish           |
+| **Syvä**            | "Deep" — the Core                       | Finnish           |
+| **Varas**           | Evokes avarice, theft                   | Finnish/Slavic    |
+| **Vero**            | "Truth"                                 | Finnish           |
 
 ---
 

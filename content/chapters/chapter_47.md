@@ -1,10 +1,10 @@
-# Chapter 47
+# Chapter 47 — MERGED INTO CHAPTER 46
 
-## The Last God
+_The content of this chapter ("The Last God") has been merged into Chapter 46 ("The Ceremony") as part of Part V tightening. The Sereth/Laine hill scene now follows the ceremony scene as additional scene breaks within the same chapter._
 
 ---
 
-Sereth sat on a hill above the ceremony ground and listened to the children.
+~~Sereth sat on a hill above the ceremony ground and listened to the children.~~
 
 Not with divine hearing — that was gone, burned away in the conduit, the last trace of godhood consumed by the Song's passage through her mortal chest. With human ears. The ordinary, limited, frequency-restricted human ears that processed sound through the mechanical vibration of an eardrum and the chemical transmission of a nerve and the electrical interpretation of a brain that was, for the first time in three centuries, operating without the vast, multidimensional, all-encompassing awareness that divinity had provided.
 

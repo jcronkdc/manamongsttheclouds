@@ -10,7 +10,7 @@ The Knife held it in his palm and felt nothing. The physical properties were int
 
 It meant nothing.
 
-He searched. The ritual demanded it — the nightly discipline of checking, of reaching for the story the way a tongue reaches for a missing tooth. A river. He had found it in a river. He knew this as a fact — a data point, filed, labeled, stripped of every contextual detail that had once made it a memory rather than an entry in a log. Which river. When. Why he had bent down. Why the choosing had mattered. Why the taking had felt like — the word was gone. The taking had felt like something. The something was gone. The stone was a stone, and the stone was in his hand, and the hand did not know why it was holding it, and the not-knowing was not grief but inventory.
+He searched. The ritual demanded it — the nightly discipline of checking, of reaching for the story the way a tongue reaches for a missing tooth. A river. He had found it in a river. He knew this as a fact — a data point, filed, labeled, stripped of every contextual detail that had once made it a memory rather than an entry in a log. Which river. When. Why he had bent down. Why the choosing had mattered. Why the taking had felt like — the word was gone. The taking had felt like something. The something was gone. The stone was a stone, and the stone was in his hand. The hand did not know why it was holding it. The not-knowing was not grief but inventory.
 
 Two items left with stories. The feather. The glass.
 
@@ -41,13 +41,13 @@ He should have stopped her. The operational protocols were clear: Know-practitio
 
 Sera flinched.
 
-The flinch was small — the Ming were trained to suppress involuntary responses the way other soldiers were trained to suppress panic, through discipline, through the architectural containment of reaction. But the flinch was there. A contraction of the muscles around the eyes. A slight withdrawal of the head. The specific, unmistakable body language of a person who has seen something inside another person that they did not expect and did not want to see and cannot unsee.
+The flinch was small — the Ming were trained to suppress involuntary responses the way other soldiers were trained to suppress panic, through discipline, through the architectural containment of reaction. But the flinch was there. A contraction of the muscles around the eyes. A slight withdrawal of the head. The unmistakable body language of a person who has seen something inside another person that they did not expect and did not want to see and cannot unsee.
 
 She looked away. She looked at the fire. The flat black eyes, which had been volumetric and depthless and attending, became surface — deflected, ordinary, the gaze of a woman staring at flames because the alternative was staring at the thing she had just read.
 
 The Knife watched her. He cataloged the flinch the way he cataloged all data: without emotional interpretation, without the contextual framework that would have told a normal person whether the flinch was pity or horror or recognition. The tracker had Known him. The tracker had seen something. The tracker had flinched. These were facts. The facts were filed.
 
-She did not speak for an hour. The fire burned. The soldiers rotated. The Flash Rat vibrated. The mountain held its silence — the specific, charged silence of a place that was close to the Clouds and that carried, in its stone and its air, the faint, high hum of a Song that The Knife could not hear but that the tracker, with her Know, could feel like a pressure in her temples.
+She did not speak for an hour. The fire burned. The soldiers rotated. The Flash Rat vibrated. The mountain held its silence — the charged silence of a place that was close to the Clouds and that carried, in its stone and its air, the faint, high hum of a Song that The Knife could not hear but that the tracker, with her Know, could feel like a pressure in her temples.
 
 Then she spoke.
 
@@ -89,6 +89,6 @@ He thought: _You already know._
 
 He thought: _The knowing changes nothing. The function continues. The mission continues. The demolition continues. And when it is finished, the function will be the only thing left, and the function does not require a father or a son or a mark or a box or a story. The function requires only the shape. And the shape survives._
 
-He did not sleep. The mountain held its silence. The Flash Rat vibrated. Above them, in the Clouds, a boy who left music in the ground was learning to Sing, and the Singing was the thing that would either end the demolition or complete it, and The Knife did not know which, and the not-knowing was the closest thing to hope that the empty room could produce.
+He did not sleep. The mountain held its silence. The Flash Rat vibrated. Above them, in the Clouds, a boy who left music in the ground was learning to Sing, and the Singing was the thing that would either end the demolition or complete it, and The Knife did not know which. The not-knowing was the closest thing to hope that the empty room could produce.
 
 He held the box. Eleven seconds. Then he put it away and waited for dawn.

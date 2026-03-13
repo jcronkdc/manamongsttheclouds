@@ -8,15 +8,15 @@ Sereth had been dying for three hundred years and was beginning to suspect she w
 
 She was not female the way mortals were female. She was not anything the way mortals were anything. But she had chosen the shape, and the shape had chosen the word, and three centuries of wearing it had made it true enough.
 
-The symptoms were there — had been there for decades, accumulating with the patient thoroughness of rust on iron. The joints ached. The eyes, which had once seen the individual threads of light that composed a sunrise, now saw only the sunrise, which was still beautiful but in the diminished way that a painting of a fire is beautiful compared to the fire itself. The skin bruised easily. The teeth — she had lost two in the last century, which was two more than she had lost in the previous ten thousand years, and the absence of them was a small, persistent humiliation, like a god discovering she is capable of tripping.
+The symptoms were there, had been there for decades, accumulating with the patient thoroughness of rust on iron. The joints ached. The eyes, which had once seen the individual threads of light that composed a sunrise, now saw only the sunrise, which was still beautiful but in the diminished way that a painting of a fire is beautiful compared to the fire itself. The skin bruised easily. The teeth. She had lost two in the last century, which was two more than she had lost in the previous ten thousand years, and the absence of them was a small, persistent humiliation, like a god discovering she is capable of tripping.
 
-She was dying. The other six had promised her this — _you will age, you will weaken, you will end_ — and the other six had been right about everything except the speed. Mortality, it turned out, was not a cliff but a slope, and the slope was gentler than advertised, and Sereth had been sliding down it for three centuries with the resigned patience of someone who had committed a crime and was waiting for a sentence that kept being deferred.
+She was dying. The other six had promised her this, _you will age, you will weaken, you will end_, and the other six had been right about everything except the speed. Mortality, it turned out, was not a cliff but a slope, and the slope was gentler than advertised, and Sereth had been sliding down it for three centuries with the resigned patience of someone who had committed a crime and was waiting for a sentence that kept being deferred.
 
 She sat on a rock at the edge of a trade road, forty miles south of a village too small to have a name, and she was peeling an apple with a knife that was older than most civilizations, and she was pretending to be a merchant, which was the role she had worn most often in this century because merchants could go anywhere and talk to anyone and no one questioned why they knew too much about too many things.
 
 The apple was good. That was the compensation. The other six had taken the divine senses — the ability to hear the world's memory in its totality, to perceive every thread of every song simultaneously — and replaced them with mortal ones. Smaller. Cruder. Astonishingly specific. A god could perceive the entire spectrum of taste at once; a mortal tasted _this apple_, _this sweetness_, _this particular afternoon_. It was a reduction and it was a revelation, and after three hundred years Sereth still had not decided which.
 
-The other six had done more than punish Sereth. They had punished her gift. Not with fire or flood — with whispers. Small corruptions planted in the world's memory like seeds in fertile soil. They had not created the draining. They had created the _wanting_ of it. And then they had watched, from whatever distance gods watch from, as the wanting did what wanting always does.
+The other six had done more than punish Sereth. They had punished her gift. Not with fire or flood. With whispers. Small corruptions planted in the world's memory like seeds in fertile soil. They had not created the draining. They had created the _wanting_ of it. And then they had watched, from whatever distance gods watch from, as the wanting did what wanting always does.
 
 She bit into the apple. She closed her eyes. The juice was sharp and cold and ran down her chin and she did not wipe it because three hundred years of mortality had taught her that small pleasures should not be interrupted by small dignities.
 
@@ -28,7 +28,7 @@ It came from the north. Forty miles of forest and hill and the accumulated silen
 
 Sereth dropped the apple.
 
-Her hands were shaking. Not the arthritic tremor that had become her companion in the last fifty years — a different shaking. Cellular. Fundamental. The vibration of a tuning fork struck by a frequency it was designed to match. Her body — this aging, mortal, beautifully crude body — was _resonating_.
+Her hands were shaking. Not the arthritic tremor that had become her companion in the last fifty years. A different shaking. Cellular. Fundamental. The vibration of a tuning fork struck by a frequency it was designed to match. Her body, this aging, mortal, beautifully crude body, was _resonating_.
 
 She knew the sound. She had heard it once before, three hundred years ago, standing in a field of wildflowers while a kind man poured himself into a pillar of crystal and dissolved into the world's memory. That sound. Fletcher's sound. The Sing — all seven disciplines in a single voice, every memory at once, the world's entire song compressed into one human throat.
 
@@ -54,7 +54,7 @@ The Mrak Patrol was on the road before Sereth expected them. Six soldiers, movin
 
 Sereth stepped to the side of the road. Bent her back. Rounded her shoulders. Became, in every detail, an old woman making room for authority.
 
-The captain — young, sharp-eyed, the kind of officer who had been promoted for efficiency rather than wisdom — pulled up short. "You. Where from?"
+The captain, young, sharp-eyed, the kind of officer who had been promoted for efficiency rather than wisdom, pulled up short. "You. Where from?"
 
 "The mill at Redwater, sir. Three days south." The voice came out exactly right — cracked, deferential, the vowels flattened by a lifetime of Canopy dialect. Sereth had been doing this for centuries. It was not lying. It was acting. The distinction mattered to her, though she could not have explained why.
 

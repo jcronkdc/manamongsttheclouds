@@ -6,7 +6,7 @@
 
 They moved deeper into the Canopy, and the deeper they moved, the older the world became.
 
-Aelo could feel it now — the age of things. Not as an abstraction but as a physical property, a density in the air and the soil and the wood that increased with every mile they walked south, away from the village, away from the trade roads, away from the administered world of survey stones and Mrak patrols and histories painted on schoolroom boards. The trees grew taller. Their trunks widened until some were broader than the cottage he had lived in for fifteen years, their bark dark and ridged and so deeply textured that it looked less like wood than like the face of something that had been staring at the sky for a thousand years and had stopped bothering to blink.
+Aelo could feel it now, the age of things. Not as an abstraction but as a physical property, a density in the air and the soil and the wood that increased with every mile they walked south, away from the village, away from the trade roads, away from the administered world of survey stones and Mrak patrols and histories painted on schoolroom boards. The trees grew taller. Their trunks widened until some were broader than the cottage he had lived in for fifteen years, their bark dark and ridged and so deeply textured that it looked less like wood than like the face of something that had been staring at the sky for a thousand years and had stopped bothering to blink.
 
 Sereth walked ahead. She moved through the forest with the unhurried ease of someone who knew where every root was — not from skill but from memory, the way you know the floorboards of the house you grew up in, which ones creak and which ones hold. Occasionally she paused, placed a hand on a trunk, and stood still for a moment, her face doing something Aelo could not read. Then she moved on.
 
@@ -24,7 +24,7 @@ Sereth's voice, from ahead. She had stopped walking and was looking at Aelo with
 
 "You can hear me listening?"
 
-"I can feel the trees responding. They're leaning toward you." Sereth gestured. Aelo looked. She was right — the nearest trunks had tilted, minutely, imperceptibly to anyone who wasn't looking for it, their canopies shifting to angle more of their leaves in his direction. As if he were a light source and they were orienting toward him. "You're not just listening. You're pulling. Your attention has weight."
+"I can feel the trees responding. They're leaning toward you." Sereth gestured. Aelo looked. She was right. The nearest trunks had tilted, minutely, imperceptibly to anyone who wasn't looking for it, their canopies shifting to angle more of their leaves in his direction. As if he were a light source and they were orienting toward him. "You're not just listening. You're pulling. Your attention has weight."
 
 "I don't mean to—"
 
@@ -44,7 +44,7 @@ Aelo felt the word before Sereth said it. It rose from the hum — from the vast
 
 "The Sing."
 
-"The Sing is not a discipline. It's what happens when all seven sound at once, in a single throat. Fletcher could do it. Your mother came close." Sereth's face was very still. "She could hold five disciplines simultaneously. On the night she died, she held six. The seventh — the one she couldn't reach — would have saved her."
+"The Sing is not a discipline. It's what happens when all seven sound at once, in a single throat. Fletcher could do it. Your mother came close." Sereth's face was very still. "She could hold five disciplines simultaneously. On the night she died, she held six. The seventh, the one she couldn't reach, would have saved her."
 
 "Which one?"
 
@@ -58,7 +58,7 @@ The information settled into Aelo with the weight of a stone sinking into still 
 
 They walked in silence for a while. The trees whispered. Aelo's pocket held. And in the holding, he noticed something he had not noticed before — a flavor in Sereth's emotional signature that did not fit the profile of grief. Grief tasted like salt. This tasted like ash. It was buried deep, beneath the patience and the age and the carefully maintained surface of a woman who had been managing her own interior for three centuries. But it was there. And it was not sadness.
 
-It was guilt. Structural, load-bearing guilt — the kind that does not respond to time because it is not a feeling but a fact.
+It was guilt. Structural, load-bearing guilt, the kind that does not respond to time because it is not a feeling but a fact.
 
 "You're not just sad about my mother," Aelo said. The words came out sharper than he intended. The iron taste was there again, faintly, behind his teeth. "You feel responsible."
 
@@ -76,11 +76,11 @@ It was not a lie. Aelo could feel that. But it was not the whole truth either. T
 
 They reached the Remembering at dusk.
 
-Aelo felt it before he saw it — a wall of memory so dense and so old that it registered as a physical presence, a pressure in the air ahead of them that increased with every step. The trees grew closer together. The undergrowth thickened. The whispers intensified, layering over each other until the sound was not voices but a _fabric_ — a woven thing, each thread a different century, each knot a different event, the entire tapestry so complex that Aelo's pocket of silence trembled under the weight of it.
+Aelo felt it before he saw it — a wall of memory so dense and so old that it registered as a physical presence. A pressure in the air ahead of them that increased with every step. The trees grew closer together. The undergrowth thickened. The whispers intensified, layering over each other until the sound was not voices but a _fabric_ — a woven thing, each thread a different century, each knot a different event, the entire tapestry so complex that Aelo's pocket of silence trembled under the weight of it.
 
 Then the trees parted and there it was.
 
-A wall. Not built — _grown_. Canopy elms, hundreds of them, standing so close together that their trunks had fused over centuries, their bark merging into a continuous surface that rose fifty feet from the forest floor to the lower canopy. The wall curved away in both directions, disappearing into the forest, and Aelo understood — through the trees' own memory, which poured into him without effort — that the curve was part of a circle, and the circle enclosed the entire inner Canopy, and the wall had been growing since before Varas, before Aldric, before the kingdoms.
+A wall. Not built. _Grown_. Canopy elms, hundreds of them, standing so close together that their trunks had fused over centuries, their bark merging into a continuous surface that rose fifty feet from the forest floor to the lower canopy. The wall curved away in both directions, disappearing into the forest, and Aelo understood — through the trees' own memory, which poured into him without effort — that the curve was part of a circle, and the circle enclosed the entire inner Canopy, and the wall had been growing since before Varas, before Aldric, before the kingdoms.
 
 It was the oldest thing he had ever felt. The memory in the wood went down so far that it reached a layer he had no framework for — a stratum of experience that predated human language, predated human settlement, predated humanity itself. The wall remembered being seeds. It remembered the soil that held the seeds and the rain that fed the soil and the sky that released the rain and the sun that heated the sky. It remembered the world being young.
 

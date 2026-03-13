@@ -32,9 +32,9 @@ The door was iron, twelve inches thick, operated by a mechanism that responded t
 
 Inside: the collection.
 
-Forty-seven individuals, arranged in four rows, standing upright in alcoves carved into the stone. Each one was connected to an Elder Stone by Blood Vine — the vine entering through the skin at the base of the skull, threading down the spine, wrapping the torso like ivy on a post. The Elder Stones were positioned at chest height, pulsing with the same reddish light as the walls, each one draining at a rate calibrated to extract the maximum amount of magical memory without killing the host.
+Forty-seven individuals, arranged in four rows on stone platforms that lined the Chamber like beds in a ward. Each one was connected to a personal Elder Stone by Blood Vine — the vine entering through the temples and wrists and throat, threading along the body in organized lines, the Elder Stones embedded in the platforms beside each person's head. The Stones pulsed with the same reddish light as the walls, each one draining at a rate calibrated to extract the maximum amount of magical memory without killing the host.
 
-The hosts were alive. Technically. Their hearts beat. Their lungs drew air. Their eyes, in most cases, were open — staring at nothing, tracking nothing, emptied of everything that had once made them people. A woman from the Core, thick-shouldered, her Molder's hands still calloused even after years of stillness. A man from the Sea, blue-tinged skin, his Guide-sense so thoroughly drained that his body had begun to drift in the alcove as if it had forgotten which way was down. A pair of twins from the Canopy — Knowers, both, taken in the same raid — their faces still oriented toward each other, mouths slightly open, a conversation suspended mid-sentence a decade ago.
+The hosts were alive. Technically. Their hearts beat. Their lungs drew air. Their eyes, in most cases, were open — staring at nothing, tracking nothing, emptied of everything that had once made them people. A woman from the Core, thick-shouldered, her Molder's hands still calloused even after years of stillness. A man from the Sea, blue-tinged skin, his Guide-sense so thoroughly drained that his body had begun to drift on the platform as if it had forgotten which way was down. A pair of twins from the Canopy — Knowers, both, taken in the same raid — their faces still turned toward each other on adjacent platforms, mouths slightly open, a conversation suspended mid-sentence a decade ago.
 
 The Knife walked the rows. He checked the vine connections. He checked the drain rates on each Elder Stone, reading the pulse-frequency the way a physician reads a heartbeat: fast meant the host was resisting, which meant adjustment; slow meant the host was nearly depleted, which meant replacement. He recorded each reading in a leather-bound log — a new entry every morning, precise, clinical, his handwriting as neat and expressionless as his face.
 
@@ -46,11 +46,11 @@ He moved efficiently. Row one: stable. Row two: one host nearing depletion — a
 
 He stopped.
 
-Row four, alcove six. A Ming woman. Old — ancient, really, her skin like paper over kindling, her frame so diminished by decades of draining that the Blood Vine seemed to be the only thing holding her upright. She had been in the collection longer than The Knife had been alive. She was, according to the log, categorized as _Depleted — Maintenance Only_, which meant she produced almost nothing and was kept alive only because disconnecting her would require more effort than ignoring her.
+Row four, platform six. A Ming woman. Old — ancient, really, her skin like paper over kindling, her frame so diminished by decades of draining that the Blood Vine seemed to be the only thing keeping her breathing. She had been in the collection longer than The Knife had been alive. She was, according to the log, categorized as _Depleted — Maintenance Only_, which meant she produced almost nothing and was kept alive only because disconnecting her would require more effort than ignoring her.
 
 Her eyes were moving.
 
-Not the involuntary drift that sometimes occurred when the brain stem fired randomly. Moving. Tracking. Following The Knife as he walked past her alcove with the focused, deliberate attention of a person who was _seeing_ him.
+Not the involuntary drift that sometimes occurred when the brain stem fired randomly. Moving. Tracking. Following The Knife as he walked past her platform with the focused, deliberate attention of a person who was _seeing_ him.
 
 He stopped in front of her. He looked — breaking his own rule — directly into her face.
 
@@ -64,7 +64,7 @@ The Knife stood very still. He cataloged: elevated awareness inconsistent with r
 
 He watched her mouth move. He tried to read the word. It was not a word he recognized. It was, as far as he could tell, a name. Or a sound shaped like a name. Her eyes were bright — not with intelligence, exactly, but with something more unsettling. Recognition. As if she knew him, and the fact that her body had been drained to a husk was an inconvenience she was prepared to work around.
 
-He recorded the anomaly in the log. _Row 4, Alcove 6: Elevated awareness. Motor function. Monitor._
+He recorded the anomaly in the log. _Row 4, Platform 6: Elevated awareness. Motor function. Monitor._
 
 He moved on. But the back of his neck prickled — the involuntary response of a man being watched by something that should not be capable of watching — and it did not stop prickling until he reached the end of the row and turned the corner and put a wall of stone between himself and whatever was left inside the old woman's eyes.
 

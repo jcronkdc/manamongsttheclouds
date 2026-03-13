@@ -6,15 +6,15 @@
 
 Aelo closed his eyes and reached for the disciplines. All of them.
 
-The Know came first — the foundation, the sense that had been with him longest. It filled him: the Chamber's emotional weather, the prisoners' single memories flickering like stars, Sereth's presence at the center of the Blood Vine web, Laine's believing at the door. The Know showed him the world, and the world was in pain, and the pain was the silence.
+The Know came first — the foundation, the sense that had been with him longest. It filled him: the Chamber's emotional weather, the prisoners' single memories flickering like stars, Sereth's presence at the center of the Blood Vine web, Laine's believing at the door. The Know showed him the world, and the world was in pain. The pain was the silence.
 
 The Mold came second. The stone — Fletcher's keep beneath the corruption, the mason-cut blocks remembering being a home. The Mold connected him to every surface in the Chamber, and the surfaces were ready.
 
-The Heal came third. Jalo's discipline. It entered through the blood-mark on his wrist — the single-beating mark, the guardian's bond. The Heal showed him the wounds: every prisoner's stolen memory, every scar the Blood Vine had left.
+Third: the Heal. Jalo's discipline, entering through the blood-mark on his wrist — the single-beating bond. It showed him the wounds: every prisoner's stolen memory, every scar the Blood Vine had left.
 
-The Move came fourth. The Cloud discipline. It entered through the air — the thin, stale Chamber air that still carried the residue of the altitude it had once been. The Move showed him the spaces between things, the arrangements that wanted to change.
+Then the Move — the Cloud discipline, arriving through thin, stale Chamber air that still carried the residue of altitude. It showed him the spaces between things, the arrangements that wanted to change.
 
-The Guide came fifth. Laine's discipline. It entered through the trajectories — the converging lines of every life in the Chamber, every thread of the network, every path that led from this moment to whatever came next.
+And the Guide, Laine's discipline, entering through trajectories — the converging lines of every life in the Chamber, every path that led from this moment to whatever came next.
 
 Five notes. The pain was extraordinary. He was being pulled apart — five directions at once, five disciplines drawing on five different parts of his memory. Blood ran from his nose. His body trembled.
 
@@ -22,7 +22,7 @@ The sixth note. The Burn. He reached for it and found not the Volcano's forge bu
 
 Six notes. Each one cost a memory.
 
-The taste of Jalo's porridge — gone. The specific, warm-on-the-tongue flavor of ten thousand mornings. Gone. The sound of the schoolteacher's voice — gone. The color of the forest canopy at dawn — gone. The feel of dirt under his fingernails — gone. The smell of Jalo's workshop — gone. The weight of the dead bird in his hands — the small, warm body of a creature whose death had been his first grief — gone.
+The taste of Jalo's porridge — gone. Ten thousand mornings of warm-on-the-tongue flavor. The sound of the schoolteacher's voice, the color of the forest canopy at dawn, the feel of dirt under his fingernails, the smell of Jalo's workshop — taken. And the weight of the dead bird in his hands — the small, warm body of a creature whose death had been his first grief — that too.
 
 Six notes. Six memories. The vessel being emptied to make room for the Song.
 
@@ -64,13 +64,13 @@ The Song reached the prisoners.
 
 Their single memories ignited — not destroyed but _multiplied_. The first kiss became every kiss. Not literally — not the specific memories of specific kisses returning to a woman who had been drained of everything except the surprise of the first one. The Song did not replace what was taken. The Song reminded the memories of what memory _meant_. The first kiss was not a single event. It was a seed. And the Song was the water. And the water reached the seed and the seed remembered how to grow.
 
-The child's laugh became every child. The bread became every meal shared with love. The rain became every storm that ever cleaned the world. Each single memory — the compressed, essential, final-holdout remnant of a life that had been consumed — responded to the Song's frequency the way a tuning fork responds to its matching note: by vibrating. By resonating. By producing, from the single remaining seed, the beginning of a garden.
+The child's laugh became every child. The bread, every meal shared with love. The rain, every storm that ever cleaned the world. Each single memory — the compressed, essential, final-holdout remnant of a life that had been consumed — responded to the Song's frequency the way a tuning fork responds to its matching note: by vibrating. By resonating. By producing, from the single remaining seed, the beginning of a garden.
 
-The prisoners' eyes changed. The absent, pilot-light stare — the eyes that had been open and seeing nothing for years — focused. Blinked. Moved. The consciousness that had been reduced to a flicker expanded — not to full restoration, not to the complete, undiminished awareness of the people they had been before the Chamber. But to presence. To the specific, human, irreducible fact of being _here_ — in a body, in a room, in a moment that was different from the moments that had preceded it because the moment contained the Song and the Song contained everything.
+The prisoners' eyes changed. The absent, pilot-light stare — the eyes that had been open and seeing nothing for years — focused. Blinked. Moved. The consciousness that had been reduced to a flicker expanded — not to full restoration, not to the complete, undiminished awareness of the people they had been before the Chamber. But to presence. To the human, irreducible fact of being _here_ — in a body, in a room, in a moment that was different from the moments that had preceded it because the moment contained the Song and the Song contained everything.
 
-A woman sat up. The woman whose last memory was the first kiss. She sat up on her platform and she looked around the Chamber and her eyes — which had been open and empty for years — held something that Aelo's Know, even at its current diminished, six-discipline-straining, blood-from-the-nose capacity, could read without effort. Wonder. The specific, uncomplicated, devastating wonder of a person who has been in the dark for a very long time and has just been shown that the dark was not permanent.
+A woman sat up. The woman whose last memory was the first kiss. She sat up on her platform and she looked around the Chamber and her eyes — which had been open and empty for years — held something that Aelo's Know, even at its current diminished, six-discipline-straining, blood-from-the-nose capacity, could read without effort. Wonder. The uncomplicated, devastating wonder of a person who has been in the dark for a very long time and has just been shown that the dark was not permanent.
 
-Others followed. One by one. The prisoners sitting up. Looking around. Breathing — the first full breaths in years, the lungs expanding beyond the minimum that the herbs had maintained, the bodies remembering that breathing was not just metabolic function but _experience_, and the experiencing was the Song, and the Song was in the air.
+Others followed. One by one. The prisoners sitting up. Looking around. Breathing — the first full breaths in years, the lungs expanding beyond the minimum that the herbs had maintained, the bodies remembering that breathing was not just metabolic function but _experience_, and the experiencing was the Song. The Song was in the air.
 
 ---
 
@@ -78,11 +78,11 @@ The Song reached Aldric.
 
 In the locked room behind the Chamber, the king's paralysis broke. The Blood Vine's hold — thirty years of sustained, intimate, neural-level connection — shattered. Not violently. The Vine did not tear. The Vine _released_. The Song's frequency traveled through the conduit that Sereth had built and reached the ancient tendrils that had been wrapped around Aldric's body for three decades, and the tendrils heard the Song, and the hearing was the same hearing that the castle's stone was doing — the remembering of a time before the corruption, the recognition that the current configuration was not the original one. The Vine remembered being a plant. The Vine released.
 
-Aldric gasped. The first full breath in thirty years. The lungs — maintained by herbs, atrophied by disuse, the muscles barely functional — expanded. The expansion was painful. The pain was welcome. The pain was the body's announcement that it was alive, that the aliveness was not the drugged, minimal, supply-maintained pseudo-life of the Chamber but the real thing, the full thing, the breathing and the feeling and the specific, devastating, overwhelming thing that Aldric had been denied since the night his youngest son had walked into the throne room and taken the crown.
+Aldric gasped. The first full breath in thirty years. The lungs — maintained by herbs, atrophied by disuse, the muscles barely functional — expanded. The expansion was painful. The pain was welcome. The pain was the body's announcement that it was alive, that the aliveness was not the drugged, minimal, supply-maintained pseudo-life of the Chamber but the real thing, the full thing, the breathing and the feeling and the devastating, overwhelming thing that Aldric had been denied since the night his youngest son had walked into the throne room and taken the crown.
 
 His memories flooded back. Not selectively — totally. The Song did not discriminate. The Song returned everything. Thirty years of consumed memory, stored in the Elder Stone beside his head, released by the Song's resonance and returned to the mind that had produced it. The memories arrived in a cascade — not chronologically but emotionally, the strongest memories first, the ones that carried the most weight returning with the most force.
 
-The guilt. Vast, tidal, the specific, architectural guilt of a father who had failed his son. The memory of turning away. The memory of the recoiling. The memory of looking at a four-year-old child and seeing the void and choosing — not consciously, not deliberately, but choosing — to withdraw. To protect the other son. To invest in the child who could feel rather than the child who could not. The guilt was enormous and the guilt returned in full and Aldric received it because the guilt was his and the receiving was not punishment but ownership.
+The guilt. Vast, tidal, the architectural guilt of a father who had failed his son. The memory of turning away. The memory of the recoiling. The memory of looking at a four-year-old child and seeing the void and choosing — not consciously, not deliberately, but choosing — to withdraw. To protect the other son. To invest in the child who could feel rather than the child who could not. The guilt was enormous and the guilt returned in full and Aldric received it because the guilt was his and the receiving was not punishment but ownership.
 
 And with the guilt: the love. Both. All of it. The memory of reaching for his son before the void was apparent. The memory of holding him. The memory of the small hands, the open fingers, the weight of a child in his arms. The love and the guilt, inseparable, arriving together because they had always been together, because the guilt was the love's shadow and the shadow was cast by the same light.
 
@@ -98,7 +98,7 @@ Vero looked around the locked room. He looked at his father — Aldric, sitting 
 
 He said: "Brother? I wasn't finished speaking."
 
-Then, softly, with the specific, quiet, devastating clarity of a man who has been dreaming the same dream for thirty years and has just woken up and has, in the waking, understood what the dream was trying to say: "But I think I understand now."
+Then, softly, with the quiet, devastating clarity of a man who has been dreaming the same dream for thirty years and has just woken up and has, in the waking, understood what the dream was trying to say: "But I think I understand now."
 
 ---
 
@@ -106,29 +106,29 @@ The Song reached the Elder Stones.
 
 Every Stone in the Chamber resonated — the personal Stones on the prisoners' platforms, the massive formation in the locked room, the dozens of smaller Stones embedded in the walls and the floor. The resonance was not the sickly amber hum of extraction. The resonance was the original frequency — Fletcher's frequency, the note that the first Singer had poured into the first Stone, the sacrifice that had been singing in the dark for centuries. The Song reached the Stones and the Stones remembered what they were supposed to be: not storage for stolen memory but vessels for given memory. Not prisons but gifts. The difference was the direction of the flow — inward was theft, outward was song — and the Song reversed the flow.
 
-Beyond the Chamber — beyond the castle, beyond the Murkr — every Elder Stone in the world caught the frequency. In the Ming, beneath the still lake, the massive formation blazed — the sickly amber replaced by the clear, warm, luminous gold of the original light, the Stone singing for the first time in decades with the full, undiminished, sacrifice-sustained note that three centuries of listening monks had been unable to understand. The lake surface trembled. The mist glowed.
+Beyond the Chamber — beyond the castle, beyond the Murkr — every Elder Stone in the world caught the frequency. Beneath the Ming's still lake, the massive formation blazed — sickly amber replaced by clear, luminous gold, the Stone singing for the first time in decades. The lake surface trembled. The mist glowed.
 
-In the Canopy, the ceremony Stone — the Stone where Aelo had screamed and the hunting had begun — rang. A single, clear note that carried through the trees and made the wood vibrate sympathetically and that the Canopy's whispers carried outward in every direction, the forest's memory amplifying the note the way an echo amplifies a shout.
+The ceremony Stone in the Canopy — where Aelo had screamed and the hunting had begun — rang with a single, clear note that the forest carried outward in every direction.
 
-In the Core, the crystal veins blazed — the golden light intensifying from the warm, steady glow of bioluminescent memory to the bright, sustained, radiant light of stone remembering the first fire. Torvus, in his workshop, felt it through his numb body — not as sensation but as knowledge. The stone was singing. The stone had always been singing. And the singing was louder than it had been in his lifetime.
+Torvus felt it in the Core — through his numb body, through crystal veins blazing brighter than he had ever seen them. The stone was singing. Louder than it had been in his lifetime.
 
-In the Clouds, the Great Elder Stone — Fletcher's masterwork, the largest and oldest and most powerful Stone in the world, suspended in the heart of the highest formation — caught the Song and amplified it a thousandfold. The Stone had been waiting. The Stone had been designed to wait — designed by Fletcher, in the last act of his life, as a resonance chamber, a megaphone, an amplifier that would take the next Singer's Song and broadcast it to every corner of the world. The Great Stone received Aelo's Song and the Song filled it and the Stone Sang and the Singing was heard in every region, by every person, in every stone and stream and blade of grass — the entire world, for one instant, remembering what magic was supposed to be.
+And in the Clouds, the Great Elder Stone — Fletcher's masterwork, suspended in the heart of the highest formation — caught the Song and amplified it a thousandfold. It had been designed for this — designed by Fletcher, in the last act of his life, as a resonance chamber that would take the next Singer's Song and broadcast it to every corner of the world. The Great Stone received Aelo's Song and Sang and the Singing was heard in every region, by every person, in every stone and stream and blade of grass — the entire world, for one instant, remembering what magic was supposed to be.
 
-Not power. Not extraction. Not the consuming or the draining or the hoarding or the stealing.
+Not power or extraction or hoarding.
 
-Memory. The world's memory, singing. The world's memory, reminding every living thing and every stone and every drop of water and every breath of air that they were all part of the same thing, and the same thing was the Song, and the Song was love, and love was the sound the world made when it remembered being whole.
+Memory. The world's memory, singing. The world's memory, reminding every living thing and every stone and every drop of water and every breath of air that they were all part of the same thing, and the same thing was the Song. The Song was love. Love was the sound the world made when it remembered being whole.
 
 ---
 
 In the throne room, Varas heard it.
 
-For the first time in his life, he heard the Song. Not the ghost. Not the almost. Not the half-second of barrier-thinning that a lifetime of consumption had produced. The Song itself. One note. One single, perfect, complete note — arriving through the Blood Vine, through the network, through the specific, parasitic architecture that he had spent forty years building and that was now, in the final irony, delivering to him the one thing the architecture had been built to provide and had never been able to.
+For the first time in his life, he heard the Song. Not the ghost or the almost. The Song itself — one single, perfect note arriving through the Blood Vine, through the network he had spent forty years building and that was now, in the final irony, delivering the one thing it never had.
 
-The note entered the empty room. The room that had been his only habitation since birth. The room without a door. The room where the silence lived and where the silence had been the only companion and where the companion had been the condition and the condition had been the identity.
+The note entered the empty room — the one without a door, where the silence had been his only companion since birth and the companion had become the identity.
 
 The note entered and the room was not empty.
 
-For one moment — one heartbeat, one breath, one sustained instant that was shorter than any of the half-seconds the draining had provided but that was, qualitatively, categorically, immeasurably different — Varas felt what other people felt. Not the ghost. Not the afterimage. The thing itself. The connection. The bridge. The thread between the self and the world that everyone else was born with and that he had been born without.
+For one moment — one heartbeat, one breath, one sustained instant that was shorter than any of the half-seconds the draining had provided but that was, qualitatively, categorically, immeasurably different — Varas felt what other people felt. Not the ghost or the afterimage. The thing itself. The connection. The bridge. The thread between the self and the world that everyone else was born with and that he had been born without.
 
 He felt the woman's laugh at the feast — not as observation but as participation. He felt the warmth of belonging. He felt what his father had felt when Aldric walked into a room and smiled because he could feel the joy. He felt what his son had felt when a nine-year-old boy looked at a blue bird and his chest expanded with something he had no name for.
 
@@ -140,9 +140,9 @@ One moment. Then the stolen magic unraveled.
 
 Every memory Varas had consumed — every life, every experience, every beautiful and terrible and ordinary moment that the Blood Vine had extracted from the prisoners and the Stones and the kingdom — was released. Pulled from him. Returned to the world through Sereth's conduit, through the network, through the architecture that reversed its flow and became, in its final function, not a drain but a restoration.
 
-Varas diminished. The enormous, inhuman figure shrank — the bark-texture softening, the body reducing, the decades of accumulated consumption departing the flesh the way water departs a sponge when the sponge is squeezed. The Blood Vine withered — the tendrils drying, curling, dying, the parasitic network collapsing as the memories it had carried were returned to their sources. The Elder Stones dimmed — the sickly amber fading to clear, to gold, to the specific, warm, luminous light of Stones that contained given memory rather than stolen memory.
+Varas diminished. The enormous, inhuman figure shrank — the bark-texture softening, the body reducing, the decades of accumulated consumption departing the flesh the way water departs a sponge when the sponge is squeezed. The Blood Vine withered — the tendrils drying, curling, dying, the parasitic network collapsing as the memories it had carried were returned to their sources. The Elder Stones dimmed — the sickly amber fading to clear, to gold, to the warm, luminous light of Stones that contained given memory rather than stolen memory.
 
-He became small. Old. Ordinary. A man sitting in a chair that was too big for him, in a room that was too empty, his bark-free hands resting on obsidian armrests, his clear eyes open, his face — a human face, an old man's face, lined and soft and carrying the specific, gentle, devastating expression of a person who has heard, for one moment, the sound they waited their entire life to hear.
+He became small. Old. Ordinary. A man sitting in a chair that was too big for him, in a room that was too empty, his bark-free hands resting on obsidian armrests, his clear eyes open, his face — a human face, an old man's face, lined and soft and carrying the gentle, devastating expression of a person who has heard, for one moment, the sound they waited their entire life to hear.
 
 He died in silence. The same silence he was born into. But the silence came after the music. And silence sounds different when you know what it is silent _after_.
 
@@ -164,10 +164,10 @@ He had Sung. The Song had cost him. The cost was real.
 
 But the cost was not everything. The cost was some things. The cost was the porridge and the schoolteacher and the canopy at dawn and the dirt and the workshop and the bird. The cost was six specific memories and an unquantifiable amount of the general vividness that had made the world feel close and detailed and overwhelming.
 
-The Song had not consumed him. Fletcher had Sung alone and been consumed completely. Aelo had Sung through Sereth — through the conduit, through the network, the cost distributed across a bridge of willing participants. The Song had eaten him partially. The Song had eaten the part of him that was most personal and most irreplaceable and most _him_ — the memories, the textures, the specific, accumulated content of a life lived in time. But the structure remained. The identity remained. The boy who had been trained to listen was still a boy. Still Aelo. Still present. Still alive.
+The Song had not consumed him. Fletcher had Sung alone and been consumed completely. Aelo had Sung through Sereth — through the conduit, through the network, the cost distributed across a bridge of willing participants. The Song had eaten him partially. The Song had eaten the part of him that was most personal and most irreplaceable and most _him_ — the memories, the textures, the accumulated content of a life lived in time. But the structure remained. The identity remained. The boy who had been trained to listen was still a boy. Still Aelo. Still present. Still alive.
 
 Diminished. But alive.
 
-He lay on the floor of the Chamber and he breathed and the breathing was the first breath of whatever came next, and the whatever was different from the everything that had preceded it, and the different was the cost, and the cost was the Song, and the Song was worth it.
+He lay on the floor of the Chamber and breathed. The first breath of whatever came next. Different from everything. The cost of the Song. And the Song was worth it.
 
 The Song was worth the grief.

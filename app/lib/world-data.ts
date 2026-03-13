@@ -229,13 +229,13 @@ export const entries: WorldEntry[] = [
       "The most technically demanding form of magic in the world. It requires an intimacy with failure that only the Desert teaches. Practitioners from other regions cannot do it.",
   },
   {
-    name: "The Greensong",
+    name: "The Rootrun",
     category: "magic",
     subtitle: "Canopy Trance-Running",
     summary:
       "A form of trance-running where warriors synchronize their heartbeat with the forest\u2019s rhythm.",
     detail:
-      "A Greensinger can travel at extraordinary speed for days without rest, moving through the forest as if the trees themselves carry them. Branches extend. Roots surface to form steps. They feel no hunger, no fatigue, no pain. When they stop, the debt hits all at once. A runner who goes a week will sleep for a month.",
+      "A Rootrunner can travel at extraordinary speed for days without rest, moving through the forest as if the trees themselves carry them. Branches extend. Roots surface to form steps. They feel no hunger, no fatigue, no pain. When they stop, the debt hits all at once. A runner who goes a week will sleep for a month.",
   },
 
   // ─── REGIONS ───────────────────────────────────────────
@@ -247,7 +247,7 @@ export const entries: WorldEntry[] = [
       "An ancient forest so vast the floor has not seen sunlight in centuries. Life is vertical. The forest floor is sacred, reserved for the dead.",
     detail:
       "People live in the mid-canopy, connected by rope bridges and carved stairways. Home of the Pure Ones, who follow a code of honor above survival, silence above speech, service above self. At age twelve, children descend to the forest floor in the Listening \u2014 they sit in the dark among the roots and the dead and try to hear the Know for the first time. The hardest region to subjugate: the forest itself resists intrusion.",
-    meta: { magic: "The Know, The Greensong" },
+    meta: { magic: "The Know, The Rootrun" },
   },
   {
     name: "The Core",
