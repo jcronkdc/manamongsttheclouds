@@ -26,8 +26,8 @@ const sans = Inter({
 
 const matc = books.manAmongstTheClouds;
 const site = sites.matc;
-const title = `${matc.title} — A Literary Fantasy Novel by ${matc.author.name}`;
-const description = `${site.description} Part I available now. For fans of ${matc.comparables}.`;
+const title = `${matc.title} — Epic Literary Fantasy Novel by ${matc.author.name} | Best New Fantasy 2026`;
+const description = `${site.description} Part I available now for free. For fans of ${matc.comparables}. One of the best new epic fantasy books of 2026.`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),

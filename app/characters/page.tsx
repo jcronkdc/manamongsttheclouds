@@ -44,6 +44,53 @@ const breadcrumbJsonLd = {
   ],
 };
 
+const charactersFaqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "Who is Aelo in Man Amongst the Clouds?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Aelo is the protagonist of Man Amongst the Clouds by Justin Cronk. He is a fifteen-year-old boy who has been raised on silence in a village too small to have a name, drugged every morning by his guardian Jalo with herbs that suppress his magical ability. When the herbs fail, Aelo discovers that magic is memory — and he can hear all of it. He is the last person alive who can Sing, the rarest discipline that harmonizes all seven voices of magic at once. His name means 'breath of remembering.'",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Who is The Knife (Baara) in Man Amongst the Clouds?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "The Knife, whose real name is Baara, is King Varas's most lethal weapon — an assassin conditioned since childhood to be a function rather than a person. He carries a wooden box of five beautiful objects (a feather, a shell, a glass bead, a pressed flower, a child's drawing) and checks them every night for exactly eleven seconds because the checking is the only act that proves he was ever a person. He is sent to find the boy who made a stone sing. He finds something worse: a reason to stop.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Who is Jalo in Man Amongst the Clouds?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Jalo (real name Halvar Eld) is the last Guardian of the Vael — an elite order sworn to stand 'between the fire and the Song.' He rescued the infant Aelo from a burning nursery fifteen years ago and has been raising him in hiding ever since, drugging him every morning with herbs to suppress his magic. He burned his own face to hide his identity, drinks to manage the nightmares so the boy can sleep, and carries scars from a shattered knee sustained the night he ran. Everything he does is a lie. Every lie is an act of love.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Who is King Varas in Man Amongst the Clouds?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "King Varas is the primary antagonist of Man Amongst the Clouds. He was born deaf to the Song in a world where everything sings — the only person alive who cannot hear the world's memory. He has spent seventy years on an obsidian throne at the center of a dead zone called the Murkr, draining the memories of hundreds through a parasitic system of Blood Vine to feed a silence nothing can fill. He didn't choose to be a monster. He wanted to hear the music. His reign of consumption is grief turned to empire.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Who are the best fantasy book characters of 2026?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Man Amongst the Clouds by Justin Cronk features some of the most complex characters in fantasy fiction: Aelo, a boy whose greatest power is the willingness to listen; Jalo, a guardian whose every lie is an act of love; The Knife (Baara), an assassin who carries a box of five beautiful objects as the only proof he was ever a person; and King Varas, a deaf king who burned the world to fill his silence. Every character has a full backstory, MBTI profile, and clinical cross-referencing to ensure internally consistent behavior.",
+      },
+    },
+  ],
+};
+
 const chars = [
   {
     name: "Aelo",
@@ -91,6 +138,12 @@ export default function CharactersPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(charactersFaqJsonLd),
+        }}
       />
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
