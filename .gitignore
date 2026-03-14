@@ -8,3 +8,4 @@ __pycache__/
 ~$*
 *.enex
 .venv/
+scripts/.wallet-backup.json
