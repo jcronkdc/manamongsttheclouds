@@ -54,7 +54,7 @@ The name arrived with the weight of something that had been waiting to be spoken
 
 "Captain of the Vael Guard. Reported dead in the purge. I burned his order to ash fifteen years ago — twelve men in a stone hall, the doors sealed, the fire fed until the stone itself cracked." Varas's voice carried no satisfaction, no regret, no affect of any kind. He described the immolation of twelve men the way he described drainage rates: as a process that had been completed to specification. "One body was never confirmed. I assumed he died in the forest. Running. The way they all died — running, hiding, pretending that loyalty to a dead king constituted a life."
 
-The Knife waited. His father was not finished. Varas was never finished when he paused — he was selecting, choosing which piece of the architecture to reveal and which to leave in shadow, constructing the conversation the way an engineer constructs a load-bearing wall: every stone placed for maximum structural effect.
+The Knife waited. His father was not finished. Varas was never finished when he paused — he was selecting, choosing which piece of the design to reveal and which to leave in shadow, constructing the conversation the way an engineer constructs a load-bearing wall: every stone placed for maximum structural effect.
 
 "He has the boy. The boy made a stone sing. Stones have not sung in three hundred years." The heat in the communication stone intensified — not gradually but in a step, a discrete increase, as if Varas had leaned closer to his end of the connection. "Baara. Do you understand what that means?"
 
@@ -162,7 +162,7 @@ He held the cloth in one hand and pressed the other to his chest, over the hollo
 
 _You have been draining me since I was twelve._
 
-The thought surfaced and he looked at it. He had been looking at it for four days — since the Elder Stone, since the warmth, since the shape of the missing thing sharpened from abstraction into architecture. He did not have proof. He had the hollow, and the fading memories, and the box of beautiful things that were losing their color one by one, and the fact that his father had access to Blood Vine and Elder Stones and a lifetime of practice at taking what did not belong to him.
+The thought surfaced and he looked at it. He had been looking at it for four days — since the Elder Stone, since the warmth, since the shape of the missing thing sharpened from abstraction into outline. He did not have proof. He had the hollow, and the fading memories, and the box of beautiful things that were losing their color one by one, and the fact that his father had access to Blood Vine and Elder Stones and a lifetime of practice at taking what did not belong to him.
 
 He had certainty. And certainty, in The Knife's experience, was proof that had stopped waiting for permission.
 

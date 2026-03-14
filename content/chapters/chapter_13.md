@@ -10,7 +10,7 @@ He was young — twenty, perhaps, though the Ming aged in ways that made estimat
 
 He sat across from Aelo in the monastery's central chamber — a low-ceilinged room of polished stone, lit by bioluminescent moss that grew in carefully tended strips along the walls, producing a blue-green light that was not warm but was not cold either. It was the light of attention. The light of a place designed for one purpose: to see what was inside.
 
-"I will open my memory to you," Oren said. His voice was calm, his heartbeat steady — forty-eight beats per minute, the resting pulse of a man whose body had forgotten how to hurry. "You will enter. You will see what I choose to show you. This is the first exercise of the deep Know — walking through recollection, not as emotion but as architecture."
+"I will open my memory to you," Oren said. His voice was calm, his heartbeat steady — forty-eight beats per minute, the resting pulse of a man whose body had forgotten how to hurry. "You will enter. You will see what I choose to show you. This is the first exercise of the deep Know — walking through recollection, not as emotion but as structure."
 
 "What if I see something you don't want me to see?"
 
@@ -24,7 +24,7 @@ Oren studied him. The flat black eyes — depthless, volumetric, the eyes of a p
 
 Aelo extended his hands. Oren took them — palm to palm, fingers laced, the skin of his hands dry and cool and calloused from years of palms pressed to stone. The physical contact amplified the Know immediately.
 
-"Close your eyes," Oren said. "Listen through your hands. Not for emotion — for structure. The shape of my memory. The architecture. Follow it in."
+"Close your eyes," Oren said. "Listen through your hands. Not for emotion — for structure. The shape of my memory. The layout. Follow it in."
 
 Aelo closed his eyes. He listened.
 
@@ -62,7 +62,7 @@ A boy — Oren, older now, fourteen or fifteen — standing at the edge of the l
 
 The boy had had a brother. The brother had died.
 
-The memory was organized but not diminished — this was the lesson. Aelo could feel the grief in the room: vast, tidal, the kind of loss that reshapes the landscape of a life the way a flood reshapes a valley. But it was not drowning. It was not the chaotic, suffocating grief that Aelo had felt pouring from Jalo every night for fifteen years — the uncompartmentalized deluge of a man who had never been taught to organize his pain and had used alcohol and silence as substitutes for architecture.
+The memory was organized but not diminished — this was the lesson. Aelo could feel the grief in the room: vast, tidal, the kind of loss that reshapes the landscape of a life the way a flood reshapes a valley. But it was not drowning. It was not the chaotic, suffocating grief that Aelo had felt pouring from Jalo every night for fifteen years — the uncompartmentalized deluge of a man who had never been taught to organize his pain and had used alcohol and silence as substitutes for order.
 
 Oren's grief was in a room. The room was visited deliberately. The door was opened on the boy's terms — not flung open by nightmares, not pried open by triggers, not left ajar by the failure of chemical suppression. Opened. Entered. Inhabited for a period. Then exited, and the door closed, and the grief remained inside, honored and contained and always accessible but never permitted to flood the corridors.
 
@@ -78,17 +78,17 @@ Aelo stood at the threshold and looked at the boy by the lake and the stone with
 
 "We know. We have been holding some of it. But holding is not organizing. Only he can organize it. And he would have to let someone in far enough to show him how."
 
-The door closed. The brother's grief settled back into its room. Aelo felt the architecture shift — a subtle readjustment, the corridors accounting for the emotional weight of the visit, redistributing, rebalancing. Living architecture. A mind that maintained itself the way a forest maintains itself: through constant, small, attentive acts of care.
+The door closed. The brother's grief settled back into its room. Aelo felt the structure shift — a subtle readjustment, the corridors accounting for the emotional weight of the visit, redistributing, rebalancing. A living interior. A mind that maintained itself the way a forest maintains itself: through constant, small, attentive acts of care.
 
 "The third room," Oren said. "This one is mine. I have never shown it to anyone."
 
 ---
 
-The door opened on a garden. Not a physical garden — a memory-garden, a constructed space inside Oren's mind where the monk kept the things he loved most. It was not organized like the corridors — not clean, not architectural. It was wild. Overgrown. Dense with color and sound and the accumulated sensory data of twenty years of paying attention to the world with the extraordinary focus that the Ming training produced.
+The door opened on a garden. Not a physical garden — a memory-garden, a constructed space inside Oren's mind where the monk kept the things he loved most. It was not organized like the corridors — not clean, not ordered. It was wild. Overgrown. Dense with color and sound and the accumulated sensory data of twenty years of paying attention to the world with the extraordinary focus that the Ming training produced.
 
 A sunset over the lake — not one sunset but dozens, layered, each one contributing a different quality of light to a composite image that was more vivid than any single memory could be. The sound of rain on stone — years of rain, the pattern slightly different each time, the percussion evolving as Oren's ears grew more sophisticated and his capacity to hear the distinctions between one raindrop and another expanded from crude to subtle to exquisite. The taste of a plum — a specific plum, eaten once, at thirteen, on a morning when the boy had been grief-sick and homesick and a fellow monk had pressed the fruit into his hand without a word, and the sweetness had been so unexpected and so precise that it had broken through the grief like a crack in a dam, and the boy had wept into a plum and been grateful.
 
-This was the room that mattered. Not the organized corridors or the curated grief. The wild garden. The place where memory was not filed but _felt_. Where the monk who appeared expressionless and composed and perfect in his architecture allowed himself to be the thing that architecture was designed to protect: a person. Full of too many sunsets and not enough plums.
+This was the room that mattered. Not the organized corridors or the curated grief. The wild garden. The place where memory was not filed but _felt_. Where the monk who appeared expressionless and composed and perfect in his composure allowed himself to be the thing the composure was designed to protect: a person. Full of too many sunsets and not enough plums.
 
 "This is what a trained mind looks like," Oren said. "Not the corridors. This. The corridors are the structure. The garden is the reason you build it."
 

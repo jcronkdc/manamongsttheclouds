@@ -20,7 +20,7 @@ Sea Guides came from the coast — dark-skinned, wind-dried, their restless eyes
 
 Desert Weavers came from the sand — weathered, quiet, their amber eyes carrying the brightness of people who had been practicing hope for generations and who were now seeing the practice validated. They carried nothing visible. Their gift was the Weave-Road they had braided into the forest path on their way in — invisible, always cool, always flat, a piece of Desert engineering embedded in the Canopy's floor as a gift that would last for decades and that no one would see but everyone would feel.
 
-Ming Knowers came from the lake — small, dark-haired, their flat black eyes holding the volumetric depth that had always made the Ming the most trusted and most feared people in the world. They carried silence — their traditional gift: deliberate, architecturally maintained quiet that the Ming produced by their presence and that they offered to every gathering as their contribution: _we bring the space in which the listening happens_.
+Ming Knowers came from the lake — small, dark-haired, their flat black eyes holding the volumetric depth that had always made the Ming the most trusted and most feared people in the world. They carried silence — their traditional gift: deliberate, deliberately maintained quiet that the Ming produced by their presence and that they offered to every gathering as their contribution: _we bring the space in which the listening happens_.
 
 And the Volcano. A delegation of smiths — uncomfortable, uncertain, their heat-darkened skin and dense musculature marking them as visibly different from every other delegation. They carried gifts of metalwork — not weapons. Not blades. Tools. A set of farming implements, forged from Volcano steel, each one inscribed with a Volcano word that the delegation's leader translated for the crowd: _repair_. The tools were a peace offering. The offering was not accepted easily — decades of complicity could not be undone by a set of tools. But the tools were present. The tools were a beginning. And beginnings, the Desert elder had taught Aelo, were the only thing the world required.
 
@@ -112,7 +112,7 @@ Laine climbed the hill.
 
 She had been visiting every few days since the Song — the visits becoming a pattern, the pattern becoming a relationship, the relationship building itself the way all mortal relationships build themselves: slowly, through repeated acts of showing up, through the unglamorous, essential practice of being near someone because the being-near was wanted.
 
-She brought food. Dried fish, bread, a jar of something sweet that the Canopy people made from tree sap. Sereth had been forgetting to eat — the mortal inconvenience of hunger having not yet been fully integrated into a behavioral architecture that had spent three centuries without the concept. She was learning. The learning was slow. The learning was the most human thing she had ever done.
+She brought food. Dried fish, bread, a jar of something sweet that the Canopy people made from tree sap. Sereth had been forgetting to eat — the mortal inconvenience of hunger having not yet been fully integrated into a behavioral pattern that had spent three centuries without the concept. She was learning. The learning was slow. The learning was the most human thing she had ever done.
 
 "You forgot to eat again," Laine said. She sat beside Sereth on the hill. The ceremony sounds rose from the clearing below — the Knower's voice, the crowd's responses, the joyful, disorderly music of a world that was remembering how to celebrate.
 
@@ -148,7 +148,7 @@ Silence. The ceremony continued below. A child laughed. Another child was assess
 
 "Do you miss being a god?" Laine asked.
 
-Sereth thought about this. She thought about infinite memory — the total, unbroken, simultaneously-experienced record of everything that had ever happened. She thought about seeing across time — the divine perspective that made the past and the future equally visible, the present a single frame in an infinite film. She thought about knowing the architecture of the universe — the structural awareness of how everything connected to everything else, the pattern that was too large for any mortal mind to hold.
+Sereth thought about this. She thought about infinite memory — the total, unbroken, simultaneously-experienced record of everything that had ever happened. She thought about seeing across time — the divine perspective that made the past and the future equally visible, the present a single frame in an infinite film. She thought about knowing the grammar of the universe — the structural awareness of how everything connected to everything else, the pattern that was too large for any mortal mind to hold.
 
 She thought about Essa. The mortal woman she had loved three hundred years ago. The woman whose hands had been the same shape as Laine's hands. The woman who had understood what Sereth was and had chosen to love her anyway, and the choosing had been the most beautiful thing Sereth had ever witnessed, because the choosing was an act of defiance — a mortal choosing to love a god, knowing the love would end because the mortal would die, and choosing anyway, because the choosing was the point.
 

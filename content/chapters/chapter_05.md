@@ -24,7 +24,7 @@ Then the stone sang.
 
 ---
 
-It came from the north. Forty miles of forest and hill and the accumulated silence of a world that had learned to keep its voice down — and it cut through all of it like a blade through silk. A note. Clear, high, sustained. The kind of sound that a mortal would feel in their chest and a god would feel in their architecture — in the deep structural layer where identity is stored, where the difference between _I am_ and _I was_ is maintained by an act of continuous will.
+It came from the north. Forty miles of forest and hill and the accumulated silence of a world that had learned to keep its voice down — and it cut through all of it like a blade through silk. A note. Clear, high, sustained. The kind of sound that a mortal would feel in their chest and a god would feel in their foundations — in the deep structural layer where identity is stored, where the difference between _I am_ and _I was_ is maintained by an act of continuous will.
 
 Sereth dropped the apple.
 

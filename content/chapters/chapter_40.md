@@ -82,7 +82,7 @@ Aldric gasped. The first full breath in thirty years. The lungs — maintained b
 
 His memories flooded back. Not selectively — totally. The Song did not discriminate. The Song returned everything. Thirty years of consumed memory, stored in the Elder Stone beside his head, released by the Song's resonance and returned to the mind that had produced it. The memories arrived in a cascade — not chronologically but emotionally, the strongest memories first, the ones that carried the most weight returning with the most force.
 
-The guilt. Vast, tidal, the architectural guilt of a father who had failed his son. The memory of turning away. The memory of the recoiling. The memory of looking at a four-year-old child and seeing the void and choosing — not consciously, not deliberately, but choosing — to withdraw. To protect the other son. To invest in the child who could feel rather than the child who could not. The guilt was enormous and the guilt returned in full and Aldric received it because the guilt was his and the receiving was not punishment but ownership.
+The guilt. Vast, tidal, the foundational guilt of a father who had failed his son. The memory of turning away. The memory of the recoiling. The memory of looking at a four-year-old child and seeing the void and choosing — not consciously, not deliberately, but choosing — to withdraw. To protect the other son. To invest in the child who could feel rather than the child who could not. The guilt was enormous and the guilt returned in full and Aldric received it because the guilt was his and the receiving was not punishment but ownership.
 
 And with the guilt: the love. Both. All of it. The memory of reaching for his son before the void was apparent. The memory of holding him. The memory of the small hands, the open fingers, the weight of a child in his arms. The love and the guilt, inseparable, arriving together because they had always been together, because the guilt was the love's shadow and the shadow was cast by the same light.
 
@@ -138,7 +138,7 @@ He closed his stone eyes. A tear ran down bark-textured skin — the first tear 
 
 One moment. Then the stolen magic unraveled.
 
-Every memory Varas had consumed — every life, every experience, every beautiful and terrible and ordinary moment that the Blood Vine had extracted from the prisoners and the Stones and the kingdom — was released. Pulled from him. Returned to the world through Sereth's conduit, through the network, through the architecture that reversed its flow and became, in its final function, not a drain but a restoration.
+Every memory Varas had consumed — every life, every experience, every beautiful and terrible and ordinary moment that the Blood Vine had extracted from the prisoners and the Stones and the kingdom — was released. Pulled from him. Returned to the world through Sereth's conduit, through the network, through the network that reversed its flow and became, in its final function, not a drain but a restoration.
 
 Varas diminished. The enormous, inhuman figure shrank — the bark-texture softening, the body reducing, the decades of accumulated consumption departing the flesh the way water departs a sponge when the sponge is squeezed. The Blood Vine withered — the tendrils drying, curling, dying, the parasitic network collapsing as the memories it had carried were returned to their sources. The Elder Stones dimmed — the sickly amber fading to clear, to gold, to the warm, luminous light of Stones that contained given memory rather than stolen memory.
 

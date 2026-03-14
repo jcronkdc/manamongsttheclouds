@@ -48,7 +48,7 @@ The other soldier laughed. The young one continued — the daughter's habits, he
 
 The Knife listened. He listened with an intensity that he recognized, distantly, as abnormal — a concentration disproportionate to the content, a starving man watching someone eat. The soldier's daughter was seven. She collected shells. She sorted them by color. She had a system for breakfast.
 
-These were small details. Ordinary. The architecture of a life that was allowed to accumulate without someone reaching in and removing the bricks.
+These were small details. Ordinary. The furniture of a life that was allowed to accumulate without someone reaching in and removing the bricks.
 
 The soldier glanced at The Knife. The glance was brief and it contained the thing that every glance directed at The Knife contained: fear, thinly disguised as deference. The soldier looked away. The story stopped.
 

@@ -64,7 +64,7 @@ Laine's Guide-sight — damaged, reassembling, operating at a fraction of its fo
 
 ---
 
-Sereth told her the truth. Quickly. Without the embellishment that three centuries of wearing borrowed faces had taught her. Without the narrative architecture that mortal storytelling required. The facts. The raw, undecorated, devastating facts.
+Sereth told her the truth. Quickly. Without the embellishment that three centuries of wearing borrowed faces had taught her. Without the narrative scaffolding that mortal storytelling required. The facts. The raw, undecorated, devastating facts.
 
 Who she was: one of the seven gods who had created the world's elemental memory. The one who had loved humanity enough to give them the Song. The one who had been punished for the giving by being stripped of divinity and sent to walk among the creatures she had chosen over her own kind.
 
@@ -76,7 +76,7 @@ What the Song was: love made audible. The harmonization of all seven disciplines
 
 What it cost: the vessel. The identity. The self, consumed by the harmonization, the individual dissolved into the universal. Fletcher had Sung and ceased. Maera had held five notes and died. The Song demanded everything because the Song was everything.
 
-And what Sereth needed Laine to do: carry her into the Chamber. Because Sereth's nearly-mortal body could not survive the void alone — the Murkr's anti-memory field was stripping the last of her divinity, and without the divinity, the body was failing. But once inside the Chamber, Sereth could serve as a conduit. A bridge between Aelo and the prisoners. The Blood Vine network that Varas had built to drain could be reversed — used not to extract but to distribute, the parasitic architecture repurposed as a delivery system, the Vine carrying the Song from Aelo through Sereth to every prisoner in the Chamber.
+And what Sereth needed Laine to do: carry her into the Chamber. Because Sereth's nearly-mortal body could not survive the void alone — the Murkr's anti-memory field was stripping the last of her divinity, and without the divinity, the body was failing. But once inside the Chamber, Sereth could serve as a conduit. A bridge between Aelo and the prisoners. The Blood Vine network that Varas had built to drain could be reversed — used not to extract but to distribute, the parasitic network repurposed as a delivery system, the Vine carrying the Song from Aelo through Sereth to every prisoner in the Chamber.
 
 "Fletcher Sang alone," Sereth said. "And it cost him everything. The Song consumed him because there was no one to share the cost. No conduit. No distribution. The full weight of seven harmonized disciplines landed on one person and the person was not enough and the person became the Song."
 

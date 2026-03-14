@@ -18,7 +18,7 @@ He placed the stone in the box. Blank, beside the cloth and the flower — three
 
 ---
 
-The camp was at the base of the mountains. The Flash Rat had gone silent — not calm but overwhelmed, the animal's neural architecture having reached a state of sustained overload that presented not as screaming but as a low, continuous vibration, the body trembling, the eyes fixed upward, the nostrils flaring at a rate that suggested the animal was processing more olfactory data per second than its brain could catalog. The boy was above them. In the Clouds. The Flash Rat could feel him the way a compass feels north — not as direction but as orientation, the animal's entire being reoriented toward a signal that was no longer a scent trail but a presence, a saturation in the air and the stone and the memory of the mountain that was so dense the animal could not distinguish the boy from the world the boy was walking through.
+The camp was at the base of the mountains. The Flash Rat had gone silent — not calm but overwhelmed, the animal's neural circuitry having reached a state of sustained overload that presented not as screaming but as a low, continuous vibration, the body trembling, the eyes fixed upward, the nostrils flaring at a rate that suggested the animal was processing more olfactory data per second than its brain could catalog. The boy was above them. In the Clouds. The Flash Rat could feel him the way a compass feels north — not as direction but as orientation, the animal's entire being reoriented toward a signal that was no longer a scent trail but a presence, a saturation in the air and the stone and the memory of the mountain that was so dense the animal could not distinguish the boy from the world the boy was walking through.
 
 They could not reach the Clouds without flying. The Saddle Bird unit — three birds, handlers, a logistics officer — was two days behind. The Knife had sent for them at the coast. He had been told to wait. Waiting was not his preferred operational mode. Waiting implied that the quarry had time, and time was the one resource that The Knife understood because he was running out of it.
 
@@ -29,7 +29,7 @@ The Ming tracker sat across the fire.
 She was thin — thinner than when they had left the castle, the weeks of march reducing a body that had not been substantial to begin with. Her name was Sera. The Knife had not used her name in the operational logs — she was listed as "Asset: Know-Tracker, Ming-Trained, Conscripted" — because names created connections and connections created vulnerabilities and vulnerabilities were the one thing an operational commander could not afford. He had not asked how she had been conscripted. He had not asked whether the flat black eyes held the resistance or the resignation of a person serving an empire she did not believe in.
 She was looking at him.
 
-Not casually — not the glance of a soldier checking on a commanding officer. Looking. The flat black eyes — the expanded pupils, the depthless Ming black — were fixed on him with a quality that The Knife recognized from the briefings about Know-practitioners: the volumetric gaze. The seeing that went deeper than surface. The attention that read not the face but the architecture beneath the face.
+Not casually — not the glance of a soldier checking on a commanding officer. Looking. The flat black eyes — the expanded pupils, the depthless Ming black — were fixed on him with a quality that The Knife recognized from the briefings about Know-practitioners: the volumetric gaze. The seeing that went deeper than surface. The attention that read not the face but the scaffolding beneath the face.
 
 She was Knowing him.
 
@@ -41,7 +41,7 @@ He should have stopped her. The operational protocols were clear: Know-practitio
 
 Sera flinched.
 
-The flinch was small — the Ming were trained to suppress involuntary responses the way other soldiers were trained to suppress panic, through discipline, through the architectural containment of reaction. But the flinch was there. A contraction of the muscles around the eyes. A slight withdrawal of the head. The unmistakable body language of a person who has seen something inside another person that they did not expect and did not want to see and cannot unsee.
+The flinch was small — the Ming were trained to suppress involuntary responses the way other soldiers were trained to suppress panic, through discipline, through the trained containment of reaction. But the flinch was there. A contraction of the muscles around the eyes. A slight withdrawal of the head. The unmistakable body language of a person who has seen something inside another person that they did not expect and did not want to see and cannot unsee.
 
 She looked away. She looked at the fire. The flat black eyes, which had been volumetric and depthless and attending, became surface — deflected, ordinary, the gaze of a woman staring at flames because the alternative was staring at the thing she had just read.
 
@@ -69,7 +69,7 @@ She stood. She walked away from the fire. She did not look back. Her body langua
 
 The Knife sat at the fire. His hand was still on the mark. Beneath his fingers, through the skin, he could feel it: a pulse. Faint, rhythmic, synchronized with something that was not his heartbeat. A second rhythm, laid over his own, the two beats out of phase by a fraction of a second — just enough to be perceptible, just enough to confirm that the second beat was external, that the rhythm was not his body's but someone else's, someone far away, someone who was connected to him through a thread that ran from the base of his skull through the stone of the mountains and the dead earth of the Murkr and the Vine-threaded walls of the castle to a throne where a man sat and drained and felt nothing and called the draining _governance_ and called the nothing _godhood_ and called the thread _administrative necessity_ and called the son _Reserve Supply 7_.
 
-He did not know the label. Not yet. The label was in his father's internal taxonomy, filed in the operational architecture of the Blood Vine network, accessible only to someone who could follow the thread to its source and read the source's memory. The Knife could not do this. The Knife was not a Knower. The Knife was a weapon, and weapons did not read their wielders.
+He did not know the label. Not yet. The label was in his father's internal taxonomy, filed in the operational ledger of the Blood Vine network, accessible only to someone who could follow the thread to its source and read the source's memory. The Knife could not do this. The Knife was not a Knower. The Knife was a weapon, and weapons did not read their wielders.
 
 But he felt the pulse. And the pulse was the truth that the tracker had seen and could not say and had said anyway, in two sentences, because two sentences were all that a conscripted Ming woman with a professional conscience and a survival instinct could afford to spend on a man who was being eaten alive by his father and who had filed the eating under _operational parameters_.
 

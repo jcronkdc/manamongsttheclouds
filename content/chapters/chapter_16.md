@@ -42,7 +42,7 @@ The stairs ended. The shaft opened into a passage — broader, higher, the ceili
 
 "Core work," Jalo said. There was something in his voice — respect, the particular respect of a man who had been trained to fight and heal and who recognized in the Molders' craft a discipline as demanding and as beautiful as his own. "This passage is three hundred years old. The stone still holds. The Mold was so clean that the rock accepted the new shape as memory — it doesn't remember being anything else."
 
-They walked. The passage branched — left, right, smaller tunnels splitting from the main artery like veins from a vein. The branching was not random. It followed a logic that Aelo could feel through the stone — a structural grammar, an architectural language written in the angles of junctions and the widths of corridors and the subtle gradations of ceiling height that communicated, to anyone who could read it: _this way leads to the living quarters, this way to the workshops, this way to the deep_.
+They walked. The passage branched — left, right, smaller tunnels splitting from the main artery like veins from a vein. The branching was not random. It followed a logic that Aelo could feel through the stone — a structural grammar, a spatial language written in the angles of junctions and the widths of corridors and the subtle gradations of ceiling height that communicated, to anyone who could read it: _this way leads to the living quarters, this way to the workshops, this way to the deep_.
 
 Then: light.
 

@@ -24,7 +24,7 @@ Laine climbed the hill.
 
 She had been visiting every few days since the Song — the visits becoming a pattern, the pattern becoming a relationship, the relationship building itself the way all mortal relationships build themselves: slowly, through repeated acts of showing up, through the specific, unglamorous, essential practice of being near someone because the being-near was wanted.
 
-She brought food. Dried fish, bread, a jar of something sweet that the Canopy people made from tree sap. Sereth had been forgetting to eat — the mortal inconvenience of hunger having not yet been fully integrated into a behavioral architecture that had spent three centuries without the concept. She was learning. The learning was slow. The learning was the most human thing she had ever done.
+She brought food. Dried fish, bread, a jar of something sweet that the Canopy people made from tree sap. Sereth had been forgetting to eat — the mortal inconvenience of hunger having not yet been fully integrated into a behavioral pattern that had spent three centuries without the concept. She was learning. The learning was slow. The learning was the most human thing she had ever done.
 
 "You forgot to eat again," Laine said. She sat beside Sereth on the hill. The ceremony sounds rose from the clearing below — the Knower's voice, the crowd's responses, the specific, joyful, disorderly music of a world that was remembering how to celebrate.
 
@@ -60,7 +60,7 @@ Silence. The ceremony continued below. A child laughed. Another child was assess
 
 "Do you miss being a god?" Laine asked.
 
-Sereth thought about this. She thought about infinite memory — the total, unbroken, simultaneously-experienced record of everything that had ever happened. She thought about seeing across time — the divine perspective that made the past and the future equally visible, the present a single frame in an infinite film. She thought about knowing the architecture of the universe — the structural awareness of how everything connected to everything else, the pattern that was too large for any mortal mind to hold.
+Sereth thought about this. She thought about infinite memory — the total, unbroken, simultaneously-experienced record of everything that had ever happened. She thought about seeing across time — the divine perspective that made the past and the future equally visible, the present a single frame in an infinite film. She thought about knowing the grammar of the universe — the structural awareness of how everything connected to everything else, the pattern that was too large for any mortal mind to hold.
 
 She thought about Essa. The mortal woman she had loved three hundred years ago. The woman whose hands had been the same shape as Laine's hands. The woman who had understood what Sereth was and had chosen to love her anyway, and the choosing had been the most beautiful thing Sereth had ever witnessed, because the choosing was an act of defiance — a mortal choosing to love a god, knowing the love would end because the mortal would die, and choosing anyway, because the choosing was the point.
 

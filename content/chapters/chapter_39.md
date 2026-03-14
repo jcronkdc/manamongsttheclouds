@@ -10,11 +10,11 @@ Not the Blood Vine. The Blood Vine recoiled from the divine residue that still c
 
 Laine set Sereth down. Gently — the old body was fragile now, the divinity stripped by the Murkr's anti-memory field, the flesh reduced to mortal parameters. Sereth's golden eye — the last divine feature — was dimming. The amber that had once been the color of the world's first light was fading toward brown, the divine pigment converting to human pigment, the god becoming a person in the visual, pigment-by-pigment transition that mortality required.
 
-She stood. The standing cost her. The legs trembling, the balance uncertain, the body operating on the residual architecture of three centuries of practice rather than the divine vitality that had sustained it. She looked around the Chamber.
+She stood. The standing cost her. The legs trembling, the balance uncertain, the body operating on the residual habits of three centuries of practice rather than the divine vitality that had sustained it. She looked around the Chamber.
 
 The prisoners. The rows of platforms. The open eyes that saw nothing. The Blood Vine connecting each person to each Stone, the parasitic network pulsing with its slow, rhythmic draw.
 
-Sereth's face — the true face, the one that was neither old nor young nor human nor god but something in between — produced an expression that Laine, standing beside her, had never seen on any face. Not grief. Not rage. Not the architectural emotions that the disciplines produced. Something older. Something that came from a time before emotions had names. The expression of a being that had given humanity the most powerful gift in the universe and was now seeing what humanity had done with it.
+Sereth's face — the true face, the one that was neither old nor young nor human nor god but something in between — produced an expression that Laine, standing beside her, had never seen on any face. Not grief. Not rage. Not the named emotions that the disciplines produced. Something older. Something that came from a time before emotions had names. The expression of a being that had given humanity the most powerful gift in the universe and was now seeing what humanity had done with it.
 
 "I did this," Sereth said. The voice was barely audible — the thin, reduced voice of a nearly-mortal being speaking through a throat that was losing its divine resonance. "I gave Fletcher the Song. I showed him how to make the Stones. I designed the architecture that stores memory in crystal. Every Stone in this room, every Vine that grows from it, every draining mechanism that Varas built — it's all based on what I gave to a man who wanted to help the world remember."
 

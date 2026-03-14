@@ -16,7 +16,7 @@ For a long time, this was enough.
 
 ---
 
-There were seven gods, and they disagreed about most things, as gods do. But on one matter they were united: the song was theirs. It belonged to the divine. Men could live within it the way fish live within water — sustained by it, carried by it, ignorant of it. But they could not hear it. Not truly. Not the way the gods heard it, as architecture, as meaning, as the fundamental grammar of creation.
+There were seven gods, and they disagreed about most things, as gods do. But on one matter they were united: the song was theirs. It belonged to the divine. Men could live within it the way fish live within water — sustained by it, carried by it, ignorant of it. But they could not hear it. Not truly. Not the way the gods heard it, as scaffolding, as meaning, as the fundamental grammar of creation.
 
 This was not cruelty. It was caution. The gods had seen what happened when too much power was given to creatures who lived briefly and loved fiercely and died without understanding why. They burned. They always burned.
 

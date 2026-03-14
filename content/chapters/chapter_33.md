@@ -50,13 +50,13 @@ Jalo saw him. Both eyes — the clear one and the lidded one — found The Knife
 
 "Baara," Jalo said. Not _The Knife_. The name. The real name. The name that the father had replaced with a function and a number and that the boy at the beach had returned, briefly, by showing the man the label.
 
-The Knife flinched. The flinch was the crack — widening, the structural failure spreading through the weapon's architecture. He had come here to do a thing. The function required the thing. The thing was: retrieve the boy. The guardian was between him and the boy. The function dictated: remove the guardian.
+The Knife flinched. The flinch was the crack — widening, the structural failure spreading through the weapon's design. He had come here to do a thing. The function required the thing. The thing was: retrieve the boy. The guardian was between him and the boy. The function dictated: remove the guardian.
 
 "My father burned your order to ash," The Knife said.
 
 "Your father burned the building. He could not burn what we swore."
 
-The Vine paused. The immune system, which had been attacking Jalo with escalating force for ten minutes, registered the arrival of a second presence — a presence that was connected to the network, that was part of the system, that carried the Blood Vine's mark on the back of its neck and was therefore, in the system's taxonomy, not an infection but a component. The Vine did not attack The Knife. The Vine waited. The system was confused: a component standing beside an infection, the taxonomy disrupted by a situation that the architecture had not been designed to handle.
+The Vine paused. The immune system, which had been attacking Jalo with escalating force for ten minutes, registered the arrival of a second presence — a presence that was connected to the network, that was part of the system, that carried the Blood Vine's mark on the back of its neck and was therefore, in the system's taxonomy, not an infection but a component. The Vine did not attack The Knife. The Vine waited. The system was confused: a component standing beside an infection, the taxonomy disrupted by a situation the system had not been designed to handle.
 
 "Why didn't you run?" The Knife asked. The question was not tactical. The question was the person's. "You could have hidden forever. The boy — you could have kept him hidden. In the Canopy, in the Core. Places the Patrol can't reach. You chose to come here."
 
@@ -110,7 +110,7 @@ The Knife froze.
 
 "I did not steal him. I carried him. The way you carry your box."
 
-The words hit harder than the blade. The words entered the crack and the crack widened and the widening was not structural failure but structural _opening_ — the weapon's architecture expanding to accommodate a truth that the architecture had been built to exclude. The box. The feather. The glass. The small, beautiful, dying things that The Knife carried against his chest every night and held for eleven seconds because the holding was the one act that was not function but choice.
+The words hit harder than the blade. The words entered the crack and the crack widened and the widening was not structural failure but structural _opening_ — the weapon's framework expanding to accommodate a truth the framework had been built to exclude. The box. The feather. The glass. The small, beautiful, dying things that The Knife carried against his chest every night and held for eleven seconds because the holding was the one act that was not function but choice.
 
 Jalo was carrying Aelo the way The Knife carried the box. The analogy was not metaphorical. It was structural. Both men had been reduced to a single purpose — one by oath, one by conditioning — and the purpose had consumed everything except what it was designed to protect: something beautiful. Fragile. Worth carrying.
 
@@ -148,7 +148,7 @@ Not the moment of death — the death was a fact, and facts arrived through the 
 
 The bond did not sever. The bond changed. The pulsing did not stop — it continued, but the second rhythm was gone, and the absence of the second rhythm was the loudest silence Aelo had ever felt, louder than the Murkr's dead zone, than the Canopy's overwhelm, than anything he had ever felt.
 
-He stopped walking. He placed his numb hand on the castle wall. The stone was dead — the Blood Vine's corruption having consumed every trace of the original building's memory. But Aelo was not reaching for the stone. He was reaching through it. Through the dead walls, through the dark corridors, through the hundred yards of organic, appetite-driven architecture that separated him from the gate where the guardian had stood.
+He stopped walking. He placed his numb hand on the castle wall. The stone was dead — the Blood Vine's corruption having consumed every trace of the original building's memory. But Aelo was not reaching for the stone. He was reaching through it. Through the dead walls, through the dark corridors, through the hundred yards of organic, appetite-driven structure that separated him from the gate where the guardian had stood.
 
 He felt Jalo's death. Not the moment but the _texture_ — the emotional residue that the dying had left in the dead air. Exhaustion first — the terminal kind, a body that had spent everything in eleven minutes and a lifetime. Then relief, the setting-down of a weight carried so long the setting-down felt like falling and the falling felt like flying. And then love. A love so vast it filled every corridor of the castle — pouring through the dead stone like water through sand, finding every crack, every seam. Fifteen years of held feeling releasing at once into the world, and the world — even this dead world, even the Murkr — received it.
 

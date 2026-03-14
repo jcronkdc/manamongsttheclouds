@@ -22,7 +22,7 @@ A man so thin he seemed to be made of wind raised his hands, palms up, and the a
 
 The last Seer was young. The youngest of the five, her voice clear and strong, she held the Guide: a sustained middle tone, steady as a compass needle, the note that did not rise or fall but pointed.
 
-Five notes. Five disciplines. The chamber filled with them — not as sound but as _architecture_. Each note occupied a different register, a different emotional territory, and the combination produced not a chord but a _space_ — an acoustic room in which each voice was distinct and each voice was essential and the absence of any one voice would collapse the structure the way the removal of a single stone collapses an arch.
+Five notes. Five disciplines. The chamber filled with them — not as sound but as _structure_. Each note occupied a different register, a different emotional territory, and the combination produced not a chord but a _space_ — an acoustic room in which each voice was distinct and each voice was essential and the absence of any one voice would collapse the structure the way the removal of a single stone collapses an arch.
 
 "Listen," Cael said. She did not stop humming — the word came out layered over the drone, the Know's frequency carrying the instruction as a vibration within a vibration. "Not to the notes. To the space between them."
 
@@ -154,7 +154,7 @@ Cael's face changed. The milky eyes widened — a fractional adjustment, the mus
 
 "Not silence. Stillness. The stillness that holds the Song. The riverbed."
 
-Cael smiled. The smile was thin — the muscles too old, the face too weathered to produce the full architecture. But the smile was real. The first real smile Aelo had seen on a Seer's face.
+Cael smiled. The smile was thin — the muscles too old, the face too weathered to produce the full expression. But the smile was real. The first real smile Aelo had seen on a Seer's face.
 
 "Your mother would be proud," she said. "Your mother _is_ proud. I can hear her in the air right now. She's been singing louder since you arrived."
 

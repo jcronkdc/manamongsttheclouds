@@ -4,7 +4,7 @@
 
 ---
 
-The Ming border announced itself not with a wall or a gate or any of the architectural declarations that Aelo had learned to associate with the boundaries between one place and another, but with silence. Not absence. _Density_. A fullness so complete that it registered as quiet because no single sound could distinguish itself from the mass.
+The Ming border announced itself not with a wall or a gate or any of the built declarations that Aelo had learned to associate with the boundaries between one place and another, but with silence. Not absence. _Density_. A fullness so complete that it registered as quiet because no single sound could distinguish itself from the mass.
 
 They had been walking south for three days since the Remembering. The Sea was still far — weeks of travel, Sereth said, and the boy was not ready for the Guide. Not yet. The Ming came first. "Before you can speak to the water," Sereth had told him on the first morning, "you must learn to hear what is already speaking. The Ming will teach you to listen without drowning. If you skip this step, the Sea will kill you." Aelo had not asked how a body of water could kill someone. He had felt the Canopy's whispers nearly break him.
 
@@ -38,7 +38,7 @@ Third attempt. He found it — the pocket. Smaller than before. Barely a breath'
 
 He opened his eyes. The lake stretched before him — vast, grey-green, impossibly still. No wind disturbed its surface. No current marked its edges. It lay in a shallow valley between low hills like a mirror placed face-up in a depression, reflecting the overcast sky with such fidelity that the boundary between water and air was indistinguishable, and Aelo had the disorienting sensation of looking not at a lake but at a hole in the world through which the sky continued downward into the earth.
 
-Mist clung to the surface. Not the ragged, wind-torn mist of the Canopy mornings but a deliberate, architectural mist — banked and shaped and held, as if someone had taken the fog and _organized_ it. Through the mist, at the far shore: structures. Low, stone, emerging from the waterline like extensions of the bedrock. A monastery built not beside the lake but _into_ it, the walls rising from the shallows, the foundations submerged, the architecture designed to stay near the water.
+Mist clung to the surface. Not the ragged, wind-torn mist of the Canopy mornings but a deliberate, structured mist — banked and shaped and held, as if someone had taken the fog and _organized_ it. Through the mist, at the far shore: structures. Low, stone, emerging from the waterline like extensions of the bedrock. A monastery built not beside the lake but _into_ it, the walls rising from the shallows, the foundations submerged, the whole design meant to stay near the water.
 
 Figures stood at the shore. Three of them. Small, dark-haired, motionless. They had the particular stillness of people who have been waiting long enough that the waiting has become a posture rather than an activity — not tense, not relaxed, simply _present_, as the lake was present, as the mist was present.
 
@@ -58,7 +58,7 @@ Jalo's jaw tightened. The tremor in his hands intensified — a vibration that A
 
 "I carry what needs carrying."
 
-"You carry what you refuse to set down. There is a difference." She stepped forward. She was shorter than Aelo had expected — small, compact, built for enclosed spaces and low ceilings, a body shaped by generations of living underground and close to the earth. She raised her hand. Her palm was calloused and warm — he could feel its warmth from a foot away, a radiant heat that was not body temperature but something else, something that came from the Know, from decades of pressing palms against foreheads and reading the architecture of other people's suffering.
+"You carry what you refuse to set down. There is a difference." She stepped forward. She was shorter than Aelo had expected — small, compact, built for enclosed spaces and low ceilings, a body shaped by generations of living underground and close to the earth. She raised her hand. Her palm was calloused and warm — he could feel its warmth from a foot away, a radiant heat that was not body temperature but something else, something that came from the Know, from decades of pressing palms against foreheads and reading the shape of other people's suffering.
 
 "May I?" she asked Jalo.
 
@@ -98,7 +98,7 @@ Not the pain. The _loneliness_. Fifteen years of pain, borne alone, because he b
 
 ---
 
-The monastery was a quiet place. Not the Canopy's layered, murmuring quiet. This was a library's quiet. Intentionally. Architecturally. The stone walls absorbed sound. The water that lapped at the submerged foundations produced a rhythm so regular and so soft that it became inaudible within minutes.
+The monastery was a quiet place. Not the Canopy's layered, murmuring quiet. This was a library's quiet. Intentionally. By design. The stone walls absorbed sound. The water that lapped at the submerged foundations produced a rhythm so regular and so soft that it became inaudible within minutes.
 
 Aelo was given a room. Small, clean, the walls bare except for a single shelf holding a clay bowl of water. The water was from the lake. He could feel it — the hum, attenuated by distance and stone but still present, a vibration in the bowl that made the surface tremble with a frequency too low to see and too persistent to ignore.
 

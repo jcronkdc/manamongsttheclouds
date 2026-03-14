@@ -30,7 +30,7 @@ The first time he saw the ocean. He knew he had wept. He could not feel why.
 
 His mother's name. He reached for it and the reaching found — not the name but the knowledge that a name existed. A name he had been told. A name that mattered. The name itself was a blank. The syllables were gone.
 
-This was the cost. Not death — something more human. Something more complicated. The Song had eaten the fine details of his life — the textures, the colors, the sensory content that made a memory a memory rather than a fact. The architecture remained. The structure of his life was intact — the sequence of events, the relationships, the lessons learned, the skills acquired. He knew who he was. He knew what he had done and why. But the vividness was muted. The painting left in the sun.
+This was the cost. Not death — something more human. Something more complicated. The Song had eaten the fine details of his life — the textures, the colors, the sensory content that made a memory a memory rather than a fact. The framework remained. The structure of his life was intact — the sequence of events, the relationships, the lessons learned, the skills acquired. He knew who he was. He knew what he had done and why. But the vividness was muted. The painting left in the sun.
 
 _The one of Fletcher's blood will Sing, and in Singing, cease._
 
@@ -46,7 +46,7 @@ The sound of the Elder Stone singing in the ceremony square. The first time the 
 
 The wind catching him on the ledge. His mother's presence in the air. The devastating, impossible feeling of being held by someone who was dead and who was holding him anyway. The wind survived. Promises do.
 
-And one more: the lullaby. His mother's note. The seventh note. The note that had been in the air since her death and that had been in his blood since his birth and that the Song had used as its final, completing frequency. The lullaby lived in him still — not as a memory but as part of his blood. It was in his bones now. It was in the vibrational, molecular structure of a body that had been built to carry the Song and that would carry, from this moment forward, the echo of the Song in its cellular architecture. The lullaby would never leave. The lullaby was him.
+And one more: the lullaby. His mother's note. The seventh note. The note that had been in the air since her death and that had been in his blood since his birth and that the Song had used as its final, completing frequency. The lullaby lived in him still — not as a memory but as part of his blood. It was in his bones now. It was in the vibrational, molecular structure of a body that had been built to carry the Song and that would carry, from this moment forward, the echo of the Song in its cellular memory. The lullaby would never leave. The lullaby was him.
 
 He was not Fletcher. He had not dissolved. He had not become the Song — he had _carried_ it, the way the riverbed carries the river, and the carrying had cost him some of the riverbed's material but the riverbed remained. Diminished. Worn. The edges smoothed by the river's passage. But present. Still there. Still holding the shape.
 

@@ -16,7 +16,7 @@ The soil changed. From rocky to chalky to a dry, powdery grey substance that was
 
 "I can't see past it," Laine said. She had stopped walking. Her restless eyes were still — not the focused stillness of concentration but the blank stillness of a sense that had been turned off. "I can't see what happens inside. It's like trying to look through stone."
 
-Jalo walked past her. His stride was steady, the rationed, deliberate stride of a man who had been to this place before and who was not surprised by what it had become. His emotional weather, which Aelo read from five feet away, was not fear. It was recognition. The grim, architectural recognition of a man returning to a place where the worst thing in his life had happened and finding it worse.
+Jalo walked past her. His stride was steady, the rationed, deliberate stride of a man who had been to this place before and who was not surprised by what it had become. His emotional weather, which Aelo read from five feet away, was not fear. It was recognition. The grim, bone-deep recognition of a man returning to a place where the worst thing in his life had happened and finding it worse.
 
 "It wasn't always like this," Jalo said. He was not looking at the grey landscape. He was looking through it — through the present to the past, through the dead land to the memory of the land before the dying. "When Aldric was king, this was the brightest place in the world. The convergence — where all seven regions met — was the place where the world's memory was strongest. The Elder Stones formed here naturally. The air sang. The grass was so green it hurt your eyes. I came here once, with the Vael Guard, for the last Knower Ceremony before Varas. The sky was — the sky was the color of the inside of a bell. If you could hear a color, that was the color."
 
@@ -70,7 +70,7 @@ Aelo looked at the castle. The silhouette grew as they approached, the organic a
 
 They walked toward it. The dead zone pressed against them, erasing the world's song one step at a time. His disciplines flickered — the Know surging and fading, the Mold a whisper, the Guide blind. Only the Song remained. The riverbed held. Varas's decades of draining could not reach it, because the riverbed was not a memory but the place where memory lived.
 
-The castle loomed. The grey air thickened. The Blood Vine's glow intensified, the dark, red-brown luminescence growing brighter as they approached. The hunger became visible. The appetite became architectural.
+The castle loomed. The grey air thickened. The Blood Vine's glow intensified, the dark, red-brown luminescence growing brighter as they approached. The hunger became visible. The appetite became visible in the walls.
 
 Aelo gripped the lake stone and kept walking.
 

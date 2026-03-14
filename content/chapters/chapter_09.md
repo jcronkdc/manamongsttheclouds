@@ -130,7 +130,7 @@ Beyond: the open sky. A road, wide and packed, heading south. The grey horizon o
 
 Sereth stepped through the gate behind them. The wall sealed — the trunks merging, the bark fusing, the passage disappearing as if it had never been. The Remembering remembered them passing. The Remembering would remember them always.
 
-The road stretched ahead. The sky was enormous after the canopy — an overwhelming expanse of grey and silver that Aelo could feel against his skin, the absence of the trees' whispers replaced by a different sound: the hum of the open world, vast and unstructured, every memory in the soil and the stone and the road beneath their feet speaking at once without the Canopy's architecture to organize it.
+The road stretched ahead. The sky was enormous after the canopy — an overwhelming expanse of grey and silver that Aelo could feel against his skin, the absence of the trees' whispers replaced by a different sound: the hum of the open world, vast and unstructured, every memory in the soil and the stone and the road beneath their feet speaking at once without the Canopy's filter to organize it.
 
 "South," Sereth said. "The Sea. Laine is waiting."
 

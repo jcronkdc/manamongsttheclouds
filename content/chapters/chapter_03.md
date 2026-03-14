@@ -118,7 +118,7 @@ The stone was the size of a man's torso, irregular, dark grey, set on a low wood
 
 Beside the stone stood the Knower.
 
-A man reduced to his architecture — cheekbones, eye sockets, the ridge of clavicle visible above his collar. His hands were large and they trembled. His eyes were open and they were the emptiest things Aelo had ever seen — not empty like Jalo's lies, which were full of the thing they were hiding, but empty like a room after a fire. Just the outline of where a person had been.
+A man reduced to his bones — cheekbones, eye sockets, the ridge of clavicle visible above his collar. His hands were large and they trembled. His eyes were open and they were the emptiest things Aelo had ever seen — not empty like Jalo's lies, which were full of the thing they were hiding, but empty like a room after a fire. Just the outline of where a person had been.
 
 The Knower did not want to be here. Aelo could feel this with a certainty that bypassed thought and arrived in his body as nausea. The man's heartbeat was a damaged thing — arrhythmic, panicked, the cardiac signature of a bird in a cage. He was here because the alternative to being here was worse, and Aelo could feel the shape of that alternative too, pressing against the Knower's ribs like a scream he had swallowed so many times it had become a permanent resident.
 

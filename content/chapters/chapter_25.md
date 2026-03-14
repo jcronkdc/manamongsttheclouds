@@ -38,7 +38,7 @@ It was continuous now — not the deliberate, timed sessions of the early years.
 
 The memories arrived as sensations. Not his — other people's. Faint, diluted, the emotional equivalent of broth: the nutrients present but the substance thin. A prisoner in the Chamber below felt despair. The despair arrived in Varas as a dim awareness that something was happening in the vicinity of his chest. A Molder in the lower cells remembered her daughter's face. The remembering arrived in Varas as a flicker of visual input that was not connected to his own eyes — a child's face, unfamiliar, lasting half a second, carrying a warmth that dissipated before he could identify it.
 
-This was what the draining gave him. Not feeling. The ghost of feeling, transmitted through stone and Vine and the parasitic architecture that Varas had spent forty years constructing because the architecture was the only thing that made the empty room bearable. He could not feel. But he could consume the residue of other people's feeling, and the consuming produced a sensation that was not emotion but was adjacent to it — the way the heat from a fire is not the fire but is close enough to remind you that the fire exists.
+This was what the draining gave him. Not feeling. The ghost of feeling, transmitted through stone and Vine and the parasitic network that Varas had spent forty years constructing because the network was the only thing that made the empty room bearable. He could not feel. But he could consume the residue of other people's feeling, and the consuming produced a sensation that was not emotion but was adjacent to it — the way the heat from a fire is not the fire but is close enough to remind you that the fire exists.
 
 It was not enough. It had never been enough. But it was all he had.
 
@@ -104,7 +104,7 @@ The hall was empty. The servants cleaned. The blood was scrubbed. The remains we
 
 Varas sat on the throne. Alone. The draining continued — the slow, constant trickle from the Stones and the Vine, the stolen memories arriving as ghosts, the ghosts dissipating before they could be held. He placed his bark-textured hands on the armrests and he felt the armrests and the armrests were sixty-two degrees.
 
-The fear was gone. The room was empty. The people who had carried the fear had taken it with them — out the doors, into the corridors, into the city, into their homes where they would sit with the horror and metabolize it through the emotional architecture that Varas could not access: grief, rage, resolve, the human capacity to transform experience into meaning.
+The fear was gone. The room was empty. The people who had carried the fear had taken it with them — out the doors, into the corridors, into the city, into their homes where they would sit with the horror and metabolize it through the emotional machinery that Varas could not access: grief, rage, resolve, the human capacity to transform experience into meaning.
 
 He had none of these. The fear had pressed against his barrier and the pressing had been — something. Now the pressing was gone and the something was gone with it and the barrier was the barrier and the empty room was the empty room and the silence was absolute.
 

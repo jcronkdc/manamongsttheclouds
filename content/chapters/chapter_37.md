@@ -4,7 +4,7 @@
 
 ---
 
-The throne room was the silence made architectural.
+The throne room was the silence given walls.
 
 Aelo entered through a corridor that had straightened as he walked — the Song's resonance peeling back decades of Varas's organic Molding, the stone remembering Fletcher's original design, the clean lines and honest angles of a room that had been built for governance and had been converted into a feeding apparatus. The corridor opened onto the great hall. The hall was vast; not spatially but existentially. The vastness of absence.
 
@@ -68,7 +68,7 @@ The words landed in the empty hall with a weight that Aelo had not expected — 
 
 "Almost. The way I almost feel everything. Enough to know it was there. Not enough to know what it was."
 
-Aelo looked at the king. And for the first time, he did what his magic was born to do. He did not read Varas's emotions — there were none to read. He did not enter Varas's memories — the memories were stolen, not his. He _felt_ Varas. The void. The hollow where a soul should be. The structural, architectural absence that was not the result of damage or choice but of design — the building built without a door, the room without an exit, the life lived inside a silence so total that the silence had become the identity and the identity had consumed the world in a futile, desperate, seventy-year attempt to hear the one thing the identity could not produce.
+Aelo looked at the king. And for the first time, he did what his magic was born to do. He did not read Varas's emotions — there were none to read. He did not enter Varas's memories — the memories were stolen, not his. He _felt_ Varas. The void. The hollow where a soul should be. The structural, foundational absence that was not the result of damage or choice but of design — the building built without a door, the room without an exit, the life lived inside a silence so total that the silence had become the identity and the identity had consumed the world in a futile, desperate, seventy-year attempt to hear the one thing the identity could not produce.
 
 Varas was not evil. Varas was in pain. A pain so absolute and so primal — the pain of being excluded from existence itself — that it had warped him into the thing he was. The Chamber. The draining. The Dog Scene. The purge. The Kingdom of nothing — all of it was not cruelty but _reaching_. The four-year-old boy in Aldric's memory, hands up, wanting to be held. Reaching. Wanting. Unable to close the gap between himself and the world that everyone else inhabited and that he had been locked out of since birth.
 
@@ -142,7 +142,7 @@ The sound was small. A boy humming in a dark room. The acoustics were wrong; the
 
 Varas's hands stopped gripping each other.
 
-His head tilted. A fractional movement, the involuntary orientation of a body toward a sound it is straining to hear, the way a plant orients toward light it cannot quite reach. The stone eyes were open and the stone eyes were wet. Not tears. The bark-textured face could not produce tears. Moisture. The body's mechanical response to something the body did not have the architecture to process. The barrier was there. The barrier was always there. But the lullaby pressed against it, gently, the way a hand presses against a window, and for a fraction of a second, less than the half-second at the Elder Stone, a fraction of a fraction, the barrier thinned.
+His head tilted. A fractional movement, the involuntary orientation of a body toward a sound it is straining to hear, the way a plant orients toward light it cannot quite reach. The stone eyes were open and the stone eyes were wet. Not tears. The bark-textured face could not produce tears. Moisture. The body's mechanical response to something the body did not have the capacity to process. The barrier was there. The barrier was always there. But the lullaby pressed against it, gently, the way a hand presses against a window, and for a fraction of a second, less than the half-second at the Elder Stone, a fraction of a fraction, the barrier thinned.
 
 He did not hear the lullaby. He heard the ghost of the ghost of it. An echo of an echo. The faintest possible evidence that on the other side of the barrier, in the world he had been locked out of since birth, a sound existed. It was kind. The kindness was meant for him.
 
