@@ -34,7 +34,7 @@ They walked. The Weave-Road carried them, not physically, but by removing obstac
 
 Aelo thought about this as they walked. The Desert People had no strong magic. They had fragments, whispers of every discipline, none powerful enough to master. And from those fragments, they had built roads that were invisible to everyone except the people who walked them. They had not conquered the Desert's damaged memory. They had not restored what was lost. They had learned to work with what remained — to braid weakness into strength, to combine insufficient pieces into a sufficient whole.
 
-## The Weave was the Sing's poor cousin. The same principle — harmonization, combination, the whole greater than the sum — applied at a lower register, with weaker materials, by people who had been forced by circumstance to discover what Aelo was only now learning by design:
+The Weave was the Sing's poor cousin. The same principle — harmonization, combination, the whole greater than the sum — applied at a lower register, with weaker materials, by people who had been forced by circumstance to discover what Aelo was only now learning by design:
 
 The Desert elder found them at the fire.
 
@@ -88,7 +88,7 @@ They reached the summit at dawn. The sky was pink and gold and the air was so th
 
 Aelo looked at it. The pull was there — the Great Elder Stone's gravity, tugging at his blood. The iron taste rose, faint, at the back of his throat. That grey wound had taken his mother. His father. His brother. The taste had edges now — direction, purpose. He would go there. But not yet. First: the sky.
 
-A sound. Behind them, above them — a cry. Not human. A Saddle Bird. It came through the cloud layer like a bolt of dark lightning — large, larger than Aelo had imagined from the feather in The Knife's box, its wingspan wider than Jalo was tall, the plumage a deep iridescent blue that shifted toward green at the edges, iridescent, the colors of shallow water over white sand. It circled once. Twice. The cry was sharp, carrying across the thin air with the clarity of a sound designed for altitude, for distance, for the acoustic environment of a sky that carried voices for miles.
+A sound. Behind them, above them — a cry. Not human. A Saddle Bird. It came through the cloud layer like a bolt of dark lightning — large, larger than Aelo had imagined from Laine's descriptions, its wingspan wider than Jalo was tall, the plumage a deep iridescent blue that shifted toward green at the edges, iridescent, the colors of shallow water over white sand. It circled once. Twice. The cry was sharp, carrying across the thin air with the clarity of a sound designed for altitude, for distance, for the acoustic environment of a sky that carried voices for miles.
 
 It landed on the summit rock. Close. Two feet from Aelo. The bird was enormous — its head at the level of his chest, its eyes dark, intelligent, carrying the quality of an animal that was not domesticated but allied, not owned but partnered. The Cloud People's Saddle Birds bonded with a single rider. They chose. The choosing was not a training — it was a recognition, the bird's instinct identifying the person whose frequency matched its own.
 
