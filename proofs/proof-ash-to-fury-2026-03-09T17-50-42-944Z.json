@@ -1,0 +1,164 @@
+{
+  "version": "1.0",
+  "type": "proof-of-authorship",
+  "creator": {
+    "name": "Carter Cronk",
+    "project": "Ash to Fury",
+    "claim": "I am the original author of this novel. This story was written by me. No artificial intelligence was used to write any prose, dialogue, or narrative content in this work.",
+    "publisher": "Stillfire Press"
+  },
+  "work": {
+    "title": "Ash to Fury",
+    "author": "Carter Cronk",
+    "type": "Novel — Dark Fantasy",
+    "publisher": "Stillfire Press",
+    "website": "https://ashtofury.com",
+    "description": "A dark fantasy novel about a disciplined man, a devastating betrayal, and a transformation forged in grief and fire."
+  },
+  "aiTransparency": {
+    "statement": "This novel was written entirely by Carter Cronk. AI was never used to generate prose, dialogue, characters, plot, or any narrative content. AI tools were used solely as editorial aids to identify plot holes, flag inconsistencies, and assist with copyediting. The story, the voice, and every word on the page are the author's own.",
+    "aiNeverUsedFor": [
+      "Writing prose, dialogue, or narrative content",
+      "Generating characters, plot points, or world-building",
+      "Rewriting or paraphrasing the author's original text"
+    ],
+    "verificationLinks": [
+      "https://gptzero.me/",
+      "https://originality.ai/"
+    ]
+  },
+  "proof": {
+    "merkleRoot": "2b318207695d4e9a220b0cf588841624af4c75ad73e3917af8696b56ce2c608f",
+    "merkleRootBytes32": "0x2b318207695d4e9a220b0cf588841624af4c75ad73e3917af8696b56ce2c608f",
+    "fileCount": 21,
+    "totalSize": 1118098,
+    "totalSizeMB": "1.07",
+    "timestamp": "2026-03-09T17:50:42.944Z",
+    "unixTimestamp": 1773078642
+  },
+  "blockchain": {
+    "network": "polygon",
+    "chainId": 137,
+    "transactionHash": "pending",
+    "blockNumber": null,
+    "confirmedAt": null,
+    "walletAddress": null
+  },
+  "verification": {
+    "verifyUrl": "https://polygonscan.com/tx/",
+    "aiDetection": [
+      "https://gptzero.me/",
+      "https://originality.ai/"
+    ]
+  },
+  "legal": {
+    "copyright": "© 2026 Carter Cronk / Stillfire Press. All rights reserved."
+  },
+  "manifest": [
+    {
+      "path": "Ash to Fury RD.pdf",
+      "size": 861363,
+      "hash": "1640d4e2145f026e09b73486d336b92b4bbe3071d0c48ff596b33eba20b1fbdb"
+    },
+    {
+      "path": "website/app/components/Author.tsx",
+      "size": 2169,
+      "hash": "ea7a532179fb65713d194eb983543232d40297bf92d241d1da1ceb574cbd19f9"
+    },
+    {
+      "path": "website/app/components/ComingSoon.tsx",
+      "size": 1918,
+      "hash": "177624ad882e6901d1315dd71318bae30a8b7444ea28ff0cad5a551a1fdca236"
+    },
+    {
+      "path": "website/app/components/Footer.tsx",
+      "size": 3973,
+      "hash": "0eba55f3fa7e80767dd9af41e9458469788a5d206a8a9c83a11f6f97db0a35a3"
+    },
+    {
+      "path": "website/app/components/Hero.tsx",
+      "size": 2795,
+      "hash": "455effc4f175fe7f6b837e7eb5072647b5b4c1c5397647b23803c870ad05ab6a"
+    },
+    {
+      "path": "website/app/components/Premise.tsx",
+      "size": 1966,
+      "hash": "eda1d306143c36c9001c6b6b8d94b9b2db7c8143cf063b7d47430dc3e87d8a56"
+    },
+    {
+      "path": "website/app/components/Signup.tsx",
+      "size": 1987,
+      "hash": "245231921fa4b75bce4be5b4ca4ff02a3ad90350573a99eb0b260742074e2d0a"
+    },
+    {
+      "path": "website/app/components/Themes.tsx",
+      "size": 1622,
+      "hash": "cab70886368ce63e5a5016c5e51db12c372318e93a2d3c88f7a14de58bb98b3e"
+    },
+    {
+      "path": "website/app/globals.css",
+      "size": 1309,
+      "hash": "ead7864d43e918c1a4f9388e9228975f9d67a1231ebc8ab5382b70b97ff811b0"
+    },
+    {
+      "path": "website/app/layout.tsx",
+      "size": 3137,
+      "hash": "1fc2f545ac0c514cfa1336aa93ea3713aa1ec6247d45fe0486e36335352a55e9"
+    },
+    {
+      "path": "website/app/opengraph-image.tsx",
+      "size": 3878,
+      "hash": "2dfa022a1bc4358352fad5ab6d924cfeb10352ca882d70079a2900ffcdfc6f7c"
+    },
+    {
+      "path": "website/app/page.tsx",
+      "size": 550,
+      "hash": "9500de65aa8236f4a2eb0a1d996e9dca9e1b57252c518790973c6f20ffa09660"
+    },
+    {
+      "path": "website/app/robots.ts",
+      "size": 250,
+      "hash": "39c6e0afdad31b64f279f5c96c0f67ad5a9f6ce89a078097bd28d3863aecb596"
+    },
+    {
+      "path": "website/app/sitemap.ts",
+      "size": 266,
+      "hash": "fc4fe2d49a960c4b83d03ccc665d8bbd29a313f8f206839262cda2749d0ffc89"
+    },
+    {
+      "path": "website/eslint.config.mjs",
+      "size": 465,
+      "hash": "870f1adccecf3051cbcd9fd307cef51d7633cf510979c181a81f4b1797273493"
+    },
+    {
+      "path": "website/next-env.d.ts",
+      "size": 247,
+      "hash": "7b550dda9686c16f36a17bf9051d5dbf31e98555b30d114ac49fc49a1e712651"
+    },
+    {
+      "path": "website/next.config.ts",
+      "size": 133,
+      "hash": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+    },
+    {
+      "path": "website/package-lock.json",
+      "size": 228769,
+      "hash": "39389536f5f0daf70aef82215f4d3546e7c3421f3c19698c47feb3dc24501123"
+    },
+    {
+      "path": "website/package.json",
+      "size": 541,
+      "hash": "9e099e266e00607e1e13c1292fb0a0eb9829ca0e81854118645944855153866f"
+    },
+    {
+      "path": "website/postcss.config.mjs",
+      "size": 94,
+      "hash": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+    },
+    {
+      "path": "website/tsconfig.json",
+      "size": 666,
+      "hash": "be18523b23b78b6e1a876ddd107d330f0168bddf09d751b57e0b5edce69c66f3"
+    }
+  ]
+}

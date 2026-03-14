@@ -1,0 +1,568 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Binder Cover - Man Amongst the Clouds</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      @page {
+        size: 8.5in 11in;
+        margin: 0;
+      }
+
+      body {
+        font-family: "Cormorant Garamond", Georgia, serif;
+        background: #fff;
+        color: #1a1a1a;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+
+      /* --- FRONT COVER --- */
+      .cover {
+        width: 8.5in;
+        height: 11in;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        overflow: hidden;
+        background: linear-gradient(
+          180deg,
+          #0d1b2a 0%,
+          #1b2a3d 30%,
+          #2c3e56 55%,
+          #4a6274 75%,
+          #8a9eaa 90%,
+          #c9d6dc 100%
+        );
+        page-break-after: always;
+      }
+
+      .cover::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background:
+          radial-gradient(
+            ellipse 120% 40% at 50% 25%,
+            rgba(200, 210, 220, 0.08) 0%,
+            transparent 70%
+          ),
+          radial-gradient(
+            ellipse 80% 30% at 30% 40%,
+            rgba(255, 255, 255, 0.03) 0%,
+            transparent 60%
+          ),
+          radial-gradient(
+            ellipse 60% 20% at 70% 35%,
+            rgba(255, 255, 255, 0.04) 0%,
+            transparent 50%
+          );
+        pointer-events: none;
+      }
+
+      /* Stars */
+      .cover::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 45%;
+        background-image:
+          radial-gradient(
+            1px 1px at 15% 8%,
+            rgba(255, 255, 255, 0.7),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 35% 15%,
+            rgba(255, 255, 255, 0.5),
+            transparent
+          ),
+          radial-gradient(
+            1.5px 1.5px at 55% 5%,
+            rgba(255, 255, 255, 0.8),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 75% 18%,
+            rgba(255, 255, 255, 0.4),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 20% 25%,
+            rgba(255, 255, 255, 0.6),
+            transparent
+          ),
+          radial-gradient(
+            1.5px 1.5px at 45% 22%,
+            rgba(255, 255, 255, 0.5),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 85% 10%,
+            rgba(255, 255, 255, 0.7),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 10% 35%,
+            rgba(255, 255, 255, 0.3),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 65% 30%,
+            rgba(255, 255, 255, 0.4),
+            transparent
+          ),
+          radial-gradient(
+            1.5px 1.5px at 90% 28%,
+            rgba(255, 255, 255, 0.6),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 30% 38%,
+            rgba(255, 255, 255, 0.3),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 50% 42%,
+            rgba(255, 255, 255, 0.2),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 80% 38%,
+            rgba(255, 255, 255, 0.4),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 25% 12%,
+            rgba(255, 255, 255, 0.5),
+            transparent
+          ),
+          radial-gradient(
+            1px 1px at 60% 20%,
+            rgba(255, 255, 255, 0.3),
+            transparent
+          );
+        pointer-events: none;
+      }
+
+      .cover-content {
+        position: relative;
+        z-index: 2;
+        text-align: center;
+        padding: 0 1in;
+      }
+
+      .cover-title {
+        font-size: 42pt;
+        font-weight: 300;
+        letter-spacing: 0.15em;
+        color: #e8edf0;
+        text-transform: uppercase;
+        line-height: 1.2;
+        margin-bottom: 0.15in;
+        text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+      }
+
+      .cover-rule {
+        width: 2.5in;
+        height: 1px;
+        background: linear-gradient(
+          90deg,
+          transparent,
+          rgba(200, 215, 225, 0.6),
+          transparent
+        );
+        margin: 0.3in auto;
+      }
+
+      .cover-part {
+        font-size: 14pt;
+        font-weight: 400;
+        letter-spacing: 0.3em;
+        color: #a0b5c4;
+        text-transform: uppercase;
+        margin-bottom: 0.1in;
+      }
+
+      .cover-part-title {
+        font-size: 20pt;
+        font-weight: 300;
+        font-style: italic;
+        color: #c0d0dc;
+        letter-spacing: 0.08em;
+        margin-bottom: 0.4in;
+      }
+
+      .cover-epigraph {
+        font-size: 11pt;
+        font-style: italic;
+        color: #8a9eaa;
+        line-height: 1.7;
+        max-width: 4.5in;
+        margin: 0 auto 0.5in;
+      }
+
+      .cover-author {
+        font-size: 16pt;
+        font-weight: 400;
+        letter-spacing: 0.2em;
+        color: #b0c0cc;
+        text-transform: uppercase;
+        margin-top: 0.2in;
+      }
+
+      .cover-draft {
+        position: absolute;
+        bottom: 0.6in;
+        left: 0;
+        right: 0;
+        text-align: center;
+        font-size: 9pt;
+        letter-spacing: 0.15em;
+        color: #5a7080;
+        text-transform: uppercase;
+      }
+
+      /* --- SPINE --- */
+      .spine-page {
+        width: 8.5in;
+        height: 11in;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        page-break-after: always;
+      }
+
+      .spine {
+        width: 2in;
+        height: 11in;
+        background: linear-gradient(
+          180deg,
+          #0d1b2a,
+          #1b2a3d 30%,
+          #2c3e56 55%,
+          #4a6274 75%,
+          #8a9eaa 95%
+        );
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        border-left: 1px dashed #ccc;
+        border-right: 1px dashed #ccc;
+      }
+
+      .spine-text {
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+        transform: rotate(180deg);
+        font-size: 14pt;
+        font-weight: 300;
+        letter-spacing: 0.15em;
+        color: #d0dce4;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .spine-author {
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+        transform: rotate(180deg);
+        font-size: 9pt;
+        font-weight: 400;
+        letter-spacing: 0.2em;
+        color: #8a9eaa;
+        text-transform: uppercase;
+        position: absolute;
+        bottom: 0.6in;
+      }
+
+      .spine-part {
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+        transform: rotate(180deg);
+        font-size: 9pt;
+        font-weight: 400;
+        letter-spacing: 0.15em;
+        color: #8a9eaa;
+        text-transform: uppercase;
+        position: absolute;
+        top: 0.6in;
+      }
+
+      .spine-instructions {
+        margin-left: 0.5in;
+        font-family: Arial, sans-serif;
+        font-size: 9pt;
+        color: #999;
+        width: 2.5in;
+        line-height: 1.5;
+      }
+
+      /* --- PROOF OF AUTHORSHIP PAGE --- */
+      .proof-page {
+        width: 8.5in;
+        height: 11in;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        position: relative;
+        overflow: hidden;
+        background: linear-gradient(
+          180deg,
+          #0d1b2a 0%,
+          #111e2e 40%,
+          #1b2a3d 100%
+        );
+        padding: 0.6in 0.9in;
+        page-break-after: always;
+      }
+
+      .proof-header {
+        text-align: center;
+        margin-bottom: 0.2in;
+      }
+
+      .proof-title {
+        font-size: 20pt;
+        font-weight: 300;
+        letter-spacing: 0.2em;
+        color: #e8edf0;
+        text-transform: uppercase;
+        margin-bottom: 0.1in;
+      }
+
+      .proof-subtitle {
+        font-size: 10pt;
+        font-weight: 400;
+        letter-spacing: 0.15em;
+        color: #6a8494;
+        text-transform: uppercase;
+      }
+
+      .proof-rule {
+        width: 3in;
+        height: 1px;
+        background: linear-gradient(
+          90deg,
+          transparent,
+          rgba(200, 215, 225, 0.4),
+          transparent
+        );
+        margin: 0.15in auto;
+      }
+
+      .proof-section {
+        width: 100%;
+        margin-bottom: 0.22in;
+      }
+
+      .proof-section-icon {
+        font-size: 14pt;
+        margin-bottom: 0.08in;
+        display: block;
+      }
+
+      .proof-section-title {
+        font-size: 11pt;
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        color: #c0d0dc;
+        text-transform: uppercase;
+        margin-bottom: 0.08in;
+      }
+
+      .proof-section-body {
+        font-size: 9.5pt;
+        font-weight: 300;
+        color: #9ab0be;
+        line-height: 1.55;
+      }
+
+      .proof-section-body a {
+        color: #7b9fb8;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+      }
+
+      .proof-hash-block {
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 4px;
+        padding: 0.1in 0.18in;
+        margin-top: 0.08in;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 7.5pt;
+        color: #7b9fb8;
+        word-break: break-all;
+        line-height: 1.6;
+      }
+
+      .proof-hash-label {
+        font-family: "Cormorant Garamond", Georgia, serif;
+        font-size: 7pt;
+        letter-spacing: 0.1em;
+        color: #5a7080;
+        text-transform: uppercase;
+        margin-bottom: 0.04in;
+        display: block;
+      }
+
+      .proof-badge {
+        display: inline-block;
+        border: 1px solid rgba(130, 80, 223, 0.4);
+        background: rgba(130, 80, 223, 0.08);
+        border-radius: 3px;
+        padding: 2px 10px;
+        font-size: 8pt;
+        letter-spacing: 0.1em;
+        color: #a78bda;
+        text-transform: uppercase;
+        margin-top: 0.08in;
+      }
+
+      .proof-verify-link {
+        display: inline-block;
+        margin-top: 0.15in;
+        border: 1px solid rgba(200, 215, 225, 0.2);
+        border-radius: 3px;
+        padding: 0.08in 0.25in;
+        font-size: 9pt;
+        letter-spacing: 0.08em;
+        color: #9ab0be;
+        text-decoration: none;
+        text-transform: uppercase;
+        transition: all 0.2s;
+      }
+
+      .proof-verify-link:hover {
+        border-color: rgba(200, 215, 225, 0.4);
+        color: #c0d0dc;
+      }
+
+      .proof-footer {
+        position: absolute;
+        bottom: 0.6in;
+        left: 0;
+        right: 0;
+        text-align: center;
+        font-size: 8pt;
+        letter-spacing: 0.1em;
+        color: #3a5060;
+        line-height: 1.6;
+      }
+
+      @media print {
+        .spine-instructions {
+          display: none;
+        }
+        body {
+          background: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- FRONT COVER -->
+    <div class="cover">
+      <div class="cover-content">
+        <div class="cover-part">Part I</div>
+        <div class="cover-part-title">The Still Water</div>
+        <div class="cover-rule"></div>
+        <h1 class="cover-title">Man Amongst<br />the Clouds</h1>
+        <div class="cover-rule"></div>
+        <div class="cover-epigraph">
+          "In the time before the taking, the world sang to itself,<br />
+          and men were wise enough to listen."
+        </div>
+        <div class="cover-author">Justin Cronk</div>
+      </div>
+      <div class="cover-draft">Stillfire Press</div>
+    </div>
+
+    <!-- SPINE INSERT -->
+    <div class="spine-page">
+      <div class="spine">
+        <div class="spine-part">Part I</div>
+        <div class="spine-text">Man Amongst the Clouds</div>
+        <div class="spine-author">Justin Cronk</div>
+      </div>
+      <div class="spine-instructions">
+        &#8592; Cut along dashed lines.<br />
+        Insert into binder spine sleeve.
+      </div>
+    </div>
+
+    <!-- PROOF OF AUTHORSHIP -->
+    <div class="proof-page">
+      <div class="proof-header">
+        <div class="proof-title">Proof of Authorship</div>
+        <div class="proof-subtitle">
+          Man Amongst the Clouds &bull; Justin Cronk
+        </div>
+      </div>
+
+      <div class="proof-rule"></div>
+
+      <!-- SECTION 1: BLOCKCHAIN -->
+      <div class="proof-section">
+        <div class="proof-section-title">&#9670; Blockchain Verification</div>
+        <div class="proof-section-body">
+          This manuscript has been cryptographically hashed and permanently
+          recorded on the
+          <strong style="color: #a78bda">Polygon blockchain</strong>, providing
+          an immutable, timestamped proof of authorship. The transaction below
+          certifies that Justin Cronk is the original creator of this work,
+          predating any subsequent copies or derivatives.
+        </div>
+        <div class="proof-hash-block">
+          <span class="proof-hash-label">Network</span>
+          Polygon (MATIC) Mainnet &bull; Chain ID 137
+          <br />
+          <span class="proof-hash-label">Merkle Root (136 files, 2.47 MB)</span>
+          86cabb99e2ae4131e4135ed453145bcbffb0c807efcb205eba74408f06859913
+          <br />
+          <span class="proof-hash-label">Transaction Hash</span>
+          0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a
+          <br />
+          <span class="proof-hash-label">Wallet Address</span>
+          0xAB34A2E20Bbc0Ae30AC049ee0767fBFAaBEdcb9c
+          <br />
+          <span class="proof-hash-label">Proof Timestamp</span>
+          2026-03-09T15:41:55.953Z
+        </div>
+        <span class="proof-badge">Polygon Mainnet &bull; Immutable Record</span>
+        <br />
+        <a
+          href="https://polygonscan.com/tx/0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a"
+          target="_blank"
+          class="proof-verify-link"
+          >Verify on PolygonScan &rarr;</a
+        >
+      </div>
+
+      <div class="proof-footer">
+        This page is part of the author's proof-of-authorship package.<br />
+        Blockchain record is permanent and cannot be altered or deleted.
+      </div>
+    </div>
+  </body>
+</html>
