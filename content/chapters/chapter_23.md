@@ -137,7 +137,3 @@ He did not speak the name aloud. He held it the way he held the lake stone — c
 They descended toward The Refuge. The fog parted. The floating formations emerged — stone and moss and the thin, cold light of a sky that had been holding the Song for centuries, waiting for someone who could hear it.
 
 Aelo was home. He had never been here before. But the blood knew. The blood remembered.
-
-_Part III: The Breaking_
-
-_"The world does not ask if you are ready. It asks if you are willing."_
