@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="relative flex flex-col items-center justify-center min-h-screen px-6 pt-24 sm:pt-20 pb-12 text-center overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center min-h-[100dvh] px-4 sm:px-6 pt-20 sm:pt-20 pb-20 sm:pb-12 text-center overflow-hidden">
       {/* Layered atmospheric background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#0d0d0d] to-[#0a0a0a]" />
       <div className="absolute top-1/3 left-1/2 -translate-x-1/2 w-[800px] h-[800px] rounded-full bg-[#c9a84c]/[0.03] blur-[150px] animate-pulse-glow" />
@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="relative z-20 max-w-3xl mx-auto">
         {/* Book cover */}
         <div
-          className="flex justify-center mb-10 sm:mb-14 opacity-0 animate-fade-in"
+          className="flex justify-center mb-6 sm:mb-14 opacity-0 animate-fade-in"
           style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
         >
           <Image
@@ -20,15 +20,15 @@ export default function Hero() {
             alt="Man Amongst the Clouds — book cover by Justin Cronk"
             width={280}
             height={448}
-            className="border border-[#222] shadow-[0_20px_80px_rgba(0,0,0,0.6),0_0_40px_rgba(201,168,76,0.08)]"
+            className="w-[180px] sm:w-[280px] h-auto border border-[#222] shadow-[0_20px_80px_rgba(0,0,0,0.6),0_0_40px_rgba(201,168,76,0.08)]"
             priority
-            sizes="(max-width: 640px) 220px, 280px"
+            sizes="(max-width: 640px) 180px, 280px"
           />
         </div>
 
         {/* Title */}
         <h1
-          className="font-[family-name:var(--font-serif)] text-4xl sm:text-6xl lg:text-8xl font-light tracking-wide leading-[1.1] mb-4 opacity-0 animate-fade-in-up"
+          className="font-[family-name:var(--font-serif)] text-3xl sm:text-6xl lg:text-8xl font-light tracking-wide leading-[1.1] mb-3 sm:mb-4 opacity-0 animate-fade-in-up"
           style={{ animationDelay: "0.8s", animationFillMode: "forwards" }}
         >
           Man Amongst
@@ -37,7 +37,7 @@ export default function Hero() {
         </h1>
 
         <p
-          className="font-[family-name:var(--font-serif)] text-lg text-[#c9a84c]/70 tracking-[0.2em] mb-10 opacity-0 animate-fade-in"
+          className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#c9a84c]/70 tracking-[0.15em] sm:tracking-[0.2em] mb-6 sm:mb-10 opacity-0 animate-fade-in"
           style={{ animationDelay: "1.4s", animationFillMode: "forwards" }}
         >
           by Justin Cronk
@@ -45,23 +45,23 @@ export default function Hero() {
 
         {/* The hook — this is what sells the book */}
         <div
-          className="max-w-2xl mx-auto mb-14 opacity-0 animate-fade-in-up"
+          className="max-w-2xl mx-auto mb-8 sm:mb-14 opacity-0 animate-fade-in-up"
           style={{ animationDelay: "1.8s", animationFillMode: "forwards" }}
         >
-          <p className="font-[family-name:var(--font-serif)] text-lg sm:text-2xl leading-relaxed text-[#d4d0c8]">
+          <p className="font-[family-name:var(--font-serif)] text-base sm:text-2xl leading-relaxed text-[#d4d0c8]">
             <span className="text-[#c9a84c]">Magic is memory.</span> Every act
             of power costs a piece of who you are. A boy raised on silence
             discovers he can hear the world sing. A king born deaf to the Song
             will consume everything to fill it.
           </p>
-          <p className="font-[family-name:var(--font-serif)] text-base sm:text-xl italic text-[#b0a89e] mt-4">
+          <p className="font-[family-name:var(--font-serif)] text-sm sm:text-xl italic text-[#b0a89e] mt-3 sm:mt-4">
             The cost is everything.
           </p>
         </div>
 
         {/* Badge */}
         <div
-          className="flex items-center justify-center gap-3 mb-10 opacity-0 animate-fade-in"
+          className="hidden sm:flex items-center justify-center gap-3 mb-10 opacity-0 animate-fade-in"
           style={{ animationDelay: "2.2s", animationFillMode: "forwards" }}
         >
           <span className="h-px w-8 bg-[#c9a84c]/30" />
@@ -74,12 +74,12 @@ export default function Hero() {
 
         {/* CTA */}
         <div
-          className="flex flex-col sm:flex-row gap-4 justify-center opacity-0 animate-fade-in-up"
+          className="flex flex-col sm:flex-row gap-4 justify-center w-full sm:w-auto opacity-0 animate-fade-in-up"
           style={{ animationDelay: "2.5s", animationFillMode: "forwards" }}
         >
           <a
             href="https://stillfirepress.com/read/matc"
-            className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
+            className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)] w-full sm:w-auto text-center"
           >
             Read Part One Free
           </a>
@@ -88,7 +88,7 @@ export default function Hero() {
 
       {/* Scroll indicator */}
       <div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 opacity-0 animate-fade-in"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 opacity-0 animate-fade-in hidden sm:block"
         style={{ animationDelay: "3.5s", animationFillMode: "forwards" }}
       >
         <div className="flex flex-col items-center gap-2">

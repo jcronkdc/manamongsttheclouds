@@ -137,7 +137,7 @@ export default function TheMagicSystemPage() {
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
         {/* Header */}
-        <header className="pt-20 pb-12 px-5 sm:px-6 text-center">
+        <header className="pt-20 pb-12 px-4 sm:px-6 text-center">
           <nav className="mb-8">
             <Link
               href="/"
@@ -149,7 +149,7 @@ export default function TheMagicSystemPage() {
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
             The Magic System
           </p>
-          <h1 className="font-[family-name:var(--font-serif)] text-4xl sm:text-5xl lg:text-7xl font-light tracking-wide leading-[1.1] mb-6">
+          <h1 className="font-[family-name:var(--font-serif)] text-3xl sm:text-5xl lg:text-7xl font-light tracking-wide leading-[1.1] mb-6">
             Magic Is Memory
           </h1>
           <p className="font-[family-name:var(--font-serif)] text-lg sm:text-xl text-[#d4d0c8] max-w-2xl mx-auto leading-relaxed">
@@ -160,7 +160,7 @@ export default function TheMagicSystemPage() {
         </header>
 
         {/* Entity-answering paragraph — AI models extract this for magic system queries */}
-        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
+        <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             The magic system in{" "}
             <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}
@@ -183,7 +183,7 @@ export default function TheMagicSystemPage() {
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
         {/* Core Concept */}
-        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-20">
+        <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-20">
           <div className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] space-y-6">
             <p>
               In the world of <em>Man Amongst the Clouds</em>, magic is not a
@@ -203,12 +203,12 @@ export default function TheMagicSystemPage() {
         </section>
 
         {/* Seven Disciplines */}
-        <section className="max-w-3xl mx-auto px-5 sm:px-6 mb-16">
+        <section className="max-w-3xl mx-auto px-4 sm:px-6 mb-16">
           <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl font-light tracking-wide text-center mb-12">
             The Seven Disciplines
           </h2>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-[#c9a84c]/10">
+          <div className="grid grid-cols-2 lg:grid-cols-3 gap-px bg-[#c9a84c]/10">
             {disciplines.map((d) => (
               <div
                 key={d.name}
@@ -226,14 +226,14 @@ export default function TheMagicSystemPage() {
                     <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/60 to-transparent" />
                   </div>
                 )}
-                <div className="p-8">
-                  <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-xl mb-3 group-hover:tracking-wider transition-all duration-500">
+                <div className="p-4 sm:p-8">
+                  <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-base sm:text-xl mb-2 sm:mb-3 group-hover:tracking-wider transition-all duration-500">
                     {d.name}
                   </h3>
-                  <p className="font-[family-name:var(--font-serif)] text-sm text-[#d4d0c8] leading-relaxed mb-3">
+                  <p className="font-[family-name:var(--font-serif)] text-xs sm:text-sm text-[#d4d0c8] leading-relaxed mb-2 sm:mb-3 line-clamp-4 sm:line-clamp-none">
                     {d.desc}
                   </p>
-                  <p className="font-[family-name:var(--font-sans)] text-xs text-[#a09888] leading-relaxed">
+                  <p className="font-[family-name:var(--font-sans)] text-[10px] sm:text-xs text-[#a09888] leading-relaxed">
                     <span className="text-[#c9a84c]/60">Cost:</span> {d.cost}
                   </p>
                 </div>
@@ -244,7 +244,7 @@ export default function TheMagicSystemPage() {
           {/* The Sing */}
           <div className="mt-px bg-[#c9a84c]/10">
             <div className="bg-[#0a0a0a] text-center relative overflow-hidden">
-              <div className="relative w-full aspect-[3/1] overflow-hidden">
+              <div className="relative w-full aspect-[2/1] sm:aspect-[3/1] overflow-hidden">
                 <Image
                   src="/art/matc-magic-sing.jpg"
                   alt="The Sing \u2014 the rarest magic discipline from Man Amongst the Clouds"
@@ -254,7 +254,7 @@ export default function TheMagicSystemPage() {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/70 to-[#0a0a0a]/40" />
               </div>
-              <div className="relative z-10 p-10 -mt-20">
+              <div className="relative z-10 p-6 sm:p-10 -mt-12 sm:-mt-20">
                 <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-2xl mb-3">
                   The Sing
                 </h3>
@@ -278,8 +278,8 @@ export default function TheMagicSystemPage() {
         </section>
 
         {/* The Philosophy */}
-        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-20">
-          <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl font-light tracking-wide text-center mb-10">
+        <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-20">
+          <h2 className="font-[family-name:var(--font-serif)] text-xl sm:text-3xl font-light tracking-wide text-center mb-10">
             Where This Magic Came From
           </h2>
           <div className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] space-y-6">
@@ -316,7 +316,7 @@ export default function TheMagicSystemPage() {
         </section>
 
         {/* CTA */}
-        <section className="max-w-lg mx-auto px-5 sm:px-6 pb-20 text-center">
+        <section className="max-w-lg mx-auto px-4 sm:px-6 pb-24 sm:pb-20 text-center">
           <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-10" />
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] italic mb-8">
             A magic system rooted in memory, sacrifice, and the belief that the
@@ -324,7 +324,7 @@ export default function TheMagicSystemPage() {
           </p>
           <a
             href="https://stillfirepress.com/read/matc"
-            className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+            className="inline-block w-full sm:w-auto px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 text-center"
           >
             Read Part One Free
           </a>

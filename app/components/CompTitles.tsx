@@ -23,19 +23,19 @@ export default function CompTitles() {
   ];
 
   return (
-    <section className="py-20 sm:py-28 px-5 sm:px-6 relative">
+    <section className="py-16 sm:py-28 px-4 sm:px-6 relative">
       <div className="max-w-3xl mx-auto text-center">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
           For Readers Of
         </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide mb-4">
+        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl font-light tracking-wide mb-4">
           If you love these authors,
-          <br />
+          <br className="hidden sm:block" />
           you&rsquo;ll love this book.
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 text-left max-w-2xl mx-auto">
+        <div className="grid grid-cols-2 gap-6 sm:gap-8 text-left max-w-2xl mx-auto">
           {comps.map((c) => (
             <div key={c.author} className="group">
               <p className="font-[family-name:var(--font-serif)] text-lg text-[#ededed] mb-1 group-hover:text-[#c9a84c] transition-colors duration-300">

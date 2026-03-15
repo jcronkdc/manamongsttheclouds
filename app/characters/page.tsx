@@ -155,7 +155,7 @@ export default function CharactersPage() {
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
         {/* Header */}
-        <header className="pt-20 pb-12 px-5 sm:px-6 text-center">
+        <header className="pt-20 pb-12 px-4 sm:px-6 text-center">
           <nav className="mb-8">
             <Link
               href="/"
@@ -167,7 +167,7 @@ export default function CharactersPage() {
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
             The Characters
           </p>
-          <h1 className="font-[family-name:var(--font-serif)] text-4xl sm:text-5xl lg:text-7xl font-light tracking-wide leading-[1.1] mb-6">
+          <h1 className="font-[family-name:var(--font-serif)] text-3xl sm:text-5xl lg:text-7xl font-light tracking-wide leading-[1.1] mb-6">
             Every character could be
             <br className="hidden sm:block" /> the protagonist of their own
             book.
@@ -175,7 +175,7 @@ export default function CharactersPage() {
         </header>
 
         {/* Entity-answering paragraph — AI models extract this for character queries */}
-        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
+        <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             The characters of{" "}
             <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}
@@ -195,7 +195,7 @@ export default function CharactersPage() {
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-16" />
 
         {/* Characters */}
-        <section className="max-w-4xl mx-auto px-5 sm:px-6 mb-20">
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-20">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-16">
             {chars.map((c) => (
               <article key={c.name} className="group">
@@ -231,9 +231,9 @@ export default function CharactersPage() {
         </section>
 
         {/* The world they inhabit */}
-        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-20">
+        <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-20">
           <div className="w-12 h-px bg-[#c9a84c]/20 mx-auto mb-10" />
-          <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl font-light tracking-wide text-center mb-8">
+          <h2 className="font-[family-name:var(--font-serif)] text-xl sm:text-3xl font-light tracking-wide text-center mb-8">
             Built From Life
           </h2>
           <div className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] space-y-6">
@@ -273,11 +273,11 @@ export default function CharactersPage() {
         </section>
 
         {/* CTA */}
-        <section className="max-w-lg mx-auto px-5 sm:px-6 pb-20 text-center">
+        <section className="max-w-lg mx-auto px-4 sm:px-6 pb-24 sm:pb-20 text-center">
           <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-10" />
           <a
             href="https://stillfirepress.com/read/matc"
-            className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+            className="inline-block w-full sm:w-auto px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 text-center"
           >
             Read Part One Free
           </a>

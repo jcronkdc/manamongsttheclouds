@@ -1,11 +1,11 @@
 export default function Journey() {
   return (
-    <section id="journey" className="py-20 sm:py-28 px-5 sm:px-6 relative">
+    <section id="journey" className="py-16 sm:py-28 px-4 sm:px-6 relative">
       <div className="max-w-2xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
           The Author
         </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
+        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
           Nine years in the making.
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-14" />

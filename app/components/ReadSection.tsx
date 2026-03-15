@@ -4,7 +4,7 @@ export default function ReadSection() {
   return (
     <section id="read" className="bg-[#080808] relative">
       {/* Chapters banner video */}
-      <div className="relative w-full aspect-[3/1] overflow-hidden">
+      <div className="relative w-full aspect-[2/1] sm:aspect-[3/1] overflow-hidden">
         <video
           autoPlay
           loop
@@ -17,12 +17,12 @@ export default function ReadSection() {
         </video>
         <div className="absolute inset-0 bg-gradient-to-b from-[#080808]/30 via-transparent to-[#080808]" />
       </div>
-      <div className="py-20 sm:py-28 px-5 sm:px-6 relative -mt-20">
+      <div className="py-14 sm:py-28 px-4 sm:px-6 relative -mt-16 sm:-mt-20">
         <div className="max-w-3xl mx-auto">
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
             Start Reading
           </p>
-          <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-4">
+          <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-4">
             Part I is available now.
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#b0a89e] italic text-center mb-12 sm:mb-16">
@@ -30,15 +30,15 @@ export default function ReadSection() {
           </p>
 
           {/* Book cover */}
-          <div className="flex justify-center mb-12">
+          <div className="flex justify-center mb-10 sm:mb-12">
             <Image
               src="/cover.jpg"
               alt="Man Amongst the Clouds — book cover by Justin Cronk"
               width={280}
               height={448}
-              className="border border-[#222] shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
+              className="w-[160px] sm:w-[280px] h-auto border border-[#222] shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
               priority
-              sizes="280px"
+              sizes="(max-width: 640px) 160px, 280px"
             />
           </div>
 
@@ -48,7 +48,7 @@ export default function ReadSection() {
               href="https://stillfirepress.com/read/matc"
               className="block border border-[#c9a84c]/30 bg-[#c9a84c]/5 hover:bg-[#c9a84c]/10 transition-all duration-300 relative overflow-hidden group"
             >
-              <div className="p-8 sm:p-10 text-center">
+              <div className="p-6 sm:p-10 text-center">
                 <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/70 mb-3">
                   Free for everyone
                 </p>
@@ -90,11 +90,11 @@ export default function ReadSection() {
           <div className="max-w-lg mx-auto mt-16">
             <div className="border border-[#c9a84c]/30 relative overflow-hidden">
               <div className="absolute inset-0 bg-gradient-to-b from-[#c9a84c]/[0.04] to-transparent" />
-              <div className="relative z-10 p-8 sm:p-10 text-center">
+              <div className="relative z-10 p-6 sm:p-10 text-center">
                 <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c] mb-3">
                   Founder&rsquo;s Edition
                 </p>
-                <p className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl text-[#ededed] mb-3">
+                <p className="font-[family-name:var(--font-serif)] text-xl sm:text-3xl text-[#ededed] mb-3">
                   The Complete Experience
                 </p>
                 <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] leading-relaxed max-w-sm mx-auto mb-6">
@@ -103,7 +103,7 @@ export default function ReadSection() {
                   2026.
                 </p>
 
-                <div className="flex flex-col sm:flex-row gap-3 justify-center text-left max-w-xs mx-auto mb-6">
+                <div className="flex flex-col gap-3 sm:flex-row justify-center text-left max-w-xs mx-auto mb-6">
                   {[
                     "All 5 parts (EPUB) as they release",
                     "Signed physical copy",
@@ -178,7 +178,7 @@ export default function ReadSection() {
             </p>
 
             {/* Part structure preview */}
-            <div className="flex flex-col sm:flex-row justify-center gap-3 mt-8">
+            <div className="grid grid-cols-3 sm:grid-cols-5 gap-2 sm:gap-3 mt-8">
               {[
                 { part: "I", name: "The Still Water", status: "available" },
                 { part: "II", name: "The Waking", status: "preorder" },

@@ -56,7 +56,7 @@ export default function WorldPage() {
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
         {/* World banner */}
-        <div className="relative w-full aspect-[3/1] overflow-hidden">
+        <div className="relative w-full aspect-[2/1] sm:aspect-[3/1] overflow-hidden">
           <Image
             src="/art/matc-hero-world.jpg"
             alt="The seven regions of the world — Man Amongst the Clouds"
@@ -69,7 +69,7 @@ export default function WorldPage() {
         </div>
 
         {/* Header */}
-        <header className="pb-12 px-5 sm:px-6 text-center relative -mt-32">
+        <header className="pb-12 px-4 sm:px-6 text-center relative -mt-20 sm:-mt-32">
           <nav className="mb-8">
             <Link
               href="/"
@@ -81,7 +81,7 @@ export default function WorldPage() {
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
             World Guide
           </p>
-          <h1 className="font-[family-name:var(--font-serif)] text-4xl sm:text-5xl lg:text-7xl font-light tracking-wide leading-[1.1] mb-6">
+          <h1 className="font-[family-name:var(--font-serif)] text-3xl sm:text-5xl lg:text-7xl font-light tracking-wide leading-[1.1] mb-6">
             The World Remembers
           </h1>
           <p className="font-[family-name:var(--font-serif)] text-lg sm:text-xl text-[#d4d0c8] max-w-2xl mx-auto leading-relaxed">
@@ -96,7 +96,7 @@ export default function WorldPage() {
         <WorldGuide />
 
         {/* CTA */}
-        <section className="max-w-lg mx-auto px-5 sm:px-6 pb-20 text-center">
+        <section className="max-w-lg mx-auto px-4 sm:px-6 pb-24 sm:pb-20 text-center">
           <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-10" />
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] italic mb-8">
             A world built on memory, sacrifice, and the belief that the world is
@@ -104,7 +104,7 @@ export default function WorldPage() {
           </p>
           <a
             href="https://stillfirepress.com/read/matc"
-            className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+            className="inline-block w-full sm:w-auto px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 text-center"
           >
             Read Part One Free
           </a>

@@ -1,14 +1,14 @@
 export default function Synopsis() {
   return (
-    <section id="story" className="py-20 sm:py-28 px-5 sm:px-6 relative">
+    <section id="story" className="py-16 sm:py-28 px-4 sm:px-6 relative">
       <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#080808] to-[#0a0a0a]" />
       <div className="relative z-10 max-w-2xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
           The Story
         </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
+        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
           In a world where magic is memory,
-          <br />
+          <br className="hidden sm:block" />
           <span className="text-[#c9a84c]">every gift has a price.</span>
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-12" />

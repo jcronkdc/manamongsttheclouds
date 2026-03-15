@@ -10,6 +10,7 @@ import {
   buildOrganizationJsonLd,
 } from "@/app/lib/canonical-data";
 import { Analytics } from "@vercel/analytics/react";
+import MobileNav from "./components/MobileNav";
 import "./globals.css";
 
 const serif = Cormorant_Garamond({
@@ -91,6 +92,18 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, viewport-fit=cover"
+        />
+        <meta name="theme-color" content="#0a0a0a" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta
+          name="apple-mobile-web-app-status-bar-style"
+          content="black-translucent"
+        />
+        <meta name="apple-mobile-web-app-title" content="MATC" />
+        <link rel="manifest" href="/manifest.json" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -115,7 +128,10 @@ export default function RootLayout({
         >
           Skip to content
         </a>
-        <main id="main-content">{children}</main>
+        <main id="main-content" className="pb-16 md:pb-0">
+          {children}
+        </main>
+        <MobileNav />
         <Analytics />
       </body>
     </html>

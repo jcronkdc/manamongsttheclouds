@@ -31,12 +31,12 @@ export default function SignupSection() {
   }
 
   return (
-    <section id="signup" className="py-20 sm:py-28 px-5 sm:px-6 relative">
+    <section id="signup" className="py-16 sm:py-28 px-4 sm:px-6 relative">
       <div className="max-w-xl mx-auto text-center">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
           Stay Close
         </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide leading-tight mb-6">
+        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl lg:text-5xl font-light tracking-wide leading-tight mb-6">
           The Song isn&rsquo;t finished.
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-8" />
@@ -105,7 +105,7 @@ export default function SignupSection() {
                 </p>
                 <a
                   href="/api/founders-edition"
-                  className="inline-block px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.2)]"
+                  className="inline-block w-full sm:w-auto px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.2)] text-center"
                 >
                   Become a Founder
                 </a>
@@ -116,7 +116,7 @@ export default function SignupSection() {
                 </p>
                 <a
                   href="/api/preorder"
-                  className="inline-block px-8 py-3 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
+                  className="inline-block w-full sm:w-auto px-8 py-3 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300 text-center"
                 >
                   Pre-Order Part II &mdash; $2.99
                 </a>

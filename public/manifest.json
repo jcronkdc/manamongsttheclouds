@@ -1,0 +1,17 @@
+{
+  "name": "Man Amongst the Clouds",
+  "short_name": "MATC",
+  "description": "Magic is memory. Every act of power costs a piece of who you are.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

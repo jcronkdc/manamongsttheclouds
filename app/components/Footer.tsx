@@ -15,17 +15,17 @@ export default function Footer() {
   );
 
   return (
-    <footer className="py-16 sm:py-20 px-5 sm:px-6 border-t border-[#1a1a1a] relative">
+    <footer className="py-12 sm:py-20 px-4 sm:px-6 border-t border-[#1a1a1a] relative">
       <div className="max-w-4xl mx-auto">
         {/* Closing quote */}
-        <p className="font-[family-name:var(--font-serif)] text-xl sm:text-2xl italic text-[#777] text-center max-w-xl mx-auto leading-relaxed mb-16">
+        <p className="font-[family-name:var(--font-serif)] text-lg sm:text-2xl italic text-[#777] text-center max-w-xl mx-auto leading-relaxed mb-10 sm:mb-16">
           &ldquo;The world sang to itself, as it always had. And in the space
           between the notes, where silence lived, a man breathed &mdash; and the
           air remembered.&rdquo;
         </p>
 
         {/* Footer grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mb-16">
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-6 sm:gap-8 mb-12 sm:mb-16">
           <div>
             <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.3em] uppercase text-[#c9a84c]/40 mb-4">
               Navigate

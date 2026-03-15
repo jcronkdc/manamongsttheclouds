@@ -75,18 +75,18 @@ export default function Nav() {
         </button>
       </div>
 
-      {/* Mobile menu */}
+      {/* Mobile menu — full screen overlay */}
       {open && (
-        <div className="md:hidden bg-[#0a0a0a]/98 backdrop-blur-md border-t border-[#c9a84c]/10 px-6 py-6 flex flex-col gap-4">
+        <div className="md:hidden fixed inset-0 top-0 bg-[#0a0a0a]/98 backdrop-blur-xl z-40 flex flex-col items-center justify-center gap-6 animate-fade-in">
           {links.map((l) => (
             <a
               key={l.href}
               href={l.href}
               onClick={() => setOpen(false)}
-              className={`font-[family-name:var(--font-sans)] text-xs tracking-[0.2em] uppercase ${
+              className={`font-[family-name:var(--font-serif)] text-2xl tracking-wide py-2 ${
                 l.href === "https://stillfirepress.com/read/matc"
                   ? "text-[#c9a84c]"
-                  : "text-[#888]"
+                  : "text-[#999] active:text-[#ededed]"
               }`}
             >
               {l.label}

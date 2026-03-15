@@ -41,12 +41,12 @@ export default function WorldSection() {
   ];
 
   return (
-    <section id="world" className="py-20 sm:py-28 px-5 sm:px-6 relative">
+    <section id="world" className="py-16 sm:py-28 px-4 sm:px-6 relative">
       <div className="max-w-3xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
           The Magic System
         </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
+        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
           The world remembers everything.
         </h2>
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-12" />
@@ -69,7 +69,7 @@ export default function WorldSection() {
         </div>
 
         {/* Seven Disciplines Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-[#c9a84c]/10">
+        <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-[#c9a84c]/10">
           {disciplines.map((d) => (
             <div
               key={d.name}
@@ -87,14 +87,14 @@ export default function WorldSection() {
                   <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/60 to-transparent" />
                 </div>
               )}
-              <div className="p-8">
-                <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-xl mb-3 group-hover:tracking-wider transition-all duration-500">
+              <div className="p-4 sm:p-8">
+                <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-base sm:text-xl mb-2 sm:mb-3 group-hover:tracking-wider transition-all duration-500">
                   {d.name}
                 </h3>
-                <p className="font-[family-name:var(--font-serif)] text-sm text-[#d4d0c8] leading-relaxed mb-3">
+                <p className="font-[family-name:var(--font-serif)] text-xs sm:text-sm text-[#d4d0c8] leading-relaxed mb-2 sm:mb-3 line-clamp-4 sm:line-clamp-none">
                   {d.desc}
                 </p>
-                <p className="font-[family-name:var(--font-sans)] text-xs text-[#a09888] leading-relaxed">
+                <p className="font-[family-name:var(--font-sans)] text-[10px] sm:text-xs text-[#a09888] leading-relaxed">
                   <span className="text-[#c9a84c]/60">Cost:</span> {d.cost}
                 </p>
               </div>
@@ -105,7 +105,7 @@ export default function WorldSection() {
         {/* The Sing — elevated */}
         <div className="mt-px bg-[#c9a84c]/10">
           <div className="bg-[#0a0a0a] text-center relative overflow-hidden">
-            <div className="relative w-full aspect-[3/1] overflow-hidden">
+            <div className="relative w-full aspect-[2/1] sm:aspect-[3/1] overflow-hidden">
               <Image
                 src="/art/matc-magic-sing.jpg"
                 alt="The Sing — the rarest magic discipline from Man Amongst the Clouds"
@@ -115,7 +115,7 @@ export default function WorldSection() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/70 to-[#0a0a0a]/40" />
             </div>
-            <div className="relative z-10 p-10 -mt-20">
+            <div className="relative z-10 p-6 sm:p-10 -mt-12 sm:-mt-20">
               <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-2xl mb-3">
                 The Sing
               </h3>

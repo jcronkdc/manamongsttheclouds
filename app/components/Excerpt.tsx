@@ -2,7 +2,7 @@ export default function Excerpt() {
   return (
     <section
       id="excerpt"
-      className="py-20 sm:py-28 px-5 sm:px-6 relative overflow-hidden"
+      className="py-16 sm:py-28 px-4 sm:px-6 relative overflow-hidden"
     >
       <div className="absolute inset-0 bg-[#080808]" />
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#c9a84c]/20 to-transparent" />
@@ -11,7 +11,7 @@ export default function Excerpt() {
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
           Read an Excerpt
         </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide text-center mb-4">
+        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl font-light tracking-wide text-center mb-4">
           Chapter 1: The Herbs
         </h2>
         <p className="font-[family-name:var(--font-sans)] text-xs text-[#555] text-center tracking-wider uppercase mb-16">
@@ -67,7 +67,7 @@ export default function Excerpt() {
           <div className="text-center -mt-8">
             <a
               href="https://stillfirepress.com/read/matc"
-              className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
+              className="inline-block w-full sm:w-auto px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)] text-center"
             >
               Keep Reading Free
             </a>
