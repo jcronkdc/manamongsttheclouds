@@ -135,6 +135,7 @@ const chars = [
     hook: "She appears only in memory and dream. She held five notes \u2014 every discipline but Burn and the Sing \u2014 simultaneously, something no one had done in centuries. The night the soldiers came, a man with a shattered knee carried her son over the garden wall. Behind him, her voice thinned and broke and stopped.",
     detail:
       "She is dead before the story begins. She is present on every page.",
+    image: "/art/matc-scene-mother-lullaby.png",
   },
 ];
 
