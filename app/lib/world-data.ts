@@ -84,6 +84,7 @@ export const entries: WorldEntry[] = [
       "Wife of King Aldric. A Cloud Singer who could hold five disciplines simultaneously in a single throat \u2014 a feat no one else alive could match.",
     detail:
       "There are no portraits \u2014 the histories were burned. Those who knew her agree she was beautiful in the way singers are beautiful: not in the arrangement of features but in the quality of presence, the sense that the woman before you was producing a sound even when silent. Slight, dark-haired, with quick hands and an internal rhythm. She used her gift not as a weapon but to grow flowers \u2014 a living archive of blooming at the Cloud Palace, each petal carrying the memory of every petal before it. She sang an old lullaby to her children, passed down through generations of Cloud Singers.",
+    image: "/art/matc-scene-mother-lullaby.png",
   },
   {
     name: "King Aldric",
