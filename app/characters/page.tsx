@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const title =
@@ -97,12 +98,14 @@ const chars = [
     role: "The Boy Who Hears",
     hook: "Raised on herbs and lies in a village too small to have a name. He doesn\u2019t know why the old man drugs him every morning. He doesn\u2019t know his mother died holding a note that shook the sky. He doesn\u2019t know he can hear the world sing.",
     detail: "His greatest power is the willingness to listen.",
+    image: "/art/matc-char-aelo.png",
   },
   {
     name: "Jalo",
     role: "The Guardian",
     hook: "The village drunk with a scarred face and a shattered knee. He burned his own face to hide who he was. He broke his own knee to explain why he couldn\u2019t run. He drugs a child every morning to keep him safe. He drinks so the boy can sleep.",
     detail: "Everything he does is a lie. Every lie is an act of love.",
+    image: "/art/matc-char-jalo.jpg",
   },
   {
     name: "The Knife",
@@ -110,18 +113,21 @@ const chars = [
     hook: "He carries a wooden box of five beautiful objects and checks them every night. A feather, a shell, a glass bead, a pressed flower, a child\u2019s drawing. They are the only proof he was ever a person. The objects are going blank. He doesn\u2019t know why.",
     detail:
       "He was sent to find a boy. He will find something worse: a reason to stop.",
+    image: "/art/matc-char-knife.png",
   },
   {
     name: "King Varas",
     role: "The Deaf King",
     hook: "Born without the ability to hear the Song in a world where everything sings. He has spent seventy years on an obsidian throne, draining the memories of hundreds to feed a silence nothing can fill. He is the most dangerous man alive.",
     detail: "He didn\u2019t want to be a monster. He wanted to hear the music.",
+    image: "/art/matc-char-varas.png",
   },
   {
     name: "Sereth",
     role: "The Collector of Orphans",
     hook: "She collects orphans the way other people collect regrets. Perhaps they are the same thing. She runs a school hidden in the Canopy where children learn to listen to the world\u2019s memory \u2014 and to survive the cost.",
     detail: "She has buried more students than she has graduated.",
+    image: "/art/matc-char-sereth.jpg",
   },
   {
     name: "Maera",
@@ -191,7 +197,19 @@ export default function CharactersPage() {
         <section className="max-w-4xl mx-auto px-5 sm:px-6 mb-20">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-16">
             {chars.map((c) => (
-              <article key={c.name}>
+              <article key={c.name} className="group">
+                {c.image && (
+                  <div className="relative w-full aspect-[2/3] mb-6 overflow-hidden">
+                    <Image
+                      src={c.image}
+                      alt={`${c.name} \u2014 ${c.role} \u2014 Man Amongst the Clouds character art`}
+                      fill
+                      className="object-cover object-top opacity-90 group-hover:opacity-100 transition-opacity duration-500"
+                      sizes="(max-width: 768px) 100vw, 50vw"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-transparent to-transparent" />
+                  </div>
+                )}
                 <div className="border-l-2 border-[#c9a84c]/20 hover:border-[#c9a84c]/60 pl-6 transition-all duration-500">
                   <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.3em] uppercase text-[#c9a84c]/50 mb-2">
                     {c.role}

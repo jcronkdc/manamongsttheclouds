@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import Image from "next/image";
 import {
   entries,
   categories,
@@ -222,6 +223,18 @@ function EntryCard({
       {/* Expanded detail */}
       {isOpen && hasDetail && (
         <div className="px-6 pb-6 sm:px-8 sm:pb-8 border-t border-[#c9a84c]/[0.06]">
+          {entry.image && (
+            <div className="relative w-full aspect-[3/1] overflow-hidden mt-5 mb-4">
+              <Image
+                src={entry.image}
+                alt={`${entry.name} \u2014 Man Amongst the Clouds`}
+                fill
+                className="object-cover opacity-80"
+                sizes="(max-width: 768px) 100vw, 800px"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-transparent to-transparent" />
+            </div>
+          )}
           <div className="pt-5">
             {entry.detail && (
               <p className="font-[family-name:var(--font-serif)] text-sm text-[#c4beb4] leading-[1.85]">

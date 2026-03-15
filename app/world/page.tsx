@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import WorldGuide from "./WorldGuide";
 
@@ -54,8 +55,21 @@ export default function WorldPage() {
       />
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
+        {/* World banner */}
+        <div className="relative w-full aspect-[3/1] overflow-hidden">
+          <Image
+            src="/art/matc-hero-world.jpg"
+            alt="The seven regions of the world — Man Amongst the Clouds"
+            fill
+            className="object-cover opacity-40"
+            sizes="100vw"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/40 via-transparent to-[#0a0a0a]" />
+        </div>
+
         {/* Header */}
-        <header className="pt-20 pb-12 px-5 sm:px-6 text-center">
+        <header className="pb-12 px-5 sm:px-6 text-center relative -mt-32">
           <nav className="mb-8">
             <Link
               href="/"
