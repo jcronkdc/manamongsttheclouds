@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Hero() {
   return (
     <section className="relative flex flex-col items-center justify-center min-h-screen px-6 pt-24 sm:pt-20 pb-12 text-center overflow-hidden">
@@ -8,15 +10,21 @@ export default function Hero() {
       <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-[#0a0a0a] to-transparent z-10" />
 
       <div className="relative z-20 max-w-3xl mx-auto">
-        {/* Epigraph — the first line readers see */}
-        <p
-          className="font-[family-name:var(--font-serif)] text-base sm:text-lg italic text-[#b0a89e] max-w-lg mx-auto leading-relaxed mb-12 sm:mb-16 opacity-0 animate-fade-in"
+        {/* Book cover */}
+        <div
+          className="flex justify-center mb-10 sm:mb-14 opacity-0 animate-fade-in"
           style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
         >
-          &ldquo;In the time before the taking, the world sang to itself,
-          <br className="hidden sm:block" /> and men were wise enough to
-          listen.&rdquo;
-        </p>
+          <Image
+            src="/cover.jpg"
+            alt="Man Amongst the Clouds — book cover by Justin Cronk"
+            width={280}
+            height={448}
+            className="border border-[#222] shadow-[0_20px_80px_rgba(0,0,0,0.6),0_0_40px_rgba(201,168,76,0.08)]"
+            priority
+            sizes="(max-width: 640px) 220px, 280px"
+          />
+        </div>
 
         {/* Title */}
         <h1

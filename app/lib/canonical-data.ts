@@ -125,6 +125,7 @@ export const books = {
     numberOfPages: 480,
     bookFormat: "EBook",
     bookEdition: "First Edition",
+    isbn: "979-8-234-03365-9",
     datePublished: "2026",
     releaseLabel: "Coming August 2026",
     typicalAgeRange: "16+",
@@ -416,6 +417,7 @@ export function buildBookJsonLd(bookKey: "manAmongstTheClouds" | "ashToFury") {
     base["datePublished"] = matc.datePublished;
     base["copyrightYear"] = parseInt(matc.datePublished);
     base["isFamilyFriendly"] = matc.isFamilyFriendly;
+    base["isbn"] = matc.isbn;
     base["typicalAgeRange"] = matc.typicalAgeRange;
     base["audience"] = {
       "@type": "PeopleAudience",

@@ -21,10 +21,10 @@ export default function ReadSection() {
         {/* Book cover */}
         <div className="flex justify-center mb-12">
           <Image
-            src="/cover-part-one.jpg"
-            alt="Man Amongst the Clouds Part One: The Still Water — book cover by Justin Cronk"
+            src="/cover.jpg"
+            alt="Man Amongst the Clouds — book cover by Justin Cronk"
             width={280}
-            height={362}
+            height={448}
             className="border border-[#222] shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
             priority
             sizes="280px"
