@@ -18,7 +18,6 @@ CHAPTERS = [
     "chapter_45.md",
     "chapter_46.md",
     "chapter_47.md",
-    "chapter_48.md",
     "epilogue.md",
 ]
 

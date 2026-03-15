@@ -62,7 +62,6 @@ CHAPTERS = [
     ("chapter_45.md", None),
     ("chapter_46.md", None),
     ("chapter_47.md", None),
-    ("chapter_48.md", None),
     ("epilogue.md", None),
 ]
 
@@ -282,6 +281,92 @@ def add_formatted_text(paragraph, text):
         run.font.name = 'Georgia'
         run.font.size = Pt(12)
 
+def add_book2_preview(doc):
+    """Add the Book 2 prologue preview to the back of the document."""
+    preview_path = os.path.join(MANUSCRIPT_DIR, "sequel", "prologue.md")
+    if not os.path.exists(preview_path):
+        print("WARNING: sequel/prologue.md not found, skipping preview.")
+        return
+
+    doc.add_page_break()
+
+    for _ in range(6):
+        p = doc.add_paragraph()
+        p.paragraph_format.first_line_indent = Inches(0)
+        p.paragraph_format.space_after = Pt(0)
+
+    header = doc.add_paragraph()
+    header.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    header.paragraph_format.first_line_indent = Inches(0)
+    header.paragraph_format.space_after = Pt(8)
+    run = header.add_run("A PREVIEW OF BOOK TWO")
+    run.font.size = Pt(11)
+    run.font.name = 'Georgia'
+
+    title = doc.add_paragraph()
+    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    title.paragraph_format.first_line_indent = Inches(0)
+    title.paragraph_format.space_after = Pt(4)
+    run = title.add_run("THE SEED AND THE STONE")
+    run.font.size = Pt(16)
+    run.font.name = 'Georgia'
+    run.bold = True
+
+    subtitle = doc.add_paragraph()
+    subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    subtitle.paragraph_format.first_line_indent = Inches(0)
+    subtitle.paragraph_format.space_after = Pt(24)
+    run = subtitle.add_run("Prologue: The Seed")
+    run.font.size = Pt(11)
+    run.font.name = 'Georgia'
+    run.italic = True
+
+    with open(preview_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    lines = content.split('\n')
+    body_started = False
+    first_para = True
+
+    for line in lines:
+        stripped = line.strip()
+
+        if not body_started:
+            if stripped.startswith('# ') or stripped.startswith('## '):
+                continue
+            elif stripped == '---':
+                body_started = True
+                continue
+            else:
+                continue
+
+        if stripped == '---':
+            scene = doc.add_paragraph()
+            scene.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            scene.paragraph_format.first_line_indent = Inches(0)
+            scene.paragraph_format.space_before = Pt(12)
+            scene.paragraph_format.space_after = Pt(12)
+            run = scene.add_run("\u2022\u2003\u2022\u2003\u2022")
+            run.font.size = Pt(12)
+            run.font.name = 'Georgia'
+            first_para = True
+            continue
+
+        if stripped == '':
+            continue
+
+        if stripped:
+            p = doc.add_paragraph()
+            if first_para:
+                p.paragraph_format.first_line_indent = Inches(0)
+                first_para = False
+            else:
+                p.paragraph_format.first_line_indent = Inches(0.3)
+            add_formatted_text(p, stripped)
+
+    print("Adding: Book 2 preview (sequel/prologue.md)")
+
+
 def main():
     doc = Document()
 
@@ -326,6 +411,8 @@ def main():
             # Part V header
             add_part_header(doc, "V", "THE REMEMBERING",
                             '"The world sings to itself, and men are wise\nenough to listen."')
+
+    add_book2_preview(doc)
 
     doc.save(OUTPUT_PATH)
     print(f"\nManuscript saved to: {OUTPUT_PATH}")
