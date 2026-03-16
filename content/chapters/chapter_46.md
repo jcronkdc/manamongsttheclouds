@@ -26,6 +26,8 @@ And the Volcano. A delegation of smiths — uncomfortable, uncertain, their heat
 
 Aldric was present. In a chair — the body too weak for standing, the decades of draining having reduced the former king to a frail, translucent, fiercely alert man who watched the proceedings with the fierce, compensatory attention of a person who has missed thirty years and is trying to absorb thirty years' worth of living in whatever time remains. Beside him: Vero. Standing. Straight. The shaking hands at his sides, the restored memories visible in the depth of his eyes, the prince who had been dreaming for thirty years watching the world wake up.
 
+No one had claimed the throne. No one had discussed claiming the throne. The question of governance hung in the air the way the Murkr's grey had hung in the air — present, unaddressed, too large to resolve in the first month of a world remembering how to breathe. The delegations had arrived as delegations, not as subjects. Each region had sent its own. The Cloud Seers spoke for the Clouds. Torvus spoke for the Core. The Desert elder, who had vanished from the fire and reappeared at the ceremony with the same seamless inevitability, spoke for the Desert. No one spoke for the whole. The whole was not yet ready to be spoken for. Aldric understood this — the former king watching the ceremony not from a throne but from a chair, not as a ruler but as a witness, the distinction deliberate, the deliberateness the most political act of the gathering.
+
 ---
 
 The children came forward.

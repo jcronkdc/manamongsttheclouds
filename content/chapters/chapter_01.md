@@ -24,7 +24,7 @@ It was the largest lie Jalo had ever told him, and it wasn't the only one.
 
 ---
 
-Dawn came grey and reluctant through the single window. Aelo rose, dressed in the dark: trousers too short at the ankle, a shirt too wide at the shoulders, everything slightly wrong in the way that clothes are wrong on a body still waiting to become itself. He padded barefoot to the main room.
+Dawn came grey and reluctant through the single window. Aelo rose, dressed in the dark: trousers too short at the ankle, a shirt too wide at the shoulders, everything slightly wrong in the way that clothes are wrong on a body still waiting to become itself. He was fifteen. He felt older. He padded barefoot to the main room.
 
 The cottage was small enough that you could see all of it from anywhere inside it. A stone hearth, hand-built, blackened to a shine by years of use. A table with two chairs, one of which had a leg that Jalo had repaired three times and Aelo had learned to avoid sitting on. Walls hung with trapping equipment — snares, skinning knives, a coil of gut-cord — and shelves lined with jars. Dozens of jars. Glass, clay, stoppered with cork or wax or tightly folded cloth. Each one labeled in Jalo's cramped hand: _Breedlebuck. Fiddleroot. Ironbark. Milkwillow._ Names that Aelo had memorized the way other children memorized prayers, because Jalo had taught him the herbs before he'd taught him to read.
 

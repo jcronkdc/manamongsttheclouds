@@ -108,13 +108,13 @@ The Great Elder Stone still sang in the clouds, patient and luminous and waiting
 
 And in a burning nursery, on a night when the world's memory was being rewritten in blood and fire, a woman opened her mouth and Sang. Not all seven voices — five. Five disciplines, harmonized in a human throat, the chord shaped not as a weapon but as a lullaby. She sang it to her infant son while the door broke down, and the five notes cost her everything — her name, her past, her future, every memory she possessed — because she poured it all into the sound, and the sound held the soldiers at bay just long enough.
 
-A man with a scarred face and a shattered knee carried the child over the garden wall. Behind him, the woman's voice thinned and broke and stopped. The note ended. She was gone, the same way Fletcher was gone — dissolved into the world's memory, her love embedded in the sky above the Clouds where, if you listened carefully, you could still hear the faintest echo of a mother singing her son to sleep.
+A man with a shattered knee carried the child over the garden wall. Behind him, the woman's voice thinned and broke and stopped. The note ended. She was gone, the same way Fletcher was gone — dissolved into the world's memory, her love embedded in the sky above the Clouds where, if you listened carefully, you could still hear the faintest echo of a mother singing her son to sleep.
 
 The man ran. The baby screamed. And then the baby stopped screaming and breathed — one breath, small and new and impossible — and the air around them shivered.
 
 _A breath of remembering._
 
-The man looked down at the child in his arms. He was weeping. His ruined face was wet with tears and blood and soot, his knee failing. Behind him the nursery was collapsing into flame. The woman he had sworn to protect was gone. The order he served was ash. The world he knew was ending.
+The man looked down at the child in his arms. He was weeping. His face was wet with tears and blood and soot, his knee failing. Behind him the nursery was collapsing into flame. The woman he had sworn to protect was gone. The order he served was ash. The world he knew was ending.
 
 But the child breathed. And the air remembered.
 

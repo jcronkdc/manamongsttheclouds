@@ -88,9 +88,13 @@ She sat beside him. The old woman moved with the care of a person whose body was
 
 Cael's milky eyes held him with the patient attention of a woman who had been waiting for this question.
 
-"Disciplines arrive through two doors. The first is training — the teacher, the practice, the body learning the shape of the magic through repetition. The Know and the Mold came through that door. But the second door is older: the blood. Your mother was a Cloud Singer. The Move lives in the Cloud bloodline the way the Know lives in the Ming — not as a skill but as a memory, carried in the cells, passed from parent to child. You did not learn the Move. You inherited it. The sky remembered your mother's frequency in your blood, and when you reached this altitude, the blood and the sky recognized each other."
+"Most people carry one discipline. Some carry two — a strong primary and a trace of a second, like a painter who can also draw. The capacity is fixed at birth. The blood has a shape, and the shape has room for one voice, rarely two, never more. This is not a limitation of will or training. It is architecture. The blood is a vessel, and the vessel has a size.
 
-She paused. The wind moved through the chamber, carrying the Song's high frequency.
+"Fletcher's blood was different. Fletcher was the first Singer — the vessel through which all seven voices passed simultaneously. The passage _changed_ the vessel. The way a river changes the stone it runs through — not by intention but by contact. Seven voices, flowing through one body, carved seven channels in the blood. And the channels survived him. They passed to his children. To their children. To your mother. To you. Your blood does not carry one voice. Your blood carries the _shape_ of seven — the channels still open, still waiting, still remembering the original flow."
+
+She let this settle. The wind carried the Song's high frequency through the chamber.
+
+"Disciplines arrive through two doors. The first is training — the teacher, the practice, the body learning the shape of the magic through repetition. The Know and the Mold came through that door. But the second door is older: the blood. Your mother was a Cloud Singer. The Move lives in the Cloud bloodline the way the Know lives in the Ming — not as a skill but as a memory, carried in the cells, passed from parent to child. You did not learn the Move. You inherited it. The sky remembered your mother's frequency in your blood, and when you reached this altitude, the blood and the sky recognized each other."
 
 "The Heal is different. The Heal was not inherited — it was absorbed. Fifteen years inside a Healer's practice. Your guardian mixed the tinctures, prepared the herbs, applied the Ironbark to his own knee every night while you slept in the next room. The Heal operates through proximity as much as through intention — it is the discipline of mending, and mending does not respect walls. Every time your guardian Healed, the frequency passed through the cottage and into you, the way warmth passes through a shared wall. You did not learn the Heal. You grew up inside it."
 

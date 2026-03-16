@@ -39,7 +39,9 @@ He found Jalo on the southern terrace. The man who had spent seven days being un
 
 "Where do we go?" Aelo asked.
 
-"South. The Core first — Torvus is there, and the underground hides signatures. Then the Sea." Jalo looked at him. Both eyes, the clear one and the lidded one, held the same expression: the assessment of a guardian measuring the distance between where his charge is and where his charge needs to be. "You're not ready for any of it. But the hunters don't care about readiness."
+"South. The Core first — Torvus is there, and the underground hides signatures. Then the Sea." Jalo shifted his weight, gestured with the staff as if drawing a map in the air. "The world is arranged like a wheel. The Murkr sits at the center — Varas's dead zone, the castle, the drain. The seven regions radiate outward. We're in the Canopy, to the north. The Core lies beneath us — underground, the deep forges. South of the Core, the coastline: the Sea. The Desert stretches east, the Volcano west. The Ming lake sits northeast, between the Canopy and the Desert. And above everything — the Clouds." He looked up, as if he could see them through the canopy. "Your mother's kingdom. The highest point. The farthest from the drain."
+
+He looked at Aelo. Both eyes, the clear one and the lidded one, held the same expression: the assessment of a guardian measuring the distance between where his charge is and where his charge needs to be. "You're not ready for any of it. But the hunters don't care about readiness."
 
 ---
 

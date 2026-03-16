@@ -8,9 +8,7 @@ The feast was loud and Varas felt nothing.
 
 This was not unusual. The nothing had been there since birth, not an emptiness created by loss or trauma or the kinds of damage that Healers could name and attempt to mend, but a structural absence. The way some men are born without the use of their legs, Varas had been born without the use of whatever organ or capacity or thread of connection allowed other people to feel what they felt. The Know, which operated in every living person as a low-grade, ambient awareness of the emotional weather around them — the unconscious perception of a room's mood, a stranger's grief, a lover's joy — operated in Varas as silence. He walked through rooms full of people and felt the same thing he always felt: the sound of his own thoughts in an empty space.
 
-He sat on the obsidian throne and watched the feast. The great hall of the Murkr was full — three hundred guests, lords and administrators and military commanders and the various functionaries of an empire that required a feast every quarter to maintain the illusion that the empire was a civilization rather than a mechanism. The tables were loaded. The wine was excellent. Musicians played in the gallery: strings, wind, a percussionist who was, by any objective measure, extraordinary. Varas could hear the music. He could assess it. He could not feel it.
-
-He could not feel the wine, either. Not the taste — he could taste it. The warmth in the throat, the loosening of the jaw, the chemical relaxation that alcohol produced in the body. He could feel these things. They were mechanical. What he could not feel was the thing that other people felt when they drank: the easing. The softening of the boundary between the self and the world. Alcohol, for other people, was a bridge. For Varas, it was a road that led to the same empty room it always led to, just approached from a different angle.
+He sat on the obsidian throne and watched the feast. The great hall of the Murkr was full — three hundred guests, lords and administrators and military commanders and the various functionaries of an empire that required a feast every quarter to maintain the illusion that the empire was a civilization rather than a mechanism. The tables were loaded. The wine was excellent — he held a cup, tasted it, registered the temperature. Musicians played in the gallery: strings, wind, a percussionist who was, by any objective measure, extraordinary. Varas could hear the music. He could assess it. He could not feel it.
 
 He watched a woman laugh. She was seated at the second table, a minor lord's wife, young, her face flushed with wine and conversation. The laugh was genuine. He could see the physiology of it: the contraction of the diaphragm, the widening of the mouth, the crinkling of the skin around the eyes, the involuntary tilt of the head. Every component present. Every indicator of joy. He watched the way a scholar watches a phenomenon: with interest, with attention, without participation. The laugh was a sound in a language he could not speak.
 
@@ -82,7 +80,7 @@ What followed was not performed for the audience. The histories would say that V
 
 He did it for the fear.
 
-The fear of three hundred people, concentrated by proximity and helplessness and the escalating horror of watching something happen that should not be happening. The fear built. Layer upon layer. Each act producing a new stratum of terror, each stratum pressing harder against Varas's barrier, each press producing a faint, distant, almost-imagined sensation of being alive.
+The fear of three hundred people, concentrated by proximity and helplessness and the escalating horror of watching something happen that should not be happening. The fear built. Layer upon layer. Each act producing a new stratum of terror, each stratum pressing harder against Varas's barrier, each press widening the crack by a fraction, letting in a little more of the sound from outside.
 
 The dog died. The assassin did not — not immediately. Not for a long time.
 
@@ -102,17 +100,11 @@ The guests left. Some vomited. Some wept. Some walked in the mechanical, straigh
 
 The hall was empty. The servants cleaned. The blood was scrubbed. The remains were removed. The dog's body was taken to the kennels. The assassin's body was taken to the Chamber, where it would be connected to the Vine and drained until the body was a husk and the memories it contained — the cause, the commitment, the face of the person who had sent this man to die — had been consumed.
 
-Varas sat on the throne. Alone. The draining continued — the slow, constant trickle from the Stones and the Vine, the stolen memories arriving as ghosts, the ghosts dissipating before they could be held. He placed his bark-textured hands on the armrests and he felt the armrests and the armrests were sixty-two degrees.
-
-The fear was gone. The room was empty. The people who had carried the fear had taken it with them — out the doors, into the corridors, into the city, into their homes where they would sit with the horror and metabolize it through the emotional machinery that Varas could not access: grief, rage, resolve, the human capacity to transform experience into meaning.
-
-He had none of these. The fear had pressed against his barrier and the pressing had been — something. Now the pressing was gone and the something was gone with it and the barrier was the barrier and the empty room was the empty room and the silence was absolute.
-
-He reached for his cup. The wine was excellent. The taste was — the taste. Sixty-two degrees.
+Varas sat on the throne. Alone. He placed his bark-textured hands on the armrests and he felt the armrests and the armrests were sixty-two degrees.
 
 He thought: _I am a god._
 
-The thought had no weight. The thought was a sentence in a language he could not speak, produced by a mind that could construct the grammar but could not inhabit the meaning. God. The word implied power, and power implied effect, and effect implied that the effector could feel the effecting. Varas could not. He could consume the world's memory and it would not fill the room. He could drain every prisoner and every Stone and every living thing connected to his Vine and the draining would produce the same result it always produced: a faint, distant, almost-imagined sensation that dissipated before it could be named.
+The thought had no weight. The thought was a sentence in a language he could not speak, produced by a mind that could construct the grammar but could not inhabit the meaning. He could consume the world's memory and it would not fill the room.
 
 He sat on his throne in his empty castle in his dead kingdom and he drained and he felt nothing and the nothing was the same nothing it had always been and the nothing was him and he was the nothing and the distinction between the two had never existed.
 
@@ -138,14 +130,6 @@ He summoned everyone.
 
 The orders went out. The castle responded — the walls shifting, the corridors reconfiguring, the Blood Vine pulsing through every surface as the organism that was Varas's extension mobilized itself for the purpose that had, until this moment, been an operational objective and was now something else.
 
-A need. The only need the empty room had ever produced. The need for the Song. Not to hear it — hearing was not enough. Not to consume it — consumption left ghosts and ghosts were not enough.
-
-To _be_ it. To stand in the frequency. To cross the gap. To feel, for longer than a moment, what the note had promised: that the bridge existed, that the door was real, that the empty room had an exit and the exit was the Song and the Song was in a boy who was somewhere in his sky.
-
-He did not know that this was impossible. He did not know that the Song could not fill a room that had been built without a door. He did not know that what he had felt — the moment of contact, the faint vibration through the barrier — was not an invitation but a warning.
-
-He knew only the need. And the need was the first thing he had ever truly felt.
-
-It was not enough. But it was _something_.
+A need. The only need the empty room had ever produced. Not to hear the Song — hearing was not enough. Not to consume it — consumption left ghosts. To _be_ it. To cross the gap. To feel, for longer than a moment, what the note had promised.
 
 And something, after a lifetime of nothing, was the most dangerous thing in the world.

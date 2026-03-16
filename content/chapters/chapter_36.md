@@ -76,13 +76,19 @@ What the Song was: love made audible. The harmonization of all seven disciplines
 
 What it cost: the vessel. The identity. The self, consumed by the harmonization, the individual dissolved into the universal. Fletcher had Sung and ceased. Maera had held five notes and died. The Song demanded everything because the Song was everything.
 
-And what Sereth needed Laine to do: carry her into the Chamber. Because Sereth's nearly-mortal body could not survive the void alone — the Murkr's anti-memory field was stripping the last of her divinity, and without the divinity, the body was failing. But once inside the Chamber, Sereth could serve as a conduit. A bridge between Aelo and the prisoners. The Blood Vine network that Varas had built to drain could be reversed — used not to extract but to distribute, the parasitic network repurposed as a delivery system, the Vine carrying the Song from Aelo through Sereth to every prisoner in the Chamber.
+And what Sereth needed Laine to do: carry her into the Chamber. Because Sereth's nearly-mortal body could not survive the void alone — the Murkr's anti-memory field was stripping the last of her divinity, and without the divinity, the body was failing. But once inside the Chamber, Sereth could serve as a conduit. A bridge between Aelo and the prisoners.
 
-"Fletcher Sang alone," Sereth said. "And it cost him everything. The Song consumed him because there was no one to share the cost. No conduit. No distribution. The full weight of seven harmonized disciplines landed on one person and the person was not enough and the person became the Song."
+"The Blood Vine is a parasite," Sereth said. "But it is a parasite that feeds on the architecture I built. The world's memory — the channels through which magic flows, the pathways that connect the Elder Stones, the deep structure that allows one person's gift to resonate with another's — I designed that architecture. Three hundred years ago, when I gave Fletcher the Song, I also gave the world the _roads_ the Song traveled on. The Vine didn't build new roads. It burrowed into mine. It feeds on my infrastructure the way a worm feeds on a root — following the channels that already exist, exploiting a system it did not create and does not understand."
+
+She paused. The effort of speaking was visible — the true body diminishing with each sentence, the Murkr extracting its toll.
+
+"A parasite can be reversed if you know the host. I know the host. I _am_ the host. The channels the Vine feeds through are channels I built — and a builder can change the direction of flow in her own architecture. Not by overpowering the Vine. By _remembering_ the original direction. The Vine drains because it follows the current. If I connect myself to the network and remember the current flowing the other way — outward instead of inward, giving instead of taking — the Vine will follow. It has no will. It has no intention. It is a mouth. I am going to point the mouth the other direction."
+
+"Fletcher Sang alone," Sereth continued. "And it cost him everything. The Song consumed him because there was no one to share the cost. No conduit. No distribution. The full weight of seven harmonized disciplines landed on one person and the person was not enough and the person became the Song."
 
 "And you can change that?"
 
-"I can be a second vessel. I can take some of the Song into myself — channel it through the Blood Vine to the prisoners, to the Stones, to the network. The cost will still be enormous. But it won't be total. The Song will have two vessels instead of one, and the distribution will reduce the load on each."
+"I can connect myself to the Vine network — let it attach to me the way it attaches to the prisoners. But instead of draining, I will be the junction where the Song enters the system. Aelo Sings. The Song flows into me. I channel it through the reversed Vine to every prisoner, every Stone, every node in the network. The cost — the memories, the identity, the self that the Song consumes — will be distributed across the entire system instead of landing on one boy. The cost will still be enormous. But it won't be total. The Song will have a thousand vessels instead of one, and the distribution will reduce the load on each."
 
 "Will he survive?"
 

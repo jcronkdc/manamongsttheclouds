@@ -46,9 +46,9 @@ He held the feather in his palm and wept. Not the disciplined, contained, eleven
 
 The river stone.
 
-He picked it up. Smooth. Grey. Fitting his palm perfectly. The memory arrived:
+He picked it up. Smooth. Grey. Fitting his palm perfectly.
 
-A river crossing in Bahar. He was twenty-two. On assignment — a real one, not a training exercise. The elimination of a resistance cell operating from a coastal village. He had completed the assignment. The cell was eliminated. The specifics of the elimination were — he did not flinch from the specifics. The memory returned in full. The killing was part of it. The killing was the function. He held the killing and he held the river and the two existed in the same memory and neither cancelled the other.
+A river crossing in Bahar. Twenty-two. On assignment — a real one, not a training exercise. The elimination of a resistance cell operating from a coastal village. He had completed the assignment. The cell was eliminated. The specifics of the elimination were — he did not flinch from the specifics. The memory returned in full. The killing was part of it. The killing was the function. He held the killing and he held the river and the two existed in the same memory and neither cancelled the other.
 
 After the killing, he had walked to the river. Not for a reason. The function did not include walking to rivers. He had walked because his body had needed to move and the river was there and the moving toward water was — he understood now, with the restored memory, with the full emotional context that the drain had stripped — the moving toward water was the body's instinct for washing. Not literal washing. Emotional washing. The body's memory of water as the medium that cleaned, that carried things away, that took the residue of violence and dissolved it.
 
@@ -58,7 +58,7 @@ He had found the stone. In the riverbed, under three inches of running water. Sm
 
 He had taken it. Not because it was beautiful — the beauty came later, in the holding, in the carrying, in the quiet, unremarkable act of a man who killed for a living carrying a piece of a river in his coat because the carrying felt like something and the something was the only thing that was not the function.
 
-The stone felt like it was made for his hand. The memory said: _it was._
+The stone fit his hand. It had always fit his hand.
 
 ---
 
@@ -66,9 +66,9 @@ The sea glass.
 
 Green. Deep. The green of glass that had been broken and tumbled and rebuilt by the sea's indifferent attention. He held it to the light — not the sickly amber of the Elder Stones but the clean, warm, natural light that was beginning to filter through the throne room's windows as the Murkr's grey thinned above the castle. The green glowed.
 
-The memory: a beach near the Volcano coast. He was fifteen. He had just killed a man — his first. The specifics were — specific. A Resistance operative. A blade through the ribs, angled upward, the technique that the castle's combat instructors had drilled into muscle memory. The man had died looking at him. The man's eyes had held — not fear. Recognition. The recognition of one human being looking at another and understanding that the other was doing something the other did not want to do, and the understanding was worse than the fear because the understanding was compassion and compassion directed at a killer is the most destabilizing thing in the world.
+A beach near the Volcano coast. Fifteen. He had just killed a man — his first. The specifics were — specific. A Resistance operative. A blade through the ribs, angled upward, the technique that the castle's combat instructors had drilled into muscle memory. The man had died looking at him. The man's eyes had held — not fear. Recognition. The recognition of one human being looking at another and understanding that the other was doing something the other did not want to do, and the understanding was worse than the fear because the understanding was compassion and compassion directed at a killer is the most destabilizing thing in the world.
 
-He had walked the beach afterward. Numb. Hollow. Not the function's numbness — the human numbness. The physical, whole-body shutdown that the body produces when the mind encounters something it cannot process and the body decides to process it instead, through walking, through the rhythmic, mechanical act of putting one foot in front of the other on sand that shifts and gives and does not care.
+He had walked the beach afterward. Numb. Hollow. Human numbness. The physical, whole-body shutdown that the body produces when the mind encounters something it cannot process and the body decides to process it instead, through walking, through the rhythmic, mechanical act of putting one foot in front of the other on sand that shifts and gives and does not care.
 
 He had found the glass. Green. Smooth. Frosted by saltwater. He had picked it up and held it to the sky — the sky that had been blue, the sky he had not been able to describe in the empty room but that the memory now provided in full: blue. Clear. The vivid, living blue of a sky seen from a beach after a killing by a boy who was fifteen and who was holding a piece of green glass and who was thinking, for the first and most sophisticated time in his young life: _the world makes beautiful things out of broken ones._
 
@@ -82,7 +82,7 @@ The dried flower.
 
 Brown. Brittle. Pressed flat. The petals had been purple. The purple returned — not to the petals, which were physically unchanged, but to the memory. The vivid, living purple of a flower that had been growing through a crack in a stone floor.
 
-The memory: the prison. The lower cells of the castle. He had been twenty-five. On guard duty — a rotation, the routine assignment of soldiers to the various posts that the castle's security required. The prison cells were below the main halls, carved into the bedrock, the air cold and damp and carrying the institutional smell of stone that had been used to hold human bodies for decades.
+The prison. The lower cells. Twenty-five. On guard duty — a rotation, the routine assignment of soldiers to the various posts that the castle's security required. The prison cells were below the main halls, carved into the bedrock, the air cold and damp and carrying the institutional smell of stone that had been used to hold human bodies for decades.
 
 The floor of the cell was stone. Solid. The kind of stone that did not permit growth — dense, fitted, maintained by Molders who repaired the cracks because cracks were security risks and security risks were not tolerated. But this crack had been missed. A hairline fracture in the seam between two blocks, invisible to the eye, wide enough for — life. For a root to find. For a stem to push through. For a flower to grow, in a place where nothing should grow, where the conditions were hostile and the environment was designed to prevent exactly this, and the flower had grown anyway.
 
@@ -92,13 +92,13 @@ He had taken it. Not picked — taken. Carefully, with the almost religious care
 
 The flower was stubbornness. Refusal. The living world saying: _you can build the prison and you can seal the floor and you can design every condition to prevent me, and I will grow anyway, because growing is what I am and what I am cannot be prevented by what you build._
 
-He had carried the flower because he admired it. Because the stubbornness was the thing he recognized in himself — the thing that kept the box, that checked the objects, that held the beautiful things for eleven seconds when the function said they were unnecessary. The flower was the proof that growing through stone was possible. That he was alive.
+He admired it. The stubbornness. The thing he recognized in himself — the thing that kept the box, that checked the objects, that held the beautiful things for eleven seconds when the function said they were unnecessary. The flower was proof. Growing through stone was possible. He was alive.
 
 ---
 
 The cloth.
 
-Fine-woven. An unusual stitch pattern. He held it and the memory returned:
+Fine-woven. An unusual stitch pattern. He held it.
 
 A woman. A prisoner. She was being led to the Chamber — the corridor, the guards, the procedure. He was on duty. He was standing at the junction where the corridor from the cells met the corridor to the Chamber, the post assigned to the officer responsible for confirming that the prisoners were correctly identified and correctly directed. A function. A checkpoint. A task that required attention but not thought.
 
@@ -110,7 +110,7 @@ _I see you,_ the smile said. _I know what you are. And I am not afraid of you._
 
 The cloth was from her garment. He had torn it — after. After the guards led her away. After the corridor was empty. After the function resumed and the checkpoint was manned and the operational posture was restored. He had reached out and his fingers had found a loose thread on the doorframe — a thread from her sleeve, caught on a rough stone, the fabric torn by the passage. He had pulled the thread and the thread had become a strip and the strip had become a scrap and the scrap had become the last physical evidence that a woman had walked this corridor and had smiled at the man who stood in it.
 
-He had carried the cloth because the smile was the only time in his life that another person had looked at him without fear. The smile was the proof that he was visible — that beneath the function and the armor and the flat eyes, there was a surface that a smile could land on and a person who could feel the landing.
+The smile was the only time in his life that another person had looked at him without fear. That was why he carried it. Proof that he was visible — that beneath the function and the armor and the flat eyes, there was a surface that a smile could land on.
 
 ---
 
@@ -124,7 +124,7 @@ Five objects. Five stories. Five pieces of a humanity that had been stolen and r
 
 And between the objects — in the spaces where the stories connected, in the tissue between the memories — a sixth thing returned. A face. Thin. Flat black eyes. A woman sitting across a fire at the base of a mountain, looking at him with the volumetric gaze of a Ming who was seeing beneath his surface, and flinching. Sera. The tracker. The two sentences she had spent on him like coins she could not afford: _The mark on your neck. The one you think is a birthmark._ She had not said more. She had not needed to. The two sentences had been the first crack — the hairline fracture in the function's casing that everything else had widened. The boy on the beach. The note in the sand. The label. The box. All of it had flowed through the crack that a conscripted Ming woman had opened with six words and a flinch and the courage to see a weapon as a person.
 
-Was a person who found the world beautiful and who had been punished for the finding by a father who could not feel beauty and who had consumed his son's capacity for it the way a man dying of thirst drinks saltwater — desperately, futilely.
+Was a person who found the world beautiful — and had been punished for the finding. His father could not feel beauty. Had never been able to. And he had consumed his son's capacity for it the way a man dying of thirst drinks saltwater: desperately, futilely, making the thirst worse with every swallow.
 
 He closed the box. He put it in his coat. He walked out of the throne room.
 
@@ -156,4 +156,4 @@ He walked. The grey thinned. The light grew. And behind him, on the grey stone, 
 
 ---
 
-_End of Part IV_
+_End of Part IV: The Song_

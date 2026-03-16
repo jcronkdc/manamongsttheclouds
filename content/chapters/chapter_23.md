@@ -1,3 +1,9 @@
+# PART THREE: THE BURNING
+
+_"Between the fire and the song, the guardian stands. This is not a choice. This is what remains when choice is finished."_
+
+---
+
 # Chapter 23
 
 ## The Ascent

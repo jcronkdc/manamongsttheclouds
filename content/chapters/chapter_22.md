@@ -118,4 +118,4 @@ They turned north.
 
 Behind them, the ocean breathed. The tide came in. The tide went out. The Song hummed beneath the sand, in the space where a boy had stood and wept and been recognized by the world's oldest memory. The note lingered. The note would linger for years — in the sand, in the stone, in the mineral record of the coast — because the note was not sound but memory, and memory, in this world, was the only thing that did not die.
 
-_End of Part II_
+_End of Part II: The Waking_

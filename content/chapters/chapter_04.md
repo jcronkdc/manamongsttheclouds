@@ -182,6 +182,14 @@ The logic landed. Aelo could see it land — the slight widening of Jalo's eyes,
 
 "That's not the same thing."
 
+"Can you hear what I'm thinking?" Jalo asked. The question was careful, clinical — the voice of a man conducting an assessment he had dreaded for fifteen years.
+
+Aelo reached. He tried. Jalo's emotional weather was right there — the fear, the guilt, the copper-tasting love — but the weather was all surface and direction, like seeing smoke without seeing the fire. He could feel that Jalo was afraid. He could not feel what the fear was _about_. The content was locked inside the man's skull, inaccessible, the way the words of a song are inaccessible when you can only hear the melody through a wall.
+
+"No," Aelo said. "I can feel what you feel. The shape of it. The weight. But not the words. Not the reasons."
+
+"Good." The word carried relief so sharp Aelo tasted it. "That's the Know. The discipline of emotional perception — not thought, not memory, not the private architecture of a person's mind. The weather. The pressure. The temperature of what someone is feeling, and the direction the feeling is moving. A Knower who could read thoughts would be a weapon. The Know is not a weapon. It is a window — and the window shows you the sky, not the rooms behind it."
+
 Jalo stared at him. The morning light caught the scars and made them look like a map — a terrain of choices, each ridge and valley the physical record of a decision that had cost something and that the man who made it had decided, in the calculus of love and terror, was worth the price.
 
 "No," Jalo said softly. "It's not."
