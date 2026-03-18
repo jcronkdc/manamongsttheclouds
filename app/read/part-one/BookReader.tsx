@@ -1415,7 +1415,7 @@ export default function BookReader({ chapters }: { chapters: ChapterData[] }) {
                 The full novel is available now on Amazon Kindle.
               </p>
               <a
-                href="https://www.amazon.com/dp/B0GSXVL4HB"
+                href="https://www.amazon.com/dp/B0GSSPN6LN"
                 className="inline-block px-8 py-3 text-xs tracking-widest uppercase transition-all duration-300 font-[family-name:var(--font-sans)]"
                 style={{
                   background: "var(--rt-accent)",

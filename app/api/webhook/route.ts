@@ -337,7 +337,7 @@ export async function POST(req: NextRequest) {
 
     <p style="font-size:14px;color:#999;line-height:1.7;margin-bottom:24px;">
       The full novel is available now on Amazon Kindle — all five parts, 48 chapters, 146,000 words.
-      Visit <a href="${siteUrl}" style="color:#c9a84c;text-decoration:none;">manamongsttheclouds.com</a> or <a href="https://www.amazon.com/dp/B0GSXVL4HB" style="color:#c9a84c;text-decoration:none;">get it on Amazon</a>.
+      Visit <a href="${siteUrl}" style="color:#c9a84c;text-decoration:none;">manamongsttheclouds.com</a> or <a href="https://www.amazon.com/dp/B0GSSPN6LN" style="color:#c9a84c;text-decoration:none;">get it on Amazon</a>.
     </p>
 
     <div style="border-top:1px solid #222;padding-top:24px;margin-top:32px;">

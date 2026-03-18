@@ -50,7 +50,7 @@ const jsonLd = {
   offers: {
     "@type": "Offer",
     availability: "https://schema.org/InStock",
-    url: "https://www.amazon.com/dp/B0GSXVL4HB",
+    url: "https://www.amazon.com/dp/B0GSSPN6LN",
   },
   datePublished: "2026-03-17",
   keywords:
@@ -375,7 +375,7 @@ export default function TheBookPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://www.amazon.com/dp/B0GSXVL4HB"
+              href="https://www.amazon.com/dp/B0GSSPN6LN"
               className="px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
             >
               Get it on Kindle

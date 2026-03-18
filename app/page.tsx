@@ -57,7 +57,7 @@ const seriesJsonLd = {
   offers: {
     "@type": "Offer",
     availability: "https://schema.org/InStock",
-    url: "https://www.amazon.com/dp/B0GSXVL4HB",
+    url: "https://www.amazon.com/dp/B0GSSPN6LN",
   },
 };
 

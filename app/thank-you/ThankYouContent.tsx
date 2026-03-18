@@ -68,7 +68,7 @@ export default function ThankYouContent() {
           parts, 48 chapters, 146,000 words.
         </p>
         <a
-          href="https://www.amazon.com/dp/B0GSXVL4HB"
+          href="https://www.amazon.com/dp/B0GSSPN6LN"
           className="inline-block px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
         >
           Get it on Kindle

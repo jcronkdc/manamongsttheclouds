@@ -40,7 +40,7 @@ export default function Footer() {
                 { href: "/about-the-author", label: "The Author" },
                 { href: "#excerpt", label: "Read an Excerpt" },
                 {
-                  href: "https://www.amazon.com/dp/B0GSXVL4HB",
+                  href: "https://www.amazon.com/dp/B0GSSPN6LN",
                   label: "Buy on Kindle",
                 },
               ].map((l) => (

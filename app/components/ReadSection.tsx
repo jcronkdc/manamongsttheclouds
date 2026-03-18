@@ -46,7 +46,7 @@ export default function ReadSection() {
           {/* Kindle buy card */}
           <div className="max-w-lg mx-auto mb-6">
             <a
-              href="https://www.amazon.com/dp/B0GSXVL4HB"
+              href="https://www.amazon.com/dp/B0GSSPN6LN"
               className="block border border-[#c9a84c]/30 bg-[#c9a84c]/5 hover:bg-[#c9a84c]/10 transition-all duration-300 relative overflow-hidden group"
             >
               <div className="p-6 sm:p-10 text-center">

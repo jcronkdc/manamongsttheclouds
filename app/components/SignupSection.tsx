@@ -100,7 +100,7 @@ export default function SignupSection() {
                   The full novel is available now on Amazon Kindle.
                 </p>
                 <a
-                  href="https://www.amazon.com/dp/B0GSXVL4HB"
+                  href="https://www.amazon.com/dp/B0GSSPN6LN"
                   className="inline-block w-full sm:w-auto px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.2)] text-center"
                 >
                   Get it on Kindle

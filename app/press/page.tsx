@@ -83,7 +83,7 @@ const bookJsonLd = {
   offers: {
     "@type": "Offer",
     availability: "https://schema.org/InStock",
-    url: "https://www.amazon.com/dp/B0GSXVL4HB",
+    url: "https://www.amazon.com/dp/B0GSSPN6LN",
   },
   about: [
     { "@type": "Thing", name: "Memory" },
@@ -513,7 +513,7 @@ export default function PressPage() {
             {[
               {
                 label: "Buy on Amazon Kindle",
-                href: "https://www.amazon.com/dp/B0GSXVL4HB",
+                href: "https://www.amazon.com/dp/B0GSSPN6LN",
               },
               {
                 label: "Read Part One Free",
