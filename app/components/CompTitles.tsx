@@ -53,7 +53,7 @@ export default function CompTitles() {
 
         <div className="mt-16 border-t border-[#1a1a1a] pt-8">
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] italic max-w-lg mx-auto leading-relaxed">
-            &ldquo;A 153,000-word literary fantasy debut featuring a magic
+            &ldquo;A 146,000-word literary fantasy debut featuring a magic
             system rooted in memory and sacrifice, a villain whose monstrousness
             is fully human, and a hero whose greatest power is the willingness
             to listen.&rdquo;

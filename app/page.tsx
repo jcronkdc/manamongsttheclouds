@@ -46,55 +46,19 @@ const seriesJsonLd = {
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
   description:
-    "A five-part literary fantasy series where magic is memory and every act of power costs a piece of who you are. 153,000 words across 48 chapters. By Justin Cronk, published by Stillfire Press.",
+    "A 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. Five parts, 48 chapters. By Justin Cronk, published by Stillfire Press. Available now on Amazon Kindle.",
   url: "https://www.manamongsttheclouds.com",
-  numberOfEpisodes: 5,
-  hasPart: [
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part I — The Still Water",
-      position: 1,
-      bookEdition: "Part I",
-      description:
-        "Prologue and Chapters 1–10. Aelo has lived in silence for fifteen years. When the herbs fail and the silence breaks, he discovers magic is memory.",
-      offers: {
-        "@type": "Offer",
-        price: "2.99",
-        priceCurrency: "USD",
-        availability: "https://schema.org/InStock",
-      },
-    },
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part II — The Waking",
-      position: 2,
-      bookEdition: "Part II",
-      description:
-        "The journey out of silence and into the larger world. Aelo begins to learn what magic costs — and what it means to be heard.",
-      offers: {
-        "@type": "Offer",
-        availability: "https://schema.org/PreOrder",
-      },
-    },
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part III — The Breaking",
-      position: 3,
-      bookEdition: "Part III",
-    },
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part IV — The Chamber",
-      position: 4,
-      bookEdition: "Part IV",
-    },
-    {
-      "@type": "Book",
-      name: "Man Amongst the Clouds: Part V — The Remembering",
-      position: 5,
-      bookEdition: "Part V",
-    },
-  ],
+  datePublished: "2026-03-17",
+  bookFormat: "EBook",
+  bookEdition: "First Edition",
+  numberOfPages: 463,
+  wordCount: 146007,
+  isbn: "979-8-234-03365-9",
+  offers: {
+    "@type": "Offer",
+    availability: "https://schema.org/InStock",
+    url: "https://www.amazon.com/dp/B0GSXVL4HB",
+  },
 };
 
 const disciplinesListJsonLd = {
@@ -170,7 +134,7 @@ const reviewJsonLd = {
     name: "Stillfire Press Editorial",
   },
   reviewBody:
-    "A 153,000-word literary fantasy debut featuring a magic system rooted in memory and sacrifice, a villain whose monstrousness is fully human, and a hero whose greatest power is the willingness to listen. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
+    "A 146,000-word literary fantasy debut featuring a magic system rooted in memory and sacrifice, a villain whose monstrousness is fully human, and a hero whose greatest power is the willingness to listen. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
   name: "Editorial Review",
 };
 

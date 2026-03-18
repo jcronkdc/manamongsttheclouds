@@ -66,8 +66,8 @@ export default function Hero() {
         >
           <span className="h-px w-8 bg-[#c9a84c]/30" />
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/60">
-            153,000 words &bull; Nine years in the making &bull; Part I
-            available now
+            146,000 words &bull; Nine years in the making &bull; Available now
+            on Kindle
           </p>
           <span className="h-px w-8 bg-[#c9a84c]/30" />
         </div>
@@ -78,8 +78,14 @@ export default function Hero() {
           style={{ animationDelay: "2.5s", animationFillMode: "forwards" }}
         >
           <a
-            href="https://stillfirepress.com/read/matc"
+            href="https://www.amazon.com/dp/B0GSXVL4HB"
             className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)] w-full sm:w-auto text-center"
+          >
+            Get it on Kindle
+          </a>
+          <a
+            href="https://stillfirepress.com/read/matc"
+            className="group relative px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300 w-full sm:w-auto text-center"
           >
             Read Part One Free
           </a>

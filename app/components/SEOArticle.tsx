@@ -18,10 +18,8 @@ export default function SEOArticle() {
 
         <div className="font-[family-name:var(--font-serif)] text-sm sm:text-base leading-[1.9] text-[#999] space-y-5">
           <p>
-            <strong className="text-[#c4beb4]">
-              Man Amongst the Clouds
-            </strong>{" "}
-            is a 153,000-word epic literary fantasy novel by{" "}
+            <strong className="text-[#c4beb4]">Man Amongst the Clouds</strong>{" "}
+            is a 146,000-word epic literary fantasy novel by{" "}
             <span itemProp="author">Justin Cronk</span>, published by Stillfire
             Press in 2026. It is one of the most ambitious fantasy debuts of the
             year &mdash; a novel nine years in the making, featuring a
@@ -30,12 +28,12 @@ export default function SEOArticle() {
           </p>
           <p>
             The novel follows Aelo, a boy raised on silence who discovers he can
-            hear the world sing, and his guardian Jalo, whose every lie is an act
-            of love. They are pursued by The Knife, an assassin who carries a
-            wooden box of five beautiful objects as the only proof he was ever a
-            person, sent by King Varas &mdash; a ruler born deaf to the Song who
-            has spent seventy years draining others&rsquo; memories to fill his
-            silence.
+            hear the world sing, and his guardian Jalo, whose every lie is an
+            act of love. They are pursued by The Knife, an assassin who carries
+            a wooden box of five beautiful objects as the only proof he was ever
+            a person, sent by King Varas &mdash; a ruler born deaf to the Song
+            who has spent seventy years draining others&rsquo; memories to fill
+            his silence.
           </p>
           <p>
             For readers searching for{" "}
@@ -43,9 +41,7 @@ export default function SEOArticle() {
               the best new fantasy books of 2026
             </strong>
             , the{" "}
-            <strong className="text-[#c4beb4]">
-              best epic fantasy novels
-            </strong>
+            <strong className="text-[#c4beb4]">best epic fantasy novels</strong>
             , or{" "}
             <strong className="text-[#c4beb4]">
               books like The Name of the Wind
@@ -54,9 +50,8 @@ export default function SEOArticle() {
             <strong className="text-[#c4beb4]">
               Assassin&rsquo;s Apprentice
             </strong>{" "}
-            by Robin Hobb,{" "}
-            <strong className="text-[#c4beb4]">Tigana</strong> by Guy Gavriel
-            Kay, or{" "}
+            by Robin Hobb, <strong className="text-[#c4beb4]">Tigana</strong> by
+            Guy Gavriel Kay, or{" "}
             <strong className="text-[#c4beb4]">A Wizard of Earthsea</strong> by
             Ursula K. Le Guin &mdash; Man Amongst the Clouds was written for
             you.
@@ -73,11 +68,11 @@ export default function SEOArticle() {
             costs everything.
           </p>
           <p>
-            The novel is published in five serialized parts: Part&nbsp;I: The
-            Still Water (available now &mdash; free to read online), Part&nbsp;II:
-            The Waking, Part&nbsp;III: The Breaking, Part&nbsp;IV: The Chamber,
-            and Part&nbsp;V: The Remembering. The complete novel spans 48
-            chapters with a prologue and epilogue.
+            The novel is structured in five parts: Part&nbsp;I: The Still Water,
+            Part&nbsp;II: The Waking, Part&nbsp;III: The Burning, Part&nbsp;IV:
+            The Song, and Part&nbsp;V: The Morning. The complete novel spans 48
+            chapters with a prologue and epilogue. Available now on Amazon
+            Kindle, with paperback and hardcover editions coming soon.
           </p>
           <p>
             Man Amongst the Clouds is{" "}
@@ -85,18 +80,18 @@ export default function SEOArticle() {
               epic fantasy in scope, literary fiction in voice
             </strong>
             . It features world-altering stakes, seven distinct regions, a fully
-            realized magic system, and a quest structure &mdash; but the emotional
-            engine is the intimate relationship between a guardian and the boy he
-            raised. The climax is a man fighting a castle with a staff so his son
-            can walk through a door.
+            realized magic system, and a quest structure &mdash; but the
+            emotional engine is the intimate relationship between a guardian and
+            the boy he raised. The climax is a man fighting a castle with a
+            staff so his son can walk through a door.
           </p>
           <p>
-            The manuscript is blockchain-verified on the Polygon network as proof
-            of human authorship. Every word is Justin Cronk&rsquo;s. The magic
-            system draws from Traditional Chinese Medicine&rsquo;s Five Element
-            Theory, alchemical spagyrics, herbalism, and nine years of obsessive
-            research. Published by Stillfire Press &mdash; an indie press where
-            97% of every sale goes directly to the author.
+            The manuscript is blockchain-verified on the Polygon network as
+            proof of human authorship. Every word is Justin Cronk&rsquo;s. The
+            magic system draws from Traditional Chinese Medicine&rsquo;s Five
+            Element Theory, alchemical spagyrics, herbalism, and nine years of
+            obsessive research. Published by Stillfire Press &mdash; an indie
+            press where 97% of every sale goes directly to the author.
           </p>
         </div>
 

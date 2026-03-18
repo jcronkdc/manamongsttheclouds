@@ -31,7 +31,7 @@ export default function ProofSection() {
               3cc70e0d02bba340d2e24cb391bbd9680d458c173d9aad33916e9b19b25ea9f7
             </p>
             <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] mt-4">
-              50 files &bull; 153,000 words &bull; Recorded on Polygon
+              50 files &bull; 146,000 words &bull; Recorded on Polygon
             </p>
             <a
               href="https://polygonscan.com/tx/0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a"

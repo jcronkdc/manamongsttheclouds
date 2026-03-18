@@ -4,7 +4,7 @@ import Link from "next/link";
 const title =
   "Justin Cronk — Author of Man Amongst the Clouds | Stillfire Press";
 const description =
-  "Justin Cronk is the author of Man Amongst the Clouds, a 153,000-word literary fantasy debut nine years in the making. A first-time novelist, military veteran, and co-founder of Stillfire Press — an independent publishing house he built with his son, Carter Cronk. The novel was inspired by palaces in Baghdad, northern lights in Nunavut, and a magic system rooted in memory.";
+  "Justin Cronk is the author of Man Amongst the Clouds, a 146,000-word literary fantasy debut nine years in the making. A first-time novelist, military veteran, and co-founder of Stillfire Press — an independent publishing house he built with his son, Carter Cronk. The novel was inspired by palaces in Baghdad, northern lights in Nunavut, and a magic system rooted in memory.";
 const url = "https://www.manamongsttheclouds.com/about-the-author";
 
 export const metadata: Metadata = {
@@ -119,10 +119,10 @@ export default function AboutTheAuthorPage() {
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             <strong className="text-[#d4d0c8]">Justin Cronk</strong> is an
             American author and military veteran, best known as the author of{" "}
-            <em>Man Amongst the Clouds</em>, a 153,000-word literary fantasy
-            novel published by Stillfire Press in 2026. He co-founded Stillfire
-            Press with his son Carter Cronk, who is writing the dark fantasy
-            novel <em>Ash to Fury</em>. Cronk spent nine years writing{" "}
+            <em>Man Amongst the Clouds</em>, a 146,000-word literary fantasy
+            novel published by Stillfire Press in March 2026. He co-founded
+            Stillfire Press with his son Carter Cronk, who is writing the dark
+            fantasy novel <em>Ash to Fury</em>. Cronk spent nine years writing{" "}
             <em>Man Amongst the Clouds</em>, developing a magic system based on
             memory that draws from Traditional Chinese Medicine, alchemical
             spagyrics, and herbalism. His life experiences &mdash; including
@@ -231,10 +231,13 @@ export default function AboutTheAuthorPage() {
               >
                 <em>Ash to Fury</em>
               </a>
-              . Watching his dedication, his discipline, the quiet fire he
-              brought to every chapter reminded Justin of what it felt like to
-              believe a story was worth finishing. Carter&rsquo;s book gave him
-              back his own.
+              , a dark fantasy about a disciplined man unmade by the very
+              obedience he believed was strength. Watching his dedication, his
+              discipline, the quiet fire he brought to every chapter reminded
+              Justin of what it felt like to believe a story was worth
+              finishing. Carter&rsquo;s book gave him back his own.{" "}
+              <em>Ash to Fury</em> is currently in progress, with a 2027 release
+              through Stillfire Press.
             </p>
             <p>
               Together they co-founded{" "}
@@ -298,7 +301,7 @@ export default function AboutTheAuthorPage() {
               Press. He has worked in uranium exploration, remote Arctic camps,
               and men&rsquo;s retreat facilitation.{" "}
               <em>Man Amongst the Clouds</em> is his debut novel &mdash; a
-              153,000-word literary fantasy nine years in the making, rooted in
+              146,000-word literary fantasy nine years in the making, rooted in
               real research, real places, and a single question:{" "}
               <em>What if magic was memory?</em>
             </p>
@@ -309,10 +312,10 @@ export default function AboutTheAuthorPage() {
         <section className="max-w-lg mx-auto px-5 sm:px-6 pb-20 text-center">
           <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-10" />
           <a
-            href="https://stillfirepress.com/read/matc"
+            href="https://www.amazon.com/dp/B0GSXVL4HB"
             className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
           >
-            Read Part One Free
+            Get it on Kindle
           </a>
           <div className="mt-8 flex justify-center gap-6">
             <Link

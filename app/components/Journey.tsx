@@ -62,13 +62,14 @@ export default function Journey() {
             >
               <em>Ash to Fury</em>
             </a>
-            . Watching him write it &mdash; watching his dedication, his
-            discipline, the quiet fire he brought to every chapter &mdash;
-            reminded me of what it felt like to believe a story was worth
-            finishing. His commitment was so sincere, so total, that it shamed
-            the part of me that had given up. If my son could build a world from
-            nothing with that kind of devotion, I had no right to let mine rot
-            in a drawer.
+            , a dark fantasy about a disciplined man unmade by the very
+            obedience he believed was strength. Watching him write it &mdash;
+            watching his dedication, his discipline, the quiet fire he brought
+            to every chapter &mdash; reminded me of what it felt like to believe
+            a story was worth finishing. His commitment was so sincere, so
+            total, that it shamed the part of me that had given up. If my son
+            could build a world from nothing with that kind of devotion, I had
+            no right to let mine rot in a drawer.
           </p>
           <p>
             Carter&rsquo;s book gave me back my own. I owe him that. This novel

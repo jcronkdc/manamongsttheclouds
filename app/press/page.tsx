@@ -4,7 +4,7 @@ import Link from "next/link";
 const title =
   "Press Kit — Man Amongst the Clouds by Justin Cronk | Stillfire Press";
 const description =
-  "Press kit for Man Amongst the Clouds, a 153,000-word literary fantasy debut by Justin Cronk. Published by Stillfire Press in 2026. Magic is memory. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Includes book details, author bio, comparable titles, and media-ready descriptions.";
+  "Press kit for Man Amongst the Clouds, a 146,000-word literary fantasy debut by Justin Cronk. Published by Stillfire Press on March 17, 2026. Available now on Amazon Kindle. Magic is memory. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Includes book details, author bio, comparable titles, and media-ready descriptions.";
 const url = "https://www.manamongsttheclouds.com/press";
 
 export const metadata: Metadata = {
@@ -59,14 +59,14 @@ const bookJsonLd = {
   },
   bookFormat: "EBook",
   bookEdition: "First Edition",
-  numberOfPages: 480,
-  wordCount: 153000,
+  numberOfPages: 463,
+  wordCount: 146007,
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
   description:
-    "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 153,000-word literary fantasy debut nine years in the making.",
+    "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 146,000-word literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
   url: "https://www.manamongsttheclouds.com",
-  datePublished: "2026",
+  datePublished: "2026-03-17",
   copyrightYear: 2026,
   typicalAgeRange: "16+",
   audience: {
@@ -82,10 +82,8 @@ const bookJsonLd = {
   },
   offers: {
     "@type": "Offer",
-    price: "2.99",
-    priceCurrency: "USD",
     availability: "https://schema.org/InStock",
-    url: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
+    url: "https://www.amazon.com/dp/B0GSXVL4HB",
   },
   about: [
     { "@type": "Thing", name: "Memory" },
@@ -217,8 +215,8 @@ export default function PressPage() {
             by Justin Cronk
           </p>
           <p className="font-[family-name:var(--font-serif)] text-base text-[#d4d0c8] max-w-xl mx-auto leading-relaxed">
-            A literary fantasy debut. 153,000 words. Published by Stillfire
-            Press, 2026.
+            A literary fantasy debut. 146,000 words. Published by Stillfire
+            Press, March 2026. Available now on Kindle.
           </p>
         </header>
 
@@ -234,12 +232,14 @@ export default function PressPage() {
               { label: "Title", value: "Man Amongst the Clouds" },
               { label: "Author", value: "Justin Cronk" },
               { label: "Publisher", value: "Stillfire Press" },
-              { label: "Word Count", value: "153,000 words" },
+              { label: "Word Count", value: "146,000 words" },
               { label: "Genre", value: "Literary Fantasy / Epic Fantasy" },
-              { label: "Format", value: "eBook (serialized in five parts)" },
-              { label: "Part I Price", value: "$2.99 USD" },
+              {
+                label: "Format",
+                value: "Kindle eBook (paperback & hardcover coming soon)",
+              },
               { label: "Age Range", value: "16+" },
-              { label: "Published", value: "2026" },
+              { label: "Published", value: "March 17, 2026" },
               {
                 label: "Verification",
                 value: "Blockchain-verified on Polygon",
@@ -279,7 +279,7 @@ export default function PressPage() {
                 Short Description
               </p>
               <p className="font-[family-name:var(--font-serif)] text-base text-[#d4d0c8] leading-relaxed">
-                Man Amongst the Clouds is a 153,000-word literary fantasy debut
+                Man Amongst the Clouds is a 146,000-word literary fantasy debut
                 where magic is memory and every act of power costs a piece of
                 who you are. A boy raised on silence discovers he can hear the
                 world sing. A king sits on an obsidian throne, draining memories
@@ -298,14 +298,14 @@ export default function PressPage() {
                 <p>
                   For fifteen years, Aelo has lived in silence &mdash; raised by
                   a scarred old man in a village too small to have a name, fed
-                  herbs every morning that suppress a power he doesn&rsquo;t know
-                  he carries. He has never heard the world sing.
+                  herbs every morning that suppress a power he doesn&rsquo;t
+                  know he carries. He has never heard the world sing.
                 </p>
                 <p>
-                  When the herbs fail and the silence breaks, Aelo discovers that
-                  magic is not a force to be wielded &mdash; it is a
-                  conversation with the world&rsquo;s memory. And he can hear all
-                  of it.
+                  When the herbs fail and the silence breaks, Aelo discovers
+                  that magic is not a force to be wielded &mdash; it is a
+                  conversation with the world&rsquo;s memory. And he can hear
+                  all of it.
                 </p>
                 <p>
                   But a king sits on an obsidian throne at the center of a dead
@@ -317,9 +317,9 @@ export default function PressPage() {
                 <p>
                   Now Varas has sent his most lethal weapon &mdash; a man known
                   only as The Knife, who carries a wooden box of five beautiful
-                  objects and checks them every night because the checking is the
-                  only act that proves he is still a person &mdash; to find the
-                  boy who made a stone sing.
+                  objects and checks them every night because the checking is
+                  the only act that proves he is still a person &mdash; to find
+                  the boy who made a stone sing.
                 </p>
               </div>
             </div>
@@ -431,10 +431,10 @@ export default function PressPage() {
               Press. He has worked in uranium exploration, remote Arctic camps,
               and men&rsquo;s retreat facilitation. He walked through palaces in
               Baghdad, found arrowhead chip piles in the Utah desert, and
-              watched an Inuit man whistle the northern lights closer in Nunavut.{" "}
-              <em>Man Amongst the Clouds</em> is his debut novel &mdash; a
-              153,000-word literary fantasy nine years in the making, rooted in
-              real research, real places, and a single question:{" "}
+              watched an Inuit man whistle the northern lights closer in
+              Nunavut. <em>Man Amongst the Clouds</em> is his debut novel
+              &mdash; a 146,000-word literary fantasy nine years in the making,
+              rooted in real research, real places, and a single question:{" "}
               <em>What if magic was memory?</em>
             </p>
           </div>
@@ -451,7 +451,16 @@ export default function PressPage() {
               Cronk and his son Carter Cronk. The name comes from their two
               novels: <em>Still</em> from <em>The Still Water</em> (Part I of{" "}
               <em>Man Amongst the Clouds</em>) and <em>Fire</em> from{" "}
-              <em>Ash to Fury</em>.
+              <a
+                href="https://ashtofury.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#c9a84c] hover:text-[#e8c85a] transition-colors underline underline-offset-4 decoration-[#c9a84c]/30 hover:decoration-[#c9a84c]"
+              >
+                <em>Ash to Fury</em>
+              </a>
+              , Carter&rsquo;s dark fantasy debut &mdash; currently in progress
+              with a 2027 release.
             </p>
             <p>
               Every Stillfire Press manuscript is cryptographically hashed and
@@ -503,12 +512,12 @@ export default function PressPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {[
               {
-                label: "Read Part One Free",
-                href: "https://stillfirepress.com/read/matc",
+                label: "Buy on Amazon Kindle",
+                href: "https://www.amazon.com/dp/B0GSXVL4HB",
               },
               {
-                label: "Buy Part I ($2.99)",
-                href: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
+                label: "Read Part One Free",
+                href: "https://stillfirepress.com/read/matc",
               },
               {
                 label: "Official Book Site",

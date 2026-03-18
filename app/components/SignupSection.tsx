@@ -96,30 +96,18 @@ export default function SignupSection() {
 
             <div className="mt-10 pt-8 border-t border-[#222] space-y-6">
               <div>
-                <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.3em] uppercase text-[#c9a84c]/60 mb-2">
-                  Founder&rsquo;s Edition &mdash; $39.99
-                </p>
                 <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] mb-3">
-                  All 5 parts digitally + a signed physical copy. Full refund
-                  anytime.
+                  The full novel is available now on Amazon Kindle.
                 </p>
                 <a
-                  href="/api/founders-edition"
+                  href="https://www.amazon.com/dp/B0GSXVL4HB"
                   className="inline-block w-full sm:w-auto px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.2)] text-center"
                 >
-                  Become a Founder
+                  Get it on Kindle
                 </a>
-              </div>
-              <div>
-                <p className="font-[family-name:var(--font-serif)] text-sm text-[#888] mb-3">
-                  Or just lock in Part II:
+                <p className="font-[family-name:var(--font-serif)] text-xs text-[#888] mt-3">
+                  Paperback &amp; hardcover coming soon
                 </p>
-                <a
-                  href="/api/preorder"
-                  className="inline-block w-full sm:w-auto px-8 py-3 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300 text-center"
-                >
-                  Pre-Order Part II &mdash; $2.99
-                </a>
               </div>
             </div>
           </>

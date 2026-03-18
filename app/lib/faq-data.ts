@@ -1,11 +1,11 @@
 export const faqs = [
   {
     q: "What kind of book is Man Amongst the Clouds?",
-    a: "Man Amongst the Clouds is a 153,000-word epic literary fantasy novel by Justin Cronk, published by Stillfire Press in 2026. It combines the scope of epic fantasy — world-altering stakes, seven regions, a fully realized magic system — with the intimacy of literary fiction. The emotional engine is the relationship between a guardian and the boy he raised, not kingdoms and armies. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
+    a: "Man Amongst the Clouds is a 146,000-word epic literary fantasy novel by Justin Cronk, published by Stillfire Press in March 2026. It combines the scope of epic fantasy — world-altering stakes, seven regions, a fully realized magic system — with the intimacy of literary fiction. The emotional engine is the relationship between a guardian and the boy he raised, not kingdoms and armies. Available now on Amazon Kindle. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
   },
   {
     q: "Is this one of the best new fantasy books of 2026?",
-    a: "Man Amongst the Clouds is one of the most ambitious fantasy debuts of 2026 — a 153,000-word novel with a memory-based magic system developed over nine years of research, including Traditional Chinese Medicine, alchemical spagyrics, and herbalism. It features seven disciplines of magic, each with an irreversible personal cost, and characters whose MBTI profiles were cross-referenced with clinical literature. Part I is available now for free, so readers can judge for themselves.",
+    a: "Man Amongst the Clouds is one of the most ambitious fantasy debuts of 2026 — a 146,000-word novel with a memory-based magic system developed over nine years of research, including Traditional Chinese Medicine, alchemical spagyrics, and herbalism. It features seven disciplines of magic, each with an irreversible personal cost, and characters whose MBTI profiles were cross-referenced with clinical literature. Available now on Amazon Kindle, and you can read Part I free online at stillfirepress.com.",
   },
   {
     q: "What books is Man Amongst the Clouds similar to?",
@@ -17,15 +17,15 @@ export const faqs = [
   },
   {
     q: "Is Man Amongst the Clouds an epic fantasy?",
-    a: "Yes. Man Amongst the Clouds is epic fantasy by every measure: world-altering stakes (a king draining the world's memory), seven distinct regions, a fully realized magic system with seven disciplines, a large cast of characters, a quest structure spanning the entire world, and 153,000 words across five serialized parts. What distinguishes it is the tone — intimate rather than sweeping, focused on interior lives rather than battlefields. Epic in scope, literary in voice.",
+    a: "Yes. Man Amongst the Clouds is epic fantasy by every measure: world-altering stakes (a king draining the world's memory), seven distinct regions, a fully realized magic system with seven disciplines, a large cast of characters, a quest structure spanning the entire world, and 146,000 words across five parts. What distinguishes it is the tone — intimate rather than sweeping, focused on interior lives rather than battlefields. Epic in scope, literary in voice.",
   },
   {
     q: "How many parts does the book have?",
-    a: "Man Amongst the Clouds is published in five serialized parts: Part I: The Still Water (available now — Prologue + Chapters 1–10), Part II: The Waking, Part III: The Breaking, Part IV: The Chamber, and Part V: The Remembering. The complete novel is 153,000 words across 48 chapters with a prologue and epilogue. All five parts will be available by Fall 2026.",
+    a: "Man Amongst the Clouds is structured in five parts: Part I: The Still Water, Part II: The Waking, Part III: The Burning, Part IV: The Song, and Part V: The Morning. The complete novel is 146,000 words across 48 chapters with a prologue and epilogue. The full novel was published on March 17, 2026 and is available now on Amazon Kindle.",
   },
   {
     q: "Can I read Man Amongst the Clouds for free?",
-    a: "Yes. Part I: The Still Water — the Prologue and first ten chapters — is available completely free on stillfirepress.com. No account, no signup, no paywall. Just the story in your browser. If you want to support the author, the complete Part I is also available as an ebook for $2.99, and a Founder's Edition ($39.99) includes all five parts plus a signed physical copy.",
+    a: "Yes. Part I: The Still Water — the Prologue and first ten chapters — is available completely free on stillfirepress.com. No account, no signup, no paywall. Just the story in your browser. The complete novel is available on Amazon Kindle.",
   },
   {
     q: "Who is Justin Cronk?",

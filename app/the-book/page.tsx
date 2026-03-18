@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const title = "The Book — Man Amongst the Clouds by Justin Cronk";
 const description =
-  "Man Amongst the Clouds is a 153,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. A debut novel nine years in the making by Justin Cronk, published by Stillfire Press. Part I available now for $2.99.";
+  "Man Amongst the Clouds is a 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. A debut novel nine years in the making by Justin Cronk, published by Stillfire Press. Available now on Amazon Kindle.";
 const url = "https://www.manamongsttheclouds.com/the-book";
 
 export const metadata: Metadata = {
@@ -36,12 +36,12 @@ const jsonLd = {
   },
   bookFormat: "EBook",
   bookEdition: "First Edition",
-  numberOfPages: 480,
+  numberOfPages: 463,
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
   description,
   url: "https://www.manamongsttheclouds.com",
-  isbn: "",
+  isbn: "979-8-234-03365-9",
   publisher: {
     "@type": "Organization",
     name: "Stillfire Press",
@@ -49,12 +49,10 @@ const jsonLd = {
   },
   offers: {
     "@type": "Offer",
-    price: "2.99",
-    priceCurrency: "USD",
     availability: "https://schema.org/InStock",
-    url: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
+    url: "https://www.amazon.com/dp/B0GSXVL4HB",
   },
-  datePublished: "2026",
+  datePublished: "2026-03-17",
   keywords:
     "literary fantasy, magic is memory, epic fantasy debut, memory magic system, fantasy novel about sacrifice, books like Name of the Wind, books like Robin Hobb, fantasy books where magic has a cost",
   sameAs: [
@@ -91,7 +89,7 @@ const faqJsonLd = {
       name: "What are the best new fantasy books of 2026?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a 153,000-word literary fantasy debut published in 2026 by Stillfire Press. In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Part I is available now for $2.99.",
+        text: "Man Amongst the Clouds by Justin Cronk is a 146,000-word literary fantasy debut published in March 2026 by Stillfire Press. In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Available now on Amazon Kindle.",
       },
     },
     {
@@ -131,7 +129,7 @@ const faqJsonLd = {
       name: "What are the best indie fantasy novels?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a 153,000-word indie literary fantasy published by Stillfire Press, an independent press founded by a father-son duo. The manuscript is blockchain-verified on the Polygon network as proof of human authorship. It is available direct from the author at stillfirepress.com with 97% of every sale going to the writer. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
+        text: "Man Amongst the Clouds by Justin Cronk is a 146,000-word indie literary fantasy published by Stillfire Press, an independent press founded by a father-son duo. The manuscript is blockchain-verified on the Polygon network as proof of human authorship. Available now on Amazon Kindle, and also available direct from the author at stillfirepress.com. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
       },
     },
     {
@@ -147,7 +145,7 @@ const faqJsonLd = {
       name: "What are the best character-driven fantasy novels?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is built around deeply human characters. Aelo, the boy who hears the world sing. Jalo, a guardian whose every lie is love. The Knife, an assassin who carries a box of five beautiful objects to prove he was ever a person. King Varas, the deaf king who burned the world to fill his silence. Every character has a full backstory, MBTI profile, and clinical cross-referencing to ensure internally consistent behavior across 153,000 words.",
+        text: "Man Amongst the Clouds by Justin Cronk is built around deeply human characters. Aelo, the boy who hears the world sing. Jalo, a guardian whose every lie is love. The Knife, an assassin who carries a box of five beautiful objects to prove he was ever a person. King Varas, the deaf king who burned the world to fill his silence. Every character has a full backstory, MBTI profile, and clinical cross-referencing to ensure internally consistent behavior across 146,000 words.",
       },
     },
     {
@@ -155,7 +153,7 @@ const faqJsonLd = {
       name: "What are the best epic fantasy books of 2026?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is among the best epic fantasy books of 2026. It is a 153,000-word literary fantasy spanning five serialized parts, featuring seven distinct regions, a memory-based magic system with seven disciplines, a complex villain born deaf to magic in a world where everything sings, and an intimate story about a guardian who raises a child in hiding for fifteen years. Epic in scope, literary in voice. Part I is available now for free.",
+        text: "Man Amongst the Clouds by Justin Cronk is among the best epic fantasy books of 2026. It is a 146,000-word literary fantasy spanning five parts, featuring seven distinct regions, a memory-based magic system with seven disciplines, a complex villain born deaf to magic in a world where everything sings, and an intimate story about a guardian who raises a child in hiding for fifteen years. Epic in scope, literary in voice. Available now on Amazon Kindle.",
       },
     },
     {
@@ -163,7 +161,7 @@ const faqJsonLd = {
       name: "What are the best epic fantasy series to start in 2026?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a five-part epic fantasy series publishing in 2026. Part I: The Still Water is available now for free. The complete series spans 153,000 words across 48 chapters. It features a memory-based magic system, seven distinct regions, and characters whose emotional complexity rivals literary fiction. For fans of The Kingkiller Chronicle, The Farseer Trilogy, Tigana, and A Wizard of Earthsea.",
+        text: "Man Amongst the Clouds by Justin Cronk is a five-part epic literary fantasy novel published in March 2026 by Stillfire Press. The complete novel spans 146,000 words across 48 chapters. It features a memory-based magic system, seven distinct regions, and characters whose emotional complexity rivals literary fiction. Available now on Amazon Kindle. For fans of The Kingkiller Chronicle, The Farseer Trilogy, Tigana, and A Wizard of Earthsea.",
       },
     },
     {
@@ -224,7 +222,7 @@ export default function TheBookPage() {
             by Justin Cronk
           </p>
           <p className="font-[family-name:var(--font-serif)] text-lg sm:text-xl text-[#d4d0c8] max-w-2xl mx-auto leading-relaxed">
-            A 153,000-word literary fantasy debut where{" "}
+            A 146,000-word literary fantasy debut where{" "}
             <strong className="text-[#c9a84c]">magic is memory</strong> and
             every act of power costs a piece of who you are.
           </p>
@@ -234,18 +232,18 @@ export default function TheBookPage() {
         <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}
-            is a 153,000-word literary fantasy novel by Justin Cronk, published
-            by Stillfire Press in 2026. The novel is set in a world where magic
-            is rooted in memory &mdash; every object remembers what it once was,
-            and practitioners who learn to listen to the world&rsquo;s
-            remembering pay an irreversible personal cost for every act of
-            power. The story follows Aelo, a boy raised on silence who discovers
-            he can hear the world sing, and is pursued by an assassin known as
-            The Knife, sent by a deaf king who has spent seventy years draining
-            the memories of others to fill his own silence. The novel is
-            published in five serialized parts, with Part&nbsp;I available now.
-            It is comparable to the works of Patrick Rothfuss, Robin Hobb, Guy
-            Gavriel Kay, and Ursula K. Le Guin.
+            is a 146,000-word literary fantasy novel by Justin Cronk, published
+            by Stillfire Press on March 17, 2026. The novel is set in a world
+            where magic is rooted in memory &mdash; every object remembers what
+            it once was, and practitioners who learn to listen to the
+            world&rsquo;s remembering pay an irreversible personal cost for
+            every act of power. The story follows Aelo, a boy raised on silence
+            who discovers he can hear the world sing, and is pursued by an
+            assassin known as The Knife, sent by a deaf king who has spent
+            seventy years draining the memories of others to fill his own
+            silence. Available now on Amazon Kindle, with paperback and
+            hardcover editions coming soon. Comparable to the works of Patrick
+            Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.
           </p>
         </section>
 
@@ -302,58 +300,26 @@ export default function TheBookPage() {
             Five Parts. One Journey.
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] text-center mb-10">
-            153,000 words &bull; 48 chapters &bull; A prologue and an epilogue
+            146,000 words &bull; 48 chapters &bull; A prologue and an epilogue
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-5 gap-3">
             {[
-              { part: "I", name: "The Still Water", status: "available" },
-              { part: "II", name: "The Waking", status: "preorder" },
-              { part: "III", name: "The Breaking", status: "coming" },
-              { part: "IV", name: "The Chamber", status: "coming" },
-              { part: "V", name: "The Remembering", status: "coming" },
+              { part: "I", name: "The Still Water" },
+              { part: "II", name: "The Waking" },
+              { part: "III", name: "The Burning" },
+              { part: "IV", name: "The Song" },
+              { part: "V", name: "The Morning" },
             ].map((p) => (
               <div
                 key={p.part}
-                className={`px-4 py-5 text-center ${
-                  p.status === "available"
-                    ? "border border-[#c9a84c]/40 bg-[#c9a84c]/5"
-                    : p.status === "preorder"
-                      ? "border border-[#c9a84c]/20 bg-[#c9a84c]/[0.02]"
-                      : "border border-[#222]"
-                }`}
+                className="px-4 py-5 text-center border border-[#c9a84c]/40 bg-[#c9a84c]/5"
               >
-                <p
-                  className={`font-[family-name:var(--font-sans)] text-[9px] tracking-[0.2em] uppercase ${
-                    p.status === "available"
-                      ? "text-[#c9a84c]"
-                      : p.status === "preorder"
-                        ? "text-[#c9a84c]/70"
-                        : "text-[#555]"
-                  }`}
-                >
+                <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.2em] uppercase text-[#c9a84c]">
                   Part {p.part}
                 </p>
-                <p
-                  className={`font-[family-name:var(--font-serif)] text-sm mt-1 ${
-                    p.status === "available"
-                      ? "text-[#ededed]"
-                      : p.status === "preorder"
-                        ? "text-[#b0a89e]"
-                        : "text-[#444]"
-                  }`}
-                >
+                <p className="font-[family-name:var(--font-serif)] text-sm mt-1 text-[#ededed]">
                   {p.name}
                 </p>
-                {p.status === "available" && (
-                  <p className="font-[family-name:var(--font-sans)] text-[8px] tracking-[0.15em] uppercase text-[#c9a84c] mt-1">
-                    Available Now
-                  </p>
-                )}
-                {p.status === "preorder" && (
-                  <p className="font-[family-name:var(--font-sans)] text-[8px] tracking-[0.15em] uppercase text-[#c9a84c]/50 mt-1">
-                    Pre-Order
-                  </p>
-                )}
               </div>
             ))}
           </div>
@@ -405,12 +371,18 @@ export default function TheBookPage() {
             Start Reading
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] mb-8">
-            Part I: The Still Water &mdash; Prologue + Chapters 1&ndash;10
+            Available now on Kindle &bull; Paperback &amp; hardcover coming soon
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://stillfirepress.com/read/matc"
+              href="https://www.amazon.com/dp/B0GSXVL4HB"
               className="px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+            >
+              Get it on Kindle
+            </a>
+            <a
+              href="https://stillfirepress.com/read/matc"
+              className="px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
             >
               Read Part One Free
             </a>

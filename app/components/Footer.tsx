@@ -39,7 +39,10 @@ export default function Footer() {
                 { href: "/short-stories", label: "Short Stories" },
                 { href: "/about-the-author", label: "The Author" },
                 { href: "#excerpt", label: "Read an Excerpt" },
-                { href: "#read", label: "Buy Part I" },
+                {
+                  href: "https://www.amazon.com/dp/B0GSXVL4HB",
+                  label: "Buy on Kindle",
+                },
               ].map((l) => (
                 <a
                   key={l.href}

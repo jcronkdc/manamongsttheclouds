@@ -56,11 +56,11 @@ export default function Synopsis() {
 
         <div className="mt-12 text-center">
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#8a8a8a] mb-1">
-            153,000 words &bull; Five parts &bull; 48 chapters &bull; A prologue
+            146,000 words &bull; Five parts &bull; 48 chapters &bull; A prologue
             and an epilogue
           </p>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#c9a84c]/70 italic">
-            Part I: The Still Water &mdash; available now
+            Available now on Kindle &bull; Paperback &amp; hardcover coming soon
           </p>
         </div>
       </div>

@@ -1403,7 +1403,7 @@ export default function BookReader({ chapters }: { chapters: ChapterData[] }) {
               </form>
             )}
 
-            {/* Pre-order + Founder's Edition */}
+            {/* Buy the full novel */}
             <div
               className="mt-8 pt-8"
               style={{ borderTop: "1px solid var(--rt-border)" }}
@@ -1412,65 +1412,23 @@ export default function BookReader({ chapters }: { chapters: ChapterData[] }) {
                 className="font-[family-name:var(--font-serif)] text-sm mb-4"
                 style={{ color: "var(--rt-text-muted)" }}
               >
-                Or lock it in now &mdash; get the EPUB sent to your email on
-                release day:
+                The full novel is available now on Amazon Kindle.
               </p>
               <a
-                href="/api/preorder"
-                className="inline-block px-8 py-3 border text-xs tracking-widest uppercase transition-all duration-300 font-[family-name:var(--font-sans)]"
-                style={{
-                  borderColor: "var(--rt-border-light)",
-                  color: "var(--rt-accent)",
-                }}
-              >
-                Pre-Order Part II &mdash; $2.99
-              </a>
-              <p
-                className="font-[family-name:var(--font-sans)] text-[10px] mt-3"
-                style={{ color: "var(--rt-text-muted)" }}
-              >
-                Secure checkout via Stripe &bull; No account required
-              </p>
-            </div>
-
-            <div
-              className="mt-6 pt-6"
-              style={{ borderTop: "1px solid var(--rt-border)" }}
-            >
-              <p
-                className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.3em] uppercase mb-3"
-                style={{ color: "var(--rt-accent-dim)" }}
-              >
-                Founder&rsquo;s Edition
-              </p>
-              <p
-                className="font-[family-name:var(--font-serif)] text-sm mb-1"
-                style={{ color: "var(--rt-text-heading)" }}
-              >
-                Want the whole thing? All 5 parts digitally + a signed physical
-                copy.
-              </p>
-              <p
-                className="font-[family-name:var(--font-serif)] text-sm mb-4"
-                style={{ color: "var(--rt-text-muted)" }}
-              >
-                Full refund anytime, no questions asked. Targeting August 2026.
-              </p>
-              <a
-                href="/api/founders-edition"
+                href="https://www.amazon.com/dp/B0GSXVL4HB"
                 className="inline-block px-8 py-3 text-xs tracking-widest uppercase transition-all duration-300 font-[family-name:var(--font-sans)]"
                 style={{
                   background: "var(--rt-accent)",
                   color: "var(--rt-bg)",
                 }}
               >
-                Become a Founder &mdash; $39.99
+                Get it on Kindle
               </a>
               <p
                 className="font-[family-name:var(--font-sans)] text-[10px] mt-3"
                 style={{ color: "var(--rt-text-muted)" }}
               >
-                Shipping address collected at checkout
+                Paperback &amp; hardcover coming soon
               </p>
             </div>
           </div>

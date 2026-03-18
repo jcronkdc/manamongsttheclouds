@@ -24,6 +24,7 @@ CHAPTERS = [
     "chapter_31.md",
     "chapter_32.md",
     "chapter_33.md",
+    "chapter_33b.md",
     "chapter_34.md",
 ]
 

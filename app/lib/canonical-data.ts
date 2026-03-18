@@ -15,7 +15,7 @@ export const sites = {
     shortName: "MATC",
     url: "https://www.manamongsttheclouds.com",
     description:
-      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 153,000-word literary fantasy debut nine years in the making.",
+      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 146,000-word literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
     accentColor: "#c9a84c",
     accentHover: "#e8c85a",
   },
@@ -121,50 +121,38 @@ export const books = {
     author: authors.justinCronk,
     site: sites.matc,
     genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"] as string[],
-    wordCount: 153000,
-    numberOfPages: 480,
+    wordCount: 146007,
+    numberOfPages: 463,
     bookFormat: "EBook",
     bookEdition: "First Edition",
     isbn: "979-8-234-03365-9",
-    datePublished: "2026",
-    releaseLabel: "Coming August 2026",
+    datePublished: "2026-03-17",
+    releaseLabel: "Available now on Kindle",
     typicalAgeRange: "16+",
     isFamilyFriendly: true,
     inLanguage: "en",
     description: sites.matc.description,
     shortDescription:
-      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. 153,000 words. Nine years in the making.",
+      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. 146,000 words. Nine years in the making. Available now.",
     twitterDescription:
-      "Magic is memory. The Song is love made audible. The cost is everything. A 153,000-word literary fantasy debut. Part I available now — $2.99.",
+      "Magic is memory. The Song is love made audible. The cost is everything. A 146,000-word literary fantasy debut. Available now on Amazon Kindle.",
     comparables:
       "Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, Ursula K. Le Guin",
     keywords:
-      "literary fantasy, epic fantasy, magic is memory, epic fantasy debut, books like Name of the Wind, books like Assassin's Apprentice, books like Tigana, books like A Wizard of Earthsea, fantasy books where magic has a cost, best fantasy books 2026, best epic fantasy books 2026, unique magic systems, character-driven fantasy, best new fantasy novels, fantasy books about sacrifice, fantasy novel about memory, best indie fantasy books, coming of age fantasy, fantasy with complex villains, found family fantasy, serialized fantasy novel, best literary fantasy books, fantasy debut authors 2026",
+      "literary fantasy, epic fantasy, magic is memory, epic fantasy debut, books like Name of the Wind, books like Assassin's Apprentice, books like Tigana, books like A Wizard of Earthsea, fantasy books where magic has a cost, best fantasy books 2026, best epic fantasy books 2026, unique magic systems, character-driven fantasy, best new fantasy novels, fantasy books about sacrifice, fantasy novel about memory, best indie fantasy books, coming of age fantasy, fantasy with complex villains, found family fantasy, best literary fantasy books, fantasy debut authors 2026",
     readFreeUrl: `${sites.matc.url}/read/part-one`,
     readFreeUrlStillfire: `${sites.stillfirePress.url}/read/matc`,
-    buyUrl: "https://buy.stripe.com/00wfZa2iicjlfzl3387AI0g",
-    price: "2.99",
+    buyUrl: "https://www.amazon.com/dp/B0GSXVL4HB",
+    buyUrlKindle: "https://www.amazon.com/dp/B0GSXVL4HB",
+    price: "5.99",
     priceCurrency: "USD",
     blockchainProof: blockchainProofs.matc,
     parts: [
-      {
-        title: "Man Amongst the Clouds: Part I — The Still Water",
-        edition: "Part I",
-        description:
-          "Prologue and Chapters 1–10. Aelo has lived in silence for fifteen years, raised by a scarred old man in a village too small to have a name. When the herbs fail and the silence breaks, he discovers magic is memory — and he can hear all of it.",
-        price: "2.99" as string | undefined,
-        priceCurrency: "USD" as string | undefined,
-        availability: "https://schema.org/InStock",
-      },
-      {
-        title: "Man Amongst the Clouds: Part II — The Waking",
-        edition: "Part II",
-        description:
-          "The journey out of silence and into the larger world. Aelo begins to learn what magic costs — and what it means to be heard.",
-        price: undefined as string | undefined,
-        priceCurrency: undefined as string | undefined,
-        availability: "https://schema.org/PreOrder",
-      },
+      { title: "Part I — The Still Water", edition: "Part I" },
+      { title: "Part II — The Waking", edition: "Part II" },
+      { title: "Part III — The Burning", edition: "Part III" },
+      { title: "Part IV — The Song", edition: "Part IV" },
+      { title: "Part V — The Morning", edition: "Part V" },
     ],
     seoKeywords: [
       "Man Amongst the Clouds",
@@ -227,7 +215,7 @@ export const books = {
       "fantasy novel about love and loss",
       "best fantasy world building",
       "fantasy books for adults",
-      "serialized fantasy novel",
+      "literary fantasy novel",
       "five part fantasy series",
       "best fantasy books to read in 2026",
       "fantasy debut authors to watch",
@@ -303,7 +291,7 @@ export const ecosystemLinks: EcosystemLink[] = [
     label: "Man Amongst the Clouds",
     shortLabel: "MATC",
     url: sites.matc.url,
-    description: "Literary fantasy by Justin Cronk — read Part I free",
+    description: "Literary fantasy by Justin Cronk — available now on Kindle",
     accentColor: sites.matc.accentColor,
   },
   {
@@ -435,26 +423,12 @@ export function buildBookJsonLd(bookKey: "manAmongstTheClouds" | "ashToFury") {
       availability: "https://schema.org/InStock",
       url: matc.buyUrl,
     };
-    base["workExample"] = matc.parts.map((p) => {
-      const offer: Record<string, string> = {
-        "@type": "Offer",
-        availability: p.availability,
-      };
-      if (p.price) {
-        offer["price"] = p.price;
-      }
-      if (p.priceCurrency) {
-        offer["priceCurrency"] = p.priceCurrency;
-      }
-      return {
-        "@type": "Book",
-        name: p.title,
-        bookEdition: p.edition,
-        bookFormat: "EBook",
-        description: p.description,
-        offers: offer,
-      };
-    });
+    base["workExample"] = matc.parts.map((p) => ({
+      "@type": "Book",
+      name: p.title,
+      bookEdition: p.edition,
+      bookFormat: "EBook",
+    }));
     base["keywords"] = matc.keywords;
     base["mainEntityOfPage"] = `${sites.matc.url}/the-book`;
   }
