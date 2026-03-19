@@ -49,16 +49,6 @@ const seriesJsonLd = {
     "A 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. Five parts, 48 chapters. By Justin Cronk, published by Stillfire Press. Available now on Amazon Kindle.",
   url: "https://www.manamongsttheclouds.com",
   datePublished: "2026-03-17",
-  bookFormat: "EBook",
-  bookEdition: "First Edition",
-  numberOfPages: 463,
-  wordCount: 146007,
-  isbn: "979-8-234-03365-9",
-  offers: {
-    "@type": "Offer",
-    availability: "https://schema.org/InStock",
-    url: "https://www.amazon.com/dp/B0GSSPN6LN",
-  },
 };
 
 const disciplinesListJsonLd = {
@@ -121,26 +111,9 @@ const disciplinesListJsonLd = {
   ],
 };
 
-const reviewJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Review",
-  itemReviewed: {
-    "@type": "Book",
-    name: "Man Amongst the Clouds",
-    author: { "@type": "Person", name: "Justin Cronk" },
-  },
-  author: {
-    "@type": "Organization",
-    name: "Stillfire Press Editorial",
-  },
-  reviewBody:
-    "A 146,000-word literary fantasy debut featuring a magic system rooted in memory and sacrifice, a villain whose monstrousness is fully human, and a hero whose greatest power is the willingness to listen. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
-  name: "Editorial Review",
-};
-
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
+    <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
@@ -154,10 +127,6 @@ export default function Home() {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(disciplinesListJsonLd),
         }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewJsonLd) }}
       />
       <Nav />
       <Hero />
@@ -174,6 +143,6 @@ export default function Home() {
       <SEOArticle />
       <FAQSection />
       <Footer />
-    </main>
+    </div>
   );
 }

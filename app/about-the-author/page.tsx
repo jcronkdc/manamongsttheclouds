@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 
 const title =
   "Justin Cronk — Author of Man Amongst the Clouds | Stillfire Press";
@@ -93,6 +95,7 @@ export default function AboutTheAuthorPage() {
       />
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
+        <Nav />
         {/* Header */}
         <header className="pt-20 pb-12 px-5 sm:px-6 text-center">
           <nav className="mb-8">
@@ -313,6 +316,8 @@ export default function AboutTheAuthorPage() {
           <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-10" />
           <a
             href="https://www.amazon.com/dp/B0GSSPN6LN"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
           >
             Get it on Kindle
@@ -332,6 +337,7 @@ export default function AboutTheAuthorPage() {
             </Link>
           </div>
         </section>
+        <Footer />
       </div>
     </>
   );

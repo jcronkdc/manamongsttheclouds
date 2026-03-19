@@ -79,6 +79,8 @@ export default function Hero() {
         >
           <a
             href="https://www.amazon.com/dp/B0GSSPN6LN"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)] w-full sm:w-auto text-center"
           >
             Get it on Kindle

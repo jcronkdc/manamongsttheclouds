@@ -2,17 +2,15 @@
 
 ## The Report
 
----
-
-The communication stone was the size of a child's fist and the color of a bruise — dark at the center, fading to a sickly yellow at the edges, threaded with Blood Vine so fine it was nearly invisible. The Knife held it in his palm and waited for his father to answer. The stone grew warm. Then warmer. Then hot — not painfully, not yet, but with the insistent, rising heat of something that was deciding whether to burn him, a temperature that communicated displeasure before a single word was spoken.
+The communication stone was the size of a child's fist and the color of a bruise, dark at the center, fading to a sickly yellow at the edges, threaded with Blood Vine so fine it was nearly invisible. It was paired to its twin in his father's hand, two halves of the same stone, split decades ago, each attuned to the blood of the men who carried them. The Knife held it in his palm and waited for his father to answer. The stone grew warm. Then warmer. Then hot, not painfully, not yet, but with the insistent, rising heat of something that was deciding whether to burn him, a temperature that communicated displeasure before a single word was spoken.
 
 His father's voice arrived not through the air but through the bone. The stone conducted it — a vibration that entered through the palm and traveled up the arm and settled in the skull, bypassing the ears entirely, so that the King's words seemed to originate inside The Knife's own head. This was by design. Varas did not communicate. He occupied.
 
 "You are late."
 
-Three words. Flat. The vocal equivalent of a door being closed — not slammed, because slamming implied emotion, and emotion implied investment, and Varas invested in nothing that could not be drained.
+Three words. Flat. The vocal equivalent of a door being closed. Not slammed, because slamming implied emotion, and emotion implied investment, and Varas invested in nothing that could not be drained.
 
-"The boy escaped." The Knife delivered it without inflection. He had learned, through twenty-three years of reporting to a man who treated information the way a spider treats vibration — as data, not conversation — that inflection was interpreted as either weakness or deception, and both were punished identically. "He was at the Knower Ceremony. The Elder Stone responded. A man — old, scarred, presented as a village trapper — used Mold magic to create a barrier and fled with the boy into the deep Canopy."
+"The boy escaped." The Knife delivered it without inflection. He had learned, through twenty-three years of reporting to a man who treated information the way a spider treats vibration, as data, not conversation, that inflection was interpreted as either weakness or deception, and both were punished identically. "He was at the Knower Ceremony. The Elder Stone responded. A man, old, scarred, presented as a village trapper, used Mold magic to create a barrier and fled with the boy into the deep Canopy."
 
 Silence. The stone pulsed in his hand — not the rhythmic pulse of a heartbeat but the irregular, probing pulse of something testing the edges of a container. His father was thinking. When Varas thought, the Blood Vine connecting him to his Elder Stones drew harder, pulling more memory from the collection to fuel the process, and somewhere in the Chamber beneath the castle, a prisoner's eyes dimmed fractionally and a life shortened by the duration of a king's consideration.
 
@@ -82,13 +80,13 @@ Twice in one conversation. His father was not careless with names — not with a
 
 "The stone is still singing because the boy's signature is still in it. That signature will fade. When it does, you will have no trail. You have days. Not weeks." A pause. "Do not disappoint me."
 
-The stone went cold. The connection severed. The Knife stood in the square with the dead stone in his palm and the living stone humming twenty feet away and the space between the two — the distance between what his father wanted and what the stone had made him feel — was a chasm he did not have the vocabulary to name.
+The stone went cold. The connection severed. The Knife stood in the square with the dead stone in his palm and the living stone humming twenty feet away and the space between the two — was a chasm he did not have the vocabulary to name.
 
 ---
 
 Camp was a mile north of the village, in a clearing where the Canopy's edge thinned enough to permit firelight without advertising their position to the entire forest. The hunting party was assembling — Drell managing the logistics with the competent, incurious efficiency that made him useful and unthreatening, which were the same quality in Varas's kingdom.
 
-The Ming tracker arrived at dusk. She came alone, on foot, carrying nothing but a staff of pale wood and a satchel that smelled of wet earth and something older — the mineral scent of deep stone, the air of places that had not been open to the sky in centuries. She was small, dark-haired, her eyes the particular flat black of the Ming — a people who lived underground and whose pupils had, over generations, expanded to fill the iris, leaving no visible white. She moved through the camp without speaking to anyone, selected a position at the perimeter, and sat cross-legged with her palms flat on the ground.
+The Ming tracker arrived at dusk. She came alone, on foot, carrying nothing but a staff of pale wood and a satchel that smelled of wet earth and something older, the mineral scent of deep stone, the air of places that had not been open to the sky in centuries. She was small, dark-haired, her eyes the particular flat black of the Ming, a people who lived underground and whose pupils had, over generations, expanded to fill the iris, leaving no visible white. She moved through the camp without speaking to anyone, selected a position at the perimeter, and sat cross-legged with her palms flat on the ground.
 
 The Knife approached her. "You're from the eastern garrison."
 
@@ -128,33 +126,33 @@ He left her to her work.
 
 His tent was a standard field shelter — canvas over a frame of Canopy wood, large enough for a cot and a chest and nothing else, because The Knife did not require comfort and did not trust it.
 
-He sat on the cot. He removed his coat. He reached inside the lining — the pocket he had sewn himself, years ago, with thread stolen from the castle's laundry because requisitioning thread would have required explaining what the thread was for — and took out the box.
+He sat on the cot. He removed his coat. He reached inside the lining — the pocket he had sewn himself, years ago, with thread stolen from the castle's laundry because requisitioning thread would have required explaining what the thread was for, and took out the box.
 
 The wood was warm from his body heat. It always was. He had carried it against his ribs for four days now — the first time it had left the space beneath his cot, the first time it had traveled with him, and the warmth of it against his side had become a companion he had not expected. The warmth of a thing that was his, pressed close, enduring.
 
 He opened it.
 
-The blue feather. He picked it up first — always first, the order was ritual, and ritual was the only structure that the hollow inside him did not consume. He turned it in his fingers. The barbs caught the candlelight. Blue. The blue that lived on the edge of what blue could be. He held it and reached for the memory.
+The blue feather. He picked it up first. Always first, the order was ritual, and ritual was the only structure that the hollow inside him did not consume. He turned it in his fingers. The barbs caught the candlelight. Blue. The blue that lived on the edge of what blue could be. He held it and reached for the memory.
 
-A bird. The Canopy. He'd been — twelve? Thirteen? The number was fog. The bird had been large, crested, the wings spread against — against something. Light. There had been light, and the wings had caught it, and the blue had been so absolute, so entire, so perfectly and completely itself that he had stopped walking. Had stood in a forest path with soldiers ahead and soldiers behind and watched a bird do nothing more extraordinary than exist, and the existing had been enough. The existing had been the most beautiful thing he had ever seen.
+A bird. The Canopy. He'd been — twelve? Thirteen? The number was fog. The bird had been large, crested, the wings spread against... against something. Light. There had been light, and the wings had caught it, and the blue had been so absolute, so entire, so perfectly and completely itself that he had stopped walking. Had stood in a forest path with soldiers ahead and soldiers behind and watched a bird do nothing more extraordinary than exist, and the existing had been enough. The existing had been the most beautiful thing he had ever seen.
 
-He remembered this. Still. The bird's wings and the light and the stopping. But the edges were softer than last year. The color was less specific. The light was dimmer. And the feeling — the thing he had felt when he stopped, the thing that had no name — was thinner. As if someone had taken a cloth to a painting and wiped, gently, carefully, removing not the image but the vividness, leaving the shape but stealing the life.
+He remembered this. Still. The bird's wings and the light and the stopping. But the edges were softer than last year. The color was less specific. The light was dimmer. And the feeling — the thing he had felt when he stopped, the thing that had no name, was thinner. As if someone had taken a cloth to a painting and wiped, gently, carefully, removing not the image but the vividness, leaving the shape but stealing the life.
 
 He put the feather down. He picked up the river stone.
 
-Smooth. Heavy. It filled his palm the way a palm was meant to be filled — the curve of the stone matching the curve of his hand as if one had been made for the other. Bahar. A river in Bahar. He had been — on a mission. The details were gone. The river remained, and the stone, and the act of bending to pick it up, and the surprising weight of it, and the thought — he remembered the thought clearly, more clearly than the river or the mission or the reason he had been in Bahar at all — the thought: _this fits_.
+Smooth. Heavy. It filled his palm the way a palm was meant to be filled, the curve of the stone matching the curve of his hand as if one had been made for the other. Bahar. A river in Bahar. He had been on a mission. The details were gone. The river remained, and the stone, and the act of bending to pick it up, and the surprising weight of it, and the thought, he remembered the thought clearly, more clearly than the river or the mission or the reason he had been in Bahar at all, the thought: _this fits_.
 
 A stone that fit his hand. In a life where nothing fit. He had carried it ever since.
 
 The sea glass. Green. The green of deep water, of light filtered through fathoms, of a color that existed only when the sun and the sea collaborated on something neither could produce alone. He did not remember where he had found it. He knew that he had known, once. He knew that the knowing had been taken. The sea glass sat in his palm and it was beautiful and it was his and the memory of why was a room with the furniture removed.
 
-The dried flower. Papery petals, still holding a ghost of scent — something sweet, something that tasted like morning when he pressed it close to his face, though the taste was fainter than the last time, and the last time had been fainter than the time before. It had been growing through a crack in a stone floor. A prison floor. He remembered the crack and the stone and the impossibility of a living thing choosing to grow in a place designed to end living things, and he remembered thinking — with the startled clarity of a man encountering an idea for the first time — that beauty did not require permission.
+The dried flower. Papery petals, still holding a ghost of scent, something sweet, something that tasted like morning when he pressed it close to his face, though the taste was fainter than the last time, and the last time had been fainter than the time before. It had been growing through a crack in a stone floor. A prison floor. He remembered the crack and the stone and the impossibility of a living thing choosing to grow in a place designed to end living things, and he remembered thinking, with the startled clarity of a man encountering an idea for the first time, that beauty did not require permission.
 
-The scrap of cloth. Fine-woven. The kind used for infant swaddling, with a stitch pattern he did not recognize — not Canopy, not Core, not Volcano. Cloud work, perhaps, though he had no basis for this thought beyond the texture and the feeling it produced in his chest, which was not the hollow's usual ache but something warmer, something that reached across the gap and almost — _almost_ — touched the other side.
+The scrap of cloth. Fine-woven. The kind used for infant swaddling, with a stitch pattern he did not recognize. Not Canopy, not Core, not Volcano. Cloud work, perhaps, though he had no basis for this thought beyond the texture and the feeling it produced in his chest, which was not the hollow's usual ache but something warmer, something that reached across the gap and almost, _almost_, touched the other side.
 
 A woman had been wearing a garment made from this cloth. A prisoner. She had smiled at him. He remembered the smile. He could not remember her face. He could not remember her name, if he had ever known it. He could not remember what she had been charged with, or how long she had been in the collection, or what discipline she had possessed before his father drained it. He remembered only the smile — offered freely, without cause, without expectation, directed at a man whose title was a weapon and whose purpose was the maintenance of the machine that was killing her.
 
-She had smiled at him anyway. And he had torn the cloth from her garment after she was removed from the collection — after, not before, because he could not have done it while she was still there, while the smile was still in the room — and he had kept it. The way he kept all of them. Not as trophies. Not as souvenirs. As evidence.
+She had smiled at him anyway. And he had torn the cloth from her garment after she was removed from the collection — after, not before, because he could not have done it while she was still there, while the smile was still in the room, and he had kept it. The way he kept all of them. Not as trophies. Not as souvenirs. As evidence.
 
 _Evidence that I can feel something. Evidence that the hollow is not everything. Evidence that there is a part of me that my father has not found and has not taken and that is mine._
 
@@ -188,7 +186,7 @@ It was a question.
 
 _What if I don't?_
 
-The Knife closed his eyes. The box was warm against his ribs. The Flash Rat whined. The earth hummed. The hunt was underway, and the hunter was beginning — slowly, invisibly, in the dark of a field tent in a nameless clearing at the edge of the world's oldest forest — to wonder whether the thing he was hunting might be the thing that could save him.
+The Knife closed his eyes. The box was warm against his ribs. The Flash Rat whined. The earth hummed. The hunt was underway, and the hunter was beginning — slowly, invisibly, in the dark of a field tent in a nameless clearing at the edge of the world's oldest forest, to wonder whether the thing he was hunting might be the thing that could save him.
 
 He did not sleep. But for the first time in eleven years, he wanted to dream.
 

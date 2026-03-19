@@ -85,7 +85,7 @@ export default function SignupSection() {
             </form>
 
             {status === "error" && (
-              <p className="font-[family-name:var(--font-sans)] text-xs text-[#c9a84c] mt-4">
+              <p className="font-[family-name:var(--font-sans)] text-xs text-[#e05252] mt-4">
                 Something went wrong. Please try again.
               </p>
             )}

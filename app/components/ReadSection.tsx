@@ -10,6 +10,7 @@ export default function ReadSection() {
           loop
           muted
           playsInline
+          aria-hidden="true"
           className="absolute inset-0 w-full h-full object-cover opacity-50"
           poster="/art/matc-hero-chapters.png"
         >
@@ -47,6 +48,8 @@ export default function ReadSection() {
           <div className="max-w-lg mx-auto mb-6">
             <a
               href="https://www.amazon.com/dp/B0GSSPN6LN"
+              target="_blank"
+              rel="noopener noreferrer"
               className="block border border-[#c9a84c]/30 bg-[#c9a84c]/5 hover:bg-[#c9a84c]/10 transition-all duration-300 relative overflow-hidden group"
             >
               <div className="p-6 sm:p-10 text-center">
@@ -117,7 +120,7 @@ export default function ReadSection() {
             <div className="border border-[#222] relative overflow-hidden">
               <div className="relative z-10 p-8 text-center">
                 <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#666] mb-3">
-                  Coming This Week
+                  Coming Soon
                 </p>
                 <p className="font-[family-name:var(--font-serif)] text-xl text-[#ededed] mb-1">
                   Paperback &amp; Hardcover

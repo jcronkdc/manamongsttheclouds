@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 
 const title = "The Book — Man Amongst the Clouds by Justin Cronk";
 const description =
@@ -200,6 +202,7 @@ export default function TheBookPage() {
       />
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
+        <Nav />
         {/* Header */}
         <header className="pt-20 pb-12 px-5 sm:px-6 text-center">
           <nav className="mb-8">
@@ -376,6 +379,8 @@ export default function TheBookPage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href="https://www.amazon.com/dp/B0GSSPN6LN"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
             >
               Get it on Kindle
@@ -402,6 +407,7 @@ export default function TheBookPage() {
             </Link>
           </div>
         </section>
+        <Footer />
       </div>
     </>
   );

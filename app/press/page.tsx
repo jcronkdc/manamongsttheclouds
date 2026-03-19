@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 
 const title =
   "Press Kit — Man Amongst the Clouds by Justin Cronk | Stillfire Press";
@@ -195,6 +197,7 @@ export default function PressPage() {
       />
 
       <div className="min-h-screen bg-[#0a0a0a] text-[#ededed]">
+        <Nav />
         {/* Header */}
         <header className="pt-20 pb-12 px-5 sm:px-6 text-center">
           <nav className="mb-8">
@@ -577,6 +580,7 @@ export default function PressPage() {
             &larr; Back to Home
           </Link>
         </section>
+        <Footer />
       </div>
     </>
   );

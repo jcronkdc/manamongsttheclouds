@@ -33,7 +33,7 @@ export default function Nav() {
     >
       <div className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         <a
-          href="#"
+          href="/"
           className={`font-[family-name:var(--font-serif)] tracking-wider transition-all duration-500 ${
             scrolled ? "text-base text-[#c9a84c]" : "text-lg text-[#c9a84c]/60"
           }`}
@@ -47,6 +47,9 @@ export default function Nav() {
             <a
               key={l.href}
               href={l.href}
+              {...(l.href.startsWith("http")
+                ? { target: "_blank", rel: "noopener noreferrer" }
+                : {})}
               className={`font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 ${
                 l.href === "https://www.amazon.com/dp/B0GSSPN6LN"
                   ? "text-[#c9a84c] hover:text-[#e8c85a]"
@@ -78,12 +81,15 @@ export default function Nav() {
 
       {/* Mobile menu — full screen overlay */}
       {open && (
-        <div className="md:hidden fixed inset-0 top-0 bg-[#0a0a0a]/98 backdrop-blur-xl z-40 flex flex-col items-center justify-center gap-6 animate-fade-in">
+        <div className="md:hidden fixed inset-0 top-0 bg-[#0a0a0a]/98 backdrop-blur-xl z-[60] flex flex-col items-center justify-center gap-6 animate-fade-in">
           {links.map((l) => (
             <a
               key={l.href}
               href={l.href}
               onClick={() => setOpen(false)}
+              {...(l.href.startsWith("http")
+                ? { target: "_blank", rel: "noopener noreferrer" }
+                : {})}
               className={`font-[family-name:var(--font-serif)] text-2xl tracking-wide py-2 ${
                 l.href === "https://www.amazon.com/dp/B0GSSPN6LN"
                   ? "text-[#c9a84c]"
