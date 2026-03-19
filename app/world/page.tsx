@@ -90,6 +90,30 @@ export default function WorldPage() {
           </p>
         </header>
 
+        {/* 3D Map CTA */}
+        <div className="text-center mb-12">
+          <Link
+            href="/world/map"
+            className="inline-flex items-center gap-3 px-6 py-3 border border-[#c9a84c]/20 hover:border-[#c9a84c]/50 bg-[#c9a84c]/5 hover:bg-[#c9a84c]/10 transition-all duration-300 rounded"
+          >
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="#c9a84c"
+              strokeWidth="1.5"
+            >
+              <circle cx="12" cy="12" r="10" />
+              <ellipse cx="12" cy="12" rx="4" ry="10" />
+              <path d="M2 12h20" />
+            </svg>
+            <span className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase text-[#c9a84c]">
+              Explore the 3D World Map
+            </span>
+          </Link>
+        </div>
+
         <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-12" />
 
         {/* Interactive Guide */}
