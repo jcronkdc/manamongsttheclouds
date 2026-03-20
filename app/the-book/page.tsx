@@ -244,9 +244,9 @@ export default function TheBookPage() {
             who discovers he can hear the world sing, and is pursued by an
             assassin known as The Knife, sent by a deaf king who has spent
             seventy years draining the memories of others to fill his own
-            silence. Available now on Amazon Kindle, with paperback and
-            hardcover editions coming soon. Comparable to the works of Patrick
-            Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.
+            silence. Available now on Amazon in Kindle, hardcover, and paperback
+            editions. Comparable to the works of Patrick Rothfuss, Robin Hobb,
+            Guy Gavriel Kay, and Ursula K. Le Guin.
           </p>
         </section>
 
@@ -374,17 +374,36 @@ export default function TheBookPage() {
             Start Reading
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] mb-8">
-            Available now on Kindle &bull; Paperback &amp; hardcover coming soon
+            Available now on Amazon &bull; Kindle &bull; Hardcover &bull;
+            Paperback
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="https://www.amazon.com/dp/B0GSSPN6LN"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
-            >
-              Get it on Kindle
-            </a>
+          <div className="flex flex-col gap-4 items-center">
+            <div className="flex flex-col sm:flex-row gap-3 justify-center w-full sm:w-auto">
+              <a
+                href="https://www.amazon.com/dp/B0GSSPN6LN"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+              >
+                Kindle
+              </a>
+              <a
+                href="https://www.amazon.com/dp/B0GT5PJKJX"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-10 py-4 border border-[#c9a84c] text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#c9a84c] hover:text-[#0a0a0a] transition-all duration-300"
+              >
+                Hardcover
+              </a>
+              <a
+                href="https://www.amazon.com/dp/B0GT1GFXRT"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-10 py-4 border border-[#c9a84c]/50 text-[#c9a84c]/80 font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-all duration-300"
+              >
+                Paperback
+              </a>
+            </div>
             <a
               href="https://stillfirepress.com/read/matc"
               className="px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"

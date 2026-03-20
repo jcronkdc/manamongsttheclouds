@@ -144,6 +144,8 @@ export const books = {
     readFreeUrlStillfire: `${sites.stillfirePress.url}/read/matc`,
     buyUrl: "https://www.amazon.com/dp/B0GSSPN6LN",
     buyUrlKindle: "https://www.amazon.com/dp/B0GSSPN6LN",
+    buyUrlHardcover: "https://www.amazon.com/dp/B0GT5PJKJX",
+    buyUrlPaperback: "https://www.amazon.com/dp/B0GT1GFXRT",
     price: "5.99",
     priceCurrency: "USD",
     blockchainProof: blockchainProofs.matc,

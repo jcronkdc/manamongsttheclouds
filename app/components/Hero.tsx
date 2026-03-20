@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="relative flex flex-col items-center justify-center min-h-[100dvh] px-4 sm:px-6 pt-20 sm:pt-20 pb-20 sm:pb-12 text-center overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center min-h-[100dvh] px-4 sm:px-6 pt-20 sm:pt-20 pb-28 sm:pb-20 text-center overflow-hidden">
       {/* Layered atmospheric background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#0d0d0d] to-[#0a0a0a]" />
       <div className="absolute top-1/3 left-1/2 -translate-x-1/2 w-[800px] h-[800px] rounded-full bg-[#c9a84c]/[0.03] blur-[150px] animate-pulse-glow" />
@@ -67,24 +67,42 @@ export default function Hero() {
           <span className="h-px w-8 bg-[#c9a84c]/30" />
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/60">
             146,000 words &bull; Nine years in the making &bull; Available now
-            on Kindle
+            on Amazon
           </p>
           <span className="h-px w-8 bg-[#c9a84c]/30" />
         </div>
 
         {/* CTA */}
         <div
-          className="flex flex-col sm:flex-row gap-4 justify-center w-full sm:w-auto opacity-0 animate-fade-in-up"
+          className="flex flex-col gap-4 items-center w-full opacity-0 animate-fade-in-up"
           style={{ animationDelay: "2.5s", animationFillMode: "forwards" }}
         >
-          <a
-            href="https://www.amazon.com/dp/B0GSSPN6LN"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)] w-full sm:w-auto text-center"
-          >
-            Get it on Kindle
-          </a>
+          <div className="flex flex-col sm:flex-row gap-3 justify-center w-full sm:w-auto">
+            <a
+              href="https://www.amazon.com/dp/B0GSSPN6LN"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)] w-full sm:w-auto text-center"
+            >
+              Kindle
+            </a>
+            <a
+              href="https://www.amazon.com/dp/B0GT5PJKJX"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative px-10 py-4 border border-[#c9a84c] text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#c9a84c] hover:text-[#0a0a0a] transition-all duration-300 w-full sm:w-auto text-center"
+            >
+              Hardcover
+            </a>
+            <a
+              href="https://www.amazon.com/dp/B0GT1GFXRT"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative px-10 py-4 border border-[#c9a84c]/50 text-[#c9a84c]/80 font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300 w-full sm:w-auto text-center"
+            >
+              Paperback
+            </a>
+          </div>
           <a
             href="https://stillfirepress.com/read/matc"
             className="group relative px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300 w-full sm:w-auto text-center"

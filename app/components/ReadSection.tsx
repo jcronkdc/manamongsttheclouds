@@ -44,31 +44,46 @@ export default function ReadSection() {
             />
           </div>
 
-          {/* Kindle buy card */}
+          {/* Buy cards */}
           <div className="max-w-lg mx-auto mb-6">
-            <a
-              href="https://www.amazon.com/dp/B0GSSPN6LN"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block border border-[#c9a84c]/30 bg-[#c9a84c]/5 hover:bg-[#c9a84c]/10 transition-all duration-300 relative overflow-hidden group"
-            >
-              <div className="p-6 sm:p-10 text-center">
-                <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/70 mb-3">
-                  Available Now
-                </p>
-                <p className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl text-[#ededed] mb-3 group-hover:text-[#c9a84c] transition-colors duration-300">
-                  Get it on Kindle
-                </p>
-                <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] leading-relaxed max-w-sm mx-auto mb-6">
-                  The complete novel &mdash; all five parts, 48 chapters, from
-                  silence to Song. Available instantly on any Kindle device or
-                  app.
-                </p>
-                <span className="inline-block px-10 py-3.5 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase group-hover:bg-[#e8c85a] transition-all duration-300 group-hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]">
-                  Buy on Amazon
-                </span>
+            <div className="border border-[#c9a84c]/30 bg-[#c9a84c]/5 p-6 sm:p-10 text-center">
+              <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/70 mb-3">
+                Available Now
+              </p>
+              <p className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl text-[#ededed] mb-3">
+                Get it on Amazon
+              </p>
+              <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] leading-relaxed max-w-sm mx-auto mb-6">
+                The complete novel &mdash; all five parts, 48 chapters, from
+                silence to Song.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                <a
+                  href="https://www.amazon.com/dp/B0GSSPN6LN"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-8 py-3.5 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
+                >
+                  Kindle
+                </a>
+                <a
+                  href="https://www.amazon.com/dp/B0GT5PJKJX"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-8 py-3.5 border border-[#c9a84c] text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#c9a84c] hover:text-[#0a0a0a] transition-all duration-300"
+                >
+                  Hardcover
+                </a>
+                <a
+                  href="https://www.amazon.com/dp/B0GT1GFXRT"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-8 py-3.5 border border-[#c9a84c]/50 text-[#c9a84c]/80 font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-all duration-300"
+                >
+                  Paperback
+                </a>
               </div>
-            </a>
+            </div>
           </div>
 
           {/* Book stats */}
@@ -115,20 +130,38 @@ export default function ReadSection() {
             </a>
           </div>
 
-          {/* Paperback & Hardcover coming soon */}
+          {/* Print edition details */}
           <div className="max-w-lg mx-auto mt-8">
             <div className="border border-[#222] relative overflow-hidden">
               <div className="relative z-10 p-8 text-center">
-                <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#666] mb-3">
-                  Coming Soon
+                <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-3">
+                  Print Editions
                 </p>
                 <p className="font-[family-name:var(--font-serif)] text-xl text-[#ededed] mb-1">
                   Paperback &amp; Hardcover
                 </p>
-                <p className="font-[family-name:var(--font-sans)] text-xs text-[#8a8a8a]">
+                <p className="font-[family-name:var(--font-sans)] text-xs text-[#8a8a8a] mb-4">
                   6&times;9 trim &bull; 463 pages &bull; Cream paper &bull;
                   Professional interior formatting
                 </p>
+                <div className="flex gap-3 justify-center">
+                  <a
+                    href="https://www.amazon.com/dp/B0GT5PJKJX"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-6 py-2.5 border border-[#c9a84c]/40 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
+                  >
+                    Hardcover
+                  </a>
+                  <a
+                    href="https://www.amazon.com/dp/B0GT1GFXRT"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-6 py-2.5 border border-[#c9a84c]/40 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
+                  >
+                    Paperback
+                  </a>
+                </div>
               </div>
             </div>
           </div>

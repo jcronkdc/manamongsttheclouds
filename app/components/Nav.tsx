@@ -10,7 +10,7 @@ const links = [
   { href: "/characters", label: "Characters" },
   { href: "/short-stories", label: "Short Stories" },
   { href: "/about-the-author", label: "The Author" },
-  { href: "https://www.amazon.com/dp/B0GSSPN6LN", label: "Buy on Kindle" },
+  { href: "https://www.amazon.com/dp/B0GSSPN6LN", label: "Buy on Amazon" },
 ];
 
 export default function Nav() {
@@ -51,7 +51,7 @@ export default function Nav() {
                 ? { target: "_blank", rel: "noopener noreferrer" }
                 : {})}
               className={`font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] uppercase transition-colors duration-300 ${
-                l.href === "https://www.amazon.com/dp/B0GSSPN6LN"
+                l.href.startsWith("https://www.amazon.com")
                   ? "text-[#c9a84c] hover:text-[#e8c85a]"
                   : "text-[#666] hover:text-[#ededed]"
               }`}
@@ -91,7 +91,7 @@ export default function Nav() {
                 ? { target: "_blank", rel: "noopener noreferrer" }
                 : {})}
               className={`font-[family-name:var(--font-serif)] text-2xl tracking-wide py-2 ${
-                l.href === "https://www.amazon.com/dp/B0GSSPN6LN"
+                l.href.startsWith("https://www.amazon.com")
                   ? "text-[#c9a84c]"
                   : "text-[#999] active:text-[#ededed]"
               }`}

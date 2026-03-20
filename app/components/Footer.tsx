@@ -41,7 +41,15 @@ export default function Footer() {
                 { href: "#excerpt", label: "Read an Excerpt" },
                 {
                   href: "https://www.amazon.com/dp/B0GSSPN6LN",
-                  label: "Buy on Kindle",
+                  label: "Kindle",
+                },
+                {
+                  href: "https://www.amazon.com/dp/B0GT5PJKJX",
+                  label: "Hardcover",
+                },
+                {
+                  href: "https://www.amazon.com/dp/B0GT1GFXRT",
+                  label: "Paperback",
                 },
               ].map((l) => (
                 <a
