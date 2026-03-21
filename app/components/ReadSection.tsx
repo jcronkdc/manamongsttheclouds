@@ -44,45 +44,52 @@ export default function ReadSection() {
             />
           </div>
 
-          {/* Buy cards */}
+          {/* Buy */}
           <div className="max-w-lg mx-auto mb-6">
-            <div className="border border-[#c9a84c]/30 bg-[#c9a84c]/5 p-6 sm:p-10 text-center">
-              <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/70 mb-3">
-                Available Now
-              </p>
-              <p className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl text-[#ededed] mb-3">
-                Get it on Amazon
+            <div className="border border-[#222] p-6 sm:p-10 text-center">
+              <p className="font-[family-name:var(--font-serif)] text-xl sm:text-2xl text-[#ededed] mb-3">
+                Available on Amazon
               </p>
               <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] leading-relaxed max-w-sm mx-auto mb-6">
                 The complete novel &mdash; all five parts, 48 chapters, from
                 silence to Song.
               </p>
-              <div className="flex flex-col sm:flex-row gap-3 justify-center">
+              <a
+                href="https://www.amazon.com/dp/B0GSSPN6LN"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-10 py-3.5 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 mb-4"
+              >
+                Buy on Amazon
+              </a>
+              <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] text-[#888]">
                 <a
                   href="https://www.amazon.com/dp/B0GSSPN6LN"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block px-8 py-3.5 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.3)]"
+                  className="hover:text-[#c9a84c] transition-colors"
                 >
                   Kindle
                 </a>
+                &ensp;&bull;&ensp;
                 <a
                   href="https://www.amazon.com/dp/B0GT5PJKJX"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block px-8 py-3.5 border border-[#c9a84c] text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#c9a84c] hover:text-[#0a0a0a] transition-all duration-300"
+                  className="hover:text-[#c9a84c] transition-colors"
                 >
                   Hardcover
                 </a>
+                &ensp;&bull;&ensp;
                 <a
                   href="https://www.amazon.com/dp/B0GT1GFXRT"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block px-8 py-3.5 border border-[#c9a84c]/50 text-[#c9a84c]/80 font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-all duration-300"
+                  className="hover:text-[#c9a84c] transition-colors"
                 >
                   Paperback
                 </a>
-              </div>
+              </p>
             </div>
           </div>
 
@@ -128,42 +135,6 @@ export default function ReadSection() {
                 </span>
               </div>
             </a>
-          </div>
-
-          {/* Print edition details */}
-          <div className="max-w-lg mx-auto mt-8">
-            <div className="border border-[#222] relative overflow-hidden">
-              <div className="relative z-10 p-8 text-center">
-                <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-3">
-                  Print Editions
-                </p>
-                <p className="font-[family-name:var(--font-serif)] text-xl text-[#ededed] mb-1">
-                  Paperback &amp; Hardcover
-                </p>
-                <p className="font-[family-name:var(--font-sans)] text-xs text-[#8a8a8a] mb-4">
-                  6&times;9 trim &bull; 463 pages &bull; Cream paper &bull;
-                  Professional interior formatting
-                </p>
-                <div className="flex gap-3 justify-center">
-                  <a
-                    href="https://www.amazon.com/dp/B0GT5PJKJX"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-6 py-2.5 border border-[#c9a84c]/40 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
-                  >
-                    Hardcover
-                  </a>
-                  <a
-                    href="https://www.amazon.com/dp/B0GT1GFXRT"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-6 py-2.5 border border-[#c9a84c]/40 text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
-                  >
-                    Paperback
-                  </a>
-                </div>
-              </div>
-            </div>
           </div>
 
           {/* Part structure */}

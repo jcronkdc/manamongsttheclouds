@@ -94,37 +94,18 @@ export default function SignupSection() {
               No spam. Just books worth the wait. Unsubscribe anytime.
             </p>
 
-            <div className="mt-10 pt-8 border-t border-[#222] space-y-6">
-              <div>
-                <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] mb-3">
-                  The full novel is available now on Amazon.
-                </p>
-                <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                  <a
-                    href="https://www.amazon.com/dp/B0GSSPN6LN"
-                    className="inline-block w-full sm:w-auto px-8 py-3 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,168,76,0.2)] text-center"
-                  >
-                    Kindle
-                  </a>
-                  <a
-                    href="https://www.amazon.com/dp/B0GT5PJKJX"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-block w-full sm:w-auto px-8 py-3 border border-[#c9a84c] text-[#c9a84c] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:bg-[#c9a84c] hover:text-[#0a0a0a] transition-all duration-300 text-center"
-                  >
-                    Hardcover
-                  </a>
-                  <a
-                    href="https://www.amazon.com/dp/B0GT1GFXRT"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-block w-full sm:w-auto px-8 py-3 border border-[#c9a84c]/50 text-[#c9a84c]/80 font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-all duration-300 text-center"
-                  >
-                    Paperback
-                  </a>
-                </div>
-              </div>
-            </div>
+            <p className="mt-8 pt-6 border-t border-[#222] font-[family-name:var(--font-serif)] text-sm text-[#888]">
+              The full novel is{" "}
+              <a
+                href="https://www.amazon.com/dp/B0GSSPN6LN"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#c9a84c]/70 hover:text-[#c9a84c] transition-colors"
+              >
+                available now on Amazon
+              </a>
+              .
+            </p>
           </>
         )}
       </div>

@@ -374,41 +374,50 @@ export default function TheBookPage() {
             Start Reading
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#b0a89e] mb-8">
-            Available now on Amazon &bull; Kindle &bull; Hardcover &bull;
-            Paperback
+            Available now on Amazon
           </p>
-          <div className="flex flex-col gap-4 items-center">
-            <div className="flex flex-col sm:flex-row gap-3 justify-center w-full sm:w-auto">
+          <div className="flex flex-col items-center">
+            <a
+              href="https://www.amazon.com/dp/B0GSSPN6LN"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-12 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+            >
+              Buy on Amazon
+            </a>
+            <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] text-[#888] mt-4">
               <a
                 href="https://www.amazon.com/dp/B0GSSPN6LN"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-10 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+                className="hover:text-[#c9a84c] transition-colors"
               >
                 Kindle
               </a>
+              &ensp;&bull;&ensp;
               <a
                 href="https://www.amazon.com/dp/B0GT5PJKJX"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-10 py-4 border border-[#c9a84c] text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#c9a84c] hover:text-[#0a0a0a] transition-all duration-300"
+                className="hover:text-[#c9a84c] transition-colors"
               >
                 Hardcover
               </a>
+              &ensp;&bull;&ensp;
               <a
                 href="https://www.amazon.com/dp/B0GT1GFXRT"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-10 py-4 border border-[#c9a84c]/50 text-[#c9a84c]/80 font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-all duration-300"
+                className="hover:text-[#c9a84c] transition-colors"
               >
                 Paperback
               </a>
-            </div>
+            </p>
             <a
               href="https://stillfirepress.com/read/matc"
-              className="px-10 py-4 border border-[#c9a84c]/30 text-[#c9a84c] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:border-[#c9a84c] hover:bg-[#c9a84c]/5 transition-all duration-300"
+              className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] text-[#666] hover:text-[#c9a84c] transition-colors mt-3"
             >
-              Read Part One Free
+              or read Part One free &rarr;
             </a>
           </div>
           <div className="mt-8 flex justify-center gap-6">
