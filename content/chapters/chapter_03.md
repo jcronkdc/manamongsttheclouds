@@ -8,11 +8,11 @@ No one told Aelo what the Blue Sun was, which was how he knew it was terrible.
 
 It started with the mothers. Three days before the event, whatever the event was, the women of the village began to change. Not dramatically, not in any way that a casual observer would notice. But Aelo was not a casual observer. He was a boy who had spent fifteen years reading the distance between what people said and what their bodies meant, and the mothers were saying everything was fine while their bodies said something else entirely.
 
-Maren Tull, who ran the smokehouse and laughed louder than anyone in the village, stopped laughing. She stood in her doorway and watched her son walk to school and did not go inside until he was out of sight, and when he turned to wave she raised her hand and held it there, held it, as if the act of lowering it would sever something she could not afford to lose. Old Petra, who had six grandchildren and could usually be found shouting at one of them for tracking mud, gathered all six onto her porch and sat them down and told them a story that went on for an hour, and when it ended she told it again. The baker's wife put extra sugar in the morning rolls and did not charge for them and no one commented on this because commenting would have required acknowledging that the sweetness was compensatory, that it was a small kindness offered against a larger cruelty, and no one was ready to say that out loud.
+Maren Tull, who ran the smokehouse and laughed louder than anyone in the village, stopped laughing. She stood in her doorway and watched her son walk to school and did not go inside until he was out of sight, and when he turned to wave she raised her hand and held it there, held it, as if the act of lowering it would sever a connection she could not afford to lose. Old Petra, who had six grandchildren and could usually be found shouting at one of them for tracking mud, gathered all six onto her porch and sat them down and told them a story that went on for an hour, and when it ended she told it again. The baker's wife put extra sugar in the morning rolls and did not charge for them and no one commented on this because commenting would have required acknowledging that the sweetness was compensatory, that it was a small kindness offered against a larger cruelty, and no one was ready to say that out loud.
 
-The children felt it. Of course they did. Children are instruments tuned to the frequency of adult fear, and the village was vibrating with it. The older ones went quiet. They knew something, or knew enough to know that knowing more would not help. The younger ones became wild, running through the village in packs, laughing too loud, as if the volume of their joy could drown out whatever was pressing against the edges of the world.
+The children felt it. Of course they did. Children are instruments tuned to the frequency of adult fear, and the village was vibrating with it. The older ones went quiet. They knew something, or knew enough to know that knowing more would not help. The younger ones became wild, running through the village in packs, laughing too loud, the volume of their joy a wall against whatever was pressing at the edges of the world.
 
-School ended early. Halla stood at the front of the room and opened her mouth to begin the afternoon lecture and then closed it. She looked at the children — twelve faces, ranging from bored to frightened to oblivious — and something in her expression collapsed. Not visibly. Internally. Aelo felt it the way he felt Jalo's nightmares: a structural failure behind the face, a load-bearing wall giving way.
+School ended early. Halla stood at the front of the room and opened her mouth to begin the afternoon lecture and then closed it. She looked at the children — twelve faces, ranging from bored to frightened to oblivious — and her expression collapsed. Not visibly. Internally. Aelo felt it the way he felt Jalo's nightmares: a structural failure behind the face, a load-bearing wall giving way.
 
 "Go home," she said. "Spend time with your families."
 
@@ -50,23 +50,21 @@ He went to bed early. He did not sleep.
 
 ---
 
-He lay in the dark and listened to Jalo not sleeping either.
+He lay in the dark and listened to Jalo's restless movements, the creak of the chair as the old man shifted his weight off his bad knee. The air was heavy with the weight of unspoken thoughts, the silence between them a palpable thing that seemed to vibrate with tension.
 
-The clink of the bottle, twice, which meant the first pour was not enough. The creak of the chair as the old man shifted his weight off his bad knee. The particular quality of silence that falls over a room when the person in it is thinking about something they cannot bear to think about and cannot stop.
-
-Aelo waited. He didn't know what he was waiting for. He only knew that the pressure in the cottage — the accumulated weight of Jalo's lies and the village's fear and the thing called the Blue Sun, had reached a density that felt physical, a mass in the air that made it hard to breathe.
+Aelo waited. He didn't know what he was waiting for. He only knew that the pressure in the cottage — the accumulated weight of Jalo's secrets and the village's fear and the thing called the Blue Sun, had reached a density that felt physical, a mass in the air that made it hard to breathe.
 
 An hour passed. The bottle clinked a third time. Then a fourth. Then Jalo began to do something he had never done while Aelo was awake: he unwrapped his face.
 
-Aelo heard it through the wall. The soft, deliberate sound of linen being pulled. He rose from his cot. He moved to the door. He pressed his eye to the crack between the door and the frame, the way he had done a thousand times to watch Jalo sleep, and he looked.
+Aelo heard it through the wall. The soft, deliberate sound of linen being pulled. He rose from his cot. He moved to the door. He pressed his eye to the crack between the door and the frame, as he had done a thousand times to watch Jalo sleep, and he looked.
 
-The linen came away in layers. Jalo unwound it slowly, carefully, the way a man handles a bandage over a wound that has never fully closed. The first layer revealed the edge of the scarring, rougher than the glimpses Aelo had caught before, redder, the tissue thick and ropy. The second layer pulled away from the cheek, and the cheek was not a cheek. It was a landscape. A terrain of damage so thorough and so old that the flesh had given up trying to remember what it had been and had settled into something new: ridged, cratered, the skin pulled tight in some places and hanging loose in others, the color shifting from white to pink to a deep, angry red where the burn had gone deepest.
+The linen came away in layers. Jalo unwound it slowly, carefully, as a man handles a bandage over a wound that has never fully closed. The first layer revealed the edge of the scarring, rougher than the glimpses Aelo had caught before, redder, the tissue thick and ropy. The second layer pulled away from the cheek, and the cheek was not a cheek. It was a landscape. A terrain of damage so thorough and so old that the flesh had given up trying to remember what it had been and had settled into a new geography: ridged, cratered, the skin pulled tight in some places and hanging loose in others, the color shifting from white to pink to a deep, angry red where the burn had gone deepest.
 
 The third layer came away from the eye. The eye was intact. Aelo did not know why this surprised him, but it did. The eye was whole and clear and the same grey-green as the other, but it sat in a socket that had been reshaped by fire, the brow melted, the lashes gone, the lid thick with scar tissue that gave Jalo's expression, when both sides were visible, a quality of permanent, lopsided grief.
 
 It was not a wound. It was an erasure. Someone had taken a face and unmade it.
 
-Jalo sat at the table with his face exposed and he did not look like the man Aelo knew. He looked like what the man Aelo knew was hiding: something broken, something endured, something that had been beautiful once and had been deliberately, methodically destroyed. Aelo understood, with the sudden clarity that accompanies certain truths, that the scars were not an accident. They were not a fire. They were a _choice_. Someone — Jalo himself, another person, it didn't matter — had decided that this face needed to stop being recognizable, and they had accomplished this with the thoroughness of someone who understood that half measures would get them both killed.
+Jalo sat at the table with his face exposed and he did not look like the man Aelo knew. He looked like what the man Aelo knew was hiding: a thing broken, a thing endured, a face that had been beautiful once and had been deliberately, methodically destroyed. Aelo understood, with the sudden clarity that accompanies certain truths, that the scars were not an accident. They were not a fire. They were a _choice_. Someone — Jalo himself, another person, it didn't matter — had decided that this face needed to stop being recognizable, and they had accomplished this with the thoroughness of someone who understood that half measures would get them both killed.
 
 Both. The word surfaced in Aelo's mind without invitation. _Both._ Not just Jalo. Someone else. Someone whose survival depended on Jalo's face being unreadable.
 
@@ -106,11 +104,11 @@ Aelo watched from the window. Jalo was already dressed. Fully dressed, the linen
 
 Jalo made a sound, not a laugh, not a grunt, something in between. The sound a man makes when a lie he has tolerated for years suddenly becomes intolerable. "Get dressed."
 
-Aelo dressed. He ate the porridge, the herbs, the chalk, the copper, the quieting, and he watched Jalo watch him eat, and the exhale came as it always did, the shoulders dropping, the breath releasing. But this time the exhale carried something new: finality. As if the ritual had been performed for the last time and the man performing it knew it.
+Aelo dressed. He ate the porridge, the herbs, the chalk, the copper, the quieting, and he watched Jalo watch him eat, and the exhale came as it always did, the shoulders dropping, the breath releasing. But this time the exhale carried something new: finality. The ritual had been performed for the last time, and the man performing it knew it.
 
 They walked to the ceremony square together. Jalo limped beside him, the cane striking the packed earth in the familiar rhythm, _tap-step-drag_, but his body was different. Coiled. The limp was the same but the weight behind it had shifted, as if the injury were no longer a limitation but a disguise, a piece of choreography so practiced that the dancer had forgotten it was a dance.
 
-Jalo positioned himself at the edge of the crowd. Close enough to move. Aelo noticed this the way he noticed everything about Jalo: without understanding, with perfect fidelity.
+Jalo positioned himself at the edge of the crowd. Close enough to move. Aelo noticed this as he noticed everything about Jalo: without understanding, with perfect fidelity.
 
 The ceremony square was the village's only open space, a flattened circle of packed earth where the trading post set up on supply days. Today it held an Elder Stone.
 
@@ -126,7 +124,7 @@ The children were lined up. Twelve of them, ranging from ten to sixteen. Some we
 
 One by one. The Knower placed his hand on each child's forehead and pressed. The Blood Vine on the Elder Stone pulsed. The stone registered — a faint glow, a dim vibration, a color that indicated the type and strength of magical ability. Most registered faintly. A whisper of Mold in one boy. A trace of Guide in another. The soldiers noted each reading. The Knower moved on.
 
-A girl, fourteen, red-haired, tall for her age, stepped onto the platform. The Knower pressed his palm to her forehead. The Elder Stone blazed. The Blood Vine contracted sharply, the way a muscle contracts around a bone, and the stone glowed a deep, vivid green — Canopy green, Know-green, the color of strong magic in a young vessel.
+A girl, fourteen, red-haired, tall for her age, stepped onto the platform. The Knower pressed his palm to her forehead. The Elder Stone blazed. The Blood Vine contracted sharply, as a muscle contracts around a bone, and the stone glowed a deep, vivid green — Canopy green, Know-green, the color of strong magic in a young vessel.
 
 The captain stepped forward. He gripped the girl's arm. "This one registers. She comes with us."
 
@@ -154,7 +152,7 @@ The soldiers froze. Their training, their armor, their diamond-tipped spears, al
 
 Three seconds.
 
-The Knower pulled Aelo off the stone. The note held — the stone was still singing, the air was still vibrating, the light was still pouring, but the Knower was moving, his empty eyes suddenly, impossibly full, the coal at the back of them ignited into something desperate and absolute. He gripped Aelo's shoulders with his trembling hands and leaned in close and his breath smelled like fear and his voice was a ruin and what he said was:
+The Knower pulled Aelo off the stone. The note held — the stone was still singing, the air was still vibrating, the light was still pouring, but the Knower was moving, his empty eyes suddenly, impossibly full, the coal at the back of them ignited into a desperate, absolute flame. He gripped Aelo's shoulders with his trembling hands and leaned in close and his breath smelled like fear and his voice was a ruin and what he said was:
 
 "Run."
 

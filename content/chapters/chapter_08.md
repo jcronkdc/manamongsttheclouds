@@ -28,7 +28,7 @@ The hum entered through his palm and traveled up his arm and settled in his ches
 
 Then the hum deepened.
 
-It did not get louder. It got _wider_. As if the frequency were expanding, filling a space in his chest that he had not known was empty, a cavity, a hollow, a place where something should have been and was not and had not been for as long as he could remember, which was not as long as it should have been, because The Knife could not remember anything before the age of twelve and had trained himself not to think about why.
+It did not get louder. It got _wider_. The frequency expanding, filling a space in his chest that he had not known was empty, a cavity, a hollow, a place where something should have been and was not and had not been for as long as he could remember, which was not as long as it should have been, because The Knife could not remember anything before the age of twelve and had trained himself not to think about why.
 
 For half a second, he felt warmth. Not physical warmth, the stone was cool under his hand, but the warmth of _belonging_. Of being part of something. The precise, unbearable warmth of a thing returning to the place it was taken from. As if the hollow in his chest were a socket and the hum were the missing piece and for half a second they were reconnected and he was — he was —
 
@@ -44,7 +44,7 @@ He did not report the note to his father. The thought of reporting it surfaced a
 
 The Knower was in the schoolhouse. They had put him there after the ceremony — the villagers, not the soldiers, because the schoolhouse was the sturdiest building and because the Knower had collapsed after whispering "Run" and had not fully recovered and there was, among the villagers, a residual respect for the office if not the man, a cultural memory of what Knowers had been before Varas turned them into instruments.
 
-He was gaunt. The Knife had seen gaunt — he maintained forty-seven individuals in the Chamber, each at a different stage of depletion, and he could read the body the way a forester reads tree rings, calculating remaining capacity from skin tone and eye clarity and the quality of tremor in the hands. This man was past half-life. He had been drained slowly over years, his Know stripped in increments, and what remained was a scaffold — bone and tendon and the minimum viable quantity of self.
+He was gaunt. The Knife had seen gaunt — he maintained forty-seven individuals in the Chamber, each at a different stage of depletion, and he could read the body as a forester reads tree rings, calculating remaining capacity from skin tone and eye clarity and the quality of tremor in the hands. This man was past half-life. He had been drained slowly over years, his Know stripped in increments, and what remained was a scaffold — bone and tendon and the minimum viable quantity of self.
 
 "Tell me about the boy."
 
@@ -68,7 +68,7 @@ The Knife filed this. A Molder who could shape stone from raw ground without pre
 
 "The boy. On the stone. Tell me exactly."
 
-The Knower closed his eyes. The memory cost him something — The Knife could see the expenditure, the way you see a lamp dim when another appliance draws power from the same source.
+The Knower closed his eyes. The memory cost him something — The Knife could see the expenditure, as you see a lamp dim when another appliance draws power from the same source.
 
 "He stepped on the stone. The Blood Vine made contact. And the stone..." The Knower opened his eyes. The fog in them had thinned — not cleared, but thinned, as if the memory itself were a form of light. "The stone sang. Not hummed. Not vibrated. _Sang._ A note, one note, that was every note. I have conducted four hundred and twelve Knowing Ceremonies in twenty-three years. I have seen children register on every discipline. I have never heard the stone produce a sound. Stones don't have voices. They don't _express_. They receive. They contain. They are vessels." He paused. "This boy is not a vessel. This boy is a source."
 
@@ -110,7 +110,7 @@ He called Drell over. "Full hunting party. A Ming tracker, requisition one from 
 
 Drell nodded. He did not ask questions. He had served under The Knife long enough to know that the tone — flat, precise, the consonants bitten off like thread, was the tone that preceded consequences.
 
-The Knife turned back to the stone. The hum was still there — below hearing, below intention, a residue of something that had passed through this place and left its imprint on the crystal the way a voice leaves its imprint on a memory.
+The Knife turned back to the stone. The hum was still there — below hearing, below intention, a residue of something that had passed through this place and left its imprint on the crystal as a voice leaves its imprint on a memory.
 
 He placed his hand on it one more time. Briefly. A second. Less.
 

@@ -12,9 +12,9 @@ He woke gasping. The hollow was grey with early light. His ankles hung over the 
 
 He sat up and the world screamed at him.
 
-Not the whispers from the running. Not the murmur from the hollow. This was the full, unmediated voice of the Canopy at dawn — every tree, every root system, every fungal network threading through the soil, every insect crossing a leaf, every bird adjusting its grip on a branch, every molecule of water moving through every cell of every living thing within a radius that Aelo could not measure because measuring required a mind that was not currently drowning.
+Not the whispers from the running. Not the murmur from the hollow. This was the full, unmediated voice of the Canopy at dawn: every tree, every root system, every fungal network threading through the soil, every insect crossing a leaf, every bird adjusting its grip on a branch, every molecule of water moving through every cell of every living thing within a radius that Aelo could not measure because measuring required a mind that was not currently drowning.
 
-He pressed his hands over his ears. It didn't help. The sound was not coming through his ears. It was coming through his skin, through his bones, these new, aching, wrong-sized bones, through the soles of his feet where they touched the ground, through the air he breathed, through the exact point on his wrist where the mark pulsed amber in the dim light.
+He pressed his hands over his ears. It didn't help. The sound was not coming through his ears. It was coming through his skin, through his bones, these new, aching, wrong-sized bones, through the soles of his feet where they touched the ground, through the air he breathed, through the mark on his wrist that pulsed amber in the dim light.
 
 Jalo's emotions arrived next. Not as feelings. As _flavors_. Guilt tasted like copper, bright and metallic, coating the back of the throat. Fear tasted like smoke, the same smoke from the nightmares, the same burning-door smoke that Aelo had felt through the cottage wall every night of his life, except now he understood that the smoke was not a dream-metaphor but a memory-taste, the actual sensory residue of a night fifteen years ago when a nursery was on fire and a man ran through it with a baby under his arm. And beneath the guilt and the fear, something else, heavier, warmer, pressing against Aelo's sternum like a hand placed flat on his chest.
 
@@ -44,7 +44,7 @@ It had harmonics. Overtones. It hit the elm and the elm _vibrated_. It hit the s
 
 The forest responded.
 
-Birds first. Not scattering. _Detonating_. Hundreds of them. Every species. A vertical eruption of wings that stripped the lower canopy bare in a single instant. Then deer — crashing through undergrowth, blind with panic. Then insects — every clicking, buzzing, humming creature in a half-mile radius going silent at exactly the same moment, as if a switch had been thrown. The undergrowth trembled. The elm groaned, deep and structural, flexing in its roots.
+Birds first. Not scattering but _detonating_. Hundreds of them. Every species. A vertical eruption of wings that stripped the lower canopy bare in a single instant. Then deer — crashing through undergrowth, blind with panic. Then insects — every clicking, buzzing, humming creature in a half-mile radius going silent at exactly the same moment, as if a switch had been thrown. The undergrowth trembled. The elm groaned, deep and structural, flexing in its roots.
 
 Three seconds. The Canopy within earshot became a single organism reacting to a single stimulus.
 
@@ -56,7 +56,7 @@ Aelo was on his hands and knees. Tears on his face. Snot on his lip. Throat raw.
 
 "Good," said a voice that was not Jalo's.
 
-Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him. Through the shattered remnants of his pocket, her emotional signature came through, and it was wrong. The body she wore had no history of its own. No childhood memories, no accumulated years of muscle and habit. It was a shell shaped from will, the way a sculptor shapes clay — her features, her voice, her calloused hands, all of it built from the inside out, held together by an attention so old it had become automatic. He had expected the salt-grief, the patient sadness of the old woman she appeared to be. What he felt instead was _attention_. Focused, layered, precise. She was comparing him against an internal record, checking his responses point by point. The feeling had no warmth in it. It was measurement.
+Aelo looked up. Sereth sat on a rock at the edge of the clearing, legs crossed, hands resting on knees, watching him. Through the shattered remnants of his pocket, her emotional signature came through, and it was wrong. The body she wore had no history of its own. No childhood memories, no accumulated years of muscle and habit. It was a shell shaped from will, as a sculptor shapes clay — her features, her voice, her calloused hands, all of it built from the inside out, held together by an attention so old it had become automatic. He had expected the salt-grief, the patient sadness of the old woman she appeared to be. What he felt instead was _attention_. Focused, layered, precise. She was comparing him against an internal record, checking his responses point by point. The feeling had no warmth in it. It was measurement.
 
 "That was not good," Aelo said. His voice was different. Lower. Rougher. A voice that had aged a year overnight.
 
@@ -88,7 +88,7 @@ Second attempt: a flicker. A half-second where two voices, the elm's deep resona
 
 He gasped. The anger was there again — the iron taste from the bird, from the hollow, the hot coal behind his ribs. He wanted to _take_. He wanted to reach into the sound and carve a space for himself by force, because he had been denied for fifteen years and the denial was a debt and the world owed him silence and he would _take it_ —
 
-The wanting frightened him. It tasted like something that did not belong to the boy who buried birds and cried and forgave. It tasted like something older. Something inherited.
+The wanting frightened him. It tasted like something that did not belong to the boy who buried birds and cried and forgave. It tasted like something inherited.
 
 "There it is," Sereth said. Her voice was quiet — the tone of someone checking an item off a list. "The hunger. Fletcher had it too. Your mother had it. Every Singer who has ever carried more than one discipline has felt that exact impulse — the need to take rather than receive. It is the first thing the Song teaches you about yourself."
 
@@ -110,7 +110,7 @@ He did not try to push the voices away. He did not try to separate them. He list
 
 He found it.
 
-A pocket. Small, barely large enough to hold a single breath. A space inside the sound that was entirely, irreducibly his. Not the world's memory. Not the trees or the stones or Jalo's guilt or Sereth's grief. _His_ silence. The one thing in the world that the world had not put there.
+A pocket. Small, barely large enough to hold a single breath. A space inside the sound that was entirely, irreducibly his. Not the world's memory. Not the trees or the stones or Jalo's guilt or Sereth's grief, but _his_ silence. The one thing in the world that the world had not put there.
 
 He breathed into it. The pocket held. The voices continued — the elm and the oaks and the birches and the undergrowth and the insects and the birds returning one by one to their branches — but they were outside now. Not gone. Not diminished. _Outside_. On the other side of a boundary that Aelo had not known existed until this moment, a boundary made not of magic or will or herbs but of the simple, irreducible fact that he was a person, separate from the world, capable of hearing it without being consumed by it.
 
@@ -128,7 +128,7 @@ Jalo's hand was still on his chest. The tremor in his fingers was there, always 
 
 "For the rest of your life."
 
-Aelo held it. The pocket trembled. The voices pressed. The silence was small and fragile and new, and it required his complete attention to maintain, the way a cupped flame requires stillness. Any sudden movement, any surge of emotion, any lapse of focus and it would go out and the world would flood back in and he would be drowning again.
+Aelo held it. The pocket trembled. The voices pressed. The silence was small and fragile and new, and it required his complete attention to maintain, as a cupped flame requires stillness. Any sudden movement, any surge of emotion, any lapse of focus and it would go out and the world would flood back in and he would be drowning again.
 
 But it was his. The first thing that had ever been entirely his.
 

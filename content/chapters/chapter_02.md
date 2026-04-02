@@ -10,13 +10,13 @@ He thought about this sometimes. Not often, not with anything as indulgent as gr
 
 He did not know her name. He had never asked. Asking would imply that the answer mattered, and mattering was a luxury that the son of King Varas could not afford.
 
-He rose. The room offered nothing to look at: stone walls, a cot, a basin of cold water, a rack for his armor. No mirror. There had been one, years ago, and he had turned it to the wall because the face in it kept watching him with an expression he couldn't identify and didn't want to. The room was a function, not a space. It held him the way a sheath holds a blade: snugly, without affection, for the sole purpose of keeping the edge from dulling.
+He rose. The room offered nothing to look at: stone walls, a cot, a basin of cold water, a rack for his armor. No mirror. There had been one, years ago, and he had turned it to the wall because the face in it kept watching him with an expression he couldn't identify and didn't want to. The room was a function, not a space. It held him as a sheath holds a blade: snugly, without affection, for the sole purpose of keeping the edge from dulling.
 
 Beneath the cot, a wooden box.
 
-He did not open it this morning. He touched it with his foot as he stood, a habit, the way a soldier touches his weapon before leaving the tent. Confirming it was there. The box was small, unfinished, held together with pegs instead of nails because nails were inventoried by the quartermaster and Baara did not want anyone to know he had built something for himself. What was inside was his. The only thing that was his. He would open it tonight, after the work was done, in the dark, where no one could see a man holding a feather and trying to remember what it meant.
+He did not open it this morning. He touched it with his foot as he stood, a habit, as a soldier touches his weapon before leaving the tent. Confirming it was there. The box was small, unfinished, held together with pegs instead of nails because nails were inventoried by the quartermaster and Baara did not want anyone to know he had built something for himself. What was inside was his. The only thing that was his. He would open it tonight, after the work was done, in the dark, where no one could see a man holding a feather and trying to remember what it meant.
 
-He dressed. Armor: layered leather over chainmail, dark, close-fitting, designed for speed rather than protection because The Knife did not need protection. He needed to arrive. That was usually sufficient. The stone went into the holster at his belt. Smooth, round, heavy as a fist, worn to a dull sheen by years of handling. He'd been given a sword at twelve. He'd requested a stone the same year, one of his earliest clear memories, sharp-edged and whole in a mind where most things before that age were fog and absence. He had been told the fog was normal, that childhood memories were naturally unreliable, that everyone's early years dissolved into vagueness. He had believed this the way he believed everything his father told him: completely, because the alternative was a question he did not have the architecture to ask. His father had laughed, the only time Baara could remember his father laughing, and asked why. "A sword is someone else's work," Baara had said. "A stone is the world's." His father had stopped laughing and looked at him with something that might have been interest, the way a craftsman looks at a tool that has performed an unexpected function.
+He dressed. Armor: layered leather over chainmail, dark, close-fitting, designed for speed rather than protection because The Knife did not need protection. He needed to arrive. That was usually sufficient. The stone went into the holster at his belt. Smooth, round, heavy as a fist, worn to a dull sheen by years of handling. He'd been given a sword at twelve. He'd requested a stone the same year, one of his earliest clear memories, sharp-edged and whole in a mind where most things before that age were fog and absence. He had been told the fog was normal, that childhood memories were naturally unreliable, that everyone's early years dissolved into vagueness. He had believed this as he believed everything his father told him: completely, because the alternative was a question he did not have the architecture to ask. His father had laughed, the only time Baara could remember his father laughing, and asked why. "A sword is someone else's work," Baara had said. "A stone is the world's." His father had stopped laughing and looked at him with something that might have been interest, as a craftsman looks at a tool that has performed an unexpected function.
 
 "The Knife," his father had said, testing the sound of it. "Yes. That suits you."
 
@@ -24,9 +24,9 @@ He had not been called Baara since.
 
 ---
 
-The Chamber was in the lowest level of the castle, where the stone was oldest and the air tasted of iron and wax and the faint, sweet undertone of Blood Vine, a smell The Knife had learned to associate with mornings the way other men associated mornings with bread.
+The Chamber was in the lowest level of the castle, where the stone was oldest and the air tasted of iron and wax and the faint, sweet undertone of Blood Vine, a smell The Knife had learned to associate with mornings as other men associated mornings with bread.
 
-He descended the stairwell alone. No guards were posted here; the Chamber guarded itself. The walls pulsed faintly with a reddish light that came from the Blood Vine threaded through the stone, a capillary network that ran from every corner of the castle down to this room, feeding and being fed, carrying magic the way veins carry blood. The Knife could feel it in his teeth. He'd always been able to feel it, a low vibration, more pressure than sound, and he'd always assumed it was something everyone felt because he had never been close enough to another person to compare.
+He descended the stairwell alone. No guards were posted here; the Chamber guarded itself. The walls pulsed faintly with a reddish light that came from the Blood Vine threaded through the stone, a capillary network that ran from every corner of the castle down to this room, feeding and being fed, carrying magic as veins carry blood. The Knife could feel it in his teeth. He'd always been able to feel it, a low vibration, more pressure than sound, and he'd always assumed it was something everyone felt because he had never been close enough to another person to compare.
 
 The door was iron, twelve inches thick, operated by a mechanism that responded to a specific combination of Mold magic keyed to three individuals: the King, The Knife, and the chief engineer, who had been dead for six years but whose magical signature had been preserved in an Elder Stone for exactly this purpose. The Knife pressed his palm to the lock. The mechanism turned. The door opened.
 
@@ -34,9 +34,9 @@ Inside: the collection.
 
 Forty-seven individuals, arranged in four rows on stone platforms that lined the Chamber like beds in a ward. Each one was connected to a personal Elder Stone by Blood Vine, the vine entering through the temples and wrists and throat, threading along the body in organized lines, the Elder Stones embedded in the platforms beside each person's head. The Stones pulsed with the same reddish light as the walls, each one draining at a rate calibrated to extract the maximum amount of magical memory without killing the host.
 
-The hosts were alive. Technically. Their hearts beat. Their lungs drew air. Their eyes, in most cases, were open. Staring at nothing, tracking nothing, emptied of everything that had once made them people. A woman from the Core, thick-shouldered, her Molder's hands still calloused even after years of stillness. A man from the Sea, blue-tinged skin, his Guide-sense so thoroughly drained that his body had begun to drift on the platform as if it had forgotten which way was down. A pair of twins from the Canopy, Knowers, both, taken in the same raid, their faces still turned toward each other on adjacent platforms, mouths slightly open, a conversation suspended mid-sentence a decade ago.
+The hosts were alive. Technically. Their hearts beat. Their lungs drew air. Their eyes, in most cases, were open. Staring at nothing, tracking nothing, emptied of everything that had once made them people. A woman from the Core, thick-shouldered, her Molder's hands still calloused even after years of stillness. A man from the Sea, blue-tinged skin, his Guide-sense so thoroughly drained that his body had begun to drift on the platform, forgetting which way was down. A pair of twins from the Canopy, Knowers, both, taken in the same raid, their faces still turned toward each other on adjacent platforms, mouths slightly open, a conversation suspended mid-sentence a decade ago.
 
-The Knife walked the rows. He checked the vine connections. He checked the drain rates on each Elder Stone, reading the pulse-frequency the way a physician reads a heartbeat: fast meant the host was resisting, which meant adjustment; slow meant the host was nearly depleted, which meant replacement. He recorded each reading in a leather-bound log, a new entry every morning, precise, clinical, his handwriting as neat and expressionless as his face.
+The Knife walked the rows. He checked the vine connections. He checked the drain rates on each Elder Stone, reading the pulse-frequency as a physician reads a heartbeat: fast meant the host was resisting, which meant adjustment; slow meant the host was nearly depleted, which meant replacement. He recorded each reading in a leather-bound log, a new entry every morning, precise, clinical, his handwriting as neat and expressionless as his face.
 
 He did not look at their eyes.
 
@@ -62,7 +62,7 @@ She was trying to speak.
 
 The Knife stood very still. He cataloged: elevated awareness inconsistent with recorded drain levels. Motor function beyond baseline. Possible partial recovery, unprecedented, but not theoretically impossible if the drain rate had been miscalibrated. More likely: an anomaly. A dying brain producing a final, meaningless surge of activity.
 
-He watched her mouth move. He tried to read the word. It was not a word he recognized. It was, as far as he could tell, a name. Or a sound shaped like a name. Her eyes were bright. Not with intelligence, exactly, but with something more unsettling. Recognition. As if she knew him, and the fact that her body had been drained to a husk was an inconvenience she was prepared to work around.
+He watched her mouth move. He tried to read the word. It was not a word he recognized. It was, as far as he could tell, a name. Or a sound shaped like a name. Her eyes were bright. Not with intelligence, exactly, but with something more unsettling. Recognition. She knew him. The fact that her body had been drained to a husk was an inconvenience she was prepared to work around.
 
 He recorded the anomaly in the log. _Row 4, Platform 6: Elevated awareness. Motor function. Monitor._
 
@@ -110,7 +110,7 @@ The Knife paused. This was not part of the standard report. "My lord?"
 
 "It hummed."
 
-The Knife waited. Calibration stones were inert. Small Elder Stones, stripped of capacity, used to measure ambient magical density in a region the way a thermometer measures heat. They did not produce sound. Sound required expression, and expression required memory, and the calibration stones had neither.
+The Knife waited. Calibration stones were inert. Small Elder Stones, stripped of capacity, used to measure ambient magical density in a region as a thermometer measures heat. They did not produce sound. Sound required expression, and expression required memory, and the calibration stones had neither.
 
 "Hummed," The Knife repeated.
 
@@ -162,7 +162,7 @@ He tried to remember.
 
 A bird. He'd been young. On a mission. His first outside the castle walls. The Canopy, probably, because there were trees in the memory, or the shape of where trees had been. And a bird, large, crested, with a wingspan that spread wide against the... the what? The sky? Was the sky blue that day or grey? Was it morning or afternoon? Was he alone?
 
-The memory was a room with the furniture removed. The shape was there, walls, floor, ceiling, the outline of where things had been, but the things themselves were gone. He could feel the absence of them the way you feel a missing tooth with your tongue: a space that is defined by what it is not.
+The memory was a room with the furniture removed. The shape was there, walls, floor, ceiling, the outline of where things had been, but the things themselves were gone. He could feel the absence of them as you feel a missing tooth with your tongue: a space that is defined by what it is not.
 
 He knew the feather mattered. He knew it the way he knew his own name, not through reasoning but through something deeper, structural, load-bearing. The feather was his. And he could not remember why.
 

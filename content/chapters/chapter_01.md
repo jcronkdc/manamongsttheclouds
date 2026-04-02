@@ -14,7 +14,7 @@ Aelo tasted smoke in his sleep and woke reaching for a woman he had never met.
 
 His hand closed on nothing. The dark of the room settled around him, familiar, cramped, smelling of dried herbs and the ghost of last night's coals, and the smoke faded from his tongue like a word he'd forgotten before he could speak it. He lay still, breathing, waiting for his heart to slow. Through the thin wall that separated his room from Jalo's, he could hear the old man thrashing. The cot groaned. A bottle knocked against the floor and rolled.
 
-The nightmare was still going. Aelo could feel it the way you feel weather through a window. Not the thing itself but the pressure of it, the charged stillness before the storm breaks. Heat. Panic. A door splintering. And beneath it all, threaded through the terror like a vein of gold through rock, a voice. A woman's voice, high and clear, holding a single note that seemed to push against the walls of the dream the way hands push against a closing door. He didn't know whose voice it was. He had never known. It was always there in Jalo's worst nights, the smoke, the splintering, and the voice, and it always ended the same way: a silence so sudden and so total that it felt like falling.
+The nightmare was still going. Aelo could feel it as you feel weather through a window. Not the thing itself but the pressure of it, the charged stillness before the storm breaks. Heat. Panic. A door splintering. And beneath it all, threaded through the terror like a vein of gold through rock, a voice. A woman's voice, high and clear, holding a single note that seemed to push against the walls of the dream like hands pushing against a closing door. He didn't know whose voice it was. He had never known. It was always there in Jalo's worst nights, the smoke, the splintering, and the voice, and it always ended the same way: a silence so sudden and so total that it felt like falling.
 
 The silence came. Jalo's thrashing stopped. The bottle finished its roll and clinked to rest against the wall.
 
@@ -24,19 +24,19 @@ It was the largest lie Jalo had ever told him, and it wasn't the only one.
 
 ---
 
-Dawn came grey and reluctant through the single window. Aelo rose, dressed in the dark: trousers too short at the ankle, a shirt too wide at the shoulders, everything slightly wrong in the way that clothes are wrong on a body still waiting to become itself. He was fifteen. He felt older. He padded barefoot to the main room.
+Dawn came grey and reluctant through the single window. Aelo rose, dressed in the dark: trousers too short at the ankle, a shirt too wide at the shoulders, everything slightly wrong in the manner of clothes on a body still waiting to become itself. He was fifteen. He felt older. He padded barefoot to the main room.
 
-The cottage was small enough that you could see all of it from anywhere inside it. A stone hearth, hand-built, blackened to a shine by years of use. A table with two chairs, one of which had a leg that Jalo had repaired three times and Aelo had learned to avoid sitting on. Walls hung with trapping equipment, snares, skinning knives, a coil of gut-cord, and shelves lined with jars. Dozens of jars. Glass, clay, stoppered with cork or wax or tightly folded cloth. Each one labeled in Jalo's cramped hand: _Breedlebuck. Fiddleroot. Ironbark. Milkwillow._ Names that Aelo had memorized the way other children memorized prayers, because Jalo had taught him the herbs before he'd taught him to read.
+The cottage was small enough that you could see all of it from anywhere inside it. A stone hearth, hand-built, blackened to a shine by years of use. A table with two chairs, one of which had a leg that Jalo had repaired three times and Aelo had learned to avoid sitting on. Walls hung with trapping equipment, snares, skinning knives, a coil of gut-cord, and shelves lined with jars. Dozens of jars. Glass, clay, stoppered with cork or wax or tightly folded cloth. Each one labeled in Jalo's cramped hand: _Breedlebuck. Fiddleroot. Ironbark. Milkwillow._ Names that Aelo had memorized as other children memorized prayers, because Jalo had taught him the herbs before he'd taught him to read.
 
 "The body remembers what it needs," Jalo had said, years ago, guiding Aelo's small hands across the jars. "Every root, every leaf, every bark: they're just words in a language the body already speaks. You're not adding medicine. You're reminding."
 
 Aelo had liked that. The idea that healing was a kind of remembering. It was one of the few things Jalo said that felt true all the way down, without the faint, sour undertone that accompanied so much of what the old man told him.
 
-He opened the cabinet, locked, always locked, the key on a cord around Jalo's neck even in sleep. He took down the morning jars. Jalo unlocked it each dawn before Aelo woke, the way he did everything essential: silently, without acknowledgment, so that the machinery of their life appeared to run on its own. Three jars for Jalo's tincture: Fiddleroot for the trembling, Ironbark for the bone-ache that came with the cold, Vigor Leaf for the fog that settled behind the old man's eyes after a bad night. He measured and mixed by instinct, hands moving through the routine the way water moves through a channel it has cut for itself over years. The tincture turned the color of weak tea. He set it by Jalo's place at the table.
+He opened the cabinet, locked, always locked, the key on a cord around Jalo's neck even in sleep. He took down the morning jars. Jalo unlocked it each dawn before Aelo woke, as he did everything essential: silently, without acknowledgment, so that the machinery of their life appeared to run on its own. Three jars for Jalo's tincture: Fiddleroot for the trembling, Ironbark for the bone-ache that came with the cold, Vigor Leaf for the fog that settled behind the old man's eyes after a bad night. He measured and mixed by instinct, hands moving through the routine like water through a channel it has cut for itself over years. The tincture turned the color of weak tea. He set it by Jalo's place at the table.
 
 Then: the fourth jar. This one did not live in the cabinet. It sat on the highest shelf above the hearth, apart from the others, in its own shadow. The one jar Jalo kept where Aelo could always reach it. Unmarked. Clay, not glass. Stoppered with black wax that Jalo replaced himself, carefully, every time he opened it, which was every morning without exception. Aelo had been taking its contents in his porridge for as long as he could remember. Jalo told him it was for his stomach, that he'd been a sickly infant, that the herbs settled him, that without them he'd cramp and bloat and spend the day curled on his cot.
 
-It wasn't true. Aelo didn't know what it was, exactly, but he knew, the way he knew Jalo's nightmares, the way he knew when the teacher at school was saying things she didn't believe, that the explanation was wrong. The herbs tasted like chalk and copper and something green that had no name, and they made the world quieter. Not silent. Quieter. As if someone had placed a hand over a bell that was always, faintly, ringing.
+It wasn't true. Aelo didn't know what it was, exactly, but he knew, as he knew Jalo's nightmares, as he knew when the teacher at school was saying things she didn't believe, that the explanation was wrong. The herbs tasted like chalk and copper and something green that had no name, and they made the world quieter. Not silent. Quieter. As if someone had placed a hand over a bell that was always, faintly, ringing.
 
 He spooned the herbs into the porridge. He stirred. He set the bowl at his place.
 
@@ -46,7 +46,7 @@ The old man's face was half-wrapped in stained linen, as it always was. The wrap
 
 Jalo sat. He picked up the tincture. He sniffed it, nodded, the closest thing to praise his mornings allowed, and drank it in two swallows. Then he watched Aelo eat.
 
-This was the part that Aelo noticed only because he had noticed it every morning for fifteen years: the watching. Jalo's eyes on the spoon as it rose. On Aelo's mouth as it opened. Tracking the swallow the way a man tracks a door he expects to open. And then, there, after the first bite went down, the exhale. The fractional release of tension in the old man's shoulders, so slight that a stranger would have missed it entirely. As if the most important thing in Jalo's day had just been accomplished. As if the porridge were the point of everything.
+This was the part that Aelo noticed only because he had noticed it every morning for fifteen years: the watching. Jalo's eyes on the spoon as it rose. On Aelo's mouth as it opened. Tracking the swallow the way a man tracks a door he expects to open. And then, there, after the first bite went down, the exhale. The fractional release of tension in the old man's shoulders, so slight that a stranger would have missed it entirely. The most important thing in Jalo's day had just been accomplished. The porridge was the point of everything.
 
 Aelo ate. The herbs settled in his stomach. The bell quieted. The world pulled back to its usual distance. Close enough to see, far enough to bear.
 
@@ -80,7 +80,7 @@ It happened when she said _lawless_. It happened when she said _safely managed_.
 
 Aelo didn't know what the flinch meant. He didn't know what the Knower Ceremonies actually were, not really. He knew only what the lectures said, that children were tested once a year under the Blue Sun and that those with strong magic were taken to special schools for advanced training. He had never been tested. The ceremony hadn't reached their village in years, which Jalo described as a clerical oversight and which Aelo filed in the room with the rest of the lies.
 
-But the flinch. The quickening. The particular rhythm of a person saying something they don't believe. He knew that the way he knew Jalo's nightmares and the woman's voice in the smoke. And what he felt was this: Halla was afraid of the story she was telling.
+But the flinch. The quickening. The particular rhythm of a person saying something they don't believe. He knew that as he knew Jalo's nightmares and the woman's voice in the smoke. And what he felt was this: Halla was afraid of the story she was telling.
 
 The lecture ended. The children scattered. Aelo lingered, looking at the painted board. The smiling king. The golden throne. The happy children.
 
@@ -94,15 +94,15 @@ He found it at the base of a Canopy elm on his walk home, tucked into the roots 
 
 Aelo knelt. He cupped his hands around the bird and lifted it. It weighed almost nothing. Its heartbeat was a frantic, tiny percussion against his palms, faster than Halla's, faster than Jalo's, faster than anything he'd ever felt. A living thing running out of time.
 
-He wanted to fix it. The wanting was physical: a pressure in his chest, a heat in his palms, an ache that had nothing to do with sympathy and everything to do with the sensation that he was _almost_ close enough to something. As if there were a door in the air between his hands and the bird, and if he could just find the handle, just push in the right place, the wing would remember being whole and the bone would remember being unbroken and the Hopper would fly and everything would be —
+He wanted to fix it. The wanting was physical: a pressure in his chest, a heat in his palms, an ache that had nothing to do with sympathy and everything to do with the sensation that he was _almost_ close enough. As if there were a door in the air between his hands and the bird, and if he could just find the handle, just push in the right place, the wing would remember being whole and the bone would remember being unbroken and the Hopper would fly and everything would be —
 
 Nothing happened.
 
-He concentrated harder. He pressed his hands closer. He thought about the wing, about what it had been before. Straight, strong, full of flight. He tried to see it. He tried to will it. He closed his eyes and reached for something he couldn't name, a thread in the dark, a sound beneath the silence.
+He concentrated harder. He pressed his hands closer. He thought about the wing, about what it had been before. Straight, strong, full of flight. He tried to see it. He tried to will it. He closed his eyes and reached for a thread in the dark, a sound beneath the silence.
 
 The heartbeat stopped.
 
-Not gradually. Not the way a sound fades. It stopped the way a door closes: one moment present, the next absent. And in the absence, Aelo felt something he had never felt before. A flutter. Not the heart. The heart was done. Something else. Something leaving. A dispersal, as if the bird's weight in his hands had been more than physical, as if something that had been held together, compressed, contained, _remembered_, was now letting go. Spreading out. Returning to the air and the soil and the roots of the elm and the sky above the canopy.
+Not gradually. Not the way a sound fades. It stopped the way a door closes: one moment present, the next absent. And in the absence, Aelo felt something he had never felt before. A flutter. Not the heart. The heart was done. A flutter elsewhere. A departure. A dispersal, as if the bird's weight in his hands had been more than physical, as if all that had been held together, compressed, contained, _remembered_, was now letting go. Spreading out. Returning to the air and the soil and the roots of the elm and the sky above the canopy.
 
 The bird's memory, going home.
 
@@ -140,7 +140,7 @@ A longer pause. The hands resumed. The jar went back on the shelf.
 
 "Is that why I feel your nightmares?"
 
-The hands stopped again. This time the pause was not half a second. It was three full breaths. Aelo counted them. When Jalo finally turned, his face, the visible half, was composed. But beneath the composition, beneath the calm, Aelo could feel the pressure. The weather behind the window. Something vast and complicated straining against the old man's ribs.
+The hands stopped again. This time the pause was not half a second. It was three full breaths. Aelo counted them. When Jalo finally turned, his face, the visible half, was composed. But beneath the composition, beneath the calm, Aelo could feel the pressure. The weather behind the window. A vast, complicated pressure straining against the old man's ribs.
 
 "You should sleep," Jalo said.
 
@@ -150,9 +150,9 @@ The hands stopped again. This time the pause was not half a second. It was three
 
 "What question should I have asked?"
 
-Jalo looked at him. And Aelo saw, or felt, the distinction didn't matter, something he had never seen in the old man before: not tension or deflection or the measured calm of a man who had turned lying into a life's work. Something underneath all of it. Something raw.
+Jalo looked at him. And Aelo saw, or felt, the distinction didn't matter, something he had never seen in the old man before. Not tension. Not deflection. Something underneath all of it.
 
-Fear. Jalo was afraid. Not of the nightmares, not of the memory of smoke and splintering wood. Afraid of _this_. Of the boy in the chair. Of the question. Of whatever answer lived behind the door that neither of them had opened.
+Fear. Jalo was afraid of _this_. Of the boy in the chair. Of the question. Of whatever answer lived behind the door that neither of them had opened.
 
 "Go to sleep, Aelo."
 
@@ -162,6 +162,6 @@ Aelo closed his eyes. The herbs were in him, doing their quiet work. The bell wa
 
 But tonight, in the space between waking and sleep, he heard something. Not the woman's voice. That only came through Jalo's nightmares. Something else. Something that had nothing to do with the old man.
 
-A hum. Low, vast, barely perceptible. As if the air itself were vibrating at a frequency just below the threshold of hearing. As if the walls of the cottage, the soil beneath the floor, the roots of the great elms outside, the stone of the hearth. As if everything was making a sound together, a sound so large and so constant that he had been living inside it his entire life without knowing it was there.
+A hum. Low, vast, barely perceptible. The air itself vibrating at a frequency just below the threshold of hearing. The walls of the cottage, the soil beneath the floor, the roots of the great elms outside, the stone of the hearth. Everything making a sound together, a sound so large and so constant that he had been living inside it his entire life without knowing it was there.
 
 The hum held for a breath. Then the herbs pulled it under, and he slept, and the world went on singing to itself in the dark.

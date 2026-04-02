@@ -14,7 +14,7 @@ Dozens. Hundreds. A murmur rising from the roots and falling from the canopy at 
 
 Jalo's grip on his arm was absolute. The old man's fingers were locked around his wrist with a strength that had nothing to do with the trapper Aelo had known for fifteen years. This was a different man. The limp was the same. Everything else had changed.
 
-They crashed through undergrowth. Brambles pulled back. Roots flattened. A low branch swung up and cleared his head by inches. He heard the wood creak, not with effort but with _willingness_. The forest was helping. The whispers grew louder every time the trees moved, as if the helping required coordination, signals passing trunk to trunk.
+They crashed through undergrowth. Brambles pulled back. Roots flattened. A low branch swung up and cleared his head by inches. He heard the wood creak, not with effort but with _willingness_. The forest was helping. The whispers grew louder every time the trees moved, the helping requiring coordination, signals passing trunk to trunk.
 
 "Jalo—"
 
@@ -36,15 +36,15 @@ Aelo didn't know what that meant. He didn't have breath to ask.
 
 ---
 
-They ran for what felt like hours but was probably less than one. Time had become unreliable, stretched in the moments of pure terror, compressed in the moments when the forest closed behind them and the pursuit seemed to fade and the only sound was their breathing and the whispering of the trees. The whispering was getting louder. Not gradually but in steps, like doors opening one after another in a long corridor, each one revealing a room fuller and noisier than the last. The first whispers had been a hiss. Now they were a murmur. Aelo could almost catch words — or not words, exactly, but _shapes_, patterns in the sound that his brain kept trying to parse into meaning the way the eye keeps trying to find faces in clouds.
+They ran for what felt like hours but was probably less than one. Time had become unreliable, stretched in the moments of pure terror, compressed in the moments when the forest closed behind them and the pursuit seemed to fade and the only sound was their breathing and the whispering of the trees. The whispering was getting louder. Not gradually, but in steps, like doors opening one after another in a long corridor, each one revealing a room fuller and noisier than the last. The first whispers had been a hiss. Now they were a murmur. Aelo could almost catch words — or not words, exactly, but _shapes_, patterns in the sound that his brain kept trying to parse into meaning as the eye keeps trying to find faces in clouds.
 
 _Old here. This one is old. Roots deep. Remembers the burning._
 
-He shook his head. He was imagining it. He was terrified and exhausted and his body was full of adrenaline and the herbs, the herbs that quieted the bell, that held the world at arm's length, that kept the silence between him and the thing he almost was, the herbs were failing. He could feel them losing their grip the way you feel a held breath running out: the pressure building, the walls thinning, the held-back thing pressing closer with every heartbeat.
+He shook his head. He was imagining it. He was terrified and exhausted and his body was full of adrenaline and the herbs, the herbs that quieted the bell, that held the world at arm's length, that kept the silence between him and the thing he almost was, the herbs were failing. He could feel them losing their grip as you feel a held breath running out: the pressure building, the walls thinning, the held-back thing pressing closer with every heartbeat.
 
 The bell was ringing.
 
-Not metaphorically. Not the faint, conceptual bell that he'd used to describe the sensation to himself for years. An actual frequency. A vibration in his sternum, in his teeth, in the small bones of his inner ear. The world was producing a sound, and the herbs had been standing between him and that sound for fifteen years, and now the herbs were metabolizing through his system faster than they could hold — burned off by the running, by the terror, by whatever the Elder Stone had done to him when it sang, and the sound was bleeding through.
+Not metaphorically. Not the faint, conceptual bell that he'd used to describe the sensation to himself for years. An actual frequency. A vibration in his sternum, in his teeth, in the small bones of his inner ear. The world was producing a sound, and the herbs had been standing between him and that sound for fifteen years, and now the herbs were metabolizing through his system faster than they could hold — burned off by the running, by the terror, by what the Elder Stone had done to him when it sang, and the sound was bleeding through.
 
 Jalo's knee gave without warning.
 
@@ -60,21 +60,19 @@ Aelo stopped. He turned. He reached for Jalo and the old man's hand came up, not
 
 "I'm not leaving you."
 
-The words came out with a force that surprised both of them. Not loud, Aelo did not shout, but solid. Dense. The first sentence he had spoken in his life that felt like it came from the same place as the bell. Jalo looked up at him from the ground, his exposed scars catching the faint light that filtered through the canopy, and his expression changed. Not the composed half-face of the liar. Not the careful blankness of a man managing a secret. Something new. Something broken open.
+The words came out with a force that surprised both of them. Not loud, Aelo did not shout, but solid. Dense. The first sentence he had spoken in his life that felt like it came from the same place as the bell. Jalo looked up at him from the ground, his exposed scars catching the faint light that filtered through the canopy, and his expression changed. Not the composed half-face of the liar or the careful blankness of a man managing a secret. Something broken open.
 
 "You sound like her," Jalo said.
 
-The words fell between them like a stone into water. Aelo felt the ripples.
+The words fell between them like a stone into still water. Aelo felt the ripples.
 
 "Like who?"
 
-Jalo closed his eyes. His chest heaved. When he opened them, the composure was gone. Not stripped away but surrendered, released, the way Fletcher had released his memories into the stone. Voluntarily. Because the cost of holding on had finally exceeded the cost of letting go.
+Jalo closed his eyes. His chest heaved. When he opened them, the composure was gone. Not stripped away but surrendered, released as Fletcher had released his memories into the stone. Voluntarily. Because the cost of holding on had finally exceeded the cost of letting go.
 
 "Help me up," he said. "And I'll tell you."
 
----
-
-The hollow was a wound in the base of a Canopy elm, a split in the trunk where lightning had struck decades ago and the tree had healed around the absence, creating a space large enough for two men to sit with their backs against the interior wall and their knees drawn up and the night pressing in from outside like a held breath. Jalo's staff leaned against the entrance. The markings glowed faintly, a low amber pulse that served as their only light and that Aelo now understood was not decorative and had never been decorative and that Jalo's lie about it had been, in retrospect, the most transparent of all his lies, because who decorates a cane with symbols that glow in the dark?
+The hollow was a wound in the base of a Canopy elm, a split in the trunk where lightning had struck decades ago. The tree had healed around the absence, creating a space large enough for two men to sit with their backs against the interior wall and their knees drawn up and the night pressing in from outside like a held breath. Jalo's staff leaned against the entrance. The markings glowed faintly, a low amber pulse that served as their only light and that Aelo now understood was not decorative and had never been decorative and that Jalo's lie about it had been, in retrospect, the most transparent of all his lies, because who decorates a cane with symbols that glow in the dark?
 
 Jalo sat with his bad knee extended, his hands resting on his thighs, his face — the full face, both sides, the linen hanging loose around his neck — visible for the first time in Aelo's waking memory. The scars were worse in the amber light. The ridges cast shadows. The melted brow gave his left eye a quality of permanent surprise, as if one half of his face were perpetually reacting to something the other half had already accepted.
 
@@ -84,11 +82,11 @@ Jalo sat with his bad knee extended, his hands resting on his thighs, his face �
 
 "From your mother. From a burning room in a palace above the Clouds. From a woman who was singing your name while the door came down."
 
-The whispering of the trees pressed against the walls of the hollow. Aelo could hear them more clearly now — not words, still, but closer to words, the way dawn is closer to day. He focused on Jalo's face. He focused on the voice. He needed the voice more than he needed the sound of the world waking up around him.
+The whispering of the trees pressed against the walls of the hollow. Aelo could hear them more clearly now — not words, still, but closer to words, as dawn is closer to day. He focused on Jalo's face. He focused on the voice. He needed the voice more than he needed the sound of the world waking up around him.
 
 "My name is not Jalo Soturi," the old man said. "It was, for fifteen years. Before that, it was Halvar Eld. I was a Captain of the Vael Guard — the last Captain, as it turned out. The Guard protected the royal family of the Cloud Kingdom. We served King Aldric. Your father."
 
-The words arrived in Aelo's mind the way the Elder Stone's note had arrived in the ceremony square: not through hearing but through the chest. They rearranged something.
+The words arrived in Aelo's mind as the Elder Stone's note had arrived in the ceremony square: not through hearing but through the chest. They rearranged something.
 
 "The Cloud Kingdom doesn't exist," he said. "The history says—"
 
@@ -126,13 +124,13 @@ The crack widened. Jalo's hands, which had been still on his thighs, began to tr
 
 "Prince Vero. Your brother. He was taken before I could reach him. Varas has him. Varas has your father. They are alive, I believe they are alive, imprisoned in the lowest level of the castle, behind a door that no magic can open."
 
-The locked door. The warm stone. The breathing. The words on a loop, spoken at a volume below hearing. Aelo did not know any of this — had never been inside the castle, had never seen the Chamber — and yet the image surfaced in his mind with the vividness of a memory rather than an imagination, as if the information had been waiting in his blood for the right moment to surface.
+The locked door. The warm stone. The breathing. The words on a loop, spoken at a volume below hearing. Aelo did not know any of this — had never been inside the castle, had never seen the Chamber — and yet the image surfaced in his mind with the vividness of a memory rather than an imagination, the information waiting in his blood for the right moment to surface.
 
 "Why are you telling me this now?"
 
-"Because the stone sang." Jalo's eyes were wet. Not crying — the mechanism was worn down, as Aelo had observed through the door — but wet, the minimum physical response to a maximum emotional load. "Fifteen years of herbs. Fifteen years of silence. And a calibration stone hummed when you walked past it last month. I increased the dosage. I thought — I hoped — it was an anomaly. That the suppression would hold. That we had more time." He looked at Aelo with the full weight of his ruined face. "We don't have more time. The Elder Stone sang for you today in front of twelve soldiers and a Mrak captain, and by tomorrow every tracker in Varas's kingdom will know where to look."
+"Because the stone sang." Jalo's eyes were wet. Not crying, the mechanism was worn down, but wet, the minimum physical response to a maximum emotional load. "Fifteen years of herbs. Fifteen years of silence. And a calibration stone hummed when you walked past it last month. I increased the dosage. I thought — I hoped — it was an anomaly. That the suppression would hold. That we had more time." He looked at Aelo with the full weight of his ruined face. "We don't have more time. The Elder Stone sang for you today in front of twelve soldiers and a Mrak captain, and by tomorrow every tracker in Varas's kingdom will know where to look."
 
-The forest was loud. The whispering had become a conversation — not between the trees and Aelo, not yet, but among the trees themselves, as if the Canopy were discussing the two men in the hollow the way a village discusses a fire: urgently, with concern, with the particular quality of attention that living things give to events that affect them directly.
+The forest was loud. The whispering had become a conversation — not between the trees and Aelo, not yet, but among the trees themselves, as if the Canopy were discussing the two men in the hollow as a village discusses a fire: urgently, with concern, with the particular quality of attention that living things give to events that affect them directly.
 
 Aelo sat in the amber light and felt the world he had known — the cottage, the porridge, the lies, the routine, the bell and the herbs and the careful distance between himself and everything, come apart. Not violently. Not the way the ceremony square had come apart, with singing and light and the earth rearranging itself. Quietly. Like a knot untying itself.
 
@@ -140,13 +138,11 @@ He thought of the Hopper in his hands. The dispersal. The memory going home.
 
 His old life was doing the same thing.
 
----
-
 Dawn came grey through the canopy. Jalo had slept, or lost consciousness, the distinction unclear, slumped against the interior of the hollow with his mouth open and his scarred face slack and his hands still trembling even in sleep. The staff's amber glow had dimmed to a faint pulse, in time with the old man's breathing.
 
 Aelo had not slept. He had sat in the dark and listened to the world and the world had not stopped talking.
 
-The whispering had evolved through the night — a slow, inexorable clarification, like eyes adjusting to darkness. What had been murmur was now texture. What had been texture was now detail. He could not understand the trees — not in words, not in any way he could translate — but he could feel them. Each one distinct. Each one _old_ in its own specific way, carrying its own particular accumulation of experience the way a person carries a face: uniquely, unrepeatable, the product of every wind and rain and season and root-push and branch-break that had ever happened to it. The elm they sheltered in was ancient. He could feel its depth the way you feel the depth of a well when you lean over the edge and the darkness goes down further than you expected. It had stood here for centuries. It remembered.
+The whispering had evolved through the night — a slow, inexorable clarification, like eyes adjusting to darkness. What had been murmur was now texture. What had been texture was now detail. He could not understand the trees — not in words, not in any way he could translate — but he could feel them. Each one distinct. Each one _old_ in its own specific way, carrying its own particular accumulation of experience as a person carries a face: uniquely, unrepeatable, the product of every wind and rain and season and root-push and branch-break that had ever happened to it. The elm they sheltered in was ancient. He could feel its depth the way you feel the depth of a well when you lean over the edge and the darkness goes down further than you expected. It had stood here for centuries. It remembered.
 
 Everything remembered. The soil knew the roots that had passed through it. The air held the shapes of birds that had displaced it. The moss on the bark remembered the rain that had fed it and the sun that had dried it and the quality of light that filtered through the canopy at this angle on this morning at this time of year.
 
@@ -154,7 +150,7 @@ The world was not quiet. The world had never been quiet. The quiet had been him.
 
 Jalo's pack, grabbed in the seconds before the flight, slung over his shoulder with the practiced efficiency of a man who had packed for this exact scenario many times in his mind, sat between them. Aelo could see the shape of the jar inside it. The unmarked clay jar. The black wax seal. The herbs that tasted like chalk and copper and the end of everything beautiful.
 
-Jalo stirred. His eyes opened, both of them, the clear one and the scarred one, and found Aelo immediately, the way they always did, the way they had every morning for fifteen years. Searching. Measuring. The habitual assessment of a guardian who has trained himself to check for danger before he checks for anything else.
+Jalo stirred. His eyes opened, both of them, the clear one and the scarred one, and found Aelo immediately, the way they always did, as they had every morning for fifteen years. Searching. Measuring. The habitual assessment of a guardian who has trained himself to check for danger before he checks for anything else.
 
 "The porridge," Jalo said. His voice was thick with sleep and pain and the particular roughness that comes from crying in the night when you think no one can hear you. "In the pack. The jar. You need to—"
 
@@ -184,11 +180,11 @@ The logic landed. Aelo could see it land — the slight widening of Jalo's eyes,
 
 "Can you hear what I'm thinking?" Jalo asked. The question was careful, clinical. The voice of a man conducting an assessment he had dreaded for fifteen years.
 
-Aelo reached. He tried. Jalo's emotional weather was right there, the fear, the guilt, the copper-tasting love, but the weather was all surface and direction, like seeing smoke without seeing the fire. He could feel that Jalo was afraid. He could not feel what the fear was _about_. The content was locked inside the man's skull, inaccessible, the way the words of a song are inaccessible when you can only hear the melody through a wall.
+Aelo reached. He tried. Jalo's emotional weather was right there, the fear, the guilt, the copper-tasting love, but the weather was all surface and direction, like seeing smoke without seeing the fire. He could feel that Jalo was afraid. He could not feel what the fear was _about_. The content was locked inside the man's skull, inaccessible, as the words of a song are inaccessible when you can only hear the melody through a wall.
 
 "No," Aelo said. "I can feel what you feel. The shape of it. The weight. But not the words. Not the reasons."
 
-"Good." The word carried relief so sharp Aelo tasted it. "That's the Know. The discipline of emotional perception. Not thought, not memory, not the private architecture of a person's mind. The weather. The pressure. The temperature of what someone is feeling, and the direction the feeling is moving. A Knower who could read thoughts would be a weapon. The Know is not a weapon. It is a window, and the window shows you the sky, not the rooms behind it."
+"Good." The word carried relief so sharp Aelo tasted it. "That's the Know. The discipline of emotional perception. Not thought or memory or the private architecture of a person's mind. The weather. The pressure. The temperature of what someone is feeling, and the direction the feeling is moving. A Knower who could read thoughts would be a weapon. The Know is not a weapon. It is a window, and the window shows you the sky, not the rooms behind it."
 
 Jalo stared at him. The morning light caught the scars and made them look like a map, a terrain of choices, each ridge and valley the physical record of a decision that had cost something and that the man who made it had decided, in the calculus of love and terror, was worth the price.
 
