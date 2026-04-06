@@ -10,7 +10,7 @@ The Knife held it in his palm and felt nothing. The physical properties were int
 
 It meant nothing.
 
-He searched. The ritual demanded it — the nightly discipline of checking, of reaching for the story the way a tongue reaches for a missing tooth. A river. He had found it in a river. He knew this as a fact — a data point, filed, labeled, stripped of every contextual detail that had once made it a memory rather than an entry in a log. Which river. When. Why he had bent down. Why the choosing had mattered. Why the taking had felt like — the word was gone. The taking had felt like something. The something was gone. The stone was a stone, and the stone was in his hand. The hand did not know why it was holding it. The not-knowing was not grief but inventory.
+He searched. The ritual demanded it — the nightly discipline of checking, of reaching for the story as a tongue reaches for a missing tooth. A river. He had found it in a river. He knew this as a fact — a data point, filed, labeled, stripped of every contextual detail that had once made it a memory rather than an entry in a log. Which river. When. Why he had bent down. Why the choosing had mattered. Why the taking had felt like — the word was gone. The taking had felt like something. The something was gone. The stone was a stone, and the stone was in his hand. The hand did not know why it was holding it. The not-knowing was not grief but inventory.
 
 Two items left with stories. The feather. The glass.
 
@@ -18,18 +18,18 @@ He placed the stone in the box. Blank, beside the cloth and the flower — three
 
 ---
 
-The camp was at the base of the mountains. The Flash Rat had gone silent — not calm but overwhelmed, the animal's neural circuitry having reached a state of sustained overload that presented not as screaming but as a low, continuous vibration, the body trembling, the eyes fixed upward, the nostrils flaring at a rate that suggested the animal was processing more olfactory data per second than its brain could catalog. The boy was above them. In the Clouds. The Flash Rat could feel him the way a compass feels north — not as direction but as orientation, the animal's entire being reoriented toward a signal that was no longer a scent trail but a presence, a saturation in the air and the stone and the memory of the mountain that was so dense the animal could not distinguish the boy from the world the boy was walking through.
+The camp was at the base of the mountains. The Flash Rat had gone silent — not calm but overwhelmed, the animal's neural circuitry having reached a state of sustained overload that presented not as screaming but as a low, continuous vibration, the body trembling, the eyes fixed upward, the nostrils flaring at a rate that suggested the animal was processing more olfactory data per second than its brain could catalog. The boy was above them. In the Clouds. The Flash Rat could feel him as a compass feels north — not as direction but as orientation, the animal's entire being reoriented toward a signal that was no longer a scent trail but a presence, a saturation in the air and the stone and the memory of the mountain that was so dense the animal could not distinguish the boy from the world the boy was walking through.
 
-They could not reach the Clouds without flying. The Saddle Bird unit — three birds, handlers, a logistics officer — was two days behind. The Knife had sent for them at the coast. He had been told to wait. Waiting was not his preferred operational mode. Waiting implied that the quarry had time, and time was the one resource that The Knife understood because he was running out of it.
+They could not reach the Clouds without flying. The Saddle Bird unit — three birds, handlers, a logistics officer, was two days behind. The Knife had sent for them at the coast. He had been told to wait. Waiting was not his preferred operational mode. Waiting implied that the quarry had time, and time was the one resource that The Knife understood because he was running out of it.
 
 He sat at the fire. The soldiers maintained the perimeter — Drell efficient, the Volcano troops steady, the young one still quiet. The young soldier had not spoken about his daughter since the Canopy. The silence had spread from the personal to the professional — the man performed his duties, maintained his equipment, took his shifts. He did not tell stories. The stories had been cooled by something that none of them could name but all of them could feel: the wrongness. The growing, ambient, impossible-to-articulate wrongness of hunting a target that left music in the ground.
 
 The Ming tracker sat across the fire.
 
-She was thin — thinner than when they had left the castle, the weeks of march reducing a body that had not been substantial to begin with. Her name was Sera. The Knife had not used her name in the operational logs — she was listed as "Asset: Know-Tracker, Ming-Trained, Conscripted" — because names created connections and connections created vulnerabilities and vulnerabilities were the one thing an operational commander could not afford. He had not asked how she had been conscripted. He had not asked whether the flat black eyes held the resistance or the resignation of a person serving an empire she did not believe in.
+She was thin — thinner than when they had left the castle, the weeks of march reducing a body that had not been substantial to begin with. Her name was Sera. The Knife had not used her name in the operational logs — she was listed as "Asset: Know-Tracker, Ming-Trained, Conscripted", because names created connections and connections created vulnerabilities and vulnerabilities were the one thing an operational commander could not afford. He had not asked how she had been conscripted. He had not asked whether the flat black eyes held the resistance or the resignation of a person serving an empire she did not believe in.
 She was looking at him.
 
-Not casually — not the glance of a soldier checking on a commanding officer. Looking. The flat black eyes — the expanded pupils, the depthless Ming black — were fixed on him with a quality that The Knife recognized from the briefings about Know-practitioners: the volumetric gaze. The seeing that went deeper than surface. The attention that read not the face but the scaffolding beneath the face.
+Not casually — not the glance of a soldier checking on a commanding officer. Looking. The flat black eyes, the expanded pupils, the depthless Ming black, were fixed on him with a quality that The Knife recognized from the briefings about Know-practitioners: the volumetric gaze. The seeing that went deeper than surface. The attention that read not the face but the scaffolding beneath the face.
 
 She was Knowing him.
 
@@ -51,13 +51,13 @@ She did not speak for an hour. The fire burned. The soldiers rotated. The Flash 
 
 Then she spoke.
 
-"The mark on your neck." Her voice was flat. Not calm — flattened. The distinction was significant: calm was the absence of agitation; flat was the suppression of it. She was not calm. She was managing. "The one you think is a birthmark."
+"The mark on your neck." Her voice was flat. Not calm. Flattened. The distinction was significant: calm was the absence of agitation; flat was the suppression of it. She was not calm. She was managing. "The one you think is a birthmark."
 
 The Knife's hand went to his neck. Involuntary — the first involuntary movement his body had produced in years. The mark was there, where it had always been: a small, raised patch of skin at the base of his skull, slightly darker than the surrounding tissue, roughly oval, the size of a thumbprint. He had been told it was a birthmark. He had been told this by the castle physicians, by the tutors, by his father. He had not questioned it because birthmarks were not operational data and non-operational data was not worth questioning.
 
-Except. Three weeks ago. The Elder Stone. The note. The half-second of being part of something. In that half-second — in the clarity, in the completeness, in the brief and devastating and irreplaceable experience of the bridge existing — he had felt the mark. Not as skin. As a connection. A thread. Thin, cold, running from the mark to somewhere else, and the somewhere else was the castle, and the castle was his father, and the thread was pulling, and the pulling was the reason his memories were leaving.
+Except. Three weeks ago. The Elder Stone. The note. The half-second of being part of something. In that half-second — in the clarity, in the completeness, in the brief and devastating and irreplaceable experience of the bridge existing, he had felt the mark. Not as skin. As a connection. A thread. Thin, cold, running from the mark to somewhere else, and the somewhere else was the castle, and the castle was his father, and the thread was pulling, and the pulling was the reason his memories were leaving.
 
-He had known since the Elder Stone. He had filed the knowing with the other unfiled data — the note, the half-second, the feeling of being part of something — in the place where operational assessments that could not be operationalized were stored. He had not acted on it because acting required a framework for refusal, and the framework did not exist, and the not-existing was the point.
+He had known since the Elder Stone. He had filed the knowing with the other unfiled data — the note, the half-second, the feeling of being part of something, in the place where operational assessments that could not be operationalized were stored. He had not acted on it because acting required a framework for refusal, and the framework did not exist, and the not-existing was the point.
 
 "Have you ever asked anyone what it is?" Sera said.
 
@@ -65,7 +65,7 @@ He had known since the Elder Stone. He had filed the knowing with the other unfi
 
 "You should."
 
-She stood. She walked away from the fire. She did not look back. Her body language — the straight spine, the controlled stride, the deliberate not-looking — was the body language of a person who has said the thing she came to say and is now managing the consequences of the saying, which include: guilt for not saying more, relief for not saying less.
+She stood. She walked away from the fire. She did not look back. Her body language — the straight spine, the controlled stride, the deliberate not-looking, was the body language of a person who has said the thing she came to say and is now managing the consequences of the saying, which include: guilt for not saying more, relief for not saying less.
 
 The Knife sat at the fire. His hand was still on the mark. Beneath his fingers, through the skin, he could feel it: a pulse. Faint, rhythmic, synchronized with something that was not his heartbeat. A second rhythm, laid over his own, the two beats out of phase by a fraction of a second — just enough to be perceptible, just enough to confirm that the second beat was external, that the rhythm was not his body's but someone else's, someone far away, someone who was connected to him through a thread that ran from the base of his skull through the stone of the mountains and the dead earth of the Murkr and the Vine-threaded walls of the castle to a throne where a man sat and drained and felt nothing and called the draining _governance_ and called the nothing _godhood_ and called the thread _administrative necessity_ and called the son _Reserve Supply 7_.
 
@@ -73,7 +73,7 @@ He did not know the label. Not yet. The label was in his father's internal taxon
 
 But he felt the pulse. And the pulse was the truth that the tracker had seen and could not say and had said anyway, in two sentences, because two sentences were all that a conscripted Ming woman with a professional conscience and a survival instinct could afford to spend on a man who was being eaten alive by his father and who had filed the eating under _operational parameters_.
 
-The Knife took his hand from the mark. He opened the box. He looked at the five objects — two blank, one fading, two still carrying the diminishing stories that were his only evidence of having been a person rather than a function.
+The Knife took his hand from the mark. He opened the box. He looked at the five objects — three blank, two still carrying the diminishing stories that were his only evidence of having been a person rather than a function.
 
 The feather. Blue. A bird. A boy of nine. The silhouette, backlit, the face in shadow. The word _beautiful_ standing in for the experience it described. Fading. But not gone. Not yet.
 
