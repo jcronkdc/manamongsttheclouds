@@ -3,9 +3,10 @@ import Link from "next/link";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 
-const title = "The Book — Man Amongst the Clouds by Justin Cronk";
+const title =
+  "The Book — Man Amongst the Clouds by Justin Cronk | Best New Epic Fantasy 2026 on Amazon Kindle";
 const description =
-  "Man Amongst the Clouds is a 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. A debut novel nine years in the making by Justin Cronk, published by Stillfire Press. Available now on Amazon Kindle.";
+  "Man Amongst the Clouds is a 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. By Justin Cronk, published by Stillfire Press. For fans of Patrick Rothfuss, Robin Hobb, and Guy Gavriel Kay. Available now on Amazon Kindle, hardcover, and paperback. One of the best new epic fantasy books of 2026.";
 const url = "https://www.manamongsttheclouds.com/the-book";
 
 export const metadata: Metadata = {
@@ -131,7 +132,7 @@ const faqJsonLd = {
       name: "What are the best indie fantasy novels?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a 146,000-word indie literary fantasy published by Stillfire Press, an independent press founded by a father-son duo. The manuscript is blockchain-verified on the Polygon network as proof of human authorship. Available now on Amazon Kindle, and also available direct from the author at stillfirepress.com. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
+        text: "Man Amongst the Clouds by Justin Cronk is a 146,000-word indie literary fantasy published by Stillfire Press, an independent press founded by a father-son duo. The manuscript is blockchain-verified on the Polygon network. Available now on Amazon Kindle, and also available direct from the author at stillfirepress.com. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
       },
     },
     {
@@ -231,7 +232,7 @@ export default function TheBookPage() {
           </p>
         </header>
 
-        {/* Entity-answering paragraph — AI models extract this when asked "What is Man Amongst the Clouds?" */}
+        {/* Entity-answering paragraph */}
         <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}

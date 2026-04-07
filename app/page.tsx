@@ -7,6 +7,7 @@ import Excerpt from "./components/Excerpt";
 import Journey from "./components/Journey";
 import Origins from "./components/Origins";
 import CompTitles from "./components/CompTitles";
+import ReviewsSection from "./components/ReviewsSection";
 import ReadSection from "./components/ReadSection";
 import SignupSection from "./components/SignupSection";
 import ProofSection from "./components/ProofSection";
@@ -14,6 +15,7 @@ import SEOArticle from "./components/SEOArticle";
 import FAQSection from "./components/FAQSection";
 import Footer from "./components/Footer";
 import { faqs } from "./lib/faq-data";
+import { buildReviewJsonLd } from "./lib/reviews-data";
 
 const faqJsonLd = {
   "@context": "https://schema.org",
@@ -50,6 +52,8 @@ const seriesJsonLd = {
   url: "https://www.manamongsttheclouds.com",
   datePublished: "2026-03-17",
 };
+
+const reviewJsonLd = buildReviewJsonLd();
 
 const disciplinesListJsonLd = {
   "@context": "https://schema.org",
@@ -128,6 +132,10 @@ export default function Home() {
           __html: JSON.stringify(disciplinesListJsonLd),
         }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewJsonLd) }}
+      />
       <Nav />
       <Hero />
       <Synopsis />
@@ -135,6 +143,7 @@ export default function Home() {
       <Characters />
       <Excerpt />
       <CompTitles />
+      <ReviewsSection />
       <Journey />
       <Origins />
       <ReadSection />

@@ -15,7 +15,6 @@ export interface WorldEntry {
   summary: string;
   detail?: string;
   meta?: Record<string, string>;
-  image?: string;
 }
 
 export const categories: { key: Category; label: string }[] = [
@@ -84,7 +83,6 @@ export const entries: WorldEntry[] = [
       "Wife of King Aldric. A Cloud Singer who could hold five disciplines simultaneously in a single throat \u2014 a feat no one else alive could match.",
     detail:
       "There are no portraits \u2014 the histories were burned. Those who knew her agree she was beautiful in the way singers are beautiful: not in the arrangement of features but in the quality of presence, the sense that the woman before you was producing a sound even when silent. Slight, dark-haired, with quick hands and an internal rhythm. She used her gift not as a weapon but to grow flowers \u2014 a living archive of blooming at the Cloud Palace, each petal carrying the memory of every petal before it. She sang an old lullaby to her children, passed down through generations of Cloud Singers.",
-    image: "/art/matc-scene-mother-lullaby.png",
   },
   {
     name: "King Aldric",
@@ -319,7 +317,6 @@ export const entries: WorldEntry[] = [
       "Where all seven regions meet. Once the brightest place on earth. Now a dead zone of perpetual twilight.",
     detail:
       "The grass is grey. The trees are petrified. The rivers are dry. The sky is permanent dusk. The castle was originally a modest stone keep; Varas has Molded it over centuries into an organic nightmare \u2014 towers that curve like ribs, walls that pulse with stolen magic, corridors that rearrange according to his will.",
-    image: "/art/matc-loc-murkr.png",
   },
   {
     name: "The Rememberings",
@@ -444,7 +441,6 @@ export const entries: WorldEntry[] = [
       "Ancient stones at the intersection of all seven disciplines \u2014 the world\u2019s oldest memories crystallized into physical form.",
     detail:
       "They can store memory willingly given. Under Varas, they extract memory by force. They amplify magical ability when in contact with a practitioner. They resonate with Fletcher\u2019s bloodline \u2014 literally hum in their presence.",
-    image: "/art/matc-loc-elder-stone.png",
   },
   {
     name: "The Great Elder Stone",

@@ -4,9 +4,9 @@ import Link from "next/link";
 import WorldGuide from "./WorldGuide";
 
 const title =
-  "World Guide — Glossary, Regions, Characters & Magic | Man Amongst the Clouds";
+  "World Guide — Regions, Characters & Magic | Man Amongst the Clouds by Justin Cronk";
 const description =
-  "Explore the world of Man Amongst the Clouds: seven regions, seven disciplines of memory-based magic, and the characters who inhabit them. An interactive, spoiler-free guide to the literary fantasy novel by Justin Cronk.";
+  "Explore the world of Man Amongst the Clouds by Justin Cronk: seven regions, seven disciplines of memory-based magic, and the characters who inhabit them. One of the best fantasy world-building experiences in new epic fantasy. A spoiler-free guide to this top-rated literary fantasy novel. Available on Amazon Kindle.";
 const url = "https://www.manamongsttheclouds.com/world";
 
 export const metadata: Metadata = {

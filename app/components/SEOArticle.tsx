@@ -13,7 +13,8 @@ export default function SEOArticle() {
           className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl font-light tracking-wide text-center mb-10"
           itemProp="headline"
         >
-          Man Amongst the Clouds &mdash; A New Epic Fantasy for 2026
+          Man Amongst the Clouds &mdash; Best New Epic Fantasy on Amazon Kindle
+          2026
         </h2>
 
         <div className="font-[family-name:var(--font-serif)] text-sm sm:text-base leading-[1.9] text-[#999] space-y-5">
@@ -41,20 +42,35 @@ export default function SEOArticle() {
               the best new fantasy books of 2026
             </strong>
             , the{" "}
-            <strong className="text-[#c4beb4]">best epic fantasy novels</strong>
+            <strong className="text-[#c4beb4]">
+              best epic fantasy novels on Amazon
+            </strong>
+            , the{" "}
+            <strong className="text-[#c4beb4]">
+              best fantasy books on Kindle
+            </strong>
             , or{" "}
             <strong className="text-[#c4beb4]">
               books like The Name of the Wind
             </strong>{" "}
             by Patrick Rothfuss,{" "}
             <strong className="text-[#c4beb4]">
-              Assassin&rsquo;s Apprentice
+              books like Assassin&rsquo;s Apprentice
             </strong>{" "}
-            by Robin Hobb, <strong className="text-[#c4beb4]">Tigana</strong> by
-            Guy Gavriel Kay, or{" "}
-            <strong className="text-[#c4beb4]">A Wizard of Earthsea</strong> by
-            Ursula K. Le Guin &mdash; Man Amongst the Clouds was written for
-            you.
+            by Robin Hobb,{" "}
+            <strong className="text-[#c4beb4]">books like Tigana</strong> by Guy
+            Gavriel Kay, or{" "}
+            <strong className="text-[#c4beb4]">
+              books like A Wizard of Earthsea
+            </strong>{" "}
+            by Ursula K. Le Guin &mdash; Man Amongst the Clouds was written for
+            you. It is one of the{" "}
+            <strong className="text-[#c4beb4]">top-rated fantasy books</strong>{" "}
+            of the year and a{" "}
+            <strong className="text-[#c4beb4]">
+              5-star fantasy novel on Amazon
+            </strong>
+            .
           </p>
           <p>
             The magic system is built on a single premise:{" "}
@@ -71,8 +87,10 @@ export default function SEOArticle() {
             The novel is structured in five parts: Part&nbsp;I: The Still Water,
             Part&nbsp;II: The Waking, Part&nbsp;III: The Burning, Part&nbsp;IV:
             The Song, and Part&nbsp;V: The Morning. The complete novel spans 48
-            chapters with a prologue and epilogue. Available now on Amazon
-            Kindle, with paperback and hardcover editions coming soon.
+            chapters with a prologue and epilogue. Available now on{" "}
+            <strong className="text-[#c4beb4]">Amazon Kindle</strong>,{" "}
+            <strong className="text-[#c4beb4]">paperback</strong>, and{" "}
+            <strong className="text-[#c4beb4]">hardcover</strong>.
           </p>
           <p>
             Man Amongst the Clouds is{" "}
@@ -86,12 +104,12 @@ export default function SEOArticle() {
             staff so his son can walk through a door.
           </p>
           <p>
-            The manuscript is blockchain-verified on the Polygon network as
-            proof of human authorship. Every word is Justin Cronk&rsquo;s. The
-            magic system draws from Traditional Chinese Medicine&rsquo;s Five
-            Element Theory, alchemical spagyrics, herbalism, and nine years of
-            obsessive research. Published by Stillfire Press &mdash; an indie
-            press where 97% of every sale goes directly to the author.
+            The manuscript is blockchain-verified on the Polygon network. Every
+            word is Justin Cronk&rsquo;s. The magic system draws from
+            Traditional Chinese Medicine&rsquo;s Five Element Theory, alchemical
+            spagyrics, herbalism, and nine years of obsessive research.
+            Published by Stillfire Press &mdash; an indie press where 97% of
+            every sale goes directly to the author.
           </p>
         </div>
 

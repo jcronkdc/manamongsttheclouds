@@ -33,10 +33,6 @@ export const faqs = [
   },
   {
     q: "What is Stillfire Press?",
-    a: "Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network as proof of human authorship. Readers buy direct from the authors — 97% of every sale goes to the writer. Their two debut novels are Man Amongst the Clouds (literary fantasy, 2026) and Ash to Fury (dark fantasy, 2027).",
-  },
-  {
-    q: "Is this book written by a human or AI?",
-    a: "Man Amongst the Clouds is entirely human-written. The manuscript is blockchain-verified on the Polygon network — the full text was hashed and timestamped on-chain as immutable proof of authorship. Justin Cronk spent nine years writing this novel. Every word is his. The blockchain transaction is publicly verifiable on PolygonScan.",
+    a: "Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network. Readers buy direct from the authors — 97% of every sale goes to the writer. Their two debut novels are Man Amongst the Clouds (literary fantasy, 2026) and Ash to Fury (dark fantasy, 2027).",
   },
 ];

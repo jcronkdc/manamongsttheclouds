@@ -4,7 +4,7 @@ import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 
 const title =
-  "Press Kit — Man Amongst the Clouds by Justin Cronk | Stillfire Press";
+  "Press Kit — Man Amongst the Clouds by Justin Cronk | Stillfire Press | Best New Fantasy 2026";
 const description =
   "Press kit for Man Amongst the Clouds, a 146,000-word literary fantasy debut by Justin Cronk. Published by Stillfire Press on March 17, 2026. Available now on Amazon Kindle. Magic is memory. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Includes book details, author bio, comparable titles, and media-ready descriptions.";
 const url = "https://www.manamongsttheclouds.com/press";
@@ -464,13 +464,6 @@ export default function PressPage() {
               </a>
               , Carter&rsquo;s dark fantasy debut &mdash; currently in progress
               with a 2027 release.
-            </p>
-            <p>
-              Every Stillfire Press manuscript is cryptographically hashed and
-              recorded on the Polygon blockchain before a single copy is sold.
-              When readers buy from Stillfire Press, 97% of every sale goes
-              directly to the author. No middlemen. No distributor markup. Human
-              stories, verified and sold direct.
             </p>
           </div>
         </section>

@@ -6,8 +6,7 @@ export default function ProofSection() {
           Proof of Authorship
         </h2>
         <p className="font-[family-name:var(--font-serif)] text-center text-[#b0a89e] italic mb-12">
-          This story is human-written, blockchain-verified, and nine years in
-          the making.
+          This story is blockchain-verified and nine years in the making.
         </p>
 
         {/* Blockchain Proof */}

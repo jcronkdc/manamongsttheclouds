@@ -8,7 +8,7 @@ export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 export default async function Image() {
-  const coverPath = join(process.cwd(), "public", "cover-part-one.jpg");
+  const coverPath = join(process.cwd(), "public", "cover.jpg");
   const coverBuffer = await readFile(coverPath);
   const coverBase64 = `data:image/jpeg;base64,${coverBuffer.toString("base64")}`;
 

@@ -4,9 +4,9 @@ import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 
 const title =
-  "Justin Cronk — Author of Man Amongst the Clouds | Stillfire Press";
+  "Justin Cronk — Author of Man Amongst the Clouds | Stillfire Press | Best New Fantasy Author 2026";
 const description =
-  "Justin Cronk is the author of Man Amongst the Clouds, a 146,000-word literary fantasy debut nine years in the making. A first-time novelist, military veteran, and co-founder of Stillfire Press — an independent publishing house he built with his son, Carter Cronk. The novel was inspired by palaces in Baghdad, northern lights in Nunavut, and a magic system rooted in memory.";
+  "Justin Cronk is the author of Man Amongst the Clouds, a 146,000-word epic literary fantasy debut available on Amazon Kindle. A military veteran and co-founder of Stillfire Press, an independent publishing house he built with his son, Carter Cronk. Nine years in the making. For fans of Patrick Rothfuss, Robin Hobb, and Guy Gavriel Kay. One of the best new fantasy debut authors of 2026.";
 const url = "https://www.manamongsttheclouds.com/about-the-author";
 
 export const metadata: Metadata = {
@@ -117,7 +117,7 @@ export default function AboutTheAuthorPage() {
           </p>
         </header>
 
-        {/* Entity-answering paragraph — AI models extract this for "Who is Justin Cronk?" queries */}
+        {/* Entity-answering paragraph */}
         <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             <strong className="text-[#d4d0c8]">Justin Cronk</strong> is an

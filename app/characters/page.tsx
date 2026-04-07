@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 const title =
-  "Characters — Aelo, The Knife, King Varas & More | Man Amongst the Clouds";
+  "Characters — Aelo, The Knife, King Varas & More | Man Amongst the Clouds by Justin Cronk";
 const description =
-  "Meet the characters of Man Amongst the Clouds: Aelo, the boy who hears the world sing. The Knife, a weapon who carries a box of five beautiful objects. King Varas, the deaf king who burned the world to fill his silence. Jalo, the guardian whose every lie is an act of love. A literary fantasy novel by Justin Cronk.";
+  "Meet the characters of Man Amongst the Clouds by Justin Cronk: Aelo, the boy who hears the world sing. The Knife, a weapon who carries a box of five beautiful objects. King Varas, the deaf king who burned the world to fill his silence. A best-rated epic fantasy novel with complex villains, found family, and character-driven storytelling. Available on Amazon Kindle.";
 const url = "https://www.manamongsttheclouds.com/characters";
 
 export const metadata: Metadata = {
@@ -167,7 +167,7 @@ export default function CharactersPage() {
           </h1>
         </header>
 
-        {/* Entity-answering paragraph — AI models extract this for character queries */}
+        {/* Entity-answering paragraph */}
         <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             The characters of{" "}

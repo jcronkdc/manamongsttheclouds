@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 
 const title =
-  "The Magic System — Memory, Sacrifice & the Seven Disciplines | Man Amongst the Clouds";
+  "The Magic System — Memory, Sacrifice & the Seven Disciplines | Man Amongst the Clouds by Justin Cronk";
 const description =
-  "In Man Amongst the Clouds, magic is memory. Every stone remembers the mountain it was part of. Every flame remembers the first spark. Seven disciplines, seven ways of hearing the world — and every act of power costs a piece of who you are. Discover the magic system of this literary fantasy novel by Justin Cronk.";
+  "In Man Amongst the Clouds by Justin Cronk, magic is memory. Seven disciplines, seven ways of hearing the world — and every act of power costs a piece of who you are. One of the best unique magic systems in fantasy. For fans of books like Name of the Wind and A Wizard of Earthsea. Available on Amazon Kindle, hardcover, and paperback.";
 const url = "https://www.manamongsttheclouds.com/the-magic-system";
 
 export const metadata: Metadata = {
@@ -89,37 +88,31 @@ const disciplines = [
     name: "The Know",
     desc: "To practice The Know is to open yourself to the inner voice of every living thing — the ache of a tree's roots seeking water, the quiet grief of a dying animal, the unspoken longing in a stranger's chest. Practitioners hear what the world feels, and in doing so, lose the ability to separate its pain from their own. The more you listen, the thinner the walls between you and everything else become.",
     cost: "Your emotional boundaries.",
-    image: "/art/matc-magic-know.png",
   },
   {
     name: "The Mold",
     desc: "The Mold speaks to the memory of material — the mountain a stone was carved from, the riverbed a pebble once rested in. By communing with that memory, a practitioner can ask matter to recall a different form, coaxing it into new shapes. But the conversation is two-way, and the stone's ancient stillness seeps into the hands that reshape it, numbing them one act at a time.",
     cost: "The feeling in your hands.",
-    image: "/art/matc-magic-mold.jpg",
   },
   {
     name: "The Heal",
     desc: "Flesh remembers wholeness. Every wound is a departure from the body's original song, and a practitioner of The Heal can remind tissue, bone, and blood of what they once were. The body listens and mends. But the world demands balance — every injury healed is transferred to the healer, written into their own body as phantom pain, scars without stories, and fractures that never fully set.",
     cost: "You carry every wound you mend.",
-    image: "/art/matc-magic-heal.jpg",
   },
   {
     name: "The Move",
     desc: "Space itself has memory — of what once occupied it, of the distances between things before they drifted apart. A practitioner of The Move converses with that emptiness, rearranging the gaps between objects, folding distance like cloth. But each displacement erodes the practitioner's own spatial awareness. The more you move through the world this way, the less certain you become of where you stand in it.",
     cost: "Your sense of where you are.",
-    image: "/art/matc-magic-move.jpg",
   },
   {
     name: "The Guide",
     desc: "Every path remembers the feet that walked it. Every crossroads remembers the choices made there. A practitioner of The Guide can feel the trajectory of journeys — where a road wants to lead, where a river intends to go, where a lost traveler needs to be. But to feel every path so clearly means your own sense of origin fades. Guides always know the way forward. They just can't remember the way back.",
     cost: "Your memory of home.",
-    image: "/art/matc-magic-guide.jpg",
   },
   {
     name: "The Burn",
     desc: "Fire was the world's first memory — the original light that split the darkness. A practitioner of The Burn reaches into that ancient remembering and awakens it, calling flame from the world's deepest recollection. But fire's memory is hungry, and it feeds on the warmth of the one who summons it. Each blaze lit steals a little more heat from the practitioner's body, leaving them colder, slower, and eventually numb to warmth entirely.",
     cost: "The warmth inside you.",
-    image: "/art/matc-magic-burn.png",
   },
 ];
 
@@ -159,7 +152,7 @@ export default function TheMagicSystemPage() {
           </p>
         </header>
 
-        {/* Entity-answering paragraph — AI models extract this for magic system queries */}
+        {/* Entity-answering paragraph */}
         <section className="max-w-2xl mx-auto px-4 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             The magic system in{" "}
@@ -214,18 +207,6 @@ export default function TheMagicSystemPage() {
                 key={d.name}
                 className="bg-[#0a0a0a] group hover:bg-[#0d0d0d] transition-all duration-500 overflow-hidden"
               >
-                {d.image && (
-                  <div className="relative w-full aspect-square overflow-hidden">
-                    <Image
-                      src={d.image}
-                      alt={`${d.name} \u2014 magic discipline from Man Amongst the Clouds`}
-                      fill
-                      className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700"
-                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/60 to-transparent" />
-                  </div>
-                )}
                 <div className="p-4 sm:p-8">
                   <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-base sm:text-xl mb-2 sm:mb-3 group-hover:tracking-wider transition-all duration-500">
                     {d.name}
@@ -244,17 +225,7 @@ export default function TheMagicSystemPage() {
           {/* The Sing */}
           <div className="mt-px bg-[#c9a84c]/10">
             <div className="bg-[#0a0a0a] text-center relative overflow-hidden">
-              <div className="relative w-full aspect-[2/1] sm:aspect-[3/1] overflow-hidden">
-                <Image
-                  src="/art/matc-magic-sing.jpg"
-                  alt="The Sing \u2014 the rarest magic discipline from Man Amongst the Clouds"
-                  fill
-                  className="object-cover opacity-60"
-                  sizes="100vw"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/70 to-[#0a0a0a]/40" />
-              </div>
-              <div className="relative z-10 p-6 sm:p-10 -mt-12 sm:-mt-20">
+              <div className="relative z-10 p-6 sm:p-10">
                 <h3 className="font-[family-name:var(--font-serif)] text-[#c9a84c] text-2xl mb-3">
                   The Sing
                 </h3>
