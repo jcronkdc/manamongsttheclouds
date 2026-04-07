@@ -4,14 +4,11 @@ import Synopsis from "./components/Synopsis";
 import WorldSection from "./components/WorldSection";
 import Characters from "./components/Characters";
 import Excerpt from "./components/Excerpt";
-import Journey from "./components/Journey";
-import Origins from "./components/Origins";
 import CompTitles from "./components/CompTitles";
 import ReviewsSection from "./components/ReviewsSection";
 import ReadSection from "./components/ReadSection";
 import SignupSection from "./components/SignupSection";
 import ProofSection from "./components/ProofSection";
-import SEOArticle from "./components/SEOArticle";
 import FAQSection from "./components/FAQSection";
 import Footer from "./components/Footer";
 import { faqs } from "./lib/faq-data";
@@ -144,12 +141,9 @@ export default function Home() {
       <Excerpt />
       <CompTitles />
       <ReviewsSection />
-      <Journey />
-      <Origins />
       <ReadSection />
       <SignupSection />
       <ProofSection />
-      <SEOArticle />
       <FAQSection />
       <Footer />
     </div>

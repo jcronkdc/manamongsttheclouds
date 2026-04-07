@@ -1,54 +1,30 @@
 export default function ProofSection() {
   return (
-    <section id="proof" className="py-20 sm:py-24 px-5 sm:px-6 bg-[#0f0f0f]">
-      <div className="max-w-2xl mx-auto">
-        <h2 className="font-[family-name:var(--font-serif)] text-3xl sm:text-4xl font-light tracking-wide mb-4 text-center text-[#c9a84c]">
+    <section
+      id="proof"
+      className="py-10 sm:py-14 px-5 sm:px-6 border-t border-[#1a1a1a]"
+    >
+      <div className="max-w-2xl mx-auto text-center">
+        <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#555] mb-3">
           Proof of Authorship
-        </h2>
-        <p className="font-[family-name:var(--font-serif)] text-center text-[#b0a89e] italic mb-12">
-          This story is blockchain-verified and nine years in the making.
         </p>
-
-        {/* Blockchain Proof */}
-        <div>
-          <h3 className="font-[family-name:var(--font-serif)] text-xl text-[#ededed] mb-6 text-center">
-            Blockchain Proof of Ownership
-          </h3>
-          <div className="font-[family-name:var(--font-sans)] text-sm leading-relaxed text-[#c4beb4] space-y-4 mb-8">
-            <p>
-              The complete manuscript has been cryptographically hashed and
-              recorded on the{" "}
-              <strong className="text-[#ededed]">Polygon blockchain</strong> as
-              an immutable, timestamped proof of ownership.
-            </p>
-          </div>
-          <div className="border border-[#c9a84c]/30 p-6 text-center">
-            <p className="font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase text-[#c9a84c] mb-3">
-              Manuscript SHA-256 Hash
-            </p>
-            <p className="font-mono text-xs sm:text-sm text-[#ededed] break-all leading-relaxed">
-              3cc70e0d02bba340d2e24cb391bbd9680d458c173d9aad33916e9b19b25ea9f7
-            </p>
-            <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] mt-4">
-              50 files &bull; Recorded on Polygon
-            </p>
-            <a
-              href="https://polygonscan.com/tx/0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block mt-4 px-6 py-2 border border-[#333] text-[#b0a89e] font-[family-name:var(--font-sans)] text-xs tracking-widest uppercase hover:border-[#c9a84c] hover:text-[#c9a84c] transition-colors"
-            >
-              View on PolygonScan
-            </a>
-          </div>
-          <p className="font-[family-name:var(--font-sans)] text-xs text-[#999] text-center mt-6">
-            Any change to any character in any chapter would produce a
-            completely different hash.
-            <br />
-            The blockchain record is permanent, public, and cannot be modified
-            or deleted.
-          </p>
-        </div>
+        <p className="font-[family-name:var(--font-serif)] text-sm text-[#888] leading-relaxed mb-4">
+          The complete manuscript is cryptographically hashed and recorded on
+          the Polygon blockchain &mdash; an immutable, timestamped proof of
+          ownership.
+        </p>
+        <p className="font-mono text-[10px] sm:text-xs text-[#666] break-all leading-relaxed mb-4">
+          SHA-256:
+          3cc70e0d02bba340d2e24cb391bbd9680d458c173d9aad33916e9b19b25ea9f7
+        </p>
+        <a
+          href="https://polygonscan.com/tx/0xe7e0990d75efd6e1da84f5438fe3265435c79d6e09e19f615419d92428dac52a"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="font-[family-name:var(--font-sans)] text-xs text-[#c9a84c]/60 hover:text-[#c9a84c] transition-colors tracking-wider uppercase"
+        >
+          Verify on PolygonScan &rarr;
+        </a>
       </div>
     </section>
   );
