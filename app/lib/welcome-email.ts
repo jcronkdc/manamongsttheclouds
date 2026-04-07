@@ -1,4 +1,5 @@
 import { Resend } from "resend";
+import crypto from "crypto";
 
 let _resend: Resend | null = null;
 
@@ -25,7 +26,7 @@ export async function sendWelcomeEmail(email: string): Promise<boolean> {
       from: "Stillfire Press <books@stillfirepress.com>",
       to: email,
       subject: "Welcome — the Song begins here",
-      html: buildWelcomeHtml(),
+      html: buildWelcomeHtml(email),
     });
     console.log(`Welcome email sent to ${email}`);
     return true;
@@ -35,7 +36,20 @@ export async function sendWelcomeEmail(email: string): Promise<boolean> {
   }
 }
 
-function buildWelcomeHtml(): string {
+function generateUnsubscribeToken(email: string): string {
+  const secret =
+    process.env.UNSUBSCRIBE_SECRET || process.env.DOWNLOAD_SECRET || "fallback";
+  const expiry = Date.now() + 365 * 24 * 60 * 60 * 1000; // 1 year
+  const payload = `${email}:${expiry}`;
+  const signature = crypto
+    .createHmac("sha256", secret)
+    .update(payload)
+    .digest("hex");
+  return Buffer.from(`${payload}:${signature}`).toString("base64url");
+}
+
+function buildWelcomeHtml(email: string): string {
+  const unsubscribeUrl = `${siteUrl}/api/unsubscribe?token=${generateUnsubscribeToken(email)}`;
   return `
 <!DOCTYPE html>
 <html>
@@ -92,7 +106,7 @@ function buildWelcomeHtml(): string {
         Stillfire Press &middot; <a href="${siteUrl}" style="color:#444;text-decoration:none;">manamongsttheclouds.com</a>
       </p>
       <p style="font-size:10px;color:#333;text-align:center;margin-top:8px;">
-        You signed up at ${siteUrl}. <a href="${siteUrl}" style="color:#444;text-decoration:none;">Unsubscribe</a>
+        You signed up at ${siteUrl}. <a href="${unsubscribeUrl}" style="color:#444;text-decoration:none;">Unsubscribe</a>
       </p>
     </div>
 
