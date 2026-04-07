@@ -15,7 +15,7 @@ export const sites = {
     shortName: "MATC",
     url: "https://www.manamongsttheclouds.com",
     description:
-      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 146,000-word literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
+      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
     accentColor: "#c9a84c",
     accentHover: "#e8c85a",
   },
@@ -126,7 +126,7 @@ export const books = {
     author: authors.justinCronk,
     site: sites.matc,
     genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"] as string[],
-    wordCount: 146007,
+
     numberOfPages: 463,
     bookFormat: "EBook",
     bookEdition: "First Edition",
@@ -138,9 +138,9 @@ export const books = {
     inLanguage: "en",
     description: sites.matc.description,
     shortDescription:
-      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. 146,000 words. Nine years in the making. Available now.",
+      "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. Nine years in the making. Available now.",
     twitterDescription:
-      "Magic is memory. The Song is love made audible. The cost is everything. A 146,000-word literary fantasy debut. Available now on Amazon Kindle.",
+      "Magic is memory. The Song is love made audible. The cost is everything. A literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
     comparables:
       "Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, Ursula K. Le Guin",
     keywords:
@@ -492,7 +492,7 @@ export function buildBookJsonLd(bookKey: "manAmongstTheClouds" | "ashToFury") {
     base["bookFormat"] = matc.bookFormat;
     base["bookEdition"] = matc.bookEdition;
     base["numberOfPages"] = matc.numberOfPages;
-    base["wordCount"] = matc.wordCount;
+
     base["datePublished"] = matc.datePublished;
     base["copyrightYear"] = parseInt(matc.datePublished);
     base["isFamilyFriendly"] = matc.isFamilyFriendly;
@@ -596,7 +596,7 @@ export function buildBookStoreJsonLd() {
             bookEdition: books.manAmongstTheClouds.bookEdition,
             genre: books.manAmongstTheClouds.genre,
             numberOfPages: books.manAmongstTheClouds.numberOfPages,
-            wordCount: books.manAmongstTheClouds.wordCount,
+
             inLanguage: "en",
             datePublished: books.manAmongstTheClouds.datePublished,
             typicalAgeRange: books.manAmongstTheClouds.typicalAgeRange,

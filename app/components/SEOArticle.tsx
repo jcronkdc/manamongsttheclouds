@@ -20,7 +20,7 @@ export default function SEOArticle() {
         <div className="font-[family-name:var(--font-serif)] text-sm sm:text-base leading-[1.9] text-[#999] space-y-5">
           <p>
             <strong className="text-[#c4beb4]">Man Amongst the Clouds</strong>{" "}
-            is a 146,000-word epic literary fantasy novel by{" "}
+            is an epic literary fantasy novel by{" "}
             <span itemProp="author">Justin Cronk</span>, published by Stillfire
             Press in 2026. It is one of the most ambitious fantasy debuts of the
             year &mdash; a novel nine years in the making, featuring a

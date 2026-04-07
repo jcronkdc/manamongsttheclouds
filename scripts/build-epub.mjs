@@ -14,7 +14,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 const CHAPTERS_DIR = join(ROOT, "content", "chapters");
 const OUTPUT = join(ROOT, "public", "matc-part-one.epub");
-const COVER_SRC = join(ROOT, "public", "cover-part-one.jpg");
+const COVER_SRC = join(ROOT, "public", "cover.jpg");
 const GLOSSARY_SRC = join(ROOT, "content", "glossary.md");
 
 const CHAPTER_META = [

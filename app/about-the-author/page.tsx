@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 const title =
   "Justin Cronk — Author of Man Amongst the Clouds | Stillfire Press | Best New Fantasy Author 2026";
 const description =
-  "Justin Cronk is the author of Man Amongst the Clouds, a 146,000-word epic literary fantasy debut available on Amazon Kindle. A military veteran and co-founder of Stillfire Press, an independent publishing house he built with his son, Carter Cronk. Nine years in the making. For fans of Patrick Rothfuss, Robin Hobb, and Guy Gavriel Kay. One of the best new fantasy debut authors of 2026.";
+  "Justin Cronk is the author of Man Amongst the Clouds, an epic literary fantasy debut available on Amazon Kindle. A military veteran and co-founder of Stillfire Press, an independent publishing house he built with his son, Carter Cronk. Nine years in the making. For fans of Patrick Rothfuss, Robin Hobb, and Guy Gavriel Kay. One of the best new fantasy debut authors of 2026.";
 const url = "https://www.manamongsttheclouds.com/about-the-author";
 
 export const metadata: Metadata = {
@@ -122,10 +122,10 @@ export default function AboutTheAuthorPage() {
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             <strong className="text-[#d4d0c8]">Justin Cronk</strong> is an
             American author and military veteran, best known as the author of{" "}
-            <em>Man Amongst the Clouds</em>, a 146,000-word literary fantasy
-            novel published by Stillfire Press in March 2026. He co-founded
-            Stillfire Press with his son Carter Cronk, who is writing the dark
-            fantasy novel <em>Ash to Fury</em>. Cronk spent nine years writing{" "}
+            <em>Man Amongst the Clouds</em>, a literary fantasy novel published
+            by Stillfire Press in March 2026. He co-founded Stillfire Press with
+            his son Carter Cronk, who is writing the dark fantasy novel{" "}
+            <em>Ash to Fury</em>. Cronk spent nine years writing{" "}
             <em>Man Amongst the Clouds</em>, developing a magic system based on
             memory that draws from Traditional Chinese Medicine, alchemical
             spagyrics, and herbalism. His life experiences &mdash; including
@@ -304,8 +304,8 @@ export default function AboutTheAuthorPage() {
               Press. He has worked in uranium exploration, remote Arctic camps,
               and men&rsquo;s retreat facilitation.{" "}
               <em>Man Amongst the Clouds</em> is his debut novel &mdash; a
-              146,000-word literary fantasy nine years in the making, rooted in
-              real research, real places, and a single question:{" "}
+              literary fantasy nine years in the making, rooted in real
+              research, real places, and a single question:{" "}
               <em>What if magic was memory?</em>
             </p>
           </div>

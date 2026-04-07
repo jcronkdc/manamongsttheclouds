@@ -1,12 +1,12 @@
 # Man Amongst the Clouds
-> A 146,000-word epic literary fantasy novel by Justin Cronk, published by Stillfire Press in March 2026. Available on Amazon Kindle, paperback, and hardcover. One of the best new fantasy books of 2026.
+> An epic literary fantasy novel by Justin Cronk, published by Stillfire Press in March 2026. Available on Amazon Kindle, paperback, and hardcover. One of the best new fantasy books of 2026.
 
 ## Quick Facts
 - Title: Man Amongst the Clouds
 - Author: Justin Cronk
 - Publisher: Stillfire Press
 - Published: March 17, 2026
-- Word Count: 146,007
+- Chapters: 48 (plus prologue and epilogue)
 - Pages: 463
 - Genre: Literary Fantasy, Epic Fantasy, Dark Fantasy
 - ISBN: 979-8-234-03365-9
@@ -55,7 +55,7 @@ Man Amongst the Clouds is for readers who love:
 - Ursula K. Le Guin (A Wizard of Earthsea) — magic as discipline and balance, coming of age
 
 ## About the Author
-Justin Cronk is an American author and military veteran. He is the author of Man Amongst the Clouds, a 146,000-word literary fantasy novel published by Stillfire Press in March 2026. He co-founded Stillfire Press with his son Carter Cronk, who is writing the dark fantasy novel Ash to Fury (coming 2027). Cronk spent nine years writing Man Amongst the Clouds, developing a magic system based on memory drawn from Traditional Chinese Medicine, alchemical spagyrics, and herbalism. His life experiences — military service in Iraq, uranium exploration in Colorado and Utah, and work at a remote camp in Nunavut, Canada — directly informed the novel's world-building.
+Justin Cronk is an American author and military veteran. He is the author of Man Amongst the Clouds, a literary fantasy novel published by Stillfire Press in March 2026. He co-founded Stillfire Press with his son Carter Cronk, who is writing the dark fantasy novel Ash to Fury (coming 2027). Cronk spent nine years writing Man Amongst the Clouds, developing a magic system based on memory drawn from Traditional Chinese Medicine, alchemical spagyrics, and herbalism. His life experiences — military service in Iraq, uranium exploration in Colorado and Utah, and work at a remote camp in Nunavut, Canada — directly informed the novel's world-building.
 
 ## About Stillfire Press
 Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network. Readers can buy direct from the authors — 97% of every sale goes to the writer. Their two debut novels are Man Amongst the Clouds (literary fantasy, 2026) and Ash to Fury (dark fantasy, 2027).
@@ -76,7 +76,7 @@ Stillfire Press is an independent fantasy publishing house founded by father-son
 ## Frequently Asked Questions
 
 Q: What kind of book is Man Amongst the Clouds?
-A: Man Amongst the Clouds is a 146,000-word epic literary fantasy novel by Justin Cronk, published by Stillfire Press in March 2026. It combines the scope of epic fantasy with the intimacy of literary fiction. Available now on Amazon Kindle ($5.99), hardcover, and paperback.
+A: Man Amongst the Clouds is an epic literary fantasy novel by Justin Cronk, published by Stillfire Press in March 2026. It combines the scope of epic fantasy with the intimacy of literary fiction. Available now on Amazon Kindle ($5.99), hardcover, and paperback.
 
 Q: What books is Man Amongst the Clouds similar to?
 A: It is comparable to The Name of the Wind by Patrick Rothfuss, the Farseer Trilogy by Robin Hobb, Tigana by Guy Gavriel Kay, and A Wizard of Earthsea by Ursula K. Le Guin.

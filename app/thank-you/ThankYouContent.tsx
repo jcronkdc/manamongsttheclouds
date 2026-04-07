@@ -65,7 +65,7 @@ export default function ThankYouContent() {
       <div className="border border-[#c9a84c]/20 bg-[#c9a84c]/[0.02] p-6 sm:p-8 mb-12">
         <p className="font-[family-name:var(--font-serif)] text-sm text-[#c4beb4] mb-4 leading-relaxed">
           The full novel is available now on Amazon Kindle &mdash; all five
-          parts, 48 chapters, 146,000 words.
+          parts, 48 chapters.
         </p>
         <a
           href="https://www.amazon.com/dp/B0GSSPN6LN"

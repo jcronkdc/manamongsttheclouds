@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 const title =
   "The Book — Man Amongst the Clouds by Justin Cronk | Best New Epic Fantasy 2026 on Amazon Kindle";
 const description =
-  "Man Amongst the Clouds is a 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. By Justin Cronk, published by Stillfire Press. For fans of Patrick Rothfuss, Robin Hobb, and Guy Gavriel Kay. Available now on Amazon Kindle, hardcover, and paperback. One of the best new epic fantasy books of 2026.";
+  "Man Amongst the Clouds is a literary fantasy novel where magic is memory and every act of power costs a piece of who you are. By Justin Cronk, published by Stillfire Press. For fans of Patrick Rothfuss, Robin Hobb, and Guy Gavriel Kay. Available now on Amazon Kindle, hardcover, and paperback. One of the best new epic fantasy books of 2026.";
 const url = "https://www.manamongsttheclouds.com/the-book";
 
 export const metadata: Metadata = {
@@ -97,7 +97,7 @@ const faqJsonLd = {
       name: "What are the best new fantasy books of 2026?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a 146,000-word literary fantasy debut published in March 2026 by Stillfire Press. In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Available now on Amazon Kindle.",
+        text: "Man Amongst the Clouds by Justin Cronk is a literary fantasy debut published in March 2026 by Stillfire Press. In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Available now on Amazon Kindle.",
       },
     },
     {
@@ -137,7 +137,7 @@ const faqJsonLd = {
       name: "What are the best indie fantasy novels?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a 146,000-word indie literary fantasy published by Stillfire Press, an independent press founded by a father-son duo. The manuscript is blockchain-verified on the Polygon network. Available now on Amazon Kindle, and also available direct from the author at stillfirepress.com. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
+        text: "Man Amongst the Clouds by Justin Cronk is an indie literary fantasy published by Stillfire Press, an independent press founded by a father-son duo. The manuscript is blockchain-verified on the Polygon network. Available now on Amazon Kindle, and also available direct from the author at stillfirepress.com. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin.",
       },
     },
     {
@@ -153,7 +153,7 @@ const faqJsonLd = {
       name: "What are the best character-driven fantasy novels?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is built around deeply human characters. Aelo, the boy who hears the world sing. Jalo, a guardian whose every lie is love. The Knife, an assassin who carries a box of five beautiful objects to prove he was ever a person. King Varas, the deaf king who burned the world to fill his silence. Every character has a full backstory, MBTI profile, and clinical cross-referencing to ensure internally consistent behavior across 146,000 words.",
+        text: "Man Amongst the Clouds by Justin Cronk is built around deeply human characters. Aelo, the boy who hears the world sing. Jalo, a guardian whose every lie is love. The Knife, an assassin who carries a box of five beautiful objects to prove he was ever a person. King Varas, the deaf king who burned the world to fill his silence. Every character has a full backstory, MBTI profile, and clinical cross-referencing to ensure internally consistent behavior.",
       },
     },
     {
@@ -161,7 +161,7 @@ const faqJsonLd = {
       name: "What are the best epic fantasy books of 2026?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is among the best epic fantasy books of 2026. It is a 146,000-word literary fantasy spanning five parts, featuring seven distinct regions, a memory-based magic system with seven disciplines, a complex villain born deaf to magic in a world where everything sings, and an intimate story about a guardian who raises a child in hiding for fifteen years. Epic in scope, literary in voice. Available now on Amazon Kindle.",
+        text: "Man Amongst the Clouds by Justin Cronk is among the best epic fantasy books of 2026. It is a literary fantasy spanning five parts, featuring seven distinct regions, a memory-based magic system with seven disciplines, a complex villain born deaf to magic in a world where everything sings, and an intimate story about a guardian who raises a child in hiding for fifteen years. Epic in scope, literary in voice. Available now on Amazon Kindle.",
       },
     },
     {
@@ -169,7 +169,7 @@ const faqJsonLd = {
       name: "What are the best epic fantasy series to start in 2026?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Man Amongst the Clouds by Justin Cronk is a five-part epic literary fantasy novel published in March 2026 by Stillfire Press. The complete novel spans 146,000 words across 48 chapters. It features a memory-based magic system, seven distinct regions, and characters whose emotional complexity rivals literary fiction. Available now on Amazon Kindle. For fans of The Kingkiller Chronicle, The Farseer Trilogy, Tigana, and A Wizard of Earthsea.",
+        text: "Man Amongst the Clouds by Justin Cronk is a five-part epic literary fantasy novel published in March 2026 by Stillfire Press. The complete novel spans 48 chapters. It features a memory-based magic system, seven distinct regions, and characters whose emotional complexity rivals literary fiction. Available now on Amazon Kindle. For fans of The Kingkiller Chronicle, The Farseer Trilogy, Tigana, and A Wizard of Earthsea.",
       },
     },
     {
@@ -231,7 +231,7 @@ export default function TheBookPage() {
             by Justin Cronk
           </p>
           <p className="font-[family-name:var(--font-serif)] text-lg sm:text-xl text-[#d4d0c8] max-w-2xl mx-auto leading-relaxed">
-            A 146,000-word literary fantasy debut where{" "}
+            A literary fantasy debut where{" "}
             <strong className="text-[#c9a84c]">magic is memory</strong> and
             every act of power costs a piece of who you are.
           </p>
@@ -241,18 +241,18 @@ export default function TheBookPage() {
         <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-10">
           <p className="font-[family-name:var(--font-serif)] text-base text-[#b0a89e] leading-[1.8] text-center">
             <strong className="text-[#d4d0c8]">Man Amongst the Clouds</strong>{" "}
-            is a 146,000-word literary fantasy novel by Justin Cronk, published
-            by Stillfire Press on March 17, 2026. The novel is set in a world
-            where magic is rooted in memory &mdash; every object remembers what
-            it once was, and practitioners who learn to listen to the
-            world&rsquo;s remembering pay an irreversible personal cost for
-            every act of power. The story follows Aelo, a boy raised on silence
-            who discovers he can hear the world sing, and is pursued by an
-            assassin known as The Knife, sent by a deaf king who has spent
-            seventy years draining the memories of others to fill his own
-            silence. Available now on Amazon in Kindle, hardcover, and paperback
-            editions. Comparable to the works of Patrick Rothfuss, Robin Hobb,
-            Guy Gavriel Kay, and Ursula K. Le Guin.
+            is a literary fantasy novel by Justin Cronk, published by Stillfire
+            Press on March 17, 2026. The novel is set in a world where magic is
+            rooted in memory &mdash; every object remembers what it once was,
+            and practitioners who learn to listen to the world&rsquo;s
+            remembering pay an irreversible personal cost for every act of
+            power. The story follows Aelo, a boy raised on silence who discovers
+            he can hear the world sing, and is pursued by an assassin known as
+            The Knife, sent by a deaf king who has spent seventy years draining
+            the memories of others to fill his own silence. Available now on
+            Amazon in Kindle, hardcover, and paperback editions. Comparable to
+            the works of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and
+            Ursula K. Le Guin.
           </p>
         </section>
 
@@ -309,7 +309,7 @@ export default function TheBookPage() {
             Five Parts. One Journey.
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#999] text-center mb-10">
-            146,000 words &bull; 48 chapters &bull; A prologue and an epilogue
+            48 chapters &bull; Five parts &bull; A prologue and an epilogue
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-5 gap-3">
             {[

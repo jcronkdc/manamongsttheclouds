@@ -66,8 +66,7 @@ export default function Hero() {
         >
           <span className="h-px w-8 bg-[#c9a84c]/30" />
           <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/60">
-            146,000 words &bull; Nine years in the making &bull; Available now
-            on Amazon
+            Nine years in the making &bull; Available now on Amazon
           </p>
           <span className="h-px w-8 bg-[#c9a84c]/30" />
         </div>

@@ -48,7 +48,7 @@ const seriesJsonLd = {
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
   description:
-    "A 146,000-word literary fantasy novel where magic is memory and every act of power costs a piece of who you are. Five parts, 48 chapters. By Justin Cronk, published by Stillfire Press. Available now on Amazon Kindle.",
+    "A literary fantasy novel where magic is memory and every act of power costs a piece of who you are. Five parts, 48 chapters. By Justin Cronk, published by Stillfire Press. Available now on Amazon Kindle.",
   url: "https://www.manamongsttheclouds.com",
   datePublished: "2026-03-17",
 };

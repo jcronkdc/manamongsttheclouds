@@ -27,8 +27,7 @@ export default function ReadSection() {
             The complete novel is here.
           </h2>
           <p className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#b0a89e] italic text-center mb-12 sm:mb-16">
-            146,000 words &bull; Five parts &bull; 48 chapters &bull; Published
-            March 17, 2026
+            Five parts &bull; 48 chapters &bull; Published March 17, 2026
           </p>
 
           {/* Book cover */}

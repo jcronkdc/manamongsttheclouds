@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 const title =
   "Press Kit — Man Amongst the Clouds by Justin Cronk | Stillfire Press | Best New Fantasy 2026";
 const description =
-  "Press kit for Man Amongst the Clouds, a 146,000-word literary fantasy debut by Justin Cronk. Published by Stillfire Press on March 17, 2026. Available now on Amazon Kindle. Magic is memory. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Includes book details, author bio, comparable titles, and media-ready descriptions.";
+  "Press kit for Man Amongst the Clouds, a literary fantasy debut by Justin Cronk. Published by Stillfire Press on March 17, 2026. Available now on Amazon Kindle. Magic is memory. For fans of Patrick Rothfuss, Robin Hobb, Guy Gavriel Kay, and Ursula K. Le Guin. Includes book details, author bio, comparable titles, and media-ready descriptions.";
 const url = "https://www.manamongsttheclouds.com/press";
 
 export const metadata: Metadata = {
@@ -62,11 +62,10 @@ const bookJsonLd = {
   bookFormat: "EBook",
   bookEdition: "First Edition",
   numberOfPages: 463,
-  wordCount: 146007,
   genre: ["Literary Fantasy", "Epic Fantasy", "Dark Fantasy"],
   inLanguage: "en",
   description:
-    "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A 146,000-word literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
+    "In a world where magic is memory and every act of power costs a piece of who you are, a boy raised on silence discovers he can hear the world sing. A literary fantasy debut nine years in the making. Available now on Amazon Kindle.",
   url: "https://www.manamongsttheclouds.com",
   datePublished: "2026-03-17",
   copyrightYear: 2026,
@@ -218,8 +217,8 @@ export default function PressPage() {
             by Justin Cronk
           </p>
           <p className="font-[family-name:var(--font-serif)] text-base text-[#d4d0c8] max-w-xl mx-auto leading-relaxed">
-            A literary fantasy debut. 146,000 words. Published by Stillfire
-            Press, March 2026. Available now on Kindle.
+            A literary fantasy debut. Nine years in the making. Published by
+            Stillfire Press, March 2026. Available now on Kindle.
           </p>
         </header>
 
@@ -235,7 +234,7 @@ export default function PressPage() {
               { label: "Title", value: "Man Amongst the Clouds" },
               { label: "Author", value: "Justin Cronk" },
               { label: "Publisher", value: "Stillfire Press" },
-              { label: "Word Count", value: "146,000 words" },
+              { label: "Chapters", value: "48 chapters" },
               { label: "Genre", value: "Literary Fantasy / Epic Fantasy" },
               {
                 label: "Format",
@@ -282,13 +281,13 @@ export default function PressPage() {
                 Short Description
               </p>
               <p className="font-[family-name:var(--font-serif)] text-base text-[#d4d0c8] leading-relaxed">
-                Man Amongst the Clouds is a 146,000-word literary fantasy debut
-                where magic is memory and every act of power costs a piece of
-                who you are. A boy raised on silence discovers he can hear the
-                world sing. A king sits on an obsidian throne, draining memories
-                to fill a silence nothing can fill. An assassin carries a box of
-                five beautiful objects to prove he was ever a person. Nine years
-                in the making. For fans of Patrick Rothfuss, Robin Hobb, Guy
+                Man Amongst the Clouds is a literary fantasy debut where magic
+                is memory and every act of power costs a piece of who you are. A
+                boy raised on silence discovers he can hear the world sing. A
+                king sits on an obsidian throne, draining memories to fill a
+                silence nothing can fill. An assassin carries a box of five
+                beautiful objects to prove he was ever a person. Nine years in
+                the making. For fans of Patrick Rothfuss, Robin Hobb, Guy
                 Gavriel Kay, and Ursula K. Le Guin.
               </p>
             </div>
@@ -436,8 +435,8 @@ export default function PressPage() {
               Baghdad, found arrowhead chip piles in the Utah desert, and
               watched an Inuit man whistle the northern lights closer in
               Nunavut. <em>Man Amongst the Clouds</em> is his debut novel
-              &mdash; a 146,000-word literary fantasy nine years in the making,
-              rooted in real research, real places, and a single question:{" "}
+              &mdash; a literary fantasy nine years in the making, rooted in
+              real research, real places, and a single question:{" "}
               <em>What if magic was memory?</em>
             </p>
           </div>

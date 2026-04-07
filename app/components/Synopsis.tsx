@@ -56,8 +56,7 @@ export default function Synopsis() {
 
         <div className="mt-12 text-center">
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#8a8a8a] mb-1">
-            146,000 words &bull; Five parts &bull; 48 chapters &bull; A prologue
-            and an epilogue
+            Five parts &bull; 48 chapters &bull; A prologue and an epilogue
           </p>
           <p className="font-[family-name:var(--font-serif)] text-sm text-[#c9a84c]/70 italic">
             Available now on Kindle &bull; Paperback &amp; hardcover coming soon
