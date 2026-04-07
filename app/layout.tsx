@@ -62,6 +62,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: `${matc.title} — Literary Fantasy Novel`,
     description: matc.twitterDescription,
+    creator: "@justinwcronk",
+    site: "@justinwcronk",
     images: ["/opengraph-image"],
   },
   robots: {

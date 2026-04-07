@@ -41,7 +41,7 @@ export const faqs = [
   },
   {
     q: "Where can I follow Man Amongst the Clouds on social media?",
-    a: "Man Amongst the Clouds has an official Facebook page at facebook.com/profile.php?id=61575289025498. Stillfire Press is on Facebook at facebook.com/profile.php?id=61583731204411. The official website is manamongsttheclouds.com. You can also find the book on Amazon at amazon.com/dp/B0GSSPN6LN.",
+    a: "Man Amongst the Clouds has an official Facebook page at facebook.com/profile.php?id=61575289025498. Author Justin Cronk is on X/Twitter at x.com/justinwcronk (@justinwcronk). Stillfire Press is on Facebook at facebook.com/profile.php?id=61583731204411. The official website is manamongsttheclouds.com. You can also find the book on Amazon at amazon.com/dp/B0GSSPN6LN.",
   },
   {
     q: "What are the Amazon reviews for Man Amongst the Clouds?",

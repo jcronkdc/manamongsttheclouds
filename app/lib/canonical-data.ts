@@ -88,6 +88,11 @@ export const social = {
     label: "Man Amongst the Clouds on Facebook",
     url: "https://www.facebook.com/profile.php?id=61575289025498",
   },
+  xTwitter: {
+    label: "Justin Cronk on X",
+    url: "https://x.com/justinwcronk",
+    handle: "@justinwcronk",
+  },
 } as const;
 
 // ---------------------------------------------------------------------------
@@ -398,6 +403,7 @@ export const sameAs = {
     sites.ashToFury.url,
     social.facebookStillfirePress.url,
     social.facebookMATC.url,
+    social.xTwitter.url,
     books.manAmongstTheClouds.buyUrlKindle,
     books.manAmongstTheClouds.buyUrlHardcover,
     books.manAmongstTheClouds.buyUrlPaperback,
@@ -406,12 +412,14 @@ export const sameAs = {
     sites.stillfirePress.url,
     sites.matc.url,
     social.facebookStillfirePress.url,
+    social.xTwitter.url,
   ],
   stillfirePress: [
     sites.matc.url,
     sites.ashToFury.url,
     social.facebookStillfirePress.url,
     social.facebookMATC.url,
+    social.xTwitter.url,
   ],
 };
 
