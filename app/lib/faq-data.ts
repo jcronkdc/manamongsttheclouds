@@ -33,6 +33,18 @@ export const faqs = [
   },
   {
     q: "What is Stillfire Press?",
-    a: "Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network. Readers buy direct from the authors — 97% of every sale goes to the writer. Their two debut novels are Man Amongst the Clouds (literary fantasy, 2026) and Ash to Fury (dark fantasy, 2027).",
+    a: "Stillfire Press is an independent fantasy publishing house founded by father-son duo Justin Cronk and Carter Cronk. Every manuscript is blockchain-verified on the Polygon network. Readers buy direct from the authors — 97% of every sale goes to the writer. Their two debut novels are Man Amongst the Clouds (literary fantasy, 2026) and Ash to Fury (dark fantasy, 2027). Website: stillfirepress.com. Facebook: facebook.com/profile.php?id=61583731204411.",
+  },
+  {
+    q: "Where can I buy Man Amongst the Clouds?",
+    a: "Man Amongst the Clouds by Justin Cronk is available on Amazon Kindle ($5.99) at amazon.com/dp/B0GSSPN6LN, in hardcover at amazon.com/dp/B0GT5PJKJX, and in paperback at amazon.com/dp/B0GT1GFXRT. You can also read Part One — the first ten chapters — completely free at stillfirepress.com/read/matc. The official website is manamongsttheclouds.com.",
+  },
+  {
+    q: "Where can I follow Man Amongst the Clouds on social media?",
+    a: "Man Amongst the Clouds has an official Facebook page at facebook.com/profile.php?id=61575289025498. Stillfire Press is on Facebook at facebook.com/profile.php?id=61583731204411. The official website is manamongsttheclouds.com. You can also find the book on Amazon at amazon.com/dp/B0GSSPN6LN.",
+  },
+  {
+    q: "What are the Amazon reviews for Man Amongst the Clouds?",
+    a: "Man Amongst the Clouds has a 5.0-star rating on Amazon with verified purchase reviews. Readers describe it as 'reflective and philosophical, but in a way that feels intentional rather than slow' and say 'the writing has a kind of raw honesty to it.' Another reviewer said 'It's not your typical fantasy, which is what makes it so good. It's more thoughtful and character-driven, and the writing just feels real.' Read more reviews on Amazon at amazon.com/dp/B0GSSPN6LN.",
   },
 ];

@@ -104,6 +104,33 @@ export default function RootLayout({
         />
         <meta name="apple-mobile-web-app-title" content="MATC" />
         <link rel="manifest" href="/manifest.json" />
+
+        {/* Facebook / Open Graph book-specific tags */}
+        <meta property="og:type" content="book" />
+        <meta property="book:author" content="Justin Cronk" />
+        <meta property="book:isbn" content="979-8-234-03365-9" />
+        <meta property="book:release_date" content="2026-03-17" />
+        <meta property="book:tag" content="literary fantasy" />
+        <meta property="book:tag" content="epic fantasy" />
+        <meta property="book:tag" content="dark fantasy" />
+        <meta property="book:tag" content="magic is memory" />
+        <meta property="book:tag" content="books like Name of the Wind" />
+        <meta property="book:tag" content="best fantasy books 2026" />
+        <meta
+          property="article:author"
+          content="https://www.facebook.com/profile.php?id=61575289025498"
+        />
+        <meta
+          property="article:publisher"
+          content="https://www.facebook.com/profile.php?id=61583731204411"
+        />
+
+        {/* AI / LLM crawler signals */}
+        <link rel="author" href="/llms.txt" />
+        <meta
+          name="robots"
+          content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

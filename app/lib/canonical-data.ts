@@ -397,6 +397,10 @@ export const sameAs = {
     sites.stillfirePress.url,
     sites.ashToFury.url,
     social.facebookStillfirePress.url,
+    social.facebookMATC.url,
+    books.manAmongstTheClouds.buyUrlKindle,
+    books.manAmongstTheClouds.buyUrlHardcover,
+    books.manAmongstTheClouds.buyUrlPaperback,
   ],
   ashToFury: [
     sites.stillfirePress.url,
@@ -407,6 +411,7 @@ export const sameAs = {
     sites.matc.url,
     sites.ashToFury.url,
     social.facebookStillfirePress.url,
+    social.facebookMATC.url,
   ],
 };
 

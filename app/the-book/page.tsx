@@ -61,6 +61,10 @@ const jsonLd = {
   sameAs: [
     "https://stillfirepress.com",
     "https://www.facebook.com/profile.php?id=61583731204411",
+    "https://www.facebook.com/profile.php?id=61575289025498",
+    "https://www.amazon.com/dp/B0GSSPN6LN",
+    "https://www.amazon.com/dp/B0GT5PJKJX",
+    "https://www.amazon.com/dp/B0GT1GFXRT",
   ],
 };
 
