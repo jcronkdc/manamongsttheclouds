@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { supabaseServer } from "@/app/lib/supabase-server";
 import { rateLimit } from "@/app/lib/rate-limit";
+import { sendWelcomeEmail } from "@/app/lib/welcome-email";
 
 export async function POST(req: NextRequest) {
   const ip =
@@ -47,6 +48,9 @@ export async function POST(req: NextRequest) {
         { status: 500 },
       );
     }
+
+    // Fire-and-forget welcome email (don't block the response)
+    sendWelcomeEmail(row.email).catch(() => {});
 
     return NextResponse.json({ success: true });
   } catch {
