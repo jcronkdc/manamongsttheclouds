@@ -2,7 +2,10 @@ import { reviews, aggregateRating } from "@/app/lib/reviews-data";
 
 function Stars({ count }: { count: number }) {
   return (
-    <span className="text-[#c9a84c] text-sm tracking-wider" aria-label={`${count} out of 5 stars`}>
+    <span
+      className="text-[#c9a84c] text-sm tracking-wider"
+      aria-label={`${count} out of 5 stars`}
+    >
       {Array.from({ length: 5 }, (_, i) => (
         <span key={i} className={i < count ? "text-[#c9a84c]" : "text-[#333]"}>
           &#9733;
@@ -14,7 +17,7 @@ function Stars({ count }: { count: number }) {
 
 export default function ReviewsSection() {
   return (
-    <section className="py-16 sm:py-28 px-4 sm:px-6 relative">
+    <section className="py-24 sm:py-40 px-4 sm:px-6 relative">
       <div className="max-w-3xl mx-auto">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
           Reader Reviews
@@ -105,8 +108,8 @@ export default function ReviewsSection() {
               className="text-[#c9a84c]/60 hover:text-[#c9a84c] transition-colors"
             >
               Kindle
-            </a>
-            {" "}&bull;{" "}
+            </a>{" "}
+            &bull;{" "}
             <a
               href="https://www.amazon.com/dp/B0GT5PJKJX"
               target="_blank"
@@ -114,8 +117,8 @@ export default function ReviewsSection() {
               className="text-[#c9a84c]/60 hover:text-[#c9a84c] transition-colors"
             >
               Hardcover
-            </a>
-            {" "}&bull;{" "}
+            </a>{" "}
+            &bull;{" "}
             <a
               href="https://www.amazon.com/dp/B0GT1GFXRT"
               target="_blank"

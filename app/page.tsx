@@ -1,15 +1,10 @@
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import Synopsis from "./components/Synopsis";
-import WorldSection from "./components/WorldSection";
-import Characters from "./components/Characters";
-import Excerpt from "./components/Excerpt";
-import CompTitles from "./components/CompTitles";
 import ReviewsSection from "./components/ReviewsSection";
 import ReadSection from "./components/ReadSection";
 import SignupSection from "./components/SignupSection";
 import ProofSection from "./components/ProofSection";
-import FAQSection from "./components/FAQSection";
 import Footer from "./components/Footer";
 import { faqs } from "./lib/faq-data";
 import { buildReviewJsonLd } from "./lib/reviews-data";
@@ -136,15 +131,10 @@ export default function Home() {
       <Nav />
       <Hero />
       <Synopsis />
-      <WorldSection />
-      <Characters />
-      <Excerpt />
-      <CompTitles />
       <ReviewsSection />
       <ReadSection />
       <SignupSection />
       <ProofSection />
-      <FAQSection />
       <Footer />
     </div>
   );

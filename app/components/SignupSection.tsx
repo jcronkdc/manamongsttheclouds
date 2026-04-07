@@ -31,7 +31,7 @@ export default function SignupSection() {
   }
 
   return (
-    <section id="signup" className="py-16 sm:py-28 px-4 sm:px-6 relative">
+    <section id="signup" className="py-24 sm:py-40 px-4 sm:px-6 relative">
       <div className="max-w-xl mx-auto text-center">
         <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 mb-6">
           Stay Close

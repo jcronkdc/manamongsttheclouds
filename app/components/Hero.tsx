@@ -3,17 +3,15 @@ import Image from "next/image";
 export default function Hero() {
   return (
     <section className="relative flex flex-col items-center justify-center min-h-[100dvh] px-4 sm:px-6 pt-20 sm:pt-20 pb-28 sm:pb-20 text-center overflow-hidden">
-      {/* Layered atmospheric background */}
+      {/* Atmospheric background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#0d0d0d] to-[#0a0a0a]" />
       <div className="absolute top-1/3 left-1/2 -translate-x-1/2 w-[800px] h-[800px] rounded-full bg-[#c9a84c]/[0.015] blur-[150px]" />
-      <div className="absolute top-1/2 left-1/4 w-[400px] h-[400px] rounded-full bg-[#c9a84c]/[0.01] blur-[100px]" />
-      <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-[#0a0a0a] to-transparent z-10" />
 
       <div className="relative z-20 max-w-3xl mx-auto">
         {/* Book cover */}
         <div
-          className="flex justify-center mb-6 sm:mb-14 opacity-0 animate-fade-in"
-          style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
+          className="flex justify-center mb-8 sm:mb-14 opacity-0 animate-fade-in"
+          style={{ animationDelay: "0.2s", animationFillMode: "forwards" }}
         >
           <Image
             src="/cover.jpg"
@@ -29,7 +27,7 @@ export default function Hero() {
         {/* Title */}
         <h1
           className="font-[family-name:var(--font-serif)] text-3xl sm:text-6xl lg:text-8xl font-light tracking-wide leading-[1.1] mb-3 sm:mb-4 opacity-0 animate-fade-in-up"
-          style={{ animationDelay: "0.8s", animationFillMode: "forwards" }}
+          style={{ animationDelay: "0.5s", animationFillMode: "forwards" }}
         >
           Man Amongst
           <br />
@@ -37,100 +35,45 @@ export default function Hero() {
         </h1>
 
         <p
-          className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#c9a84c]/70 tracking-[0.15em] sm:tracking-[0.2em] mb-6 sm:mb-10 opacity-0 animate-fade-in"
-          style={{ animationDelay: "1.4s", animationFillMode: "forwards" }}
+          className="font-[family-name:var(--font-serif)] text-base sm:text-lg text-[#c9a84c]/70 tracking-[0.15em] sm:tracking-[0.2em] mb-8 sm:mb-12 opacity-0 animate-fade-in"
+          style={{ animationDelay: "0.8s", animationFillMode: "forwards" }}
         >
           by Justin Cronk
         </p>
 
-        {/* The hook — this is what sells the book */}
+        {/* The hook */}
         <div
-          className="max-w-2xl mx-auto mb-8 sm:mb-14 opacity-0 animate-fade-in-up"
-          style={{ animationDelay: "1.8s", animationFillMode: "forwards" }}
+          className="max-w-xl mx-auto mb-10 sm:mb-14 opacity-0 animate-fade-in-up"
+          style={{ animationDelay: "1.1s", animationFillMode: "forwards" }}
         >
           <p className="font-[family-name:var(--font-serif)] text-base sm:text-2xl leading-relaxed text-[#d4d0c8]">
             <span className="text-[#c9a84c]">Magic is memory.</span> Every act
-            of power costs a piece of who you are. A boy raised on silence
-            discovers he can hear the world sing. A king born deaf to the Song
-            will consume everything to fill it.
-          </p>
-          <p className="font-[family-name:var(--font-serif)] text-sm sm:text-xl italic text-[#b0a89e] mt-3 sm:mt-4">
-            The cost is everything.
+            of power costs a piece of who you are.
           </p>
         </div>
 
-        {/* Badge */}
-        <div
-          className="hidden sm:flex items-center justify-center gap-3 mb-10 opacity-0 animate-fade-in"
-          style={{ animationDelay: "2.2s", animationFillMode: "forwards" }}
-        >
-          <span className="h-px w-8 bg-[#c9a84c]/30" />
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/60">
-            Nine years in the making &bull; Available now on Amazon
-          </p>
-          <span className="h-px w-8 bg-[#c9a84c]/30" />
-        </div>
-
-        {/* CTA */}
+        {/* CTA — Read Free is primary */}
         <div
           className="flex flex-col items-center w-full opacity-0 animate-fade-in-up"
-          style={{ animationDelay: "2.5s", animationFillMode: "forwards" }}
+          style={{ animationDelay: "1.4s", animationFillMode: "forwards" }}
         >
+          <a
+            href="https://stillfirepress.com/read/matc"
+            className="px-12 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+          >
+            Read Part One Free
+          </a>
+          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] text-[#666] mt-4">
+            No account &bull; No signup &bull; Start reading now
+          </p>
           <a
             href="https://www.amazon.com/dp/B0GSSPN6LN"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-12 py-4 bg-[#c9a84c] text-[#0a0a0a] font-[family-name:var(--font-sans)] text-sm tracking-widest uppercase hover:bg-[#e8c85a] transition-all duration-300"
+            className="font-[family-name:var(--font-sans)] text-xs tracking-[0.15em] text-[#c9a84c]/60 hover:text-[#c9a84c] transition-colors mt-6 uppercase"
           >
-            Buy on Amazon
+            Or buy the complete novel on Amazon &rarr;
           </a>
-          <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] text-[#888] mt-4">
-            <a
-              href="https://www.amazon.com/dp/B0GSSPN6LN"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-[#c9a84c] transition-colors"
-            >
-              Kindle
-            </a>
-            &ensp;&bull;&ensp;
-            <a
-              href="https://www.amazon.com/dp/B0GT5PJKJX"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-[#c9a84c] transition-colors"
-            >
-              Hardcover
-            </a>
-            &ensp;&bull;&ensp;
-            <a
-              href="https://www.amazon.com/dp/B0GT1GFXRT"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-[#c9a84c] transition-colors"
-            >
-              Paperback
-            </a>
-          </p>
-          <a
-            href="https://stillfirepress.com/read/matc"
-            className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.2em] text-[#666] hover:text-[#c9a84c] transition-colors mt-3"
-          >
-            or read Part One free &rarr;
-          </a>
-        </div>
-      </div>
-
-      {/* Scroll indicator */}
-      <div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 opacity-0 animate-fade-in hidden sm:block"
-        style={{ animationDelay: "3.5s", animationFillMode: "forwards" }}
-      >
-        <div className="flex flex-col items-center gap-2">
-          <p className="font-[family-name:var(--font-sans)] text-[9px] tracking-[0.3em] uppercase text-[#888]">
-            Scroll
-          </p>
-          <div className="w-px h-8 bg-gradient-to-b from-[#c9a84c]/40 to-transparent animate-pulse-glow" />
         </div>
       </div>
     </section>

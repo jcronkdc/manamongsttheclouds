@@ -1,32 +1,19 @@
 export default function Synopsis() {
   return (
-    <section id="story" className="py-16 sm:py-28 px-4 sm:px-6 relative">
+    <section id="story" className="py-24 sm:py-40 px-4 sm:px-6 relative">
       <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#080808] to-[#0a0a0a]" />
       <div className="relative z-10 max-w-2xl mx-auto">
-        <p className="font-[family-name:var(--font-sans)] text-[10px] tracking-[0.4em] uppercase text-[#c9a84c]/50 text-center mb-6">
-          The Story
-        </p>
-        <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-4xl lg:text-5xl font-light tracking-wide text-center leading-tight mb-6">
-          In a world where magic is memory,
-          <br className="hidden sm:block" />
-          <span className="text-[#c9a84c]">every gift has a price.</span>
-        </h2>
-        <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-12" />
+        <div className="w-12 h-px bg-[#c9a84c]/30 mx-auto mb-12 sm:mb-16" />
 
         <div className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] space-y-6">
           <p>
             For fifteen years, <strong className="text-[#ededed]">Aelo</strong>{" "}
             has lived in silence &mdash; raised by a scarred old man in a
             village too small to have a name, fed herbs every morning that
-            suppress a power he doesn&rsquo;t know he carries. He has never
-            heard the world sing. He has never felt the hum in the stone beneath
-            his feet or the voices in the ancient trees. He has never known that
-            his mother died holding a note that shook the sky.
-          </p>
-          <p>
-            When the herbs fail and the silence breaks, Aelo discovers that
-            magic is not a force to be wielded &mdash; it is a conversation with
-            the world&rsquo;s memory. And he can hear{" "}
+            suppress a power he doesn&rsquo;t know he carries. When the herbs
+            fail and the silence breaks, he discovers that magic is not a force
+            to be wielded &mdash; it is a conversation with the world&rsquo;s
+            memory. And he can hear{" "}
             <em className="text-[#ededed]">all of it</em>.
           </p>
           <p>
@@ -37,29 +24,12 @@ export default function Synopsis() {
             the Song. He never could. And he has spent seventy years consuming
             the world to fill the silence.
           </p>
-          <p>
-            Now Varas has sent his most lethal weapon &mdash; a man known only
-            as <strong className="text-[#ededed]">The Knife</strong>, who
-            carries a wooden box of five beautiful objects and checks them every
-            night because the checking is the only act that proves he is still a
-            person &mdash; to find the boy who made a stone sing.
-          </p>
         </div>
 
-        <div className="mt-12 border-l-2 border-[#c9a84c]/30 pl-6">
-          <p className="font-[family-name:var(--font-serif)] text-xl italic text-[#ededed] leading-relaxed">
+        <div className="mt-12 sm:mt-16 border-l-2 border-[#c9a84c]/30 pl-6">
+          <p className="font-[family-name:var(--font-serif)] text-lg sm:text-xl italic text-[#ededed] leading-relaxed">
             A story about what it means to hear and be heard. About what we lose
-            to become what we&rsquo;re meant to be. About a man who was born
-            without the Song &mdash; and burned the world trying to find it.
-          </p>
-        </div>
-
-        <div className="mt-12 text-center">
-          <p className="font-[family-name:var(--font-serif)] text-sm text-[#8a8a8a] mb-1">
-            Five parts &bull; 48 chapters &bull; A prologue and an epilogue
-          </p>
-          <p className="font-[family-name:var(--font-serif)] text-sm text-[#c9a84c]/70 italic">
-            Available now on Kindle &bull; Paperback &amp; hardcover coming soon
+            to become what we&rsquo;re meant to be.
           </p>
         </div>
       </div>

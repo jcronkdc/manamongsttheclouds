@@ -2,7 +2,7 @@ export default function ReadSection() {
   return (
     <section
       id="read"
-      className="py-16 sm:py-28 px-4 sm:px-6 bg-[#080808] relative"
+      className="py-24 sm:py-40 px-4 sm:px-6 bg-[#080808] relative"
     >
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#c9a84c]/15 to-transparent" />
       <div className="max-w-2xl mx-auto text-center">

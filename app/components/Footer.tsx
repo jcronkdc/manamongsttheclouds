@@ -33,12 +33,15 @@ export default function Footer() {
             <div className="flex flex-col gap-2">
               {[
                 { href: "/the-book", label: "The Book" },
-                { href: "/world", label: "World Guide" },
+                { href: "/world", label: "The World" },
                 { href: "/the-magic-system", label: "The Magic System" },
                 { href: "/characters", label: "Characters" },
                 { href: "/short-stories", label: "Short Stories" },
                 { href: "/about-the-author", label: "The Author" },
-                { href: "#excerpt", label: "Read an Excerpt" },
+                {
+                  href: "https://stillfirepress.com/read/matc",
+                  label: "Read Part One Free",
+                },
                 {
                   href: "https://www.amazon.com/dp/B0GSSPN6LN",
                   label: "Kindle",
