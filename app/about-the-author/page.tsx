@@ -35,6 +35,7 @@ const personJsonLd = {
   jobTitle: "Author",
   description:
     "First-time novelist, military veteran, and co-founder of Stillfire Press. Author of Man Amongst the Clouds, a literary fantasy debut nine years in the making.",
+  email: "justincronk@pm.me",
   knowsAbout: [
     "Literary Fantasy",
     "World Building",
@@ -46,6 +47,7 @@ const personJsonLd = {
     "https://www.manamongsttheclouds.com",
     "https://stillfirepress.com",
     "https://www.facebook.com/profile.php?id=61583731204411",
+    "https://x.com/justinwcronk",
   ],
   worksFor: {
     "@type": "Organization",
@@ -307,6 +309,33 @@ export default function AboutTheAuthorPage() {
               literary fantasy nine years in the making, rooted in real
               research, real places, and a single question:{" "}
               <em>What if magic was memory?</em>
+            </p>
+            <p className="font-[family-name:var(--font-serif)] text-sm text-[#8a8a8a] mt-4">
+              Contact:{" "}
+              <a
+                href="mailto:justincronk@pm.me"
+                className="text-[#c9a84c]/70 hover:text-[#c9a84c] transition-colors"
+              >
+                justincronk@pm.me
+              </a>
+            </p>
+          </div>
+        </section>
+
+        {/* Contact */}
+        <section className="max-w-2xl mx-auto px-5 sm:px-6 mb-20">
+          <h2 className="font-[family-name:var(--font-serif)] text-2xl sm:text-3xl font-light tracking-wide text-center mb-10">
+            Contact
+          </h2>
+          <div className="font-[family-name:var(--font-serif)] text-base sm:text-lg leading-[1.9] text-[#d4d0c8] text-center space-y-4">
+            <p>For press inquiries, collaboration, or just to say hello:</p>
+            <p>
+              <a
+                href="mailto:justincronk@pm.me"
+                className="text-[#c9a84c] hover:text-[#e8c85a] transition-colors underline underline-offset-4 decoration-[#c9a84c]/30 hover:decoration-[#c9a84c]"
+              >
+                justincronk@pm.me
+              </a>
             </p>
           </div>
         </section>
