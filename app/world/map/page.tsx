@@ -9,6 +9,7 @@ const url = "https://www.manamongsttheclouds.com/world/map";
 export const metadata: Metadata = {
   title,
   description,
+  robots: { index: false, follow: false },
   alternates: { canonical: url },
   openGraph: {
     title,

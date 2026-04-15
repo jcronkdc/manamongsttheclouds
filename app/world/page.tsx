@@ -12,6 +12,7 @@ const url = "https://www.manamongsttheclouds.com/world";
 export const metadata: Metadata = {
   title,
   description,
+  robots: { index: false, follow: false },
   alternates: { canonical: url },
   openGraph: {
     title,

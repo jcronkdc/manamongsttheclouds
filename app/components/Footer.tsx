@@ -33,7 +33,6 @@ export default function Footer() {
             <div className="flex flex-col gap-2">
               {[
                 { href: "/the-book", label: "The Book" },
-                { href: "/world", label: "The World" },
                 { href: "/the-magic-system", label: "The Magic System" },
                 { href: "/characters", label: "Characters" },
                 { href: "/short-stories", label: "Short Stories" },

@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 const links = [
   { href: "/the-book", label: "The Book" },
-  { href: "/world", label: "The World" },
+  { href: "/the-magic-system", label: "The Magic" },
   { href: "/about-the-author", label: "The Author" },
   { href: "https://www.amazon.com/dp/B0GSSPN6LN", label: "Buy on Amazon" },
 ];
