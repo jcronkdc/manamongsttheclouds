@@ -131,6 +131,8 @@ export const books = {
     bookFormat: "EBook",
     bookEdition: "First Edition",
     isbn: "979-8-234-03365-9",
+    isbnPaperback: "979-8-252-18497-5",
+    isbnHardcover: "979-8-234-03365-9",
     datePublished: "2026-03-17",
     releaseLabel: "Available now on Kindle",
     typicalAgeRange: "16+",

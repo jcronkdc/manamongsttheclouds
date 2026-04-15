@@ -50,11 +50,40 @@ const jsonLd = {
     name: "Stillfire Press",
     url: "https://stillfirepress.com",
   },
-  offers: {
-    "@type": "Offer",
-    availability: "https://schema.org/InStock",
-    url: "https://www.amazon.com/dp/B0GSSPN6LN",
-  },
+  workExample: [
+    {
+      "@type": "Book",
+      bookFormat: "https://schema.org/EBook",
+      isbn: "979-8-234-03365-9",
+      offers: {
+        "@type": "Offer",
+        availability: "https://schema.org/InStock",
+        price: "5.99",
+        priceCurrency: "USD",
+        url: "https://www.amazon.com/dp/B0GSSPN6LN",
+      },
+    },
+    {
+      "@type": "Book",
+      bookFormat: "https://schema.org/Paperback",
+      isbn: "979-8-252-18497-5",
+      offers: {
+        "@type": "Offer",
+        availability: "https://schema.org/InStock",
+        url: "https://www.amazon.com/dp/B0GT1GFXRT",
+      },
+    },
+    {
+      "@type": "Book",
+      bookFormat: "https://schema.org/Hardcover",
+      isbn: "979-8-234-03365-9",
+      offers: {
+        "@type": "Offer",
+        availability: "https://schema.org/InStock",
+        url: "https://www.amazon.com/dp/B0GT5PJKJX",
+      },
+    },
+  ],
   datePublished: "2026-03-17",
   keywords:
     "literary fantasy, magic is memory, epic fantasy debut, memory magic system, fantasy novel about sacrifice, books like Name of the Wind, books like Robin Hobb, fantasy books where magic has a cost",
